@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  Copyright 2014 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
 <sequence saveFileVersion="14" author="Kevin Deus" createdAt="11/15/2014 7:27:12 PM" musicAlbum="Creation of the World" musicArtist="Antti Martikainen" musicFilename="Antti Martikainen - Creation of the World - 07 The Land of Eternal Winter.mp3" musicTitle="The Land of Eternal Winter" videoUsage="2">
 	<channels>
 		<channel name="Reserved" color="12615744" centiseconds="35007" savedIndex="0"/>
