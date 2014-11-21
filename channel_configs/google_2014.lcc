@@ -16,742 +16,820 @@
   -->
 <channelConfig channelConfigFileVersion="13">
 	<channels>
-		<channel name="Reserved" color="12615744" deviceType="LOR" unit="1" circuit="8" savedIndex="0"/>
-		<channel name="Zone 2 - Tree 1 (R)" color="255" deviceType="LOR" unit="1" circuit="5" savedIndex="1"/>
-		<channel name="Zone 2 - Tree 1 (G)" color="65280" deviceType="LOR" unit="1" circuit="6" savedIndex="2"/>
-		<channel name="Zone 2 - Tree 1 (B)" color="16711680" deviceType="LOR" unit="1" circuit="7" savedIndex="3"/>
-		<rgbChannel name="Zone 2 - Tree 1" savedIndex="4">
+		<channel name="Zone 6 - Tree (R)" color="255" savedIndex="0"/>
+		<channel name="Zone 6 - Tree (G)" color="65280" savedIndex="1"/>
+		<channel name="Zone 6 - Tree (B)" color="16711680" savedIndex="2"/>
+		<rgbChannel name="Zone 6 - Tree" savedIndex="3">
 			<channels>
+				<channel savedIndex="0"/>
 				<channel savedIndex="1"/>
 				<channel savedIndex="2"/>
-				<channel savedIndex="3"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Tree 2 (R)" color="255" savedIndex="5"/>
-		<channel name="Zone 2 - Tree 2 (G)" color="65280" savedIndex="6"/>
-		<channel name="Zone 2 - Tree 2 (B)" color="16711680" savedIndex="7"/>
-		<rgbChannel name="Zone 2 - Tree 2" savedIndex="8">
+		<channel name="Zone 6 - Ground 1 (R)" color="255" savedIndex="4"/>
+		<channel name="Zone 6 - Ground 1 (G)" color="65280" savedIndex="5"/>
+		<channel name="Zone 6 - Ground 1 (B)" color="16711680" savedIndex="6"/>
+		<rgbChannel name="Zone 6 - Ground 1" savedIndex="7">
 			<channels>
+				<channel savedIndex="4"/>
 				<channel savedIndex="5"/>
 				<channel savedIndex="6"/>
-				<channel savedIndex="7"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 1 (R)" color="255" savedIndex="9"/>
-		<channel name="Zone 2 - Ground 1 (G)" color="65280" savedIndex="10"/>
-		<channel name="Zone 2 - Ground 1 (B)" color="16711680" savedIndex="11"/>
-		<rgbChannel name="Zone 2 - Ground 1" savedIndex="12">
+		<channel name="Zone 6 - Ground 2 (R)" color="255" savedIndex="8"/>
+		<channel name="Zone 6 - Ground 2 (G)" color="65280" savedIndex="9"/>
+		<channel name="Zone 6 - Ground 2 (B)" color="16711680" savedIndex="10"/>
+		<rgbChannel name="Zone 6 - Ground 2" savedIndex="11">
 			<channels>
+				<channel savedIndex="8"/>
 				<channel savedIndex="9"/>
 				<channel savedIndex="10"/>
-				<channel savedIndex="11"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 2 (R)" color="255" savedIndex="13"/>
-		<channel name="Zone 2 - Ground 2 (G)" color="65280" savedIndex="14"/>
-		<channel name="Zone 2 - Ground 2 (B)" color="16711680" savedIndex="15"/>
-		<rgbChannel name="Zone 2 - Ground 2" savedIndex="16">
+		<channel name="Zone 6 - Ground 3 (R)" color="255" savedIndex="12"/>
+		<channel name="Zone 6 - Ground 3 (G)" color="65280" savedIndex="13"/>
+		<channel name="Zone 6 - Ground 3 (B)" color="16711680" savedIndex="14"/>
+		<rgbChannel name="Zone 6 - Ground 3" savedIndex="15">
 			<channels>
+				<channel savedIndex="12"/>
 				<channel savedIndex="13"/>
 				<channel savedIndex="14"/>
-				<channel savedIndex="15"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 3 (R)" color="255" savedIndex="17"/>
-		<channel name="Zone 2 - Ground 3 (G)" color="65280" savedIndex="18"/>
-		<channel name="Zone 2 - Ground 3 (B)" color="16711680" savedIndex="19"/>
-		<rgbChannel name="Zone 2 - Ground 3" savedIndex="20">
+		<channel name="Zone 6 - Ground 4 (R)" color="255" savedIndex="16"/>
+		<channel name="Zone 6 - Ground 4 (G)" color="65280" savedIndex="17"/>
+		<channel name="Zone 6 - Ground 4 (B)" color="16711680" savedIndex="18"/>
+		<rgbChannel name="Zone 6 - Ground 4" savedIndex="19">
 			<channels>
+				<channel savedIndex="16"/>
 				<channel savedIndex="17"/>
 				<channel savedIndex="18"/>
-				<channel savedIndex="19"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 4 (R)" color="255" savedIndex="21"/>
-		<channel name="Zone 2 - Ground 4 (G)" color="65280" savedIndex="22"/>
-		<channel name="Zone 2 - Ground 4 (B)" color="16711680" savedIndex="23"/>
-		<rgbChannel name="Zone 2 - Ground 4" savedIndex="24">
+		<channel name="Zone 6 - Ground 5 (R)" color="255" savedIndex="20"/>
+		<channel name="Zone 6 - Ground 5 (G)" color="65280" savedIndex="21"/>
+		<channel name="Zone 6 - Ground 5 (B)" color="16711680" savedIndex="22"/>
+		<rgbChannel name="Zone 6 - Ground 5" savedIndex="23">
 			<channels>
+				<channel savedIndex="20"/>
 				<channel savedIndex="21"/>
 				<channel savedIndex="22"/>
-				<channel savedIndex="23"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 5 (R)" color="255" savedIndex="25"/>
-		<channel name="Zone 2 - Ground 5 (G)" color="65280" savedIndex="26"/>
-		<channel name="Zone 2 - Ground 5 (B)" color="16711680" savedIndex="27"/>
-		<rgbChannel name="Zone 2 - Ground 5" savedIndex="28">
+		<channel name="Zone 6 - Ground 6 (R)" color="255" savedIndex="24"/>
+		<channel name="Zone 6 - Ground 6 (G)" color="65280" savedIndex="25"/>
+		<channel name="Zone 6 - Ground 6 (B)" color="16711680" savedIndex="26"/>
+		<rgbChannel name="Zone 6 - Ground 6" savedIndex="27">
 			<channels>
+				<channel savedIndex="24"/>
 				<channel savedIndex="25"/>
 				<channel savedIndex="26"/>
-				<channel savedIndex="27"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 6 (R)" color="255" savedIndex="29"/>
-		<channel name="Zone 2 - Ground 6 (G)" color="65280" savedIndex="30"/>
-		<channel name="Zone 2 - Ground 6 (B)" color="16711680" savedIndex="31"/>
-		<rgbChannel name="Zone 2 - Ground 6" savedIndex="32">
+		<channel name="Zone 6 - Ground 7 (R)" color="255" savedIndex="28"/>
+		<channel name="Zone 6 - Ground 7 (G)" color="65280" savedIndex="29"/>
+		<channel name="Zone 6 - Ground 7 (B)" color="16711680" savedIndex="30"/>
+		<rgbChannel name="Zone 6 - Ground 7" savedIndex="31">
 			<channels>
+				<channel savedIndex="28"/>
 				<channel savedIndex="29"/>
 				<channel savedIndex="30"/>
-				<channel savedIndex="31"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 7 (R)" color="255" savedIndex="33"/>
-		<channel name="Zone 2 - Ground 7 (G)" color="65280" savedIndex="34"/>
-		<channel name="Zone 2 - Ground 7 (B)" color="16711680" savedIndex="35"/>
-		<rgbChannel name="Zone 2 - Ground 7" savedIndex="36">
+		<channel name="Zone 6 - Ground 8 (R)" color="255" savedIndex="32"/>
+		<channel name="Zone 6 - Ground 8 (G)" color="65280" savedIndex="33"/>
+		<channel name="Zone 6 - Ground 8 (B)" color="16711680" savedIndex="34"/>
+		<rgbChannel name="Zone 6 - Ground 8" savedIndex="35">
 			<channels>
+				<channel savedIndex="32"/>
 				<channel savedIndex="33"/>
 				<channel savedIndex="34"/>
-				<channel savedIndex="35"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 8 (R)" color="255" savedIndex="37"/>
-		<channel name="Zone 2 - Ground 8 (G)" color="65280" savedIndex="38"/>
-		<channel name="Zone 2 - Ground 8 (B)" color="16711680" savedIndex="39"/>
-		<rgbChannel name="Zone 2 - Ground 8" savedIndex="40">
+		<channel name="Zone 6 - Sparkle Color (R)" color="255" savedIndex="36"/>
+		<channel name="Zone 6 - Sparkle Color (G)" color="65280" savedIndex="37"/>
+		<channel name="Zone 6 - Sparkle Color (B)" color="16711680" savedIndex="38"/>
+		<rgbChannel name="Zone 6 - Sparkle Color" savedIndex="39">
 			<channels>
+				<channel savedIndex="36"/>
 				<channel savedIndex="37"/>
 				<channel savedIndex="38"/>
-				<channel savedIndex="39"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Tree 1 Twinkle" color="12615744" savedIndex="41"/>
-		<channel name="Zone 2 - Tree 2 Twinkle" color="12615744" savedIndex="42"/>
-		<channel name="Zone 2 - Ground Twinkle" color="12615744" savedIndex="43"/>
-		<channel name="Zone 2 - Tree 1 Effect" color="12615744" savedIndex="44"/>
-		<channel name="Zone 2 - Tree 2 Effect" color="12615744" savedIndex="45"/>
-		<channel name="Zone 2 - Ground Effect" color="12615744" savedIndex="46"/>
-		<channelGroupList name="Zone 2" savedIndex="47">
+		<channel name="Zone 6 - Sparkle Brightness" color="12615744" savedIndex="40"/>
+		<channel name="Zone 6 - Tree Sparkle" color="12615744" savedIndex="41"/>
+		<channel name="Zone 6 - Ground Sparkle" color="12615744" savedIndex="42"/>
+		<channel name="Zone 6 - Tree Effect" color="12615744" savedIndex="43"/>
+		<channel name="Zone 6 - Gound Effect" color="12615744" savedIndex="44"/>
+		<channelGroupList name="Zone 6" savedIndex="45">
 			<channelGroups>
-				<channelGroup savedIndex="4"/>
-				<channelGroup savedIndex="8"/>
-				<channelGroup savedIndex="12"/>
-				<channelGroup savedIndex="16"/>
-				<channelGroup savedIndex="20"/>
-				<channelGroup savedIndex="24"/>
-				<channelGroup savedIndex="28"/>
-				<channelGroup savedIndex="32"/>
-				<channelGroup savedIndex="36"/>
+				<channelGroup savedIndex="3"/>
+				<channelGroup savedIndex="7"/>
+				<channelGroup savedIndex="11"/>
+				<channelGroup savedIndex="15"/>
+				<channelGroup savedIndex="19"/>
+				<channelGroup savedIndex="23"/>
+				<channelGroup savedIndex="27"/>
+				<channelGroup savedIndex="31"/>
+				<channelGroup savedIndex="35"/>
+				<channelGroup savedIndex="39"/>
 				<channelGroup savedIndex="40"/>
 				<channelGroup savedIndex="41"/>
 				<channelGroup savedIndex="42"/>
 				<channelGroup savedIndex="43"/>
 				<channelGroup savedIndex="44"/>
-				<channelGroup savedIndex="45"/>
-				<channelGroup savedIndex="46"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Zone 1 - Tree 1 (R)" color="255" deviceType="DMX Universe" circuit="16" network="1" savedIndex="48"/>
-		<channel name="Zone 1 - Tree 1 (G)" color="65280" savedIndex="49"/>
-		<channel name="Zone 1 - Tree 1 (B)" color="16711680" savedIndex="50"/>
-		<rgbChannel name="Zone 1 - Tree 1" savedIndex="51">
+		<channel name="Zone 3 - Tree (R)" color="255" savedIndex="46"/>
+		<channel name="Zone 3 - Tree (G)" color="65280" savedIndex="47"/>
+		<channel name="Zone 3 - Tree (B)" color="16711680" savedIndex="48"/>
+		<rgbChannel name="Zone 3 - Tree" savedIndex="49">
 			<channels>
+				<channel savedIndex="46"/>
+				<channel savedIndex="47"/>
 				<channel savedIndex="48"/>
-				<channel savedIndex="49"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 3 - Ground 1 (R)" color="255" savedIndex="50"/>
+		<channel name="Zone 3 - Ground 1 (G)" color="65280" savedIndex="51"/>
+		<channel name="Zone 3 - Ground 1 (B)" color="16711680" savedIndex="52"/>
+		<rgbChannel name="Zone 3 - Ground 1" savedIndex="53">
+			<channels>
 				<channel savedIndex="50"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 1 - Tree 2 (R)" color="255" savedIndex="52"/>
-		<channel name="Zone 1 - Tree 2 (G)" color="65280" savedIndex="53"/>
-		<channel name="Zone 1 - Tree 2 (B)" color="16711680" savedIndex="54"/>
-		<rgbChannel name="Zone 1 - Tree 2" savedIndex="55">
-			<channels>
+				<channel savedIndex="51"/>
 				<channel savedIndex="52"/>
-				<channel savedIndex="53"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 3 - Ground 2 (R)" color="255" savedIndex="54"/>
+		<channel name="Zone 3 - Ground 2 (G)" color="65280" savedIndex="55"/>
+		<channel name="Zone 3 - Ground 2 (B)" color="16711680" savedIndex="56"/>
+		<rgbChannel name="Zone 3 - Ground 2" savedIndex="57">
+			<channels>
 				<channel savedIndex="54"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 1 - Tree 3 (R)" color="255" savedIndex="56"/>
-		<channel name="Zone 1 - Tree 3 (G)" color="65280" savedIndex="57"/>
-		<channel name="Zone 1 - Tree 3 (B)" color="16711680" savedIndex="58"/>
-		<rgbChannel name="Zone 1 - Tree 3" savedIndex="59">
-			<channels>
+				<channel savedIndex="55"/>
 				<channel savedIndex="56"/>
-				<channel savedIndex="57"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 3 - Ground 3 (R)" color="255" savedIndex="58"/>
+		<channel name="Zone 3 - Ground 3 (G)" color="65280" savedIndex="59"/>
+		<channel name="Zone 3 - Ground 3 (B)" color="16711680" savedIndex="60"/>
+		<rgbChannel name="Zone 3 - Ground 3" savedIndex="61">
+			<channels>
 				<channel savedIndex="58"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 1 - Ground 1 (R)" color="255" savedIndex="60"/>
-		<channel name="Zone 1 - Ground 1 (G)" color="65280" savedIndex="61"/>
-		<channel name="Zone 1 - Ground 1 (B)" color="16711680" savedIndex="62"/>
-		<rgbChannel name="Zone 1 - Ground 1" savedIndex="63">
-			<channels>
+				<channel savedIndex="59"/>
 				<channel savedIndex="60"/>
-				<channel savedIndex="61"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 3 - Ground 4 (R)" color="255" savedIndex="62"/>
+		<channel name="Zone 3 - Ground 4 (G)" color="65280" savedIndex="63"/>
+		<channel name="Zone 3 - Ground 4 (B)" color="16711680" savedIndex="64"/>
+		<rgbChannel name="Zone 3 - Ground 4" savedIndex="65">
+			<channels>
 				<channel savedIndex="62"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 1 - Ground 2 (R)" color="255" savedIndex="64"/>
-		<channel name="Zone 1 - Ground 2 (G)" color="65280" savedIndex="65"/>
-		<channel name="Zone 1 - Ground 2 (B)" color="16711680" savedIndex="66"/>
-		<rgbChannel name="Zone 1 - Ground 2" savedIndex="67">
-			<channels>
+				<channel savedIndex="63"/>
 				<channel savedIndex="64"/>
-				<channel savedIndex="65"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 3 - Ground 5 (R)" color="255" savedIndex="66"/>
+		<channel name="Zone 3 - Ground 5 (G)" color="65280" savedIndex="67"/>
+		<channel name="Zone 3 - Ground 5 (B)" color="16711680" savedIndex="68"/>
+		<rgbChannel name="Zone 3 - Ground 5" savedIndex="69">
+			<channels>
 				<channel savedIndex="66"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 1 - Ground 3 (R)" color="255" savedIndex="68"/>
-		<channel name="Zone 1 - Ground 3 (G)" color="65280" savedIndex="69"/>
-		<channel name="Zone 1 - Ground 3 (B)" color="16711680" savedIndex="70"/>
-		<rgbChannel name="Zone 1 - Ground 3" savedIndex="71">
-			<channels>
+				<channel savedIndex="67"/>
 				<channel savedIndex="68"/>
-				<channel savedIndex="69"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 3 - Ground 6 (R)" color="255" savedIndex="70"/>
+		<channel name="Zone 3 - Ground 6 (G)" color="65280" savedIndex="71"/>
+		<channel name="Zone 3 - Ground 6 (B)" color="16711680" savedIndex="72"/>
+		<rgbChannel name="Zone 3 - Ground 6" savedIndex="73">
+			<channels>
 				<channel savedIndex="70"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 1 - Ground 4 (R)" color="255" savedIndex="72"/>
-		<channel name="Zone 1 - Ground 4 (G)" color="65280" savedIndex="73"/>
-		<channel name="Zone 1 - Ground 4 (B)" color="16711680" savedIndex="74"/>
-		<rgbChannel name="Zone 1 - Ground 4" savedIndex="75">
-			<channels>
+				<channel savedIndex="71"/>
 				<channel savedIndex="72"/>
-				<channel savedIndex="73"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 3 - Ground 7 (R)" color="255" savedIndex="74"/>
+		<channel name="Zone 3 - Ground 7 (G)" color="65280" savedIndex="75"/>
+		<channel name="Zone 3 - Ground 7 (B)" color="16711680" savedIndex="76"/>
+		<rgbChannel name="Zone 3 - Ground 7" savedIndex="77">
+			<channels>
 				<channel savedIndex="74"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 1 - Ground 5 (R)" color="255" savedIndex="76"/>
-		<channel name="Zone 1 - Ground 5 (G)" color="65280" savedIndex="77"/>
-		<channel name="Zone 1 - Ground 5 (B)" color="16711680" savedIndex="78"/>
-		<rgbChannel name="Zone 1 - Ground 5" savedIndex="79">
-			<channels>
+				<channel savedIndex="75"/>
 				<channel savedIndex="76"/>
-				<channel savedIndex="77"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 3 - Ground 8 (R)" color="255" savedIndex="78"/>
+		<channel name="Zone 3 - Ground 8 (G)" color="65280" savedIndex="79"/>
+		<channel name="Zone 3 - Ground 8 (B)" color="16711680" savedIndex="80"/>
+		<rgbChannel name="Zone 3 - Ground 8" savedIndex="81">
+			<channels>
 				<channel savedIndex="78"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 1 - Ground 6 (R)" color="255" savedIndex="80"/>
-		<channel name="Zone 1 - Ground 6 (G)" color="65280" savedIndex="81"/>
-		<channel name="Zone 1 - Ground 6 (B)" color="16711680" savedIndex="82"/>
-		<rgbChannel name="Zone 1 - Ground 6" savedIndex="83">
-			<channels>
+				<channel savedIndex="79"/>
 				<channel savedIndex="80"/>
-				<channel savedIndex="81"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 3 - Sparkle Color (R)" color="255" savedIndex="82"/>
+		<channel name="Zone 3 - Sparkle Color (G)" color="65280" savedIndex="83"/>
+		<channel name="Zone 3 - Sparkle Color (B)" color="16711680" savedIndex="84"/>
+		<rgbChannel name="Zone 3 - Sparkle Color" savedIndex="85">
+			<channels>
 				<channel savedIndex="82"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 1 - Ground 7 (R)" color="255" savedIndex="84"/>
-		<channel name="Zone 1 - Ground 7 (G)" color="65280" savedIndex="85"/>
-		<channel name="Zone 1 - Ground 7 (B)" color="16711680" savedIndex="86"/>
-		<rgbChannel name="Zone 1 - Ground 7" savedIndex="87">
-			<channels>
+				<channel savedIndex="83"/>
 				<channel savedIndex="84"/>
-				<channel savedIndex="85"/>
-				<channel savedIndex="86"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Ground 8 (R)" color="255" savedIndex="88"/>
-		<channel name="Zone 1 - Ground 8 (G)" color="65280" savedIndex="89"/>
-		<channel name="Zone 1 - Ground 8 (B)" color="16711680" savedIndex="90"/>
-		<rgbChannel name="Zone 1 - Ground 8" savedIndex="91">
-			<channels>
-				<channel savedIndex="88"/>
-				<channel savedIndex="89"/>
-				<channel savedIndex="90"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 1 - Tree 1 Twinkle" color="12615744" deviceType="LOR" unit="1" circuit="1" savedIndex="92"/>
-		<channel name="Zone 1 - Tree 2 Twinkle" color="12615744" savedIndex="93"/>
-		<channel name="Zone 1 - Tree 3 Twiinkle" color="12615744" savedIndex="94"/>
-		<channel name="Zone 1 - Ground Twinkle" color="12615744" deviceType="LOR" unit="1" circuit="2" savedIndex="95"/>
-		<channel name="Zone 1 - Tree 1 Effect" color="12615744" deviceType="LOR" unit="1" circuit="3" savedIndex="96"/>
-		<channel name="Zone 1 - Tree 2 Effect" color="12615744" savedIndex="97"/>
-		<channel name="Zone 1 - Tree 3 Effect" color="12615744" savedIndex="98"/>
-		<channel name="Zone 1 - Ground Effect" color="12615744" deviceType="LOR" unit="1" circuit="4" savedIndex="99"/>
-		<channelGroupList name="Zone 1" savedIndex="100">
+		<channel name="Zone 3 - Sparkle Brightness" color="12615744" savedIndex="86"/>
+		<channel name="Zone 3 - Tree Sparkle" color="12615744" savedIndex="87"/>
+		<channel name="Zone 3 - Ground Sparkle" color="12615744" savedIndex="88"/>
+		<channel name="Zone 3 - Tree Effect" color="12615744" savedIndex="89"/>
+		<channel name="Zone 3 - Ground Effect" color="12615744" savedIndex="90"/>
+		<channelGroupList name="Zone 3" savedIndex="91">
 			<channelGroups>
-				<channelGroup savedIndex="51"/>
-				<channelGroup savedIndex="55"/>
-				<channelGroup savedIndex="59"/>
-				<channelGroup savedIndex="63"/>
-				<channelGroup savedIndex="67"/>
-				<channelGroup savedIndex="71"/>
-				<channelGroup savedIndex="75"/>
-				<channelGroup savedIndex="79"/>
-				<channelGroup savedIndex="83"/>
+				<channelGroup savedIndex="49"/>
+				<channelGroup savedIndex="53"/>
+				<channelGroup savedIndex="57"/>
+				<channelGroup savedIndex="61"/>
+				<channelGroup savedIndex="65"/>
+				<channelGroup savedIndex="69"/>
+				<channelGroup savedIndex="73"/>
+				<channelGroup savedIndex="77"/>
+				<channelGroup savedIndex="81"/>
+				<channelGroup savedIndex="85"/>
+				<channelGroup savedIndex="86"/>
 				<channelGroup savedIndex="87"/>
-				<channelGroup savedIndex="91"/>
-				<channelGroup savedIndex="92"/>
-				<channelGroup savedIndex="93"/>
-				<channelGroup savedIndex="94"/>
-				<channelGroup savedIndex="95"/>
-				<channelGroup savedIndex="96"/>
-				<channelGroup savedIndex="97"/>
-				<channelGroup savedIndex="98"/>
-				<channelGroup savedIndex="99"/>
+				<channelGroup savedIndex="88"/>
+				<channelGroup savedIndex="89"/>
+				<channelGroup savedIndex="90"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Zone 3 - Tree (R)" color="255" savedIndex="101"/>
-		<channel name="Zone 3 - Tree (G)" color="65280" savedIndex="102"/>
-		<channel name="Zone 3 - Tree (B)" color="16711680" savedIndex="103"/>
-		<rgbChannel name="Zone 3 - Tree" savedIndex="104">
+		<channel name="Zone 4 - Tree (R)" color="255" savedIndex="92"/>
+		<channel name="Zone 4 - Tree (G)" color="65280" savedIndex="93"/>
+		<channel name="Zone 4 - Tree (B)" color="16711680" savedIndex="94"/>
+		<rgbChannel name="Zone 4 - Tree" savedIndex="95">
 			<channels>
+				<channel savedIndex="92"/>
+				<channel savedIndex="93"/>
+				<channel savedIndex="94"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 4 - Ground 1 (R)" color="255" savedIndex="96"/>
+		<channel name="Zone 4 - Ground 1 (G)" color="65280" savedIndex="97"/>
+		<channel name="Zone 4 - Ground 1 (B)" color="16711680" savedIndex="98"/>
+		<rgbChannel name="Zone 4 - Ground 1" savedIndex="99">
+			<channels>
+				<channel savedIndex="96"/>
+				<channel savedIndex="97"/>
+				<channel savedIndex="98"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 4 - Ground 2 (R)" color="255" savedIndex="100"/>
+		<channel name="Zone 4 - Ground 2 (G)" color="65280" savedIndex="101"/>
+		<channel name="Zone 4 - Ground 2 (B)" color="16711680" savedIndex="102"/>
+		<rgbChannel name="Zone 4 - Ground 2" savedIndex="103">
+			<channels>
+				<channel savedIndex="100"/>
 				<channel savedIndex="101"/>
 				<channel savedIndex="102"/>
-				<channel savedIndex="103"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 1 (R)" color="255" savedIndex="105"/>
-		<channel name="Zone 3 - Ground 1 (G)" color="65280" savedIndex="106"/>
-		<channel name="Zone 3 - Ground 1 (B)" color="16711680" savedIndex="107"/>
-		<rgbChannel name="Zone 3 - Ground 1" savedIndex="108">
+		<channel name="Zone 4 - Ground 3 (R)" color="255" savedIndex="104"/>
+		<channel name="Zone 4 - Ground 3 (G)" color="65280" savedIndex="105"/>
+		<channel name="Zone 4 - Ground 3 (B)" color="16711680" savedIndex="106"/>
+		<rgbChannel name="Zone 4 - Ground 3" savedIndex="107">
 			<channels>
+				<channel savedIndex="104"/>
 				<channel savedIndex="105"/>
 				<channel savedIndex="106"/>
-				<channel savedIndex="107"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 2 (R)" color="255" savedIndex="109"/>
-		<channel name="Zone 3 - Ground 2 (G)" color="65280" savedIndex="110"/>
-		<channel name="Zone 3 - Ground 2 (B)" color="16711680" savedIndex="111"/>
-		<rgbChannel name="Zone 3 - Ground 2" savedIndex="112">
+		<channel name="Zone 4 - Ground 4 (R)" color="255" savedIndex="108"/>
+		<channel name="Zone 4 - Ground 4 (G)" color="65280" savedIndex="109"/>
+		<channel name="Zone 4 - Ground 4 (B)" color="16711680" savedIndex="110"/>
+		<rgbChannel name="Zone 4 - Ground 4" savedIndex="111">
 			<channels>
+				<channel savedIndex="108"/>
 				<channel savedIndex="109"/>
 				<channel savedIndex="110"/>
-				<channel savedIndex="111"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 3 (R)" color="255" savedIndex="113"/>
-		<channel name="Zone 3 - Ground 3 (G)" color="65280" savedIndex="114"/>
-		<channel name="Zone 3 - Ground 3 (B)" color="16711680" savedIndex="115"/>
-		<rgbChannel name="Zone 3 - Ground 3" savedIndex="116">
+		<channel name="Zone 4 - Ground 5 (R)" color="255" savedIndex="112"/>
+		<channel name="Zone 4 - Ground 5 (G)" color="65280" savedIndex="113"/>
+		<channel name="Zone 4 - Ground 5 (B)" color="16711680" savedIndex="114"/>
+		<rgbChannel name="Zone 4 - Ground 5" savedIndex="115">
 			<channels>
+				<channel savedIndex="112"/>
 				<channel savedIndex="113"/>
 				<channel savedIndex="114"/>
-				<channel savedIndex="115"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 4 (R)" color="255" savedIndex="117"/>
-		<channel name="Zone 3 - Ground 4 (G)" color="65280" savedIndex="118"/>
-		<channel name="Zone 3 - Ground 4 (B)" color="16711680" savedIndex="119"/>
-		<rgbChannel name="Zone 3 - Ground 4" savedIndex="120">
+		<channel name="Zone 4 - Ground 6 (R)" color="255" savedIndex="116"/>
+		<channel name="Zone 4 - Ground 6 (G)" color="65280" savedIndex="117"/>
+		<channel name="Zone 4 - Ground 6 (B)" color="16711680" savedIndex="118"/>
+		<rgbChannel name="Zone 4 - Ground 6" savedIndex="119">
 			<channels>
+				<channel savedIndex="116"/>
 				<channel savedIndex="117"/>
 				<channel savedIndex="118"/>
-				<channel savedIndex="119"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 5 (R)" color="255" savedIndex="121"/>
-		<channel name="Zone 3 - Ground 5 (G)" color="65280" savedIndex="122"/>
-		<channel name="Zone 3 - Ground 5 (B)" color="16711680" savedIndex="123"/>
-		<rgbChannel name="Zone 3 - Ground 5" savedIndex="124">
+		<channel name="Zone 4 - Ground 7 (R)" color="255" savedIndex="120"/>
+		<channel name="Zone 4 - Ground 7 (G)" color="65280" savedIndex="121"/>
+		<channel name="Zone 4 - Ground 7 (B)" color="16711680" savedIndex="122"/>
+		<rgbChannel name="Zone 4 - Ground 7" savedIndex="123">
 			<channels>
+				<channel savedIndex="120"/>
 				<channel savedIndex="121"/>
 				<channel savedIndex="122"/>
-				<channel savedIndex="123"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 6 (R)" color="255" savedIndex="125"/>
-		<channel name="Zone 3 - Ground 6 (G)" color="65280" savedIndex="126"/>
-		<channel name="Zone 3 - Ground 6 (B)" color="16711680" savedIndex="127"/>
-		<rgbChannel name="Zone 3 - Ground 6" savedIndex="128">
+		<channel name="Zone 4 - Ground 8 (R)" color="255" savedIndex="124"/>
+		<channel name="Zone 4 - Ground 8 (G)" color="65280" savedIndex="125"/>
+		<channel name="Zone 4 - Ground 8 (B)" color="16711680" savedIndex="126"/>
+		<rgbChannel name="Zone 4 - Ground 8" savedIndex="127">
 			<channels>
+				<channel savedIndex="124"/>
 				<channel savedIndex="125"/>
 				<channel savedIndex="126"/>
-				<channel savedIndex="127"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 7 (R)" color="255" savedIndex="129"/>
-		<channel name="Zone 3 - Ground 7 (G)" color="65280" savedIndex="130"/>
-		<channel name="Zone 3 - Ground 7 (B)" color="16711680" savedIndex="131"/>
-		<rgbChannel name="Zone 3 - Ground 7" savedIndex="132">
+		<channel name="Zone 4 - Sparkle Color (R)" color="255" savedIndex="128"/>
+		<channel name="Zone 4 - Sparkle Color (G)" color="65280" savedIndex="129"/>
+		<channel name="Zone 4 - Sparkle Color (B)" color="16711680" savedIndex="130"/>
+		<rgbChannel name="Zone 4 - Sparkle Color" savedIndex="131">
 			<channels>
+				<channel savedIndex="128"/>
 				<channel savedIndex="129"/>
 				<channel savedIndex="130"/>
-				<channel savedIndex="131"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 8 (R)" color="255" savedIndex="133"/>
-		<channel name="Zone 3 - Ground 8 (G)" color="65280" savedIndex="134"/>
-		<channel name="Zone 3 - Ground 8 (B)" color="16711680" savedIndex="135"/>
-		<rgbChannel name="Zone 3 - Ground 8" savedIndex="136">
-			<channels>
-				<channel savedIndex="133"/>
-				<channel savedIndex="134"/>
-				<channel savedIndex="135"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 3 - Tree Twinkle" color="12615744" savedIndex="137"/>
-		<channel name="Zone 3 - Ground Twinkle" color="12615744" savedIndex="138"/>
-		<channel name="Zone 3 - Tree Effect" color="12615744" savedIndex="139"/>
-		<channel name="Zone 3 - Ground Effect" color="12615744" savedIndex="140"/>
-		<channelGroupList name="Zone 3" savedIndex="141">
+		<channel name="Zone 4 - Sparkle Brightness" color="12615744" savedIndex="132"/>
+		<channel name="Zone 4 - Tree Sparkle" color="12615744" savedIndex="133"/>
+		<channel name="Zone 4 - Ground Sparkle" color="12615744" savedIndex="134"/>
+		<channel name="Zone 4 - Tree Effect" color="12615744" savedIndex="135"/>
+		<channel name="Zone 4 - Ground Effect" color="12615744" savedIndex="136"/>
+		<channelGroupList name="Zone 4" savedIndex="137">
 			<channelGroups>
-				<channelGroup savedIndex="104"/>
-				<channelGroup savedIndex="108"/>
-				<channelGroup savedIndex="112"/>
-				<channelGroup savedIndex="116"/>
-				<channelGroup savedIndex="120"/>
-				<channelGroup savedIndex="124"/>
-				<channelGroup savedIndex="128"/>
+				<channelGroup savedIndex="95"/>
+				<channelGroup savedIndex="99"/>
+				<channelGroup savedIndex="103"/>
+				<channelGroup savedIndex="107"/>
+				<channelGroup savedIndex="111"/>
+				<channelGroup savedIndex="115"/>
+				<channelGroup savedIndex="119"/>
+				<channelGroup savedIndex="123"/>
+				<channelGroup savedIndex="127"/>
+				<channelGroup savedIndex="131"/>
 				<channelGroup savedIndex="132"/>
+				<channelGroup savedIndex="133"/>
+				<channelGroup savedIndex="134"/>
+				<channelGroup savedIndex="135"/>
 				<channelGroup savedIndex="136"/>
-				<channelGroup savedIndex="137"/>
-				<channelGroup savedIndex="138"/>
-				<channelGroup savedIndex="139"/>
-				<channelGroup savedIndex="140"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Zone 4 - Tree (R)" color="255" savedIndex="142"/>
-		<channel name="Zone 4 - Tree (G)" color="65280" savedIndex="143"/>
-		<channel name="Zone 4 - Tree (B)" color="16711680" savedIndex="144"/>
-		<rgbChannel name="Zone 4 - Tree" savedIndex="145">
+		<channel name="Reserved" color="12615744" deviceType="LOR" unit="1" circuit="8" savedIndex="138"/>
+		<channel name="Zone 5 - Tree (R)" color="255" deviceType="DMX Universe" circuit="6" network="1" savedIndex="139"/>
+		<channel name="Zone 5 - Tree (G)" color="65280" deviceType="DMX Universe" circuit="7" network="1" savedIndex="140"/>
+		<channel name="Zone 5 - Tree (B)" color="16711680" deviceType="DMX Universe" circuit="8" network="1" savedIndex="141"/>
+		<rgbChannel name="Zone 5 - Tree" savedIndex="142">
 			<channels>
-				<channel savedIndex="142"/>
+				<channel savedIndex="139"/>
+				<channel savedIndex="140"/>
+				<channel savedIndex="141"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 5 - Ground 1 (R)" color="255" savedIndex="143"/>
+		<channel name="Zone 5 - Ground 1 (G)" color="65280" savedIndex="144"/>
+		<channel name="Zone 5 - Ground 1 (B)" color="16711680" savedIndex="145"/>
+		<rgbChannel name="Zone 5 - Ground 1" savedIndex="146">
+			<channels>
 				<channel savedIndex="143"/>
 				<channel savedIndex="144"/>
+				<channel savedIndex="145"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 1 (R)" color="255" savedIndex="146"/>
-		<channel name="Zone 4 - Ground 1 (G)" color="65280" savedIndex="147"/>
-		<channel name="Zone 4 - Ground 1 (B)" color="16711680" savedIndex="148"/>
-		<rgbChannel name="Zone 4 - Ground 1" savedIndex="149">
+		<channel name="Zone 5 - Ground 2 (R)" color="255" savedIndex="147"/>
+		<channel name="Zone 5 - Ground 2 (G)" color="65280" savedIndex="148"/>
+		<channel name="Zone 5 - Ground 2 (B)" color="16711680" savedIndex="149"/>
+		<rgbChannel name="Zone 5 - Ground 2" savedIndex="150">
 			<channels>
-				<channel savedIndex="146"/>
 				<channel savedIndex="147"/>
 				<channel savedIndex="148"/>
+				<channel savedIndex="149"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 2 (R)" color="255" savedIndex="150"/>
-		<channel name="Zone 4 - Ground 2 (G)" color="65280" savedIndex="151"/>
-		<channel name="Zone 4 - Ground 2 (B)" color="16711680" savedIndex="152"/>
-		<rgbChannel name="Zone 4 - Ground 2" savedIndex="153">
+		<channel name="Zone 5 - Ground 3 (R)" color="255" savedIndex="151"/>
+		<channel name="Zone 5 - Ground 3 (G)" color="65280" savedIndex="152"/>
+		<channel name="Zone 5 - Ground 3 (B)" color="16711680" savedIndex="153"/>
+		<rgbChannel name="Zone 5 - Ground 3" savedIndex="154">
 			<channels>
-				<channel savedIndex="150"/>
 				<channel savedIndex="151"/>
 				<channel savedIndex="152"/>
+				<channel savedIndex="153"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 3 (R)" color="255" savedIndex="154"/>
-		<channel name="Zone 4 - Ground 3 (G)" color="65280" savedIndex="155"/>
-		<channel name="Zone 4 - Ground 3 (B)" color="16711680" savedIndex="156"/>
-		<rgbChannel name="Zone 4 - Ground 3" savedIndex="157">
+		<channel name="Zone 5 - Ground 4 (R)" color="255" savedIndex="155"/>
+		<channel name="Zone 5 - Ground 4 (G)" color="65280" savedIndex="156"/>
+		<channel name="Zone 5 - Ground 4 (B)" color="16711680" savedIndex="157"/>
+		<rgbChannel name="Zone 5 - Ground 4" savedIndex="158">
 			<channels>
-				<channel savedIndex="154"/>
 				<channel savedIndex="155"/>
 				<channel savedIndex="156"/>
+				<channel savedIndex="157"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 4 (R)" color="255" savedIndex="158"/>
-		<channel name="Zone 4 - Ground 4 (G)" color="65280" savedIndex="159"/>
-		<channel name="Zone 4 - Ground 4 (B)" color="16711680" savedIndex="160"/>
-		<rgbChannel name="Zone 4 - Ground 4" savedIndex="161">
+		<channel name="Zone 5 - Ground 5 (R)" color="255" savedIndex="159"/>
+		<channel name="Zone 5 - Ground 5 (G)" color="65280" savedIndex="160"/>
+		<channel name="Zone 5 - Ground 5 (B)" color="16711680" savedIndex="161"/>
+		<rgbChannel name="Zone 5 - Ground 5" savedIndex="162">
 			<channels>
-				<channel savedIndex="158"/>
 				<channel savedIndex="159"/>
 				<channel savedIndex="160"/>
+				<channel savedIndex="161"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 5 (R)" color="255" savedIndex="162"/>
-		<channel name="Zone 4 - Ground 5 (G)" color="65280" savedIndex="163"/>
-		<channel name="Zone 4 - Ground 5 (B)" color="16711680" savedIndex="164"/>
-		<rgbChannel name="Zone 4 - Ground 5" savedIndex="165">
+		<channel name="Zone 5 - Ground 6 (R)" color="255" savedIndex="163"/>
+		<channel name="Zone 5 - Ground 6 (G)" color="65280" savedIndex="164"/>
+		<channel name="Zone 5 - Ground 6 (B)" color="16711680" savedIndex="165"/>
+		<rgbChannel name="Zone 5 - Ground 6" savedIndex="166">
 			<channels>
-				<channel savedIndex="162"/>
 				<channel savedIndex="163"/>
 				<channel savedIndex="164"/>
+				<channel savedIndex="165"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 6 (R)" color="255" savedIndex="166"/>
-		<channel name="Zone 4 - Ground 6 (G)" color="65280" savedIndex="167"/>
-		<channel name="Zone 4 - Ground 6 (B)" color="16711680" savedIndex="168"/>
-		<rgbChannel name="Zone 4 - Ground 6" savedIndex="169">
+		<channel name="Zone 5 - Ground 7 (R)" color="255" savedIndex="167"/>
+		<channel name="Zone 5 - Ground 7 (G)" color="65280" savedIndex="168"/>
+		<channel name="Zone 5 - Ground 7 (B)" color="16711680" savedIndex="169"/>
+		<rgbChannel name="Zone 5 - Ground 7" savedIndex="170">
 			<channels>
-				<channel savedIndex="166"/>
 				<channel savedIndex="167"/>
 				<channel savedIndex="168"/>
+				<channel savedIndex="169"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 7 (R)" color="255" savedIndex="170"/>
-		<channel name="Zone 4 - Ground 7 (G)" color="65280" savedIndex="171"/>
-		<channel name="Zone 4 - Ground 7 (B)" color="16711680" savedIndex="172"/>
-		<rgbChannel name="Zone 4 - Ground 7" savedIndex="173">
+		<channel name="Zone 5 - Ground 8 (R)" color="255" savedIndex="171"/>
+		<channel name="Zone 5 - Ground 8 (G)" color="65280" savedIndex="172"/>
+		<channel name="Zone 5 - Ground 8 (B)" color="16711680" savedIndex="173"/>
+		<rgbChannel name="Zone 5 - Ground 8" savedIndex="174">
 			<channels>
-				<channel savedIndex="170"/>
 				<channel savedIndex="171"/>
 				<channel savedIndex="172"/>
+				<channel savedIndex="173"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 8 (R)" color="255" savedIndex="174"/>
-		<channel name="Zone 4 - Ground 8 (G)" color="65280" savedIndex="175"/>
-		<channel name="Zone 4 - Ground 8 (B)" color="16711680" savedIndex="176"/>
-		<rgbChannel name="Zone 4 - Ground 8" savedIndex="177">
+		<channel name="Zone 5 - Sparkle Color (R)" color="255" savedIndex="175"/>
+		<channel name="Zone 5 - Sparkle Color (G)" color="65280" savedIndex="176"/>
+		<channel name="Zone 5 - Sparkle Color (B)" color="16711680" savedIndex="177"/>
+		<rgbChannel name="Zone 5 - Sparkle Color" savedIndex="178">
 			<channels>
-				<channel savedIndex="174"/>
 				<channel savedIndex="175"/>
 				<channel savedIndex="176"/>
+				<channel savedIndex="177"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Tree Twinkle" color="12615744" savedIndex="178"/>
-		<channel name="Zone 4 - Ground Twinkle" color="12615744" savedIndex="179"/>
-		<channel name="Zone 4 - Tree Effect" color="12615744" savedIndex="180"/>
-		<channel name="Zone 4 - Ground Effect" color="12615744" savedIndex="181"/>
-		<channelGroupList name="Zone 4" savedIndex="182">
+		<channel name="Zone 5 - Sparkle Brightness" color="12615744" savedIndex="179"/>
+		<channel name="Zone 5 - Tree Sparkle" color="12615744" savedIndex="180"/>
+		<channel name="Zone 5 - Ground Sparkle" color="12615744" savedIndex="181"/>
+		<channel name="Zone 5 - Tree Effect" color="12615744" savedIndex="182"/>
+		<channel name="Zone 5 - Ground Effect" color="12615744" savedIndex="183"/>
+		<channelGroupList name="Zone 5" savedIndex="184">
 			<channelGroups>
-				<channelGroup savedIndex="145"/>
-				<channelGroup savedIndex="149"/>
-				<channelGroup savedIndex="153"/>
-				<channelGroup savedIndex="157"/>
-				<channelGroup savedIndex="161"/>
-				<channelGroup savedIndex="165"/>
-				<channelGroup savedIndex="169"/>
-				<channelGroup savedIndex="173"/>
-				<channelGroup savedIndex="177"/>
+				<channelGroup savedIndex="142"/>
+				<channelGroup savedIndex="146"/>
+				<channelGroup savedIndex="150"/>
+				<channelGroup savedIndex="154"/>
+				<channelGroup savedIndex="158"/>
+				<channelGroup savedIndex="162"/>
+				<channelGroup savedIndex="166"/>
+				<channelGroup savedIndex="170"/>
+				<channelGroup savedIndex="174"/>
 				<channelGroup savedIndex="178"/>
 				<channelGroup savedIndex="179"/>
 				<channelGroup savedIndex="180"/>
 				<channelGroup savedIndex="181"/>
+				<channelGroup savedIndex="182"/>
+				<channelGroup savedIndex="183"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Zone 6 - Tree (R)" color="255" savedIndex="183"/>
-		<channel name="Zone 6 - Tree (G)" color="65280" savedIndex="184"/>
-		<channel name="Zone 6 - Tree (B)" color="16711680" savedIndex="185"/>
-		<rgbChannel name="Zone 6 - Tree" savedIndex="186">
+		<channel name="Reserved" color="12615744" savedIndex="185"/>
+		<channel name="Reserved" color="12615744" savedIndex="186"/>
+		<channel name="Reserved" color="12615744" savedIndex="187"/>
+		<channel name="Reserved" color="12615744" savedIndex="188"/>
+		<channelGroupList name="Reserved" savedIndex="189">
+			<channelGroups>
+				<channelGroup savedIndex="185"/>
+				<channelGroup savedIndex="186"/>
+				<channelGroup savedIndex="187"/>
+				<channelGroup savedIndex="188"/>
+			</channelGroups>
+		</channelGroupList>
+		<channel name="Zone 2 - Tree 1 (R)" color="255" deviceType="LOR" unit="1" circuit="5" savedIndex="190"/>
+		<channel name="Zone 2 - Tree 1 (G)" color="65280" deviceType="LOR" unit="1" circuit="6" savedIndex="191"/>
+		<channel name="Zone 2 - Tree 1 (B)" color="16711680" deviceType="LOR" unit="1" circuit="7" savedIndex="192"/>
+		<rgbChannel name="Zone 2 - Tree 1" savedIndex="193">
 			<channels>
-				<channel savedIndex="183"/>
-				<channel savedIndex="184"/>
-				<channel savedIndex="185"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 6 - Ground 1 (R)" color="255" savedIndex="187"/>
-		<channel name="Zone 6 - Ground 1 (G)" color="65280" savedIndex="188"/>
-		<channel name="Zone 6 - Ground 1 (B)" color="16711680" savedIndex="189"/>
-		<rgbChannel name="Zone 6 - Ground 1" savedIndex="190">
-			<channels>
-				<channel savedIndex="187"/>
-				<channel savedIndex="188"/>
-				<channel savedIndex="189"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 6 - Ground 2 (R)" color="255" savedIndex="191"/>
-		<channel name="Zone 6 - Ground 2 (G)" color="65280" savedIndex="192"/>
-		<channel name="Zone 6 - Ground 2 (B)" color="16711680" savedIndex="193"/>
-		<rgbChannel name="Zone 6 - Ground 2" savedIndex="194">
-			<channels>
+				<channel savedIndex="190"/>
 				<channel savedIndex="191"/>
 				<channel savedIndex="192"/>
-				<channel savedIndex="193"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 3 (R)" color="255" savedIndex="195"/>
-		<channel name="Zone 6 - Ground 3 (G)" color="65280" savedIndex="196"/>
-		<channel name="Zone 6 - Ground 3 (B)" color="16711680" savedIndex="197"/>
-		<rgbChannel name="Zone 6 - Ground 3" savedIndex="198">
+		<channel name="Zone 2 - Tree 2 (R)" color="255" savedIndex="194"/>
+		<channel name="Zone 2 - Tree 2 (G)" color="65280" savedIndex="195"/>
+		<channel name="Zone 2 - Tree 2 (B)" color="16711680" savedIndex="196"/>
+		<rgbChannel name="Zone 2 - Tree 2" savedIndex="197">
 			<channels>
+				<channel savedIndex="194"/>
 				<channel savedIndex="195"/>
 				<channel savedIndex="196"/>
-				<channel savedIndex="197"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 4 (R)" color="255" savedIndex="199"/>
-		<channel name="Zone 6 - Ground 4 (G)" color="65280" savedIndex="200"/>
-		<channel name="Zone 6 - Ground 4 (B)" color="16711680" savedIndex="201"/>
-		<rgbChannel name="Zone 6 - Ground 4" savedIndex="202">
+		<channel name="Zone 2 - Ground 1 (R)" color="255" savedIndex="198"/>
+		<channel name="Zone 2 - Ground 1 (G)" color="65280" savedIndex="199"/>
+		<channel name="Zone 2 - Ground 1 (B)" color="16711680" savedIndex="200"/>
+		<rgbChannel name="Zone 2 - Ground 1" savedIndex="201">
 			<channels>
+				<channel savedIndex="198"/>
 				<channel savedIndex="199"/>
 				<channel savedIndex="200"/>
-				<channel savedIndex="201"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 5 (R)" color="255" savedIndex="203"/>
-		<channel name="Zone 6 - Ground 5 (G)" color="65280" savedIndex="204"/>
-		<channel name="Zone 6 - Ground 5 (B)" color="16711680" savedIndex="205"/>
-		<rgbChannel name="Zone 6 - Ground 5" savedIndex="206">
+		<channel name="Zone 2 - Ground 2 (R)" color="255" savedIndex="202"/>
+		<channel name="Zone 2 - Ground 2 (G)" color="65280" savedIndex="203"/>
+		<channel name="Zone 2 - Ground 2 (B)" color="16711680" savedIndex="204"/>
+		<rgbChannel name="Zone 2 - Ground 2" savedIndex="205">
 			<channels>
+				<channel savedIndex="202"/>
 				<channel savedIndex="203"/>
 				<channel savedIndex="204"/>
-				<channel savedIndex="205"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 6 (R)" color="255" savedIndex="207"/>
-		<channel name="Zone 6 - Ground 6 (G)" color="65280" savedIndex="208"/>
-		<channel name="Zone 6 - Ground 6 (B)" color="16711680" savedIndex="209"/>
-		<rgbChannel name="Zone 6 - Ground 6" savedIndex="210">
+		<channel name="Zone 2 - Ground 3 (R)" color="255" savedIndex="206"/>
+		<channel name="Zone 2 - Ground 3 (G)" color="65280" savedIndex="207"/>
+		<channel name="Zone 2 - Ground 3 (B)" color="16711680" savedIndex="208"/>
+		<rgbChannel name="Zone 2 - Ground 3" savedIndex="209">
 			<channels>
+				<channel savedIndex="206"/>
 				<channel savedIndex="207"/>
 				<channel savedIndex="208"/>
-				<channel savedIndex="209"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 7 (R)" color="255" savedIndex="211"/>
-		<channel name="Zone 6 - Ground 7 (G)" color="65280" savedIndex="212"/>
-		<channel name="Zone 6 - Ground 7 (B)" color="16711680" savedIndex="213"/>
-		<rgbChannel name="Zone 6 - Ground 7" savedIndex="214">
+		<channel name="Zone 2 - Ground 4 (R)" color="255" savedIndex="210"/>
+		<channel name="Zone 2 - Ground 4 (G)" color="65280" savedIndex="211"/>
+		<channel name="Zone 2 - Ground 4 (B)" color="16711680" savedIndex="212"/>
+		<rgbChannel name="Zone 2 - Ground 4" savedIndex="213">
 			<channels>
+				<channel savedIndex="210"/>
 				<channel savedIndex="211"/>
 				<channel savedIndex="212"/>
-				<channel savedIndex="213"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 8 (R)" color="255" savedIndex="215"/>
-		<channel name="Zone 6 - Ground 8 (G)" color="65280" savedIndex="216"/>
-		<channel name="Zone 6 - Ground 8 (B)" color="16711680" savedIndex="217"/>
-		<rgbChannel name="Zone 6 - Ground 8" savedIndex="218">
+		<channel name="Zone 2 - Ground 5 (R)" color="255" savedIndex="214"/>
+		<channel name="Zone 2 - Ground 5 (G)" color="65280" savedIndex="215"/>
+		<channel name="Zone 2 - Ground 5 (B)" color="16711680" savedIndex="216"/>
+		<rgbChannel name="Zone 2 - Ground 5" savedIndex="217">
 			<channels>
+				<channel savedIndex="214"/>
 				<channel savedIndex="215"/>
 				<channel savedIndex="216"/>
-				<channel savedIndex="217"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Tree Twinkle" color="12615744" savedIndex="219"/>
-		<channel name="Zone 6 - Ground Twinkle" color="12615744" savedIndex="220"/>
-		<channel name="Zone 6 - Tree Effect" color="12615744" savedIndex="221"/>
-		<channel name="Zone 6 - Gound Effect" color="12615744" savedIndex="222"/>
-		<channelGroupList name="Zone 6" savedIndex="223">
-			<channelGroups>
-				<channelGroup savedIndex="186"/>
-				<channelGroup savedIndex="190"/>
-				<channelGroup savedIndex="194"/>
-				<channelGroup savedIndex="198"/>
-				<channelGroup savedIndex="202"/>
-				<channelGroup savedIndex="206"/>
-				<channelGroup savedIndex="210"/>
-				<channelGroup savedIndex="214"/>
-				<channelGroup savedIndex="218"/>
-				<channelGroup savedIndex="219"/>
-				<channelGroup savedIndex="220"/>
-				<channelGroup savedIndex="221"/>
-				<channelGroup savedIndex="222"/>
-			</channelGroups>
-		</channelGroupList>
-		<channel name="Zone 5 - Tree (R)" color="255" deviceType="DMX Universe" circuit="6" network="1" savedIndex="224"/>
-		<channel name="Zone 5 - Tree (G)" color="65280" deviceType="DMX Universe" circuit="7" network="1" savedIndex="225"/>
-		<channel name="Zone 5 - Tree (B)" color="16711680" deviceType="DMX Universe" circuit="8" network="1" savedIndex="226"/>
-		<rgbChannel name="Zone 5 - Tree" savedIndex="227">
+		<channel name="Zone 2 - Ground 6 (R)" color="255" savedIndex="218"/>
+		<channel name="Zone 2 - Ground 6 (G)" color="65280" savedIndex="219"/>
+		<channel name="Zone 2 - Ground 6 (B)" color="16711680" savedIndex="220"/>
+		<rgbChannel name="Zone 2 - Ground 6" savedIndex="221">
 			<channels>
+				<channel savedIndex="218"/>
+				<channel savedIndex="219"/>
+				<channel savedIndex="220"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 2 - Ground 7 (R)" color="255" savedIndex="222"/>
+		<channel name="Zone 2 - Ground 7 (G)" color="65280" savedIndex="223"/>
+		<channel name="Zone 2 - Ground 7 (B)" color="16711680" savedIndex="224"/>
+		<rgbChannel name="Zone 2 - Ground 7" savedIndex="225">
+			<channels>
+				<channel savedIndex="222"/>
+				<channel savedIndex="223"/>
 				<channel savedIndex="224"/>
-				<channel savedIndex="225"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 2 - Ground 8 (R)" color="255" savedIndex="226"/>
+		<channel name="Zone 2 - Ground 8 (G)" color="65280" savedIndex="227"/>
+		<channel name="Zone 2 - Ground 8 (B)" color="16711680" savedIndex="228"/>
+		<rgbChannel name="Zone 2 - Ground 8" savedIndex="229">
+			<channels>
 				<channel savedIndex="226"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 5 - Ground 1 (R)" color="255" savedIndex="228"/>
-		<channel name="Zone 5 - Ground 1 (G)" color="65280" savedIndex="229"/>
-		<channel name="Zone 5 - Ground 1 (B)" color="16711680" savedIndex="230"/>
-		<rgbChannel name="Zone 5 - Ground 1" savedIndex="231">
-			<channels>
+				<channel savedIndex="227"/>
 				<channel savedIndex="228"/>
-				<channel savedIndex="229"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 2 - Sparkle Color (R)" color="255" savedIndex="230"/>
+		<channel name="Zone 2 - Sparkle Color (G)" color="65280" savedIndex="231"/>
+		<channel name="Zone 2 - Sparkle Color (B)" color="16711680" savedIndex="232"/>
+		<rgbChannel name="Zone 2 - Sparkle Color" savedIndex="233">
+			<channels>
 				<channel savedIndex="230"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 5 - Ground 2 (R)" color="255" savedIndex="232"/>
-		<channel name="Zone 5 - Ground 2 (G)" color="65280" savedIndex="233"/>
-		<channel name="Zone 5 - Ground 2 (B)" color="16711680" savedIndex="234"/>
-		<rgbChannel name="Zone 5 - Ground 2" savedIndex="235">
-			<channels>
+				<channel savedIndex="231"/>
 				<channel savedIndex="232"/>
-				<channel savedIndex="233"/>
-				<channel savedIndex="234"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 5 - Ground 3 (R)" color="255" savedIndex="236"/>
-		<channel name="Zone 5 - Ground 3 (G)" color="65280" savedIndex="237"/>
-		<channel name="Zone 5 - Ground 3 (B)" color="16711680" savedIndex="238"/>
-		<rgbChannel name="Zone 5 - Ground 3" savedIndex="239">
-			<channels>
-				<channel savedIndex="236"/>
-				<channel savedIndex="237"/>
-				<channel savedIndex="238"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 5 - Ground 4 (R)" color="255" savedIndex="240"/>
-		<channel name="Zone 5 - Ground 4 (G)" color="65280" savedIndex="241"/>
-		<channel name="Zone 5 - Ground 4 (B)" color="16711680" savedIndex="242"/>
-		<rgbChannel name="Zone 5 - Ground 4" savedIndex="243">
-			<channels>
-				<channel savedIndex="240"/>
-				<channel savedIndex="241"/>
-				<channel savedIndex="242"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 5 - Ground 5 (R)" color="255" savedIndex="244"/>
-		<channel name="Zone 5 - Ground 5 (G)" color="65280" savedIndex="245"/>
-		<channel name="Zone 5 - Ground 5 (B)" color="16711680" savedIndex="246"/>
-		<rgbChannel name="Zone 5 - Ground 5" savedIndex="247">
-			<channels>
-				<channel savedIndex="244"/>
-				<channel savedIndex="245"/>
-				<channel savedIndex="246"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 5 - Ground 6 (R)" color="255" savedIndex="248"/>
-		<channel name="Zone 5 - Ground 6 (G)" color="65280" savedIndex="249"/>
-		<channel name="Zone 5 - Ground 6 (B)" color="16711680" savedIndex="250"/>
-		<rgbChannel name="Zone 5 - Ground 6" savedIndex="251">
-			<channels>
-				<channel savedIndex="248"/>
-				<channel savedIndex="249"/>
-				<channel savedIndex="250"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 5 - Ground 7 (R)" color="255" savedIndex="252"/>
-		<channel name="Zone 5 - Ground 7 (G)" color="65280" savedIndex="253"/>
-		<channel name="Zone 5 - Ground 7 (B)" color="16711680" savedIndex="254"/>
-		<rgbChannel name="Zone 5 - Ground 7" savedIndex="255">
-			<channels>
-				<channel savedIndex="252"/>
-				<channel savedIndex="253"/>
-				<channel savedIndex="254"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 5 - Ground 8 (R)" color="255" savedIndex="256"/>
-		<channel name="Zone 5 - Ground 8 (G)" color="65280" savedIndex="257"/>
-		<channel name="Zone 5 - Ground 8 (B)" color="16711680" savedIndex="258"/>
-		<rgbChannel name="Zone 5 - Ground 8" savedIndex="259">
-			<channels>
-				<channel savedIndex="256"/>
-				<channel savedIndex="257"/>
-				<channel savedIndex="258"/>
-			</channels>
-		</rgbChannel>
-		<channel name="Zone 5 - Tree Twinkle" color="12615744" savedIndex="260"/>
-		<channel name="Zone 5 - Ground Twinkle" color="12615744" savedIndex="261"/>
-		<channel name="Zone 5 - Tree Effect" color="12615744" savedIndex="262"/>
-		<channel name="Zone 5 - Ground Effect" color="12615744" savedIndex="263"/>
-		<channelGroupList name="Zone 5" savedIndex="264">
+		<channel name="Zone 2 - Sparkle Brightness" color="12615744" savedIndex="234"/>
+		<channel name="Zone 2 - Tree 1 Sparkle" color="12615744" savedIndex="235"/>
+		<channel name="Zone 2 - Tree 2 Sparkle" color="12615744" savedIndex="236"/>
+		<channel name="Zone 2 - Ground Sparkle" color="12615744" savedIndex="237"/>
+		<channel name="Zone 2 - Tree 1 Effect" color="12615744" savedIndex="238"/>
+		<channel name="Zone 2 - Tree 2 Effect" color="12615744" savedIndex="239"/>
+		<channel name="Zone 2 - Ground Effect" color="12615744" savedIndex="240"/>
+		<channelGroupList name="Zone 2" savedIndex="241">
 			<channelGroups>
-				<channelGroup savedIndex="227"/>
-				<channelGroup savedIndex="231"/>
+				<channelGroup savedIndex="193"/>
+				<channelGroup savedIndex="197"/>
+				<channelGroup savedIndex="201"/>
+				<channelGroup savedIndex="205"/>
+				<channelGroup savedIndex="209"/>
+				<channelGroup savedIndex="213"/>
+				<channelGroup savedIndex="217"/>
+				<channelGroup savedIndex="221"/>
+				<channelGroup savedIndex="225"/>
+				<channelGroup savedIndex="229"/>
+				<channelGroup savedIndex="233"/>
+				<channelGroup savedIndex="234"/>
 				<channelGroup savedIndex="235"/>
+				<channelGroup savedIndex="236"/>
+				<channelGroup savedIndex="237"/>
+				<channelGroup savedIndex="238"/>
 				<channelGroup savedIndex="239"/>
-				<channelGroup savedIndex="243"/>
-				<channelGroup savedIndex="247"/>
-				<channelGroup savedIndex="251"/>
-				<channelGroup savedIndex="255"/>
-				<channelGroup savedIndex="259"/>
-				<channelGroup savedIndex="260"/>
-				<channelGroup savedIndex="261"/>
-				<channelGroup savedIndex="262"/>
-				<channelGroup savedIndex="263"/>
+				<channelGroup savedIndex="240"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Reserved" color="12615744" savedIndex="265"/>
-		<channel name="Reserved" color="12615744" savedIndex="266"/>
-		<channel name="Reserved" color="12615744" savedIndex="267"/>
-		<channel name="Reserved" color="12615744" savedIndex="268"/>
-		<channelGroupList name="Reserved" savedIndex="269">
+		<channel name="Zone 1 - Tree 1 (R)" color="255" deviceType="DMX Universe" circuit="16" network="1" savedIndex="242"/>
+		<channel name="Zone 1 - Tree 1 (G)" color="65280" savedIndex="243"/>
+		<channel name="Zone 1 - Tree 1 (B)" color="16711680" savedIndex="244"/>
+		<rgbChannel name="Zone 1 - Tree 1" savedIndex="245">
+			<channels>
+				<channel savedIndex="242"/>
+				<channel savedIndex="243"/>
+				<channel savedIndex="244"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Tree 2 (R)" color="255" savedIndex="246"/>
+		<channel name="Zone 1 - Tree 2 (G)" color="65280" savedIndex="247"/>
+		<channel name="Zone 1 - Tree 2 (B)" color="16711680" savedIndex="248"/>
+		<rgbChannel name="Zone 1 - Tree 2" savedIndex="249">
+			<channels>
+				<channel savedIndex="246"/>
+				<channel savedIndex="247"/>
+				<channel savedIndex="248"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Tree 3 (R)" color="255" savedIndex="250"/>
+		<channel name="Zone 1 - Tree 3 (G)" color="65280" savedIndex="251"/>
+		<channel name="Zone 1 - Tree 3 (B)" color="16711680" savedIndex="252"/>
+		<rgbChannel name="Zone 1 - Tree 3" savedIndex="253">
+			<channels>
+				<channel savedIndex="250"/>
+				<channel savedIndex="251"/>
+				<channel savedIndex="252"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Ground 1 (R)" color="255" savedIndex="254"/>
+		<channel name="Zone 1 - Ground 1 (G)" color="65280" savedIndex="255"/>
+		<channel name="Zone 1 - Ground 1 (B)" color="16711680" savedIndex="256"/>
+		<rgbChannel name="Zone 1 - Ground 1" savedIndex="257">
+			<channels>
+				<channel savedIndex="254"/>
+				<channel savedIndex="255"/>
+				<channel savedIndex="256"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Ground 2 (R)" color="255" savedIndex="258"/>
+		<channel name="Zone 1 - Ground 2 (G)" color="65280" savedIndex="259"/>
+		<channel name="Zone 1 - Ground 2 (B)" color="16711680" savedIndex="260"/>
+		<rgbChannel name="Zone 1 - Ground 2" savedIndex="261">
+			<channels>
+				<channel savedIndex="258"/>
+				<channel savedIndex="259"/>
+				<channel savedIndex="260"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Ground 3 (R)" color="255" savedIndex="262"/>
+		<channel name="Zone 1 - Ground 3 (G)" color="65280" savedIndex="263"/>
+		<channel name="Zone 1 - Ground 3 (B)" color="16711680" savedIndex="264"/>
+		<rgbChannel name="Zone 1 - Ground 3" savedIndex="265">
+			<channels>
+				<channel savedIndex="262"/>
+				<channel savedIndex="263"/>
+				<channel savedIndex="264"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Ground 4 (R)" color="255" savedIndex="266"/>
+		<channel name="Zone 1 - Ground 4 (G)" color="65280" savedIndex="267"/>
+		<channel name="Zone 1 - Ground 4 (B)" color="16711680" savedIndex="268"/>
+		<rgbChannel name="Zone 1 - Ground 4" savedIndex="269">
+			<channels>
+				<channel savedIndex="266"/>
+				<channel savedIndex="267"/>
+				<channel savedIndex="268"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Ground 5 (R)" color="255" savedIndex="270"/>
+		<channel name="Zone 1 - Ground 5 (G)" color="65280" savedIndex="271"/>
+		<channel name="Zone 1 - Ground 5 (B)" color="16711680" savedIndex="272"/>
+		<rgbChannel name="Zone 1 - Ground 5" savedIndex="273">
+			<channels>
+				<channel savedIndex="270"/>
+				<channel savedIndex="271"/>
+				<channel savedIndex="272"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Ground 6 (R)" color="255" savedIndex="274"/>
+		<channel name="Zone 1 - Ground 6 (G)" color="65280" savedIndex="275"/>
+		<channel name="Zone 1 - Ground 6 (B)" color="16711680" savedIndex="276"/>
+		<rgbChannel name="Zone 1 - Ground 6" savedIndex="277">
+			<channels>
+				<channel savedIndex="274"/>
+				<channel savedIndex="275"/>
+				<channel savedIndex="276"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Ground 7 (R)" color="255" savedIndex="278"/>
+		<channel name="Zone 1 - Ground 7 (G)" color="65280" savedIndex="279"/>
+		<channel name="Zone 1 - Ground 7 (B)" color="16711680" savedIndex="280"/>
+		<rgbChannel name="Zone 1 - Ground 7" savedIndex="281">
+			<channels>
+				<channel savedIndex="278"/>
+				<channel savedIndex="279"/>
+				<channel savedIndex="280"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Ground 8 (R)" color="255" savedIndex="282"/>
+		<channel name="Zone 1 - Ground 8 (G)" color="65280" savedIndex="283"/>
+		<channel name="Zone 1 - Ground 8 (B)" color="16711680" savedIndex="284"/>
+		<rgbChannel name="Zone 1 - Ground 8" savedIndex="285">
+			<channels>
+				<channel savedIndex="282"/>
+				<channel savedIndex="283"/>
+				<channel savedIndex="284"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Sparkle Color (R)" color="255" savedIndex="286"/>
+		<channel name="Zone 1 - Sparkle Color (G)" color="65280" savedIndex="287"/>
+		<channel name="Zone 1 - Sparkle Color (B)" color="16711680" savedIndex="288"/>
+		<rgbChannel name="Zone 1 - Sparkle Color" savedIndex="289">
+			<channels>
+				<channel savedIndex="286"/>
+				<channel savedIndex="287"/>
+				<channel savedIndex="288"/>
+			</channels>
+		</rgbChannel>
+		<channel name="Zone 1 - Sparkle Brightness" color="12615744" savedIndex="290"/>
+		<channel name="Zone 1 - Tree 1 Sparkle" color="12615744" deviceType="LOR" unit="1" circuit="1" savedIndex="291"/>
+		<channel name="Zone 1 - Tree 2 Sparkle" color="12615744" savedIndex="292"/>
+		<channel name="Zone 1 - Tree 3 Sparkle" color="12615744" savedIndex="293"/>
+		<channel name="Zone 1 - Ground Sparkle" color="12615744" deviceType="LOR" unit="1" circuit="2" savedIndex="294"/>
+		<channel name="Zone 1 - Tree 1 Effect" color="12615744" deviceType="LOR" unit="1" circuit="3" savedIndex="295"/>
+		<channel name="Zone 1 - Tree 2 Effect" color="12615744" savedIndex="296"/>
+		<channel name="Zone 1 - Tree 3 Effect" color="12615744" savedIndex="297"/>
+		<channel name="Zone 1 - Ground Effect" color="12615744" deviceType="LOR" unit="1" circuit="4" savedIndex="298"/>
+		<channelGroupList name="Zone 1" savedIndex="299">
 			<channelGroups>
+				<channelGroup savedIndex="245"/>
+				<channelGroup savedIndex="249"/>
+				<channelGroup savedIndex="253"/>
+				<channelGroup savedIndex="257"/>
+				<channelGroup savedIndex="261"/>
 				<channelGroup savedIndex="265"/>
-				<channelGroup savedIndex="266"/>
-				<channelGroup savedIndex="267"/>
-				<channelGroup savedIndex="268"/>
+				<channelGroup savedIndex="269"/>
+				<channelGroup savedIndex="273"/>
+				<channelGroup savedIndex="277"/>
+				<channelGroup savedIndex="281"/>
+				<channelGroup savedIndex="285"/>
+				<channelGroup savedIndex="289"/>
+				<channelGroup savedIndex="290"/>
+				<channelGroup savedIndex="291"/>
+				<channelGroup savedIndex="292"/>
+				<channelGroup savedIndex="293"/>
+				<channelGroup savedIndex="294"/>
+				<channelGroup savedIndex="295"/>
+				<channelGroup savedIndex="296"/>
+				<channelGroup savedIndex="297"/>
+				<channelGroup savedIndex="298"/>
 			</channelGroups>
 		</channelGroupList>
 	</channels>
 	<tracks>
 		<track>
 			<channels>
-				<channel savedIndex="269"/>
-				<channel savedIndex="100"/>
-				<channel savedIndex="47"/>
-				<channel savedIndex="141"/>
-				<channel savedIndex="182"/>
-				<channel savedIndex="264"/>
-				<channel savedIndex="223"/>
-				<channel savedIndex="0"/>
+				<channel savedIndex="189"/>
+				<channel savedIndex="299"/>
+				<channel savedIndex="241"/>
+				<channel savedIndex="91"/>
+				<channel savedIndex="137"/>
+				<channel savedIndex="184"/>
+				<channel savedIndex="45"/>
+				<channel savedIndex="138"/>
 			</channels>
 		</track>
 	</tracks>
