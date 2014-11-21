@@ -66,10 +66,10 @@
 			<effect type="intensity" startCentisecond="21089" endCentisecond="21175" intensity="100"/>
 			<effect type="intensity" startCentisecond="21432" endCentisecond="21518" intensity="100"/>
 			<effect type="intensity" startCentisecond="21775" endCentisecond="21861" intensity="100"/>
-			<effect type="intensity" startCentisecond="22201" endCentisecond="22330" intensity="100"/>
-			<effect type="intensity" startCentisecond="22711" endCentisecond="22843" intensity="100"/>
-			<effect type="intensity" startCentisecond="23225" endCentisecond="23354" intensity="100"/>
-			<effect type="intensity" startCentisecond="23603" endCentisecond="23658" intensity="100"/>
+			<effect type="intensity" startCentisecond="22192" endCentisecond="22321" intensity="100"/>
+			<effect type="intensity" startCentisecond="22703" endCentisecond="22837" intensity="100"/>
+			<effect type="intensity" startCentisecond="23225" endCentisecond="23348" intensity="100"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" intensity="100"/>
 		</channel>
 		<channel name="Reserved" color="12615744" centiseconds="24537" savedIndex="1">
 			<effect type="intensity" startCentisecond="257" endCentisecond="343" intensity="100"/>
@@ -135,11 +135,11 @@
 			<effect type="intensity" startCentisecond="20832" endCentisecond="20918" intensity="100"/>
 			<effect type="intensity" startCentisecond="21175" endCentisecond="21260" intensity="100"/>
 			<effect type="intensity" startCentisecond="21518" endCentisecond="21603" intensity="100"/>
-			<effect type="intensity" startCentisecond="21861" endCentisecond="21946" intensity="100"/>
-			<effect type="intensity" startCentisecond="22330" endCentisecond="22461" intensity="100"/>
-			<effect type="intensity" startCentisecond="22843" endCentisecond="22975" intensity="100"/>
-			<effect type="intensity" startCentisecond="23354" endCentisecond="23485" intensity="100"/>
-			<effect type="intensity" startCentisecond="23658" endCentisecond="24174" intensity="100"/>
+			<effect type="intensity" startCentisecond="21861" endCentisecond="21943" intensity="100"/>
+			<effect type="intensity" startCentisecond="22321" endCentisecond="22449" intensity="100"/>
+			<effect type="intensity" startCentisecond="22837" endCentisecond="22966" intensity="100"/>
+			<effect type="intensity" startCentisecond="23348" endCentisecond="23480" intensity="100"/>
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" intensity="100"/>
 		</channel>
 		<channel name="Reserved" color="12615744" centiseconds="24537" savedIndex="2">
 			<effect type="intensity" startCentisecond="343" endCentisecond="429" intensity="100"/>
@@ -205,10 +205,10 @@
 			<effect type="intensity" startCentisecond="20918" endCentisecond="21003" intensity="100"/>
 			<effect type="intensity" startCentisecond="21260" endCentisecond="21346" intensity="100"/>
 			<effect type="intensity" startCentisecond="21603" endCentisecond="21689" intensity="100"/>
-			<effect type="intensity" startCentisecond="21946" endCentisecond="22072" intensity="100"/>
-			<effect type="intensity" startCentisecond="22461" endCentisecond="22586" intensity="100"/>
-			<effect type="intensity" startCentisecond="22975" endCentisecond="23101" intensity="100"/>
-			<effect type="intensity" startCentisecond="23485" endCentisecond="23573" intensity="100"/>
+			<effect type="intensity" startCentisecond="21943" endCentisecond="22065" intensity="100"/>
+			<effect type="intensity" startCentisecond="22449" endCentisecond="22577" intensity="100"/>
+			<effect type="intensity" startCentisecond="22966" endCentisecond="23094" intensity="100"/>
+			<effect type="intensity" startCentisecond="23480" endCentisecond="23564" intensity="100"/>
 		</channel>
 		<channel name="Reserved" color="12615744" centiseconds="24537" savedIndex="3">
 			<effect type="intensity" startCentisecond="429" endCentisecond="514" intensity="100"/>
@@ -274,10 +274,10 @@
 			<effect type="intensity" startCentisecond="21003" endCentisecond="21089" intensity="100"/>
 			<effect type="intensity" startCentisecond="21346" endCentisecond="21432" intensity="100"/>
 			<effect type="intensity" startCentisecond="21689" endCentisecond="21775" intensity="100"/>
-			<effect type="intensity" startCentisecond="22072" endCentisecond="22201" intensity="100"/>
-			<effect type="intensity" startCentisecond="22586" endCentisecond="22711" intensity="100"/>
-			<effect type="intensity" startCentisecond="23101" endCentisecond="23225" intensity="100"/>
-			<effect type="intensity" startCentisecond="23573" endCentisecond="23603" intensity="100"/>
+			<effect type="intensity" startCentisecond="22065" endCentisecond="22192" intensity="100"/>
+			<effect type="intensity" startCentisecond="22577" endCentisecond="22703" intensity="100"/>
+			<effect type="intensity" startCentisecond="23094" endCentisecond="23225" intensity="100"/>
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" intensity="100"/>
 		</channel>
 		<channelGroupList totalCentiseconds="24537" name="Reserved" savedIndex="4">
 			<channelGroups>
@@ -287,9 +287,15 @@
 				<channelGroup savedIndex="3"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Zone 1 - Tree 1 (R)" color="255" centiseconds="24537" deviceType="DMX Universe" circuit="16" network="1" savedIndex="5"/>
-		<channel name="Zone 1 - Tree 1 (G)" color="65280" centiseconds="24537" savedIndex="6"/>
-		<channel name="Zone 1 - Tree 1 (B)" color="16711680" centiseconds="24537" savedIndex="7"/>
+		<channel name="Zone 1 - Tree 1 (R)" color="255" centiseconds="24537" deviceType="DMX Universe" circuit="16" network="1" savedIndex="5">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Tree 1 (G)" color="65280" centiseconds="24537" savedIndex="6">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Tree 1 (B)" color="16711680" centiseconds="24537" savedIndex="7">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Tree 1" savedIndex="8">
 			<channels>
 				<channel savedIndex="5"/>
@@ -297,9 +303,15 @@
 				<channel savedIndex="7"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Tree 2 (R)" color="255" centiseconds="24537" savedIndex="9"/>
-		<channel name="Zone 1 - Tree 2 (G)" color="65280" centiseconds="24537" savedIndex="10"/>
-		<channel name="Zone 1 - Tree 2 (B)" color="16711680" centiseconds="24537" savedIndex="11"/>
+		<channel name="Zone 1 - Tree 2 (R)" color="255" centiseconds="24537" savedIndex="9">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Tree 2 (G)" color="65280" centiseconds="24537" savedIndex="10">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Tree 2 (B)" color="16711680" centiseconds="24537" savedIndex="11">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Tree 2" savedIndex="12">
 			<channels>
 				<channel savedIndex="9"/>
@@ -307,9 +319,15 @@
 				<channel savedIndex="11"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Tree 3 (R)" color="255" centiseconds="24537" savedIndex="13"/>
-		<channel name="Zone 1 - Tree 3 (G)" color="65280" centiseconds="24537" savedIndex="14"/>
-		<channel name="Zone 1 - Tree 3 (B)" color="16711680" centiseconds="24537" savedIndex="15"/>
+		<channel name="Zone 1 - Tree 3 (R)" color="255" centiseconds="24537" savedIndex="13">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Tree 3 (G)" color="65280" centiseconds="24537" savedIndex="14">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Tree 3 (B)" color="16711680" centiseconds="24537" savedIndex="15">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Tree 3" savedIndex="16">
 			<channels>
 				<channel savedIndex="13"/>
@@ -317,9 +335,21 @@
 				<channel savedIndex="15"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="17"/>
-		<channel name="Zone 1 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="18"/>
-		<channel name="Zone 1 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="19"/>
+		<channel name="Zone 1 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="17">
+			<effect type="intensity" startCentisecond="22703" endCentisecond="22837" intensity="100"/>
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="18">
+			<effect type="intensity" startCentisecond="22703" endCentisecond="22837" intensity="100"/>
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="19">
+			<effect type="intensity" startCentisecond="22703" endCentisecond="22837" intensity="100"/>
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Ground 1" savedIndex="20">
 			<channels>
 				<channel savedIndex="17"/>
@@ -327,9 +357,18 @@
 				<channel savedIndex="19"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="21"/>
-		<channel name="Zone 1 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="22"/>
-		<channel name="Zone 1 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="23"/>
+		<channel name="Zone 1 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="21">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="22">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="23">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Ground 2" savedIndex="24">
 			<channels>
 				<channel savedIndex="21"/>
@@ -337,9 +376,21 @@
 				<channel savedIndex="23"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="25"/>
-		<channel name="Zone 1 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="26"/>
-		<channel name="Zone 1 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="27"/>
+		<channel name="Zone 1 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="25">
+			<effect type="intensity" startCentisecond="22837" endCentisecond="22966" intensity="100"/>
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="26">
+			<effect type="intensity" startCentisecond="22837" endCentisecond="22966" intensity="100"/>
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="27">
+			<effect type="intensity" startCentisecond="22837" endCentisecond="22966" intensity="100"/>
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Ground 3" savedIndex="28">
 			<channels>
 				<channel savedIndex="25"/>
@@ -347,9 +398,18 @@
 				<channel savedIndex="27"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="29"/>
-		<channel name="Zone 1 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="30"/>
-		<channel name="Zone 1 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="31"/>
+		<channel name="Zone 1 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="29">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="30">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="31">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Ground 4" savedIndex="32">
 			<channels>
 				<channel savedIndex="29"/>
@@ -357,9 +417,18 @@
 				<channel savedIndex="31"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="33"/>
-		<channel name="Zone 1 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="34"/>
-		<channel name="Zone 1 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="35"/>
+		<channel name="Zone 1 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="33">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="34">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="35">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Ground 5" savedIndex="36">
 			<channels>
 				<channel savedIndex="33"/>
@@ -367,9 +436,18 @@
 				<channel savedIndex="35"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="37"/>
-		<channel name="Zone 1 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="38"/>
-		<channel name="Zone 1 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="39"/>
+		<channel name="Zone 1 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="37">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="38">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="39">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Ground 6" savedIndex="40">
 			<channels>
 				<channel savedIndex="37"/>
@@ -377,9 +455,18 @@
 				<channel savedIndex="39"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="41"/>
-		<channel name="Zone 1 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="42"/>
-		<channel name="Zone 1 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="43"/>
+		<channel name="Zone 1 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="41">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="42">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="43">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Ground 7" savedIndex="44">
 			<channels>
 				<channel savedIndex="41"/>
@@ -387,9 +474,21 @@
 				<channel savedIndex="43"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 1 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="45"/>
-		<channel name="Zone 1 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="46"/>
-		<channel name="Zone 1 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="47"/>
+		<channel name="Zone 1 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="45">
+			<effect type="intensity" startCentisecond="22577" endCentisecond="22703" intensity="100"/>
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="46">
+			<effect type="intensity" startCentisecond="22577" endCentisecond="22703" intensity="100"/>
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 1 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="47">
+			<effect type="intensity" startCentisecond="22577" endCentisecond="22703" intensity="100"/>
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 1 - Ground 8" savedIndex="48">
 			<channels>
 				<channel savedIndex="45"/>
@@ -411,7 +510,10 @@
 		<channel name="Zone 1 - Tree 1 Sparkle" color="12615744" centiseconds="24537" deviceType="LOR" unit="1" circuit="1" savedIndex="54"/>
 		<channel name="Zone 1 - Tree 2 Sparkle" color="12615744" centiseconds="24537" savedIndex="55"/>
 		<channel name="Zone 1 - Tree 3 Sparkle" color="12615744" centiseconds="24537" savedIndex="56"/>
-		<channel name="Zone 1 - Ground Sparkle" color="12615744" centiseconds="24537" deviceType="LOR" unit="1" circuit="2" savedIndex="57"/>
+		<channel name="Zone 1 - Ground Sparkle" color="12615744" centiseconds="24537" deviceType="LOR" unit="1" circuit="2" savedIndex="57">
+			<effect type="intensity" startCentisecond="21943" endCentisecond="22065" intensity="100"/>
+			<effect type="intensity" startCentisecond="22966" endCentisecond="23094" intensity="100"/>
+		</channel>
 		<channel name="Zone 1 - Tree 1 Effect" color="12615744" centiseconds="24537" deviceType="LOR" unit="1" circuit="3" savedIndex="58"/>
 		<channel name="Zone 1 - Tree 2 Effect" color="12615744" centiseconds="24537" savedIndex="59"/>
 		<channel name="Zone 1 - Tree 3 Effect" color="12615744" centiseconds="24537" savedIndex="60"/>
@@ -442,9 +544,15 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Reserved" color="12615744" centiseconds="24537" deviceType="LOR" unit="1" circuit="8" savedIndex="63"/>
-		<channel name="Zone 2 - Tree 1 (R)" color="255" centiseconds="24537" deviceType="LOR" unit="1" circuit="5" savedIndex="64"/>
-		<channel name="Zone 2 - Tree 1 (G)" color="65280" centiseconds="24537" deviceType="LOR" unit="1" circuit="6" savedIndex="65"/>
-		<channel name="Zone 2 - Tree 1 (B)" color="16711680" centiseconds="24537" deviceType="LOR" unit="1" circuit="7" savedIndex="66"/>
+		<channel name="Zone 2 - Tree 1 (R)" color="255" centiseconds="24537" deviceType="LOR" unit="1" circuit="5" savedIndex="64">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Tree 1 (G)" color="65280" centiseconds="24537" deviceType="LOR" unit="1" circuit="6" savedIndex="65">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Tree 1 (B)" color="16711680" centiseconds="24537" deviceType="LOR" unit="1" circuit="7" savedIndex="66">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 2 - Tree 1" savedIndex="67">
 			<channels>
 				<channel savedIndex="64"/>
@@ -452,9 +560,15 @@
 				<channel savedIndex="66"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Tree 2 (R)" color="255" centiseconds="24537" savedIndex="68"/>
-		<channel name="Zone 2 - Tree 2 (G)" color="65280" centiseconds="24537" savedIndex="69"/>
-		<channel name="Zone 2 - Tree 2 (B)" color="16711680" centiseconds="24537" savedIndex="70"/>
+		<channel name="Zone 2 - Tree 2 (R)" color="255" centiseconds="24537" savedIndex="68">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Tree 2 (G)" color="65280" centiseconds="24537" savedIndex="69">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Tree 2 (B)" color="16711680" centiseconds="24537" savedIndex="70">
+			<effect type="intensity" startCentisecond="23658" endCentisecond="24009" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 2 - Tree 2" savedIndex="71">
 			<channels>
 				<channel savedIndex="68"/>
@@ -462,9 +576,18 @@
 				<channel savedIndex="70"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="72"/>
-		<channel name="Zone 2 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="73"/>
-		<channel name="Zone 2 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="74"/>
+		<channel name="Zone 2 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="72">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="73">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="74">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 2 - Ground 1" savedIndex="75">
 			<channels>
 				<channel savedIndex="72"/>
@@ -472,9 +595,18 @@
 				<channel savedIndex="74"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="76"/>
-		<channel name="Zone 2 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="77"/>
-		<channel name="Zone 2 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="78"/>
+		<channel name="Zone 2 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="76">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="77">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="78">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 2 - Ground 2" savedIndex="79">
 			<channels>
 				<channel savedIndex="76"/>
@@ -482,9 +614,18 @@
 				<channel savedIndex="78"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="80"/>
-		<channel name="Zone 2 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="81"/>
-		<channel name="Zone 2 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="82"/>
+		<channel name="Zone 2 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="80">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="81">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="82">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 2 - Ground 3" savedIndex="83">
 			<channels>
 				<channel savedIndex="80"/>
@@ -492,9 +633,18 @@
 				<channel savedIndex="82"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="84"/>
-		<channel name="Zone 2 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="85"/>
-		<channel name="Zone 2 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="86"/>
+		<channel name="Zone 2 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="84">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="85">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="86">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 2 - Ground 4" savedIndex="87">
 			<channels>
 				<channel savedIndex="84"/>
@@ -502,9 +652,18 @@
 				<channel savedIndex="86"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="88"/>
-		<channel name="Zone 2 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="89"/>
-		<channel name="Zone 2 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="90"/>
+		<channel name="Zone 2 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="88">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="89">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="90">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 2 - Ground 5" savedIndex="91">
 			<channels>
 				<channel savedIndex="88"/>
@@ -512,9 +671,18 @@
 				<channel savedIndex="90"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="92"/>
-		<channel name="Zone 2 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="93"/>
-		<channel name="Zone 2 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="94"/>
+		<channel name="Zone 2 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="92">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="93">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="94">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 2 - Ground 6" savedIndex="95">
 			<channels>
 				<channel savedIndex="92"/>
@@ -522,9 +690,18 @@
 				<channel savedIndex="94"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="96"/>
-		<channel name="Zone 2 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="97"/>
-		<channel name="Zone 2 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="98"/>
+		<channel name="Zone 2 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="96">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="97">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="98">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 2 - Ground 7" savedIndex="99">
 			<channels>
 				<channel savedIndex="96"/>
@@ -532,9 +709,18 @@
 				<channel savedIndex="98"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 2 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="100"/>
-		<channel name="Zone 2 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="101"/>
-		<channel name="Zone 2 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="102"/>
+		<channel name="Zone 2 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="100">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="101">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 2 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="102">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 2 - Ground 8" savedIndex="103">
 			<channels>
 				<channel savedIndex="100"/>
@@ -555,7 +741,10 @@
 		<channel name="Zone 2 - Sparkle Brightness" color="12615744" centiseconds="24537" savedIndex="108"/>
 		<channel name="Zone 2 - Tree 1 Sparkle" color="12615744" centiseconds="24537" savedIndex="109"/>
 		<channel name="Zone 2 - Tree 2 Sparkle" color="12615744" centiseconds="24537" savedIndex="110"/>
-		<channel name="Zone 2 - Ground Sparkle" color="12615744" centiseconds="24537" savedIndex="111"/>
+		<channel name="Zone 2 - Ground Sparkle" color="12615744" centiseconds="24537" savedIndex="111">
+			<effect type="intensity" startCentisecond="22065" endCentisecond="22192" intensity="100"/>
+			<effect type="intensity" startCentisecond="23094" endCentisecond="23225" intensity="100"/>
+		</channel>
 		<channel name="Zone 2 - Tree 1 Effect" color="12615744" centiseconds="24537" savedIndex="112"/>
 		<channel name="Zone 2 - Tree 2 Effect" color="12615744" centiseconds="24537" savedIndex="113"/>
 		<channel name="Zone 2 - Ground Effect" color="12615744" centiseconds="24537" savedIndex="114"/>
@@ -591,9 +780,18 @@
 				<channel savedIndex="118"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="120"/>
-		<channel name="Zone 3 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="121"/>
-		<channel name="Zone 3 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="122"/>
+		<channel name="Zone 3 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="120">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="121">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="122">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 3 - Ground 1" savedIndex="123">
 			<channels>
 				<channel savedIndex="120"/>
@@ -601,9 +799,18 @@
 				<channel savedIndex="122"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="124"/>
-		<channel name="Zone 3 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="125"/>
-		<channel name="Zone 3 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="126"/>
+		<channel name="Zone 3 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="124">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="125">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="126">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 3 - Ground 2" savedIndex="127">
 			<channels>
 				<channel savedIndex="124"/>
@@ -611,9 +818,18 @@
 				<channel savedIndex="126"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="128"/>
-		<channel name="Zone 3 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="129"/>
-		<channel name="Zone 3 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="130"/>
+		<channel name="Zone 3 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="128">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="129">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="130">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 3 - Ground 3" savedIndex="131">
 			<channels>
 				<channel savedIndex="128"/>
@@ -621,9 +837,18 @@
 				<channel savedIndex="130"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="132"/>
-		<channel name="Zone 3 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="133"/>
-		<channel name="Zone 3 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="134"/>
+		<channel name="Zone 3 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="132">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="133">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="134">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 3 - Ground 4" savedIndex="135">
 			<channels>
 				<channel savedIndex="132"/>
@@ -631,9 +856,18 @@
 				<channel savedIndex="134"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="136"/>
-		<channel name="Zone 3 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="137"/>
-		<channel name="Zone 3 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="138"/>
+		<channel name="Zone 3 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="136">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="137">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="138">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 3 - Ground 5" savedIndex="139">
 			<channels>
 				<channel savedIndex="136"/>
@@ -641,9 +875,18 @@
 				<channel savedIndex="138"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="140"/>
-		<channel name="Zone 3 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="141"/>
-		<channel name="Zone 3 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="142"/>
+		<channel name="Zone 3 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="140">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="141">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="142">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 3 - Ground 6" savedIndex="143">
 			<channels>
 				<channel savedIndex="140"/>
@@ -651,9 +894,18 @@
 				<channel savedIndex="142"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="144"/>
-		<channel name="Zone 3 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="145"/>
-		<channel name="Zone 3 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="146"/>
+		<channel name="Zone 3 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="144">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="145">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="146">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 3 - Ground 7" savedIndex="147">
 			<channels>
 				<channel savedIndex="144"/>
@@ -661,9 +913,18 @@
 				<channel savedIndex="146"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 3 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="148"/>
-		<channel name="Zone 3 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="149"/>
-		<channel name="Zone 3 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="150"/>
+		<channel name="Zone 3 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="148">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="149">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 3 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="150">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 3 - Ground 8" savedIndex="151">
 			<channels>
 				<channel savedIndex="148"/>
@@ -683,7 +944,10 @@
 		</rgbChannel>
 		<channel name="Zone 3 - Sparkle Brightness" color="12615744" centiseconds="24537" savedIndex="156"/>
 		<channel name="Zone 3 - Tree Sparkle" color="12615744" centiseconds="24537" savedIndex="157"/>
-		<channel name="Zone 3 - Ground Sparkle" color="12615744" centiseconds="24537" savedIndex="158"/>
+		<channel name="Zone 3 - Ground Sparkle" color="12615744" centiseconds="24537" savedIndex="158">
+			<effect type="intensity" startCentisecond="22192" endCentisecond="22577" intensity="100"/>
+			<effect type="intensity" startCentisecond="23225" endCentisecond="23564" intensity="100"/>
+		</channel>
 		<channel name="Zone 3 - Tree Effect" color="12615744" centiseconds="24537" savedIndex="159"/>
 		<channel name="Zone 3 - Ground Effect" color="12615744" centiseconds="24537" savedIndex="160"/>
 		<channelGroupList totalCentiseconds="24537" name="Zone 3" savedIndex="161">
@@ -715,9 +979,18 @@
 				<channel savedIndex="164"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="166"/>
-		<channel name="Zone 4 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="167"/>
-		<channel name="Zone 4 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="168"/>
+		<channel name="Zone 4 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="166">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="167">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="168">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 4 - Ground 1" savedIndex="169">
 			<channels>
 				<channel savedIndex="166"/>
@@ -725,9 +998,18 @@
 				<channel savedIndex="168"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="170"/>
-		<channel name="Zone 4 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="171"/>
-		<channel name="Zone 4 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="172"/>
+		<channel name="Zone 4 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="170">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="171">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="172">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 4 - Ground 2" savedIndex="173">
 			<channels>
 				<channel savedIndex="170"/>
@@ -735,9 +1017,18 @@
 				<channel savedIndex="172"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="174"/>
-		<channel name="Zone 4 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="175"/>
-		<channel name="Zone 4 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="176"/>
+		<channel name="Zone 4 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="174">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="175">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="176">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 4 - Ground 3" savedIndex="177">
 			<channels>
 				<channel savedIndex="174"/>
@@ -745,9 +1036,18 @@
 				<channel savedIndex="176"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="178"/>
-		<channel name="Zone 4 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="179"/>
-		<channel name="Zone 4 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="180"/>
+		<channel name="Zone 4 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="178">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="179">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="180">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 4 - Ground 4" savedIndex="181">
 			<channels>
 				<channel savedIndex="178"/>
@@ -755,9 +1055,18 @@
 				<channel savedIndex="180"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="182"/>
-		<channel name="Zone 4 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="183"/>
-		<channel name="Zone 4 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="184"/>
+		<channel name="Zone 4 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="182">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="183">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="184">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 4 - Ground 5" savedIndex="185">
 			<channels>
 				<channel savedIndex="182"/>
@@ -765,9 +1074,18 @@
 				<channel savedIndex="184"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="186"/>
-		<channel name="Zone 4 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="187"/>
-		<channel name="Zone 4 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="188"/>
+		<channel name="Zone 4 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="186">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="187">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="188">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 4 - Ground 6" savedIndex="189">
 			<channels>
 				<channel savedIndex="186"/>
@@ -775,9 +1093,18 @@
 				<channel savedIndex="188"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="190"/>
-		<channel name="Zone 4 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="191"/>
-		<channel name="Zone 4 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="192"/>
+		<channel name="Zone 4 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="190">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="191">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="192">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 4 - Ground 7" savedIndex="193">
 			<channels>
 				<channel savedIndex="190"/>
@@ -785,9 +1112,18 @@
 				<channel savedIndex="192"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 4 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="194"/>
-		<channel name="Zone 4 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="195"/>
-		<channel name="Zone 4 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="196"/>
+		<channel name="Zone 4 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="194">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="195">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 4 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="196">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 4 - Ground 8" savedIndex="197">
 			<channels>
 				<channel savedIndex="194"/>
@@ -807,7 +1143,10 @@
 		</rgbChannel>
 		<channel name="Zone 4 - Sparkle Brightness" color="12615744" centiseconds="24537" savedIndex="202"/>
 		<channel name="Zone 4 - Tree Sparkle" color="12615744" centiseconds="24537" savedIndex="203"/>
-		<channel name="Zone 4 - Ground Sparkle" color="12615744" centiseconds="24537" savedIndex="204"/>
+		<channel name="Zone 4 - Ground Sparkle" color="12615744" centiseconds="24537" savedIndex="204">
+			<effect type="intensity" startCentisecond="22321" endCentisecond="22577" intensity="100"/>
+			<effect type="intensity" startCentisecond="23348" endCentisecond="23564" intensity="100"/>
+		</channel>
 		<channel name="Zone 4 - Tree Effect" color="12615744" centiseconds="24537" savedIndex="205"/>
 		<channel name="Zone 4 - Ground Effect" color="12615744" centiseconds="24537" savedIndex="206"/>
 		<channelGroupList totalCentiseconds="24537" name="Zone 4" savedIndex="207">
@@ -839,9 +1178,18 @@
 				<channel savedIndex="210"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 5 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="212"/>
-		<channel name="Zone 5 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="213"/>
-		<channel name="Zone 5 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="214"/>
+		<channel name="Zone 5 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="212">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="213">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="214">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 5 - Ground 1" savedIndex="215">
 			<channels>
 				<channel savedIndex="212"/>
@@ -849,9 +1197,18 @@
 				<channel savedIndex="214"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 5 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="216"/>
-		<channel name="Zone 5 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="217"/>
-		<channel name="Zone 5 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="218"/>
+		<channel name="Zone 5 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="216">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="217">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="218">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 5 - Ground 2" savedIndex="219">
 			<channels>
 				<channel savedIndex="216"/>
@@ -859,9 +1216,18 @@
 				<channel savedIndex="218"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 5 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="220"/>
-		<channel name="Zone 5 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="221"/>
-		<channel name="Zone 5 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="222"/>
+		<channel name="Zone 5 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="220">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="221">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="222">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 5 - Ground 3" savedIndex="223">
 			<channels>
 				<channel savedIndex="220"/>
@@ -869,9 +1235,18 @@
 				<channel savedIndex="222"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 5 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="224"/>
-		<channel name="Zone 5 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="225"/>
-		<channel name="Zone 5 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="226"/>
+		<channel name="Zone 5 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="224">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="225">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="226">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 5 - Ground 4" savedIndex="227">
 			<channels>
 				<channel savedIndex="224"/>
@@ -879,9 +1254,18 @@
 				<channel savedIndex="226"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 5 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="228"/>
-		<channel name="Zone 5 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="229"/>
-		<channel name="Zone 5 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="230"/>
+		<channel name="Zone 5 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="228">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="229">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="230">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 5 - Ground 5" savedIndex="231">
 			<channels>
 				<channel savedIndex="228"/>
@@ -889,9 +1273,18 @@
 				<channel savedIndex="230"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 5 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="232"/>
-		<channel name="Zone 5 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="233"/>
-		<channel name="Zone 5 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="234"/>
+		<channel name="Zone 5 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="232">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="233">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="234">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 5 - Ground 6" savedIndex="235">
 			<channels>
 				<channel savedIndex="232"/>
@@ -899,9 +1292,18 @@
 				<channel savedIndex="234"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 5 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="236"/>
-		<channel name="Zone 5 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="237"/>
-		<channel name="Zone 5 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="238"/>
+		<channel name="Zone 5 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="236">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="237">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="238">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 5 - Ground 7" savedIndex="239">
 			<channels>
 				<channel savedIndex="236"/>
@@ -909,9 +1311,18 @@
 				<channel savedIndex="238"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 5 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="240"/>
-		<channel name="Zone 5 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="241"/>
-		<channel name="Zone 5 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="242"/>
+		<channel name="Zone 5 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="240">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="241">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 5 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="242">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 5 - Ground 8" savedIndex="243">
 			<channels>
 				<channel savedIndex="240"/>
@@ -931,7 +1342,10 @@
 		</rgbChannel>
 		<channel name="Zone 5 - Sparkle Brightness" color="12615744" centiseconds="24537" savedIndex="248"/>
 		<channel name="Zone 5 - Tree Sparkle" color="12615744" centiseconds="24537" savedIndex="249"/>
-		<channel name="Zone 5 - Ground Sparkle" color="12615744" centiseconds="24537" savedIndex="250"/>
+		<channel name="Zone 5 - Ground Sparkle" color="12615744" centiseconds="24537" savedIndex="250">
+			<effect type="intensity" startCentisecond="22192" endCentisecond="22577" intensity="100"/>
+			<effect type="intensity" startCentisecond="23225" endCentisecond="23564" intensity="100"/>
+		</channel>
 		<channel name="Zone 5 - Tree Effect" color="12615744" centiseconds="24537" savedIndex="251"/>
 		<channel name="Zone 5 - Ground Effect" color="12615744" centiseconds="24537" savedIndex="252"/>
 		<channelGroupList totalCentiseconds="24537" name="Zone 5" savedIndex="253">
@@ -963,9 +1377,18 @@
 				<channel savedIndex="256"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="258"/>
-		<channel name="Zone 6 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="259"/>
-		<channel name="Zone 6 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="260"/>
+		<channel name="Zone 6 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="258">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="259">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="260">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 6 - Ground 1" savedIndex="261">
 			<channels>
 				<channel savedIndex="258"/>
@@ -973,9 +1396,18 @@
 				<channel savedIndex="260"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="262"/>
-		<channel name="Zone 6 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="263"/>
-		<channel name="Zone 6 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="264"/>
+		<channel name="Zone 6 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="262">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="263">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="264">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 6 - Ground 2" savedIndex="265">
 			<channels>
 				<channel savedIndex="262"/>
@@ -983,9 +1415,18 @@
 				<channel savedIndex="264"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="266"/>
-		<channel name="Zone 6 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="267"/>
-		<channel name="Zone 6 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="268"/>
+		<channel name="Zone 6 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="266">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 3 (G)" color="65280" centiseconds="24537" savedIndex="267">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 3 (B)" color="16711680" centiseconds="24537" savedIndex="268">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 6 - Ground 3" savedIndex="269">
 			<channels>
 				<channel savedIndex="266"/>
@@ -993,9 +1434,18 @@
 				<channel savedIndex="268"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="270"/>
-		<channel name="Zone 6 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="271"/>
-		<channel name="Zone 6 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="272"/>
+		<channel name="Zone 6 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="270">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="271">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="272">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 6 - Ground 4" savedIndex="273">
 			<channels>
 				<channel savedIndex="270"/>
@@ -1003,9 +1453,18 @@
 				<channel savedIndex="272"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="274"/>
-		<channel name="Zone 6 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="275"/>
-		<channel name="Zone 6 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="276"/>
+		<channel name="Zone 6 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="274">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 5 (G)" color="65280" centiseconds="24537" savedIndex="275">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 5 (B)" color="16711680" centiseconds="24537" savedIndex="276">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 6 - Ground 5" savedIndex="277">
 			<channels>
 				<channel savedIndex="274"/>
@@ -1013,9 +1472,18 @@
 				<channel savedIndex="276"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="278"/>
-		<channel name="Zone 6 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="279"/>
-		<channel name="Zone 6 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="280"/>
+		<channel name="Zone 6 - Ground 6 (R)" color="255" centiseconds="24537" savedIndex="278">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 6 (G)" color="65280" centiseconds="24537" savedIndex="279">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 6 (B)" color="16711680" centiseconds="24537" savedIndex="280">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 6 - Ground 6" savedIndex="281">
 			<channels>
 				<channel savedIndex="278"/>
@@ -1023,9 +1491,18 @@
 				<channel savedIndex="280"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="282"/>
-		<channel name="Zone 6 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="283"/>
-		<channel name="Zone 6 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="284"/>
+		<channel name="Zone 6 - Ground 7 (R)" color="255" centiseconds="24537" savedIndex="282">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 7 (G)" color="65280" centiseconds="24537" savedIndex="283">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 7 (B)" color="16711680" centiseconds="24537" savedIndex="284">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 6 - Ground 7" savedIndex="285">
 			<channels>
 				<channel savedIndex="282"/>
@@ -1033,9 +1510,18 @@
 				<channel savedIndex="284"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 6 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="286"/>
-		<channel name="Zone 6 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="287"/>
-		<channel name="Zone 6 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="288"/>
+		<channel name="Zone 6 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="286">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="287">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
+		<channel name="Zone 6 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="288">
+			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<rgbChannel totalCentiseconds="24537" name="Zone 6 - Ground 8" savedIndex="289">
 			<channels>
 				<channel savedIndex="286"/>
@@ -1055,7 +1541,10 @@
 		</rgbChannel>
 		<channel name="Zone 6 - Sparkle Brightness" color="12615744" centiseconds="24537" savedIndex="294"/>
 		<channel name="Zone 6 - Tree Sparkle" color="12615744" centiseconds="24537" savedIndex="295"/>
-		<channel name="Zone 6 - Ground Sparkle" color="12615744" centiseconds="24537" savedIndex="296"/>
+		<channel name="Zone 6 - Ground Sparkle" color="12615744" centiseconds="24537" savedIndex="296">
+			<effect type="intensity" startCentisecond="22321" endCentisecond="22577" intensity="100"/>
+			<effect type="intensity" startCentisecond="23348" endCentisecond="23564" intensity="100"/>
+		</channel>
 		<channel name="Zone 6 - Tree Effect" color="12615744" centiseconds="24537" savedIndex="297"/>
 		<channel name="Zone 6 - Gound Effect" color="12615744" centiseconds="24537" savedIndex="298"/>
 		<channelGroupList totalCentiseconds="24537" name="Zone 6" savedIndex="299">
@@ -1335,23 +1824,23 @@
 			<timing centisecond="21689"/>
 			<timing centisecond="21775"/>
 			<timing centisecond="21861"/>
-			<timing centisecond="21946"/>
-			<timing centisecond="22072"/>
-			<timing centisecond="22201"/>
-			<timing centisecond="22330"/>
-			<timing centisecond="22461"/>
-			<timing centisecond="22586"/>
-			<timing centisecond="22711"/>
-			<timing centisecond="22843"/>
-			<timing centisecond="22975"/>
-			<timing centisecond="23101"/>
+			<timing centisecond="21943"/>
+			<timing centisecond="22065"/>
+			<timing centisecond="22192"/>
+			<timing centisecond="22321"/>
+			<timing centisecond="22449"/>
+			<timing centisecond="22577"/>
+			<timing centisecond="22703"/>
+			<timing centisecond="22837"/>
+			<timing centisecond="22966"/>
+			<timing centisecond="23094"/>
 			<timing centisecond="23225"/>
-			<timing centisecond="23354"/>
-			<timing centisecond="23485"/>
-			<timing centisecond="23573"/>
-			<timing centisecond="23603"/>
+			<timing centisecond="23348"/>
+			<timing centisecond="23480"/>
+			<timing centisecond="23564"/>
+			<timing centisecond="23599"/>
 			<timing centisecond="23658"/>
-			<timing centisecond="24174"/>
+			<timing centisecond="24009"/>
 			<timing centisecond="24604"/>
 			<timing centisecond="24690"/>
 			<timing centisecond="24775"/>
