@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  Copyright 2014 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
 <sequence saveFileVersion="14" author="John Storms" createdAt="7/30/2014 12:20:21 PM" musicAlbum="Frozen" musicArtist="Katie Lopez" musicFilename="1-02 Do You Want to Build a Snowman_.m4a" musicTitle="Do You Want To Build A Snowman?" videoUsage="2">
 	<channels>
 		<channel name="Zone 3 - Tree (R)" color="255" centiseconds="20653" savedIndex="0">
