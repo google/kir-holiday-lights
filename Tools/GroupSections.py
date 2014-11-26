@@ -123,7 +123,7 @@ def ProcessFile(file_name):
 def Main():
     if len(sys.argv) < 2:
         print 'Usage:'
-        print '  python ReverseZones.py <sequence.lms>'
+        print '  python GroupSections.py <sequence.lms>'
         return -1
 
     ProcessFile(sys.argv[1])
