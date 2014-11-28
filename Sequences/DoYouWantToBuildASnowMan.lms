@@ -2,19 +2,19 @@
 <sequence saveFileVersion="14" author="John Storms" createdAt="7/30/2014 12:20:21 PM" musicAlbum="Frozen" musicArtist="Katie Lopez" musicFilename="1-02 Do You Want to Build a Snowman_.m4a" musicTitle="Do You Want To Build A Snowman?" videoUsage="2">
 	<channels>
 		<channel name="Zone 3 - Tree (R)" color="255" centiseconds="20653" savedIndex="0">
-			<effect type="intensity" startCentisecond="130" endCentisecond="293" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="293" endCentisecond="453" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="453" endCentisecond="611" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="0" endCentisecond="170" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="453" endCentisecond="592" startIntensity="59" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 3 - Tree (G)" color="65280" centiseconds="20653" savedIndex="1">
-			<effect type="intensity" startCentisecond="130" endCentisecond="293" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="293" endCentisecond="453" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="453" endCentisecond="611" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="0" endCentisecond="170" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="453" endCentisecond="592" startIntensity="6" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 3 - Tree (B)" color="16711680" centiseconds="20653" savedIndex="2">
-			<effect type="intensity" startCentisecond="130" endCentisecond="293" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="293" endCentisecond="453" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="453" endCentisecond="611" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="0" endCentisecond="170" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="453" endCentisecond="592" startIntensity="46" endIntensity="0"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 3 - Tree" savedIndex="3">
 			<channels>
@@ -29,19 +29,19 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Zone 6 - Tree (R)" color="255" centiseconds="20653" savedIndex="5">
-			<effect type="intensity" startCentisecond="293" endCentisecond="453" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="453" endCentisecond="592" startIntensity="59" endIntensity="7"/>
-			<effect type="intensity" startCentisecond="592" endCentisecond="791" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="592" endCentisecond="688" startIntensity="59" endIntensity="31"/>
 		</channel>
 		<channel name="Zone 6 - Tree (G)" color="65280" centiseconds="20653" savedIndex="6">
-			<effect type="intensity" startCentisecond="293" endCentisecond="453" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="453" endCentisecond="592" startIntensity="6" endIntensity="1"/>
-			<effect type="intensity" startCentisecond="592" endCentisecond="791" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="592" endCentisecond="688" startIntensity="6" endIntensity="3"/>
 		</channel>
 		<channel name="Zone 6 - Tree (B)" color="16711680" centiseconds="20653" savedIndex="7">
-			<effect type="intensity" startCentisecond="293" endCentisecond="453" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="453" endCentisecond="592" startIntensity="46" endIntensity="6"/>
-			<effect type="intensity" startCentisecond="592" endCentisecond="791" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="592" endCentisecond="688" startIntensity="46" endIntensity="24"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 6 - Tree" savedIndex="8">
 			<channels>
@@ -56,19 +56,19 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Zone 4 - Tree (R)" color="255" centiseconds="20653" savedIndex="10">
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="492" endCentisecond="670" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="71" endCentisecond="231" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="293" endCentisecond="453" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="492" endCentisecond="630" startIntensity="59" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 4 - Tree (G)" color="65280" centiseconds="20653" savedIndex="11">
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="492" endCentisecond="670" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="71" endCentisecond="231" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="293" endCentisecond="453" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="492" endCentisecond="630" startIntensity="6" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 4 - Tree (B)" color="16711680" centiseconds="20653" savedIndex="12">
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="492" endCentisecond="670" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="71" endCentisecond="231" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="293" endCentisecond="453" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="492" endCentisecond="630" startIntensity="46" endIntensity="0"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 4 - Tree" savedIndex="13">
 			<channels>
@@ -83,19 +83,19 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Zone 5 - Tree (R)" color="255" centiseconds="20653" deviceType="DMX Universe" circuit="6" network="1" savedIndex="15">
-			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="59" endIntensity="7"/>
-			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="554" endCentisecond="723" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="130" endCentisecond="293" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="554" endCentisecond="688" startIntensity="59" endIntensity="12"/>
 		</channel>
 		<channel name="Zone 5 - Tree (G)" color="65280" centiseconds="20653" deviceType="DMX Universe" circuit="7" network="1" savedIndex="16">
-			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="6" endIntensity="1"/>
-			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="554" endCentisecond="723" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="130" endCentisecond="293" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="554" endCentisecond="688" startIntensity="6" endIntensity="1"/>
 		</channel>
 		<channel name="Zone 5 - Tree (B)" color="16711680" centiseconds="20653" deviceType="DMX Universe" circuit="8" network="1" savedIndex="17">
-			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="46" endIntensity="5"/>
-			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="554" endCentisecond="723" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="130" endCentisecond="293" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="554" endCentisecond="688" startIntensity="46" endIntensity="10"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 5 - Tree" savedIndex="18">
 			<channels>
@@ -126,21 +126,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 3 - Ground 1 (G)" color="65280" centiseconds="20653" savedIndex="26">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 3 - Ground 1 (B)" color="16711680" centiseconds="20653" savedIndex="27">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 3 - Ground 1" savedIndex="28">
 			<channels>
@@ -154,21 +157,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 3 - Ground 2 (G)" color="65280" centiseconds="20653" savedIndex="30">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 3 - Ground 2 (B)" color="16711680" centiseconds="20653" savedIndex="31">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 3 - Ground 2" savedIndex="32">
 			<channels>
@@ -182,21 +188,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 3 - Ground 3 (G)" color="65280" centiseconds="20653" savedIndex="34">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 3 - Ground 3 (B)" color="16711680" centiseconds="20653" savedIndex="35">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 3 - Ground 3" savedIndex="36">
 			<channels>
@@ -210,21 +219,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 3 - Ground 4 (G)" color="65280" centiseconds="20653" savedIndex="38">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 3 - Ground 4 (B)" color="16711680" centiseconds="20653" savedIndex="39">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 3 - Ground 4" savedIndex="40">
 			<channels>
@@ -238,21 +250,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 3 - Ground 5 (G)" color="65280" centiseconds="20653" savedIndex="42">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 3 - Ground 5 (B)" color="16711680" centiseconds="20653" savedIndex="43">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 3 - Ground 5" savedIndex="44">
 			<channels>
@@ -266,21 +281,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 3 - Ground 6 (G)" color="65280" centiseconds="20653" savedIndex="46">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 3 - Ground 6 (B)" color="16711680" centiseconds="20653" savedIndex="47">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 3 - Ground 6" savedIndex="48">
 			<channels>
@@ -294,21 +312,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 3 - Ground 7 (G)" color="65280" centiseconds="20653" savedIndex="50">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 3 - Ground 7 (B)" color="16711680" centiseconds="20653" savedIndex="51">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 3 - Ground 7" savedIndex="52">
 			<channels>
@@ -322,21 +343,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 3 - Ground 8 (G)" color="65280" centiseconds="20653" savedIndex="54">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 3 - Ground 8 (B)" color="16711680" centiseconds="20653" savedIndex="55">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 3 - Ground 8" savedIndex="56">
 			<channels>
@@ -380,19 +404,13 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Zone 2 - Tree 1 (R)" color="255" centiseconds="20653" deviceType="LOR" unit="1" circuit="5" savedIndex="67">
-			<effect type="intensity" startCentisecond="71" endCentisecond="231" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="573" endCentisecond="688" intensity="39"/>
 		</channel>
 		<channel name="Zone 2 - Tree 1 (G)" color="65280" centiseconds="20653" deviceType="LOR" unit="1" circuit="6" savedIndex="68">
-			<effect type="intensity" startCentisecond="71" endCentisecond="231" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="573" endCentisecond="688" intensity="35"/>
 		</channel>
 		<channel name="Zone 2 - Tree 1 (B)" color="16711680" centiseconds="20653" deviceType="LOR" unit="1" circuit="7" savedIndex="69">
-			<effect type="intensity" startCentisecond="71" endCentisecond="231" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="573" endCentisecond="688" intensity="16"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 2 - Tree 1" savedIndex="70">
 			<channels>
@@ -402,19 +420,13 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 2 - Tree 2 (R)" color="255" centiseconds="20653" savedIndex="71">
-			<effect type="intensity" startCentisecond="71" endCentisecond="231" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="612" endCentisecond="688" intensity="39"/>
 		</channel>
 		<channel name="Zone 2 - Tree 2 (G)" color="65280" centiseconds="20653" savedIndex="72">
-			<effect type="intensity" startCentisecond="71" endCentisecond="231" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="612" endCentisecond="688" intensity="35"/>
 		</channel>
 		<channel name="Zone 2 - Tree 2 (B)" color="16711680" centiseconds="20653" savedIndex="73">
-			<effect type="intensity" startCentisecond="71" endCentisecond="231" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="231" endCentisecond="391" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="391" endCentisecond="554" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="612" endCentisecond="688" intensity="16"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 2 - Tree 2" savedIndex="74">
 			<channels>
@@ -428,21 +440,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 2 - Ground 1 (G)" color="65280" centiseconds="20653" savedIndex="76">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 2 - Ground 1 (B)" color="16711680" centiseconds="20653" savedIndex="77">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 2 - Ground 1" savedIndex="78">
 			<channels>
@@ -456,21 +471,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 2 - Ground 2 (G)" color="65280" centiseconds="20653" savedIndex="80">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 2 - Ground 2 (B)" color="16711680" centiseconds="20653" savedIndex="81">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 2 - Ground 2" savedIndex="82">
 			<channels>
@@ -484,21 +502,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 2 - Ground 3 (G)" color="65280" centiseconds="20653" savedIndex="84">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 2 - Ground 3 (B)" color="16711680" centiseconds="20653" savedIndex="85">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 2 - Ground 3" savedIndex="86">
 			<channels>
@@ -512,21 +533,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 2 - Ground 4 (G)" color="65280" centiseconds="20653" savedIndex="88">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 2 - Ground 4 (B)" color="16711680" centiseconds="20653" savedIndex="89">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 2 - Ground 4" savedIndex="90">
 			<channels>
@@ -540,21 +564,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 2 - Ground 5 (G)" color="65280" centiseconds="20653" savedIndex="92">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 2 - Ground 5 (B)" color="16711680" centiseconds="20653" savedIndex="93">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 2 - Ground 5" savedIndex="94">
 			<channels>
@@ -568,21 +595,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 2 - Ground 6 (G)" color="65280" centiseconds="20653" savedIndex="96">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 2 - Ground 6 (B)" color="16711680" centiseconds="20653" savedIndex="97">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 2 - Ground 6" savedIndex="98">
 			<channels>
@@ -596,21 +626,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 2 - Ground 7 (G)" color="65280" centiseconds="20653" savedIndex="100">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 2 - Ground 7 (B)" color="16711680" centiseconds="20653" savedIndex="101">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 2 - Ground 7" savedIndex="102">
 			<channels>
@@ -624,21 +657,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 2 - Ground 8 (G)" color="65280" centiseconds="20653" savedIndex="104">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 2 - Ground 8 (B)" color="16711680" centiseconds="20653" savedIndex="105">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 2 - Ground 8" savedIndex="106">
 			<channels>
@@ -3489,20 +3525,13 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Zone 1 - Tree 1 (R)" color="255" centiseconds="20653" deviceType="DMX Universe" circuit="16" network="1" savedIndex="189">
-			<effect type="intensity" startCentisecond="0" endCentisecond="152" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="152" endCentisecond="170" startIntensity="11" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="495" endCentisecond="688" intensity="39"/>
 		</channel>
 		<channel name="Zone 1 - Tree 1 (G)" color="65280" centiseconds="20653" savedIndex="190">
-			<effect type="intensity" startCentisecond="0" endCentisecond="152" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="495" endCentisecond="688" intensity="35"/>
 		</channel>
 		<channel name="Zone 1 - Tree 1 (B)" color="16711680" centiseconds="20653" savedIndex="191">
-			<effect type="intensity" startCentisecond="0" endCentisecond="152" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="495" endCentisecond="688" intensity="16"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Tree 1" savedIndex="192">
 			<channels>
@@ -3512,20 +3541,13 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 1 - Tree 2 (R)" color="255" centiseconds="20653" savedIndex="193">
-			<effect type="intensity" startCentisecond="0" endCentisecond="152" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="152" endCentisecond="170" startIntensity="11" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="535" endCentisecond="688" intensity="39"/>
 		</channel>
 		<channel name="Zone 1 - Tree 2 (G)" color="65280" centiseconds="20653" savedIndex="194">
-			<effect type="intensity" startCentisecond="0" endCentisecond="152" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="535" endCentisecond="688" intensity="35"/>
 		</channel>
 		<channel name="Zone 1 - Tree 2 (B)" color="16711680" centiseconds="20653" savedIndex="195">
-			<effect type="intensity" startCentisecond="0" endCentisecond="152" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="535" endCentisecond="688" intensity="16"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Tree 2" savedIndex="196">
 			<channels>
@@ -3535,20 +3557,13 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 1 - Tree 3 (R)" color="255" centiseconds="20653" savedIndex="197">
-			<effect type="intensity" startCentisecond="0" endCentisecond="152" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="152" endCentisecond="170" startIntensity="11" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="59" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="59" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="562" endCentisecond="688" intensity="39"/>
 		</channel>
 		<channel name="Zone 1 - Tree 3 (G)" color="65280" centiseconds="20653" savedIndex="198">
-			<effect type="intensity" startCentisecond="0" endCentisecond="152" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="562" endCentisecond="688" intensity="35"/>
 		</channel>
 		<channel name="Zone 1 - Tree 3 (B)" color="16711680" centiseconds="20653" savedIndex="199">
-			<effect type="intensity" startCentisecond="0" endCentisecond="152" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="170" endCentisecond="329" startIntensity="46" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="329" endCentisecond="492" startIntensity="46" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="562" endCentisecond="688" intensity="16"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Tree 3" savedIndex="200">
 			<channels>
@@ -3562,21 +3577,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 1 - Ground 1 (G)" color="65280" centiseconds="20653" savedIndex="202">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 1 - Ground 1 (B)" color="16711680" centiseconds="20653" savedIndex="203">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Ground 1" savedIndex="204">
 			<channels>
@@ -3590,21 +3608,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 1 - Ground 2 (G)" color="65280" centiseconds="20653" savedIndex="206">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 1 - Ground 2 (B)" color="16711680" centiseconds="20653" savedIndex="207">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Ground 2" savedIndex="208">
 			<channels>
@@ -3618,21 +3639,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 1 - Ground 3 (G)" color="65280" centiseconds="20653" savedIndex="210">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 1 - Ground 3 (B)" color="16711680" centiseconds="20653" savedIndex="211">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Ground 3" savedIndex="212">
 			<channels>
@@ -3646,21 +3670,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 1 - Ground 4 (G)" color="65280" centiseconds="20653" savedIndex="214">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 1 - Ground 4 (B)" color="16711680" centiseconds="20653" savedIndex="215">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Ground 4" savedIndex="216">
 			<channels>
@@ -3674,21 +3701,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 1 - Ground 5 (G)" color="65280" centiseconds="20653" savedIndex="218">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 1 - Ground 5 (B)" color="16711680" centiseconds="20653" savedIndex="219">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Ground 5" savedIndex="220">
 			<channels>
@@ -3702,21 +3732,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 1 - Ground 6 (G)" color="65280" centiseconds="20653" savedIndex="222">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 1 - Ground 6 (B)" color="16711680" centiseconds="20653" savedIndex="223">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Ground 6" savedIndex="224">
 			<channels>
@@ -3730,21 +3763,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 1 - Ground 7 (G)" color="65280" centiseconds="20653" savedIndex="226">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 1 - Ground 7 (B)" color="16711680" centiseconds="20653" savedIndex="227">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Ground 7" savedIndex="228">
 			<channels>
@@ -3758,21 +3794,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 1 - Ground 8 (G)" color="65280" centiseconds="20653" savedIndex="230">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 1 - Ground 8 (B)" color="16711680" centiseconds="20653" savedIndex="231">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 1 - Ground 8" savedIndex="232">
 			<channels>
@@ -3830,21 +3869,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 4 - Ground 1 (G)" color="65280" centiseconds="20653" savedIndex="248">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 4 - Ground 1 (B)" color="16711680" centiseconds="20653" savedIndex="249">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 4 - Ground 1" savedIndex="250">
 			<channels>
@@ -3858,21 +3900,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 4 - Ground 2 (G)" color="65280" centiseconds="20653" savedIndex="252">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 4 - Ground 2 (B)" color="16711680" centiseconds="20653" savedIndex="253">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 4 - Ground 2" savedIndex="254">
 			<channels>
@@ -3886,21 +3931,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 4 - Ground 3 (G)" color="65280" centiseconds="20653" savedIndex="256">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 4 - Ground 3 (B)" color="16711680" centiseconds="20653" savedIndex="257">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 4 - Ground 3" savedIndex="258">
 			<channels>
@@ -3914,21 +3962,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 4 - Ground 4 (G)" color="65280" centiseconds="20653" savedIndex="260">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 4 - Ground 4 (B)" color="16711680" centiseconds="20653" savedIndex="261">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 4 - Ground 4" savedIndex="262">
 			<channels>
@@ -3942,21 +3993,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 4 - Ground 5 (G)" color="65280" centiseconds="20653" savedIndex="264">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 4 - Ground 5 (B)" color="16711680" centiseconds="20653" savedIndex="265">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 4 - Ground 5" savedIndex="266">
 			<channels>
@@ -3970,21 +4024,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 4 - Ground 6 (G)" color="65280" centiseconds="20653" savedIndex="268">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 4 - Ground 6 (B)" color="16711680" centiseconds="20653" savedIndex="269">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 4 - Ground 6" savedIndex="270">
 			<channels>
@@ -3998,21 +4055,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 4 - Ground 7 (G)" color="65280" centiseconds="20653" savedIndex="272">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 4 - Ground 7 (B)" color="16711680" centiseconds="20653" savedIndex="273">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 4 - Ground 7" savedIndex="274">
 			<channels>
@@ -4026,21 +4086,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 4 - Ground 8 (G)" color="65280" centiseconds="20653" savedIndex="276">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 4 - Ground 8 (B)" color="16711680" centiseconds="20653" savedIndex="277">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 4 - Ground 8" savedIndex="278">
 			<channels>
@@ -4088,21 +4151,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 6 - Ground 1 (G)" color="65280" centiseconds="20653" savedIndex="290">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 6 - Ground 1 (B)" color="16711680" centiseconds="20653" savedIndex="291">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 6 - Ground 1" savedIndex="292">
 			<channels>
@@ -4116,21 +4182,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 6 - Ground 2 (G)" color="65280" centiseconds="20653" savedIndex="294">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 6 - Ground 2 (B)" color="16711680" centiseconds="20653" savedIndex="295">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 6 - Ground 2" savedIndex="296">
 			<channels>
@@ -4144,21 +4213,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 6 - Ground 3 (G)" color="65280" centiseconds="20653" savedIndex="298">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 6 - Ground 3 (B)" color="16711680" centiseconds="20653" savedIndex="299">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 6 - Ground 3" savedIndex="300">
 			<channels>
@@ -4172,21 +4244,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 6 - Ground 4 (G)" color="65280" centiseconds="20653" savedIndex="302">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 6 - Ground 4 (B)" color="16711680" centiseconds="20653" savedIndex="303">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 6 - Ground 4" savedIndex="304">
 			<channels>
@@ -4200,21 +4275,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 6 - Ground 5 (G)" color="65280" centiseconds="20653" savedIndex="306">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 6 - Ground 5 (B)" color="16711680" centiseconds="20653" savedIndex="307">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 6 - Ground 5" savedIndex="308">
 			<channels>
@@ -4228,21 +4306,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 6 - Ground 6 (G)" color="65280" centiseconds="20653" savedIndex="310">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 6 - Ground 6 (B)" color="16711680" centiseconds="20653" savedIndex="311">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 6 - Ground 6" savedIndex="312">
 			<channels>
@@ -4256,21 +4337,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 6 - Ground 7 (G)" color="65280" centiseconds="20653" savedIndex="314">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 6 - Ground 7 (B)" color="16711680" centiseconds="20653" savedIndex="315">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 6 - Ground 7" savedIndex="316">
 			<channels>
@@ -4284,21 +4368,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 6 - Ground 8 (G)" color="65280" centiseconds="20653" savedIndex="318">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 6 - Ground 8 (B)" color="16711680" centiseconds="20653" savedIndex="319">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 6 - Ground 8" savedIndex="320">
 			<channels>
@@ -4352,21 +4439,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 5 - Ground 3 (G)" color="65280" centiseconds="20653" savedIndex="333">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 5 - Ground 3 (B)" color="16711680" centiseconds="20653" savedIndex="334">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 5 - Ground 3" savedIndex="335">
 			<channels>
@@ -4390,21 +4480,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 5 - Ground 6 (G)" color="65280" centiseconds="20653" savedIndex="338">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 5 - Ground 6 (B)" color="16711680" centiseconds="20653" savedIndex="339">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 5 - Ground 6" savedIndex="340">
 			<channels>
@@ -4428,21 +4521,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 5 - Ground 1 (G)" color="65280" centiseconds="20653" savedIndex="343">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 5 - Ground 1 (B)" color="16711680" centiseconds="20653" savedIndex="344">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 5 - Ground 1" savedIndex="345">
 			<channels>
@@ -4456,21 +4552,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 5 - Ground 2 (G)" color="65280" centiseconds="20653" savedIndex="347">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 5 - Ground 2 (B)" color="16711680" centiseconds="20653" savedIndex="348">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 5 - Ground 2" savedIndex="349">
 			<channels>
@@ -4484,21 +4583,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 5 - Ground 4 (G)" color="65280" centiseconds="20653" savedIndex="351">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 5 - Ground 4 (B)" color="16711680" centiseconds="20653" savedIndex="352">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 5 - Ground 4" savedIndex="353">
 			<channels>
@@ -4512,21 +4614,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 5 - Ground 5 (G)" color="65280" centiseconds="20653" savedIndex="355">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 5 - Ground 5 (B)" color="16711680" centiseconds="20653" savedIndex="356">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 5 - Ground 5" savedIndex="357">
 			<channels>
@@ -4540,21 +4645,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="20" endIntensity="78"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="78" endIntensity="20"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="78" endIntensity="32"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="20"/>
 		</channel>
 		<channel name="Zone 5 - Ground 7 (G)" color="65280" centiseconds="20653" savedIndex="359">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="52" endIntensity="89"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="89" endIntensity="52"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="89" endIntensity="60"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="52"/>
 		</channel>
 		<channel name="Zone 5 - Ground 7 (B)" color="16711680" centiseconds="20653" savedIndex="360">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="74" endIntensity="90"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="90" endIntensity="74"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="90" endIntensity="77"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="74"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 5 - Ground 7" savedIndex="361">
 			<channels>
@@ -4568,21 +4676,24 @@
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="78" endIntensity="20"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="20" endIntensity="78"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="78" endIntensity="20"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="20" endIntensity="78"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="20" endIntensity="66"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="78"/>
 		</channel>
 		<channel name="Zone 5 - Ground 8 (G)" color="65280" centiseconds="20653" savedIndex="363">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="89" endIntensity="52"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="52" endIntensity="89"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="89" endIntensity="52"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="52" endIntensity="89"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="52" endIntensity="81"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="89"/>
 		</channel>
 		<channel name="Zone 5 - Ground 8 (B)" color="16711680" centiseconds="20653" savedIndex="364">
 			<effect type="shimmer" startCentisecond="0" endCentisecond="130" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="130" endCentisecond="290" startIntensity="90" endIntensity="74"/>
 			<effect type="shimmer" startCentisecond="290" endCentisecond="439" startIntensity="74" endIntensity="90"/>
 			<effect type="shimmer" startCentisecond="439" endCentisecond="591" startIntensity="90" endIntensity="74"/>
-			<effect type="shimmer" startCentisecond="591" endCentisecond="666" startIntensity="74" endIntensity="90"/>
+			<effect type="shimmer" startCentisecond="591" endCentisecond="650" startIntensity="74" endIntensity="87"/>
+			<effect type="shimmer" startCentisecond="650" endCentisecond="688" intensity="90"/>
 		</channel>
 		<rgbChannel totalCentiseconds="20653" name="Zone 5 - Ground 8" savedIndex="365">
 			<channels>
@@ -7109,7 +7220,7 @@
 			</channels>
 			<loopLevels/>
 		</track>
-		<track totalCentiseconds="20653" timingGrid="1" name="Coordinated Rings">
+		<track totalCentiseconds="20653" timingGrid="3" name="Coordinated Rings">
 			<channels>
 				<channel savedIndex="377"/>
 				<channel savedIndex="376"/>
@@ -7122,7 +7233,7 @@
 			</channels>
 			<loopLevels/>
 		</track>
-		<track totalCentiseconds="20653" timingGrid="2" name="Trees">
+		<track totalCentiseconds="20653" timingGrid="3" name="Trees">
 			<channels>
 				<channel savedIndex="382"/>
 				<channel savedIndex="331"/>
