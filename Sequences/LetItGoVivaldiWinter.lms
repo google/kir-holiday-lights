@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--
-  Copyright 2014 Google Inc.
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
-  -->
 <sequence saveFileVersion="14" author="Kevin Deus" createdAt="11/19/2014 9:18:49 PM" musicAlbum="Wonders" musicArtist="ThePianoGuys" musicFilename="Let It Go.mp3" musicTitle="Let It Go" videoUsage="2">
 	<channels>
 		<channel name="Zone 1 - Tree 1 (R)" color="255" centiseconds="24537" deviceType="DMX Universe" circuit="16" network="1" savedIndex="0">
-			<effect type="intensity" startCentisecond="176" endCentisecond="260" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1968" endCentisecond="1998" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2058" endCentisecond="2088" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2311" endCentisecond="2341" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2397" endCentisecond="2427" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2569" endCentisecond="2599" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2653" endCentisecond="2683" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2737" endCentisecond="2767" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2912" endCentisecond="2942" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2998" endCentisecond="3026" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3040" endCentisecond="3068" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3083" endCentisecond="3111" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3125" endCentisecond="3126" startIntensity="100" endIntensity="96"/>
-			<effect type="intensity" startCentisecond="3126" endCentisecond="3154" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3168" endCentisecond="3169" startIntensity="100" endIntensity="96"/>
-			<effect type="intensity" startCentisecond="3643" endCentisecond="3672" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3672" endCentisecond="3700" startIntensity="100" endIntensity="3"/>
-			<effect type="intensity" startCentisecond="3725" endCentisecond="3754" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3754" endCentisecond="3755" startIntensity="100" endIntensity="97"/>
-			<effect type="intensity" startCentisecond="3755" endCentisecond="3783" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3854" endCentisecond="3855" startIntensity="100" endIntensity="96"/>
 			<effect type="intensity" startCentisecond="8703" endCentisecond="8746" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="8746" endCentisecond="9089" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9774" endCentisecond="9817" startIntensity="0" endIntensity="50"/>
@@ -66,6 +30,7 @@
 			<effect type="intensity" startCentisecond="21562" endCentisecond="21604" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="21604" endCentisecond="21776" intensity="50"/>
 			<effect type="intensity" startCentisecond="21776" endCentisecond="21946" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="5" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 1 - Tree 1 (G)" color="65280" centiseconds="24537" savedIndex="1">
 			<effect type="intensity" startCentisecond="176" endCentisecond="260" startIntensity="100" endIntensity="0"/>
@@ -93,29 +58,9 @@
 			<effect type="intensity" startCentisecond="14982" endCentisecond="15003" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15025" endCentisecond="15046" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15068" endCentisecond="15089" startIntensity="42" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 1 - Tree 1 (B)" color="16711680" centiseconds="24537" savedIndex="2">
-			<effect type="intensity" startCentisecond="176" endCentisecond="260" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1968" endCentisecond="1998" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2058" endCentisecond="2088" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2311" endCentisecond="2341" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2397" endCentisecond="2427" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2569" endCentisecond="2599" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2653" endCentisecond="2683" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2737" endCentisecond="2767" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2912" endCentisecond="2942" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2998" endCentisecond="3026" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3040" endCentisecond="3068" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3083" endCentisecond="3111" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3125" endCentisecond="3126" startIntensity="100" endIntensity="96"/>
-			<effect type="intensity" startCentisecond="3126" endCentisecond="3154" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3168" endCentisecond="3169" startIntensity="100" endIntensity="96"/>
-			<effect type="intensity" startCentisecond="3643" endCentisecond="3672" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3672" endCentisecond="3700" startIntensity="100" endIntensity="3"/>
-			<effect type="intensity" startCentisecond="3725" endCentisecond="3754" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3754" endCentisecond="3755" startIntensity="100" endIntensity="97"/>
-			<effect type="intensity" startCentisecond="3755" endCentisecond="3783" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3854" endCentisecond="3855" startIntensity="100" endIntensity="96"/>
 			<effect type="intensity" startCentisecond="8703" endCentisecond="8746" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="8746" endCentisecond="9089" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9774" endCentisecond="9817" startIntensity="0" endIntensity="100"/>
@@ -154,32 +99,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 1 - Tree 2 (R)" color="255" centiseconds="24537" savedIndex="4">
-			<effect type="intensity" startCentisecond="176" endCentisecond="260" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1983" endCentisecond="2012" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2073" endCentisecond="2102" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2326" endCentisecond="2355" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2412" endCentisecond="2441" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2584" endCentisecond="2613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2668" endCentisecond="2697" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2752" endCentisecond="2781" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2927" endCentisecond="2956" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3012" endCentisecond="3040" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3054" endCentisecond="3082" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3097" endCentisecond="3125" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3140" endCentisecond="3168" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3182" endCentisecond="3183" startIntensity="100" endIntensity="96"/>
-			<effect type="intensity" startCentisecond="3298" endCentisecond="3327" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3327" endCentisecond="3356" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3383" endCentisecond="3412" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3412" endCentisecond="3441" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3468" endCentisecond="3497" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3497" endCentisecond="3526" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3554" endCentisecond="3583" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3583" endCentisecond="3612" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3658" endCentisecond="3686" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3740" endCentisecond="3768" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3783" endCentisecond="3811" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3868" endCentisecond="3869" startIntensity="100" endIntensity="96"/>
 			<effect type="intensity" startCentisecond="8345" endCentisecond="8403" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="8403" endCentisecond="8575" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9731" endCentisecond="9774" startIntensity="0" endIntensity="50"/>
@@ -207,6 +126,7 @@
 			<effect type="intensity" startCentisecond="19676" endCentisecond="19719" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="19719" endCentisecond="19847" intensity="50"/>
 			<effect type="intensity" startCentisecond="19847" endCentisecond="20062" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="5" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 1 - Tree 2 (G)" color="65280" centiseconds="24537" savedIndex="5">
 			<effect type="intensity" startCentisecond="176" endCentisecond="260" startIntensity="100" endIntensity="0"/>
@@ -243,34 +163,9 @@
 			<effect type="intensity" startCentisecond="15303" endCentisecond="15325" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15346" endCentisecond="15368" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15389" endCentisecond="15411" startIntensity="42" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 1 - Tree 2 (B)" color="16711680" centiseconds="24537" savedIndex="6">
-			<effect type="intensity" startCentisecond="176" endCentisecond="260" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1983" endCentisecond="2012" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2073" endCentisecond="2102" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2326" endCentisecond="2355" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2412" endCentisecond="2441" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2584" endCentisecond="2613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2668" endCentisecond="2697" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2752" endCentisecond="2781" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2927" endCentisecond="2956" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3012" endCentisecond="3040" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3054" endCentisecond="3082" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3097" endCentisecond="3125" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3140" endCentisecond="3168" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3182" endCentisecond="3183" startIntensity="100" endIntensity="96"/>
-			<effect type="intensity" startCentisecond="3298" endCentisecond="3327" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3327" endCentisecond="3356" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3383" endCentisecond="3412" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3412" endCentisecond="3441" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3468" endCentisecond="3497" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3497" endCentisecond="3526" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3554" endCentisecond="3583" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3583" endCentisecond="3612" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3658" endCentisecond="3686" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3740" endCentisecond="3768" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3783" endCentisecond="3811" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3868" endCentisecond="3869" startIntensity="100" endIntensity="96"/>
 			<effect type="intensity" startCentisecond="8345" endCentisecond="8403" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="8403" endCentisecond="8575" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9731" endCentisecond="9774" startIntensity="0" endIntensity="100"/>
@@ -307,29 +202,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 1 - Tree 3 (R)" color="255" centiseconds="24537" savedIndex="8">
-			<effect type="intensity" startCentisecond="176" endCentisecond="260" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1998" endCentisecond="2029" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2088" endCentisecond="2119" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2212" endCentisecond="2226" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2341" endCentisecond="2372" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2427" endCentisecond="2458" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2599" endCentisecond="2630" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2683" endCentisecond="2714" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2767" endCentisecond="2798" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2942" endCentisecond="2973" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3026" endCentisecond="3055" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3068" endCentisecond="3069" startIntensity="100" endIntensity="97"/>
-			<effect type="intensity" startCentisecond="3069" endCentisecond="3097" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3111" endCentisecond="3112" startIntensity="100" endIntensity="97"/>
-			<effect type="intensity" startCentisecond="3112" endCentisecond="3140" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3154" endCentisecond="3183" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3313" endCentisecond="3341" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3398" endCentisecond="3426" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3483" endCentisecond="3511" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3569" endCentisecond="3597" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3769" endCentisecond="3797" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3797" endCentisecond="3798" startIntensity="100" endIntensity="97"/>
-			<effect type="intensity" startCentisecond="3798" endCentisecond="3826" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8532" endCentisecond="8575" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="8575" endCentisecond="8746" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9860" endCentisecond="9902" startIntensity="0" endIntensity="50"/>
@@ -351,6 +223,7 @@
 			<effect type="intensity" startCentisecond="19847" endCentisecond="20062" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="21047" endCentisecond="21090" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="21090" endCentisecond="21217" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="5" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 1 - Tree 3 (G)" color="65280" centiseconds="24537" savedIndex="9">
 			<effect type="intensity" startCentisecond="176" endCentisecond="260" startIntensity="100" endIntensity="0"/>
@@ -380,31 +253,9 @@
 			<effect type="intensity" startCentisecond="15325" endCentisecond="15346" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15368" endCentisecond="15389" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15411" endCentisecond="15432" startIntensity="42" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 1 - Tree 3 (B)" color="16711680" centiseconds="24537" savedIndex="10">
-			<effect type="intensity" startCentisecond="176" endCentisecond="260" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1998" endCentisecond="2029" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2088" endCentisecond="2119" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2212" endCentisecond="2226" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2341" endCentisecond="2372" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2427" endCentisecond="2458" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2599" endCentisecond="2630" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2683" endCentisecond="2714" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2767" endCentisecond="2798" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2942" endCentisecond="2973" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3026" endCentisecond="3055" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3068" endCentisecond="3069" startIntensity="100" endIntensity="97"/>
-			<effect type="intensity" startCentisecond="3069" endCentisecond="3097" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3111" endCentisecond="3112" startIntensity="100" endIntensity="97"/>
-			<effect type="intensity" startCentisecond="3112" endCentisecond="3140" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3154" endCentisecond="3183" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3313" endCentisecond="3341" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3398" endCentisecond="3426" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3483" endCentisecond="3511" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3569" endCentisecond="3597" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3769" endCentisecond="3797" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3797" endCentisecond="3798" startIntensity="100" endIntensity="97"/>
-			<effect type="intensity" startCentisecond="3798" endCentisecond="3826" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8532" endCentisecond="8575" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="8575" endCentisecond="8746" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9860" endCentisecond="9902" startIntensity="0" endIntensity="100"/>
@@ -436,18 +287,15 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 1 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="12">
-			<effect type="intensity" startCentisecond="325" endCentisecond="338" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="663" endCentisecond="676" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1006" endCentisecond="1019" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1349" endCentisecond="1362" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1557" endCentisecond="1572" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2035" endCentisecond="2048" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2378" endCentisecond="2391" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2718" endCentisecond="2731" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3061" endCentisecond="3074" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3256" endCentisecond="3270" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3284" endCentisecond="3298" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="22703" endCentisecond="22837" intensity="100"/>
+			<effect type="intensity" startCentisecond="21946" endCentisecond="21957" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21957" endCentisecond="22010" intensity="100"/>
+			<effect type="intensity" startCentisecond="22010" endCentisecond="22020" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22716" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22716" endCentisecond="22964" intensity="100"/>
+			<effect type="intensity" startCentisecond="22964" endCentisecond="22975" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22975" endCentisecond="22986" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22986" endCentisecond="23039" intensity="100"/>
+			<effect type="intensity" startCentisecond="23039" endCentisecond="23049" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -463,7 +311,15 @@
 			<effect type="intensity" startCentisecond="3061" endCentisecond="3074" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3256" endCentisecond="3270" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3284" endCentisecond="3298" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="22703" endCentisecond="22837" intensity="100"/>
+			<effect type="intensity" startCentisecond="21946" endCentisecond="21957" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21957" endCentisecond="22010" intensity="100"/>
+			<effect type="intensity" startCentisecond="22010" endCentisecond="22020" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22716" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22716" endCentisecond="22964" intensity="100"/>
+			<effect type="intensity" startCentisecond="22964" endCentisecond="22975" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22975" endCentisecond="22986" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22986" endCentisecond="23039" intensity="100"/>
+			<effect type="intensity" startCentisecond="23039" endCentisecond="23049" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -479,7 +335,15 @@
 			<effect type="intensity" startCentisecond="3061" endCentisecond="3074" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3256" endCentisecond="3270" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3284" endCentisecond="3298" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="22703" endCentisecond="22837" intensity="100"/>
+			<effect type="intensity" startCentisecond="21946" endCentisecond="21957" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21957" endCentisecond="22010" intensity="100"/>
+			<effect type="intensity" startCentisecond="22010" endCentisecond="22020" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22716" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22716" endCentisecond="22964" intensity="100"/>
+			<effect type="intensity" startCentisecond="22964" endCentisecond="22975" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22975" endCentisecond="22986" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22986" endCentisecond="23039" intensity="100"/>
+			<effect type="intensity" startCentisecond="23039" endCentisecond="23049" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -491,20 +355,21 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 1 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="16">
-			<effect type="intensity" startCentisecond="311" endCentisecond="325" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="649" endCentisecond="663" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="992" endCentisecond="1006" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1335" endCentisecond="1349" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1572" endCentisecond="1586" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2021" endCentisecond="2035" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2364" endCentisecond="2378" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2704" endCentisecond="2718" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3047" endCentisecond="3061" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3270" endCentisecond="3284" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11659" endCentisecond="11702" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11702" endCentisecond="11744" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11744" endCentisecond="11787" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11787" endCentisecond="11830" startIntensity="94" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21967" endCentisecond="21978" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21978" endCentisecond="22031" intensity="100"/>
+			<effect type="intensity" startCentisecond="22031" endCentisecond="22042" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22716" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22716" endCentisecond="22900" intensity="100"/>
+			<effect type="intensity" startCentisecond="22900" endCentisecond="22911" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22996" endCentisecond="23007" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23007" endCentisecond="23060" intensity="100"/>
+			<effect type="intensity" startCentisecond="23060" endCentisecond="23071" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23520" endCentisecond="23531" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23531" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -523,6 +388,17 @@
 			<effect type="intensity" startCentisecond="11702" endCentisecond="11744" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11744" endCentisecond="11787" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11787" endCentisecond="11830" startIntensity="72" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21967" endCentisecond="21978" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21978" endCentisecond="22031" intensity="100"/>
+			<effect type="intensity" startCentisecond="22031" endCentisecond="22042" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22716" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22716" endCentisecond="22900" intensity="100"/>
+			<effect type="intensity" startCentisecond="22900" endCentisecond="22911" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22996" endCentisecond="23007" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23007" endCentisecond="23060" intensity="100"/>
+			<effect type="intensity" startCentisecond="23060" endCentisecond="23071" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23520" endCentisecond="23531" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23531" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -541,6 +417,17 @@
 			<effect type="intensity" startCentisecond="11702" endCentisecond="11744" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11744" endCentisecond="11787" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11787" endCentisecond="11830" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21967" endCentisecond="21978" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21978" endCentisecond="22031" intensity="100"/>
+			<effect type="intensity" startCentisecond="22031" endCentisecond="22042" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22716" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22716" endCentisecond="22900" intensity="100"/>
+			<effect type="intensity" startCentisecond="22900" endCentisecond="22911" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22996" endCentisecond="23007" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23007" endCentisecond="23060" intensity="100"/>
+			<effect type="intensity" startCentisecond="23060" endCentisecond="23071" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23520" endCentisecond="23531" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23531" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -552,21 +439,20 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 1 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="20">
-			<effect type="intensity" startCentisecond="298" endCentisecond="311" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="636" endCentisecond="649" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="979" endCentisecond="992" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1322" endCentisecond="1335" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1758" endCentisecond="1772" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1872" endCentisecond="1886" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2008" endCentisecond="2021" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2351" endCentisecond="2364" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2691" endCentisecond="2704" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3034" endCentisecond="3047" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11488" endCentisecond="11531" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11531" endCentisecond="11573" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11573" endCentisecond="11616" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11616" endCentisecond="11659" startIntensity="94" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="22837" endCentisecond="22966" intensity="100"/>
+			<effect type="intensity" startCentisecond="21988" endCentisecond="21999" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21999" endCentisecond="22053" intensity="100"/>
+			<effect type="intensity" startCentisecond="22053" endCentisecond="22063" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22653" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22835" intensity="100"/>
+			<effect type="intensity" startCentisecond="22835" endCentisecond="22846" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23017" endCentisecond="23028" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23028" endCentisecond="23082" intensity="100"/>
+			<effect type="intensity" startCentisecond="23082" endCentisecond="23092" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23552" endCentisecond="23563" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -585,7 +471,16 @@
 			<effect type="intensity" startCentisecond="11531" endCentisecond="11573" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11573" endCentisecond="11616" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11616" endCentisecond="11659" startIntensity="72" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="22837" endCentisecond="22966" intensity="100"/>
+			<effect type="intensity" startCentisecond="21988" endCentisecond="21999" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21999" endCentisecond="22053" intensity="100"/>
+			<effect type="intensity" startCentisecond="22053" endCentisecond="22063" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22653" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22835" intensity="100"/>
+			<effect type="intensity" startCentisecond="22835" endCentisecond="22846" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23017" endCentisecond="23028" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23028" endCentisecond="23082" intensity="100"/>
+			<effect type="intensity" startCentisecond="23082" endCentisecond="23092" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23552" endCentisecond="23563" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -604,7 +499,16 @@
 			<effect type="intensity" startCentisecond="11531" endCentisecond="11573" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11573" endCentisecond="11616" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11616" endCentisecond="11659" startIntensity="6" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="22837" endCentisecond="22966" intensity="100"/>
+			<effect type="intensity" startCentisecond="21988" endCentisecond="21999" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21999" endCentisecond="22053" intensity="100"/>
+			<effect type="intensity" startCentisecond="22053" endCentisecond="22063" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22653" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22835" intensity="100"/>
+			<effect type="intensity" startCentisecond="22835" endCentisecond="22846" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23017" endCentisecond="23028" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23028" endCentisecond="23082" intensity="100"/>
+			<effect type="intensity" startCentisecond="23082" endCentisecond="23092" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23552" endCentisecond="23563" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -616,17 +520,13 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 1 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="24">
-			<effect type="intensity" startCentisecond="486" endCentisecond="500" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="829" endCentisecond="843" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1514" endCentisecond="1528" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1843" endCentisecond="1857" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2543" endCentisecond="2557" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3226" endCentisecond="3240" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3899" endCentisecond="3914" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11317" endCentisecond="11360" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11360" endCentisecond="11402" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11402" endCentisecond="11445" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11445" endCentisecond="11488" startIntensity="94" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22653" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22771" intensity="100"/>
+			<effect type="intensity" startCentisecond="22771" endCentisecond="22782" startIntensity="93" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -642,6 +542,9 @@
 			<effect type="intensity" startCentisecond="11360" endCentisecond="11402" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11402" endCentisecond="11445" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11445" endCentisecond="11488" startIntensity="72" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22653" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22771" intensity="100"/>
+			<effect type="intensity" startCentisecond="22771" endCentisecond="22782" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -657,6 +560,9 @@
 			<effect type="intensity" startCentisecond="11360" endCentisecond="11402" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11402" endCentisecond="11445" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11445" endCentisecond="11488" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22653" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22771" intensity="100"/>
+			<effect type="intensity" startCentisecond="22771" endCentisecond="22782" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -668,7 +574,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 1 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="28">
-			<effect type="intensity" startCentisecond="3914" endCentisecond="3929" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11829" endCentisecond="11872" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11872" endCentisecond="11914" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="11914" endCentisecond="11957" startIntensity="94" endIntensity="0"/>
@@ -770,7 +675,6 @@
 			<effect type="intensity" startCentisecond="7714" endCentisecond="7716" startIntensity="5" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8057" endCentisecond="8059" startIntensity="4" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8230" endCentisecond="8231" startIntensity="2" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="22577" endCentisecond="22703" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -778,7 +682,6 @@
 			<effect type="intensity" startCentisecond="7714" endCentisecond="7716" startIntensity="5" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8057" endCentisecond="8059" startIntensity="4" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8230" endCentisecond="8231" startIntensity="2" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="22577" endCentisecond="22703" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -806,7 +709,6 @@
 			<effect type="intensity" startCentisecond="8230" endCentisecond="8231" startIntensity="2" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8273" endCentisecond="8316" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8359" endCentisecond="8402" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="22577" endCentisecond="22703" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -865,14 +767,6 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Zone 2 - Tree 1 (R)" color="255" centiseconds="24537" deviceType="LOR" unit="1" circuit="5" savedIndex="58">
-			<effect type="intensity" startCentisecond="517" endCentisecond="601" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1544" endCentisecond="1631" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1888" endCentisecond="1974" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2198" endCentisecond="2212" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2497" endCentisecond="2512" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2857" endCentisecond="2871" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3184" endCentisecond="3212" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3870" endCentisecond="3898" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="10932" endCentisecond="10975" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="10975" endCentisecond="11103" intensity="50"/>
 			<effect type="intensity" startCentisecond="11103" endCentisecond="11273" startIntensity="50" endIntensity="0"/>
@@ -892,6 +786,7 @@
 			<effect type="intensity" startCentisecond="21519" endCentisecond="21562" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="21562" endCentisecond="21776" intensity="50"/>
 			<effect type="intensity" startCentisecond="21776" endCentisecond="21946" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="5" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 2 - Tree 1 (G)" color="65280" centiseconds="24537" deviceType="LOR" unit="1" circuit="6" savedIndex="59">
 			<effect type="intensity" startCentisecond="517" endCentisecond="601" startIntensity="100" endIntensity="0"/>
@@ -910,16 +805,9 @@
 			<effect type="intensity" startCentisecond="15325" endCentisecond="15346" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15368" endCentisecond="15389" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15411" endCentisecond="15432" startIntensity="42" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 2 - Tree 1 (B)" color="16711680" centiseconds="24537" deviceType="LOR" unit="1" circuit="7" savedIndex="60">
-			<effect type="intensity" startCentisecond="517" endCentisecond="601" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1544" endCentisecond="1631" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1888" endCentisecond="1974" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2198" endCentisecond="2212" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2497" endCentisecond="2512" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2857" endCentisecond="2871" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3184" endCentisecond="3212" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3870" endCentisecond="3898" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="10932" endCentisecond="10975" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="10975" endCentisecond="11103" intensity="100"/>
 			<effect type="intensity" startCentisecond="11103" endCentisecond="11273" startIntensity="100" endIntensity="0"/>
@@ -948,14 +836,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 2 - Tree 2 (R)" color="255" centiseconds="24537" savedIndex="62">
-			<effect type="intensity" startCentisecond="517" endCentisecond="601" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1544" endCentisecond="1631" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1888" endCentisecond="1974" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2226" endCentisecond="2256" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2483" endCentisecond="2497" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2884" endCentisecond="2898" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3170" endCentisecond="3198" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3856" endCentisecond="3884" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="10203" endCentisecond="10246" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="10246" endCentisecond="10418" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="13567" endCentisecond="13588" startIntensity="93" endIntensity="0"/>
@@ -974,6 +854,7 @@
 			<effect type="intensity" startCentisecond="17276" endCentisecond="17448" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="20148" endCentisecond="20191" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="20191" endCentisecond="20363" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="5" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 2 - Tree 2 (G)" color="65280" centiseconds="24537" savedIndex="63">
 			<effect type="intensity" startCentisecond="517" endCentisecond="601" startIntensity="100" endIntensity="0"/>
@@ -996,16 +877,9 @@
 			<effect type="intensity" startCentisecond="15303" endCentisecond="15325" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15346" endCentisecond="15368" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15389" endCentisecond="15411" startIntensity="42" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 2 - Tree 2 (B)" color="16711680" centiseconds="24537" savedIndex="64">
-			<effect type="intensity" startCentisecond="517" endCentisecond="601" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1544" endCentisecond="1631" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1888" endCentisecond="1974" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2226" endCentisecond="2256" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2483" endCentisecond="2497" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2884" endCentisecond="2898" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3170" endCentisecond="3198" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3856" endCentisecond="3884" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="10203" endCentisecond="10246" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="10246" endCentisecond="10418" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="13567" endCentisecond="13588" startIntensity="7" endIntensity="0"/>
@@ -1033,26 +907,27 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 2 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="66">
-			<effect type="intensity" startCentisecond="244" endCentisecond="257" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="472" endCentisecond="486" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="582" endCentisecond="595" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="815" endCentisecond="829" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="925" endCentisecond="938" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1268" endCentisecond="1281" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1500" endCentisecond="1514" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1600" endCentisecond="1615" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1954" endCentisecond="1967" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2297" endCentisecond="2310" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2529" endCentisecond="2543" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2637" endCentisecond="2650" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2980" endCentisecond="2993" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3212" endCentisecond="3226" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3341" endCentisecond="3355" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3369" endCentisecond="3383" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4029" endCentisecond="4058" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4172" endCentisecond="4201" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4772" endCentisecond="4801" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4801" endCentisecond="4830" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21957" endCentisecond="21967" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21967" endCentisecond="22020" intensity="100"/>
+			<effect type="intensity" startCentisecond="22020" endCentisecond="22031" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22331" endCentisecond="22342" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22342" endCentisecond="22395" intensity="100"/>
+			<effect type="intensity" startCentisecond="22395" endCentisecond="22405" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22706" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22954" intensity="100"/>
+			<effect type="intensity" startCentisecond="22954" endCentisecond="22964" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22986" endCentisecond="22996" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22996" endCentisecond="23049" intensity="100"/>
+			<effect type="intensity" startCentisecond="23049" endCentisecond="23060" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23103" endCentisecond="23114" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23114" endCentisecond="23167" intensity="100"/>
+			<effect type="intensity" startCentisecond="23167" endCentisecond="23177" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23488" endCentisecond="23499" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23499" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1077,6 +952,23 @@
 			<effect type="intensity" startCentisecond="4172" endCentisecond="4201" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4772" endCentisecond="4801" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4801" endCentisecond="4830" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21957" endCentisecond="21967" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21967" endCentisecond="22020" intensity="100"/>
+			<effect type="intensity" startCentisecond="22020" endCentisecond="22031" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22331" endCentisecond="22342" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22342" endCentisecond="22395" intensity="100"/>
+			<effect type="intensity" startCentisecond="22395" endCentisecond="22405" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22706" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22954" intensity="100"/>
+			<effect type="intensity" startCentisecond="22954" endCentisecond="22964" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22986" endCentisecond="22996" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22996" endCentisecond="23049" intensity="100"/>
+			<effect type="intensity" startCentisecond="23049" endCentisecond="23060" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23103" endCentisecond="23114" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23114" endCentisecond="23167" intensity="100"/>
+			<effect type="intensity" startCentisecond="23167" endCentisecond="23177" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23488" endCentisecond="23499" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23499" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1101,6 +993,23 @@
 			<effect type="intensity" startCentisecond="4172" endCentisecond="4201" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4772" endCentisecond="4801" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4801" endCentisecond="4830" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21957" endCentisecond="21967" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21967" endCentisecond="22020" intensity="100"/>
+			<effect type="intensity" startCentisecond="22020" endCentisecond="22031" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22331" endCentisecond="22342" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22342" endCentisecond="22395" intensity="100"/>
+			<effect type="intensity" startCentisecond="22395" endCentisecond="22405" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22706" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22954" intensity="100"/>
+			<effect type="intensity" startCentisecond="22954" endCentisecond="22964" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22986" endCentisecond="22996" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22996" endCentisecond="23049" intensity="100"/>
+			<effect type="intensity" startCentisecond="23049" endCentisecond="23060" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23103" endCentisecond="23114" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23114" endCentisecond="23167" intensity="100"/>
+			<effect type="intensity" startCentisecond="23167" endCentisecond="23177" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23488" endCentisecond="23499" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23499" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1112,17 +1021,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 2 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="70">
-			<effect type="intensity" startCentisecond="230" endCentisecond="244" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="568" endCentisecond="582" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="911" endCentisecond="925" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1254" endCentisecond="1268" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1615" endCentisecond="1629" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1940" endCentisecond="1954" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2283" endCentisecond="2297" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2623" endCentisecond="2637" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2966" endCentisecond="2980" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3355" endCentisecond="3369" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3811" endCentisecond="3826" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4001" endCentisecond="4029" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4201" endCentisecond="4229" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4372" endCentisecond="4401" startIntensity="50" endIntensity="0"/>
@@ -1130,6 +1028,21 @@
 			<effect type="intensity" startCentisecond="12387" endCentisecond="12429" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12429" endCentisecond="12472" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12472" endCentisecond="12515" startIntensity="94" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21978" endCentisecond="21988" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21988" endCentisecond="22042" intensity="100"/>
+			<effect type="intensity" startCentisecond="22042" endCentisecond="22053" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22352" endCentisecond="22363" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22363" endCentisecond="22416" intensity="100"/>
+			<effect type="intensity" startCentisecond="22416" endCentisecond="22427" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22706" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22889" intensity="100"/>
+			<effect type="intensity" startCentisecond="22889" endCentisecond="22900" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23007" endCentisecond="23017" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23017" endCentisecond="23071" intensity="100"/>
+			<effect type="intensity" startCentisecond="23071" endCentisecond="23082" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23124" endCentisecond="23135" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23135" endCentisecond="23188" intensity="100"/>
+			<effect type="intensity" startCentisecond="23188" endCentisecond="23199" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1152,6 +1065,21 @@
 			<effect type="intensity" startCentisecond="12387" endCentisecond="12429" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12429" endCentisecond="12472" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12472" endCentisecond="12515" startIntensity="72" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21978" endCentisecond="21988" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21988" endCentisecond="22042" intensity="100"/>
+			<effect type="intensity" startCentisecond="22042" endCentisecond="22053" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22352" endCentisecond="22363" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22363" endCentisecond="22416" intensity="100"/>
+			<effect type="intensity" startCentisecond="22416" endCentisecond="22427" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22706" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22889" intensity="100"/>
+			<effect type="intensity" startCentisecond="22889" endCentisecond="22900" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23007" endCentisecond="23017" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23017" endCentisecond="23071" intensity="100"/>
+			<effect type="intensity" startCentisecond="23071" endCentisecond="23082" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23124" endCentisecond="23135" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23135" endCentisecond="23188" intensity="100"/>
+			<effect type="intensity" startCentisecond="23188" endCentisecond="23199" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1174,6 +1102,21 @@
 			<effect type="intensity" startCentisecond="12387" endCentisecond="12429" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12429" endCentisecond="12472" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12472" endCentisecond="12515" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21978" endCentisecond="21988" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="21988" endCentisecond="22042" intensity="100"/>
+			<effect type="intensity" startCentisecond="22042" endCentisecond="22053" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22352" endCentisecond="22363" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22363" endCentisecond="22416" intensity="100"/>
+			<effect type="intensity" startCentisecond="22416" endCentisecond="22427" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22706" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22706" endCentisecond="22889" intensity="100"/>
+			<effect type="intensity" startCentisecond="22889" endCentisecond="22900" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23007" endCentisecond="23017" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23017" endCentisecond="23071" intensity="100"/>
+			<effect type="intensity" startCentisecond="23071" endCentisecond="23082" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23124" endCentisecond="23135" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23135" endCentisecond="23188" intensity="100"/>
+			<effect type="intensity" startCentisecond="23188" endCentisecond="23199" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1185,16 +1128,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 2 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="74">
-			<effect type="intensity" startCentisecond="217" endCentisecond="230" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="555" endCentisecond="568" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="898" endCentisecond="911" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1241" endCentisecond="1254" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1772" endCentisecond="1786" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1927" endCentisecond="1940" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2270" endCentisecond="2283" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2610" endCentisecond="2623" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2953" endCentisecond="2966" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3826" endCentisecond="3840" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4343" endCentisecond="4372" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4458" endCentisecond="4515" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4629" endCentisecond="4658" startIntensity="50" endIntensity="0"/>
@@ -1209,6 +1142,21 @@
 			<effect type="intensity" startCentisecond="12216" endCentisecond="12258" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12258" endCentisecond="12301" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12301" endCentisecond="12344" startIntensity="94" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21999" endCentisecond="22010" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22010" endCentisecond="22063" intensity="100"/>
+			<effect type="intensity" startCentisecond="22063" endCentisecond="22074" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22373" endCentisecond="22384" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22384" endCentisecond="22438" intensity="100"/>
+			<effect type="intensity" startCentisecond="22438" endCentisecond="22448" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22643" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22825" intensity="100"/>
+			<effect type="intensity" startCentisecond="22825" endCentisecond="22835" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23028" endCentisecond="23039" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23039" endCentisecond="23092" intensity="100"/>
+			<effect type="intensity" startCentisecond="23092" endCentisecond="23103" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23145" endCentisecond="23156" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23156" endCentisecond="23210" intensity="100"/>
+			<effect type="intensity" startCentisecond="23210" endCentisecond="23220" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1237,6 +1185,21 @@
 			<effect type="intensity" startCentisecond="12216" endCentisecond="12258" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12258" endCentisecond="12301" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12301" endCentisecond="12344" startIntensity="72" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21999" endCentisecond="22010" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22010" endCentisecond="22063" intensity="100"/>
+			<effect type="intensity" startCentisecond="22063" endCentisecond="22074" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22373" endCentisecond="22384" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22384" endCentisecond="22438" intensity="100"/>
+			<effect type="intensity" startCentisecond="22438" endCentisecond="22448" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22643" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22825" intensity="100"/>
+			<effect type="intensity" startCentisecond="22825" endCentisecond="22835" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23028" endCentisecond="23039" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23039" endCentisecond="23092" intensity="100"/>
+			<effect type="intensity" startCentisecond="23092" endCentisecond="23103" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23145" endCentisecond="23156" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23156" endCentisecond="23210" intensity="100"/>
+			<effect type="intensity" startCentisecond="23210" endCentisecond="23220" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1265,6 +1228,21 @@
 			<effect type="intensity" startCentisecond="12216" endCentisecond="12258" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12258" endCentisecond="12301" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12301" endCentisecond="12344" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="21999" endCentisecond="22010" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22010" endCentisecond="22063" intensity="100"/>
+			<effect type="intensity" startCentisecond="22063" endCentisecond="22074" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22373" endCentisecond="22384" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22384" endCentisecond="22438" intensity="100"/>
+			<effect type="intensity" startCentisecond="22438" endCentisecond="22448" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22643" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22825" intensity="100"/>
+			<effect type="intensity" startCentisecond="22825" endCentisecond="22835" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23028" endCentisecond="23039" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23039" endCentisecond="23092" intensity="100"/>
+			<effect type="intensity" startCentisecond="23092" endCentisecond="23103" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23145" endCentisecond="23156" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23156" endCentisecond="23210" intensity="100"/>
+			<effect type="intensity" startCentisecond="23210" endCentisecond="23220" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1276,9 +1254,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 2 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="78">
-			<effect type="intensity" startCentisecond="1857" endCentisecond="1872" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3840" endCentisecond="3854" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3854" endCentisecond="3869" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4544" endCentisecond="4601" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5358" endCentisecond="5387" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5430" endCentisecond="5458" startIntensity="50" endIntensity="0"/>
@@ -1291,6 +1266,9 @@
 			<effect type="intensity" startCentisecond="12045" endCentisecond="12087" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12087" endCentisecond="12130" startIntensity="94" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12130" endCentisecond="12173" startIntensity="94" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22643" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22760" intensity="100"/>
+			<effect type="intensity" startCentisecond="22760" endCentisecond="22771" startIntensity="93" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1310,6 +1288,9 @@
 			<effect type="intensity" startCentisecond="12045" endCentisecond="12087" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12087" endCentisecond="12130" startIntensity="72" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12130" endCentisecond="12173" startIntensity="72" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22643" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22760" intensity="100"/>
+			<effect type="intensity" startCentisecond="22760" endCentisecond="22771" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1329,6 +1310,9 @@
 			<effect type="intensity" startCentisecond="12045" endCentisecond="12087" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12087" endCentisecond="12130" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12130" endCentisecond="12173" startIntensity="6" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22643" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22643" endCentisecond="22760" intensity="100"/>
+			<effect type="intensity" startCentisecond="22760" endCentisecond="22771" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1340,7 +1324,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 2 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="82">
-			<effect type="intensity" startCentisecond="3869" endCentisecond="3884" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4972" endCentisecond="5001" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5015" endCentisecond="5044" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5144" endCentisecond="5187" startIntensity="50" endIntensity="0"/>
@@ -1602,14 +1585,6 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Zone 3 - Tree (R)" color="255" centiseconds="24537" savedIndex="110">
-			<effect type="intensity" startCentisecond="859" endCentisecond="945" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1803" endCentisecond="1888" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2155" endCentisecond="2170" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2540" endCentisecond="2555" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2843" endCentisecond="2857" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3198" endCentisecond="3227" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3840" endCentisecond="3869" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3884" endCentisecond="3913" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9046" endCentisecond="9089" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="9089" endCentisecond="9260" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9389" endCentisecond="9432" startIntensity="0" endIntensity="50"/>
@@ -1651,6 +1626,7 @@
 			<effect type="intensity" startCentisecond="21389" endCentisecond="21432" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="21432" endCentisecond="21776" intensity="50"/>
 			<effect type="intensity" startCentisecond="21776" endCentisecond="21946" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="5" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 3 - Tree (G)" color="65280" centiseconds="24537" savedIndex="111">
 			<effect type="intensity" startCentisecond="859" endCentisecond="945" startIntensity="100" endIntensity="0"/>
@@ -1673,16 +1649,9 @@
 			<effect type="intensity" startCentisecond="15325" endCentisecond="15346" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15368" endCentisecond="15389" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15411" endCentisecond="15432" startIntensity="42" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 3 - Tree (B)" color="16711680" centiseconds="24537" savedIndex="112">
-			<effect type="intensity" startCentisecond="859" endCentisecond="945" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1803" endCentisecond="1888" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2155" endCentisecond="2170" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2540" endCentisecond="2555" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2843" endCentisecond="2857" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3198" endCentisecond="3227" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3840" endCentisecond="3869" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3884" endCentisecond="3913" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9046" endCentisecond="9089" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="9089" endCentisecond="9260" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9389" endCentisecond="9432" startIntensity="0" endIntensity="100"/>
@@ -1734,23 +1703,21 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 3 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="114">
-			<effect type="intensity" startCentisecond="411" endCentisecond="424" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="443" endCentisecond="457" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="749" endCentisecond="762" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="786" endCentisecond="800" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1092" endCentisecond="1105" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1435" endCentisecond="1448" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1471" endCentisecond="1485" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1643" endCentisecond="1658" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2121" endCentisecond="2134" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2464" endCentisecond="2477" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2500" endCentisecond="2514" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2804" endCentisecond="2817" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3147" endCentisecond="3160" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3183" endCentisecond="3197" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3426" endCentisecond="3440" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3454" endCentisecond="3468" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3769" endCentisecond="3783" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22074" endCentisecond="22085" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22085" endCentisecond="22138" intensity="100"/>
+			<effect type="intensity" startCentisecond="22138" endCentisecond="22148" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22342" endCentisecond="22352" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22352" endCentisecond="22405" intensity="100"/>
+			<effect type="intensity" startCentisecond="22405" endCentisecond="22416" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22695" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22943" intensity="100"/>
+			<effect type="intensity" startCentisecond="22943" endCentisecond="22954" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23114" endCentisecond="23124" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23124" endCentisecond="23177" intensity="100"/>
+			<effect type="intensity" startCentisecond="23177" endCentisecond="23188" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23232" endCentisecond="23243" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23243" endCentisecond="23296" intensity="100"/>
+			<effect type="intensity" startCentisecond="23296" endCentisecond="23306" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1772,6 +1739,21 @@
 			<effect type="intensity" startCentisecond="3426" endCentisecond="3440" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3454" endCentisecond="3468" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3769" endCentisecond="3783" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22074" endCentisecond="22085" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22085" endCentisecond="22138" intensity="100"/>
+			<effect type="intensity" startCentisecond="22138" endCentisecond="22148" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22342" endCentisecond="22352" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22352" endCentisecond="22405" intensity="100"/>
+			<effect type="intensity" startCentisecond="22405" endCentisecond="22416" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22695" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22943" intensity="100"/>
+			<effect type="intensity" startCentisecond="22943" endCentisecond="22954" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23114" endCentisecond="23124" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23124" endCentisecond="23177" intensity="100"/>
+			<effect type="intensity" startCentisecond="23177" endCentisecond="23188" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23232" endCentisecond="23243" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23243" endCentisecond="23296" intensity="100"/>
+			<effect type="intensity" startCentisecond="23296" endCentisecond="23306" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1793,6 +1775,21 @@
 			<effect type="intensity" startCentisecond="3426" endCentisecond="3440" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3454" endCentisecond="3468" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3769" endCentisecond="3783" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22074" endCentisecond="22085" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22085" endCentisecond="22138" intensity="100"/>
+			<effect type="intensity" startCentisecond="22138" endCentisecond="22148" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22342" endCentisecond="22352" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22352" endCentisecond="22405" intensity="100"/>
+			<effect type="intensity" startCentisecond="22405" endCentisecond="22416" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22695" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22943" intensity="100"/>
+			<effect type="intensity" startCentisecond="22943" endCentisecond="22954" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23114" endCentisecond="23124" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23124" endCentisecond="23177" intensity="100"/>
+			<effect type="intensity" startCentisecond="23177" endCentisecond="23188" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23232" endCentisecond="23243" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23243" endCentisecond="23296" intensity="100"/>
+			<effect type="intensity" startCentisecond="23296" endCentisecond="23306" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1804,17 +1801,23 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 3 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="118">
-			<effect type="intensity" startCentisecond="397" endCentisecond="411" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="735" endCentisecond="749" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1078" endCentisecond="1092" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1421" endCentisecond="1435" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1658" endCentisecond="1672" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2107" endCentisecond="2121" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2450" endCentisecond="2464" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2790" endCentisecond="2804" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3133" endCentisecond="3147" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3440" endCentisecond="3454" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3783" endCentisecond="3797" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22095" endCentisecond="22106" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22106" endCentisecond="22159" intensity="100"/>
+			<effect type="intensity" startCentisecond="22159" endCentisecond="22170" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22363" endCentisecond="22373" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22373" endCentisecond="22427" intensity="100"/>
+			<effect type="intensity" startCentisecond="22427" endCentisecond="22438" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22695" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22878" intensity="100"/>
+			<effect type="intensity" startCentisecond="22878" endCentisecond="22889" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23135" endCentisecond="23145" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23145" endCentisecond="23199" intensity="100"/>
+			<effect type="intensity" startCentisecond="23199" endCentisecond="23210" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23253" endCentisecond="23264" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23264" endCentisecond="23317" intensity="100"/>
+			<effect type="intensity" startCentisecond="23317" endCentisecond="23328" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23531" endCentisecond="23542" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23542" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1830,6 +1833,23 @@
 			<effect type="intensity" startCentisecond="3133" endCentisecond="3147" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3440" endCentisecond="3454" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3783" endCentisecond="3797" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22095" endCentisecond="22106" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22106" endCentisecond="22159" intensity="100"/>
+			<effect type="intensity" startCentisecond="22159" endCentisecond="22170" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22363" endCentisecond="22373" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22373" endCentisecond="22427" intensity="100"/>
+			<effect type="intensity" startCentisecond="22427" endCentisecond="22438" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22695" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22878" intensity="100"/>
+			<effect type="intensity" startCentisecond="22878" endCentisecond="22889" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23135" endCentisecond="23145" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23145" endCentisecond="23199" intensity="100"/>
+			<effect type="intensity" startCentisecond="23199" endCentisecond="23210" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23253" endCentisecond="23264" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23264" endCentisecond="23317" intensity="100"/>
+			<effect type="intensity" startCentisecond="23317" endCentisecond="23328" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23531" endCentisecond="23542" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23542" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1845,6 +1865,23 @@
 			<effect type="intensity" startCentisecond="3133" endCentisecond="3147" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3440" endCentisecond="3454" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3783" endCentisecond="3797" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22095" endCentisecond="22106" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22106" endCentisecond="22159" intensity="100"/>
+			<effect type="intensity" startCentisecond="22159" endCentisecond="22170" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22363" endCentisecond="22373" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22373" endCentisecond="22427" intensity="100"/>
+			<effect type="intensity" startCentisecond="22427" endCentisecond="22438" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22695" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22695" endCentisecond="22878" intensity="100"/>
+			<effect type="intensity" startCentisecond="22878" endCentisecond="22889" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23135" endCentisecond="23145" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23145" endCentisecond="23199" intensity="100"/>
+			<effect type="intensity" startCentisecond="23199" endCentisecond="23210" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23253" endCentisecond="23264" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23264" endCentisecond="23317" intensity="100"/>
+			<effect type="intensity" startCentisecond="23317" endCentisecond="23328" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23531" endCentisecond="23542" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23542" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1856,20 +1893,25 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 3 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="122">
-			<effect type="intensity" startCentisecond="384" endCentisecond="397" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="722" endCentisecond="735" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1065" endCentisecond="1078" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1408" endCentisecond="1421" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1786" endCentisecond="1800" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2094" endCentisecond="2107" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2437" endCentisecond="2450" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2777" endCentisecond="2790" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3120" endCentisecond="3133" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3797" endCentisecond="3811" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6030" endCentisecond="6058" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6058" endCentisecond="6087" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6201" endCentisecond="6229" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6229" endCentisecond="6258" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22116" endCentisecond="22127" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22127" endCentisecond="22181" intensity="100"/>
+			<effect type="intensity" startCentisecond="22181" endCentisecond="22191" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22384" endCentisecond="22395" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22395" endCentisecond="22448" intensity="100"/>
+			<effect type="intensity" startCentisecond="22448" endCentisecond="22459" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22632" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22814" intensity="100"/>
+			<effect type="intensity" startCentisecond="22814" endCentisecond="22825" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23156" endCentisecond="23167" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23167" endCentisecond="23220" intensity="100"/>
+			<effect type="intensity" startCentisecond="23220" endCentisecond="23231" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23274" endCentisecond="23285" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23285" endCentisecond="23339" intensity="100"/>
+			<effect type="intensity" startCentisecond="23339" endCentisecond="23349" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1888,6 +1930,21 @@
 			<effect type="intensity" startCentisecond="6058" endCentisecond="6087" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6201" endCentisecond="6229" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6229" endCentisecond="6258" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22116" endCentisecond="22127" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22127" endCentisecond="22181" intensity="100"/>
+			<effect type="intensity" startCentisecond="22181" endCentisecond="22191" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22384" endCentisecond="22395" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22395" endCentisecond="22448" intensity="100"/>
+			<effect type="intensity" startCentisecond="22448" endCentisecond="22459" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22632" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22814" intensity="100"/>
+			<effect type="intensity" startCentisecond="22814" endCentisecond="22825" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23156" endCentisecond="23167" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23167" endCentisecond="23220" intensity="100"/>
+			<effect type="intensity" startCentisecond="23220" endCentisecond="23231" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23274" endCentisecond="23285" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23285" endCentisecond="23339" intensity="100"/>
+			<effect type="intensity" startCentisecond="23339" endCentisecond="23349" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1906,6 +1963,21 @@
 			<effect type="intensity" startCentisecond="6058" endCentisecond="6087" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6201" endCentisecond="6229" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6229" endCentisecond="6258" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22116" endCentisecond="22127" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22127" endCentisecond="22181" intensity="100"/>
+			<effect type="intensity" startCentisecond="22181" endCentisecond="22191" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22384" endCentisecond="22395" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22395" endCentisecond="22448" intensity="100"/>
+			<effect type="intensity" startCentisecond="22448" endCentisecond="22459" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22632" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22814" intensity="100"/>
+			<effect type="intensity" startCentisecond="22814" endCentisecond="22825" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23156" endCentisecond="23167" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23167" endCentisecond="23220" intensity="100"/>
+			<effect type="intensity" startCentisecond="23220" endCentisecond="23231" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23274" endCentisecond="23285" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23285" endCentisecond="23339" intensity="100"/>
+			<effect type="intensity" startCentisecond="23339" endCentisecond="23349" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1917,10 +1989,12 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 3 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="126">
-			<effect type="intensity" startCentisecond="3899" endCentisecond="3914" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6087" endCentisecond="6115" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6144" endCentisecond="6201" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6258" endCentisecond="6287" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22632" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22749" intensity="100"/>
+			<effect type="intensity" startCentisecond="22749" endCentisecond="22760" startIntensity="93" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1929,6 +2003,9 @@
 			<effect type="intensity" startCentisecond="6087" endCentisecond="6115" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6144" endCentisecond="6201" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6258" endCentisecond="6287" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22632" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22749" intensity="100"/>
+			<effect type="intensity" startCentisecond="22749" endCentisecond="22760" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1937,6 +2014,9 @@
 			<effect type="intensity" startCentisecond="6087" endCentisecond="6115" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6144" endCentisecond="6201" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6258" endCentisecond="6287" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22632" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22632" endCentisecond="22749" intensity="100"/>
+			<effect type="intensity" startCentisecond="22749" endCentisecond="22760" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -1948,7 +2028,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 3 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="130">
-			<effect type="intensity" startCentisecond="3914" endCentisecond="3929" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6100" endCentisecond="6130" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6301" endCentisecond="6330" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="6344" endCentisecond="6387" startIntensity="50" endIntensity="0"/>
@@ -2138,13 +2217,6 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Zone 4 - Tree (R)" color="255" centiseconds="24537" savedIndex="156">
-			<effect type="intensity" startCentisecond="1203" endCentisecond="1286" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2170" endCentisecond="2184" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2526" endCentisecond="2540" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2898" endCentisecond="2912" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3227" endCentisecond="3256" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3811" endCentisecond="3840" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3913" endCentisecond="3942" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9432" endCentisecond="9475" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="9475" endCentisecond="9518" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9560" endCentisecond="9603" startIntensity="0" endIntensity="50"/>
@@ -2188,6 +2260,7 @@
 			<effect type="intensity" startCentisecond="21432" endCentisecond="21476" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="21476" endCentisecond="21776" intensity="50"/>
 			<effect type="intensity" startCentisecond="21776" endCentisecond="21946" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="5" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 4 - Tree (G)" color="65280" centiseconds="24537" savedIndex="157">
 			<effect type="intensity" startCentisecond="1203" endCentisecond="1286" startIntensity="100" endIntensity="0"/>
@@ -2217,15 +2290,9 @@
 			<effect type="intensity" startCentisecond="15303" endCentisecond="15325" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15346" endCentisecond="15368" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15389" endCentisecond="15411" startIntensity="42" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 4 - Tree (B)" color="16711680" centiseconds="24537" savedIndex="158">
-			<effect type="intensity" startCentisecond="1203" endCentisecond="1286" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2170" endCentisecond="2184" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2526" endCentisecond="2540" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2898" endCentisecond="2912" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3227" endCentisecond="3256" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3811" endCentisecond="3840" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3913" endCentisecond="3942" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9432" endCentisecond="9475" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="9475" endCentisecond="9518" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9560" endCentisecond="9603" startIntensity="0" endIntensity="100"/>
@@ -2279,9 +2346,23 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 4 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="160">
-			<effect type="intensity" startCentisecond="1686" endCentisecond="1701" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3512" endCentisecond="3526" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3540" endCentisecond="3554" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22085" endCentisecond="22095" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22095" endCentisecond="22148" intensity="100"/>
+			<effect type="intensity" startCentisecond="22148" endCentisecond="22159" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22461" endCentisecond="22472" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22472" endCentisecond="22525" intensity="100"/>
+			<effect type="intensity" startCentisecond="22525" endCentisecond="22535" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22674" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22932" intensity="100"/>
+			<effect type="intensity" startCentisecond="22932" endCentisecond="22943" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23243" endCentisecond="23253" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23253" endCentisecond="23306" intensity="100"/>
+			<effect type="intensity" startCentisecond="23306" endCentisecond="23317" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23359" endCentisecond="23370" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23370" endCentisecond="23423" intensity="100"/>
+			<effect type="intensity" startCentisecond="23423" endCentisecond="23433" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23499" endCentisecond="23510" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23510" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2289,6 +2370,23 @@
 			<effect type="intensity" startCentisecond="1686" endCentisecond="1701" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3512" endCentisecond="3526" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3540" endCentisecond="3554" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22085" endCentisecond="22095" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22095" endCentisecond="22148" intensity="100"/>
+			<effect type="intensity" startCentisecond="22148" endCentisecond="22159" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22461" endCentisecond="22472" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22472" endCentisecond="22525" intensity="100"/>
+			<effect type="intensity" startCentisecond="22525" endCentisecond="22535" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22674" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22932" intensity="100"/>
+			<effect type="intensity" startCentisecond="22932" endCentisecond="22943" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23243" endCentisecond="23253" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23253" endCentisecond="23306" intensity="100"/>
+			<effect type="intensity" startCentisecond="23306" endCentisecond="23317" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23359" endCentisecond="23370" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23370" endCentisecond="23423" intensity="100"/>
+			<effect type="intensity" startCentisecond="23423" endCentisecond="23433" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23499" endCentisecond="23510" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23510" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2296,6 +2394,23 @@
 			<effect type="intensity" startCentisecond="1686" endCentisecond="1701" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3512" endCentisecond="3526" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3540" endCentisecond="3554" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22085" endCentisecond="22095" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22095" endCentisecond="22148" intensity="100"/>
+			<effect type="intensity" startCentisecond="22148" endCentisecond="22159" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22461" endCentisecond="22472" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22472" endCentisecond="22525" intensity="100"/>
+			<effect type="intensity" startCentisecond="22525" endCentisecond="22535" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22674" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22932" intensity="100"/>
+			<effect type="intensity" startCentisecond="22932" endCentisecond="22943" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23243" endCentisecond="23253" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23253" endCentisecond="23306" intensity="100"/>
+			<effect type="intensity" startCentisecond="23306" endCentisecond="23317" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23359" endCentisecond="23370" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23370" endCentisecond="23423" intensity="100"/>
+			<effect type="intensity" startCentisecond="23423" endCentisecond="23433" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23499" endCentisecond="23510" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23510" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2307,9 +2422,21 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 4 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="164">
-			<effect type="intensity" startCentisecond="1701" endCentisecond="1715" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3526" endCentisecond="3540" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3811" endCentisecond="3826" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22106" endCentisecond="22116" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22116" endCentisecond="22170" intensity="100"/>
+			<effect type="intensity" startCentisecond="22170" endCentisecond="22181" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22482" endCentisecond="22493" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22493" endCentisecond="22546" intensity="100"/>
+			<effect type="intensity" startCentisecond="22546" endCentisecond="22557" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22674" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22868" intensity="100"/>
+			<effect type="intensity" startCentisecond="22868" endCentisecond="22878" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23264" endCentisecond="23274" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23274" endCentisecond="23328" intensity="100"/>
+			<effect type="intensity" startCentisecond="23328" endCentisecond="23339" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23380" endCentisecond="23391" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23391" endCentisecond="23444" intensity="100"/>
+			<effect type="intensity" startCentisecond="23444" endCentisecond="23455" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2317,6 +2444,21 @@
 			<effect type="intensity" startCentisecond="1701" endCentisecond="1715" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3526" endCentisecond="3540" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3811" endCentisecond="3826" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22106" endCentisecond="22116" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22116" endCentisecond="22170" intensity="100"/>
+			<effect type="intensity" startCentisecond="22170" endCentisecond="22181" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22482" endCentisecond="22493" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22493" endCentisecond="22546" intensity="100"/>
+			<effect type="intensity" startCentisecond="22546" endCentisecond="22557" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22674" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22868" intensity="100"/>
+			<effect type="intensity" startCentisecond="22868" endCentisecond="22878" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23264" endCentisecond="23274" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23274" endCentisecond="23328" intensity="100"/>
+			<effect type="intensity" startCentisecond="23328" endCentisecond="23339" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23380" endCentisecond="23391" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23391" endCentisecond="23444" intensity="100"/>
+			<effect type="intensity" startCentisecond="23444" endCentisecond="23455" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2324,6 +2466,21 @@
 			<effect type="intensity" startCentisecond="1701" endCentisecond="1715" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3526" endCentisecond="3540" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3811" endCentisecond="3826" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22106" endCentisecond="22116" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22116" endCentisecond="22170" intensity="100"/>
+			<effect type="intensity" startCentisecond="22170" endCentisecond="22181" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22482" endCentisecond="22493" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22493" endCentisecond="22546" intensity="100"/>
+			<effect type="intensity" startCentisecond="22546" endCentisecond="22557" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22674" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22868" intensity="100"/>
+			<effect type="intensity" startCentisecond="22868" endCentisecond="22878" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23264" endCentisecond="23274" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23274" endCentisecond="23328" intensity="100"/>
+			<effect type="intensity" startCentisecond="23328" endCentisecond="23339" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23380" endCentisecond="23391" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23391" endCentisecond="23444" intensity="100"/>
+			<effect type="intensity" startCentisecond="23444" endCentisecond="23455" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2335,19 +2492,21 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 4 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="168">
-			<effect type="intensity" startCentisecond="429" endCentisecond="443" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="772" endCentisecond="786" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1115" endCentisecond="1129" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1143" endCentisecond="1158" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1457" endCentisecond="1471" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1800" endCentisecond="1814" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2144" endCentisecond="2158" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2172" endCentisecond="2187" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2486" endCentisecond="2500" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2827" endCentisecond="2841" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2855" endCentisecond="2870" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3169" endCentisecond="3183" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3826" endCentisecond="3840" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22127" endCentisecond="22138" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22138" endCentisecond="22191" intensity="100"/>
+			<effect type="intensity" startCentisecond="22191" endCentisecond="22202" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22503" endCentisecond="22514" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22514" endCentisecond="22568" intensity="100"/>
+			<effect type="intensity" startCentisecond="22568" endCentisecond="22578" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22611" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22803" intensity="100"/>
+			<effect type="intensity" startCentisecond="22803" endCentisecond="22814" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23285" endCentisecond="23296" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23296" endCentisecond="23349" intensity="100"/>
+			<effect type="intensity" startCentisecond="23349" endCentisecond="23359" startIntensity="100" endIntensity="9"/>
+			<effect type="intensity" startCentisecond="23401" endCentisecond="23412" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23412" endCentisecond="23466" intensity="100"/>
+			<effect type="intensity" startCentisecond="23466" endCentisecond="23476" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2365,6 +2524,21 @@
 			<effect type="intensity" startCentisecond="2855" endCentisecond="2870" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3169" endCentisecond="3183" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3826" endCentisecond="3840" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22127" endCentisecond="22138" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22138" endCentisecond="22191" intensity="100"/>
+			<effect type="intensity" startCentisecond="22191" endCentisecond="22202" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22503" endCentisecond="22514" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22514" endCentisecond="22568" intensity="100"/>
+			<effect type="intensity" startCentisecond="22568" endCentisecond="22578" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22611" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22803" intensity="100"/>
+			<effect type="intensity" startCentisecond="22803" endCentisecond="22814" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23285" endCentisecond="23296" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23296" endCentisecond="23349" intensity="100"/>
+			<effect type="intensity" startCentisecond="23349" endCentisecond="23359" startIntensity="100" endIntensity="9"/>
+			<effect type="intensity" startCentisecond="23401" endCentisecond="23412" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23412" endCentisecond="23466" intensity="100"/>
+			<effect type="intensity" startCentisecond="23466" endCentisecond="23476" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2382,6 +2556,21 @@
 			<effect type="intensity" startCentisecond="2855" endCentisecond="2870" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3169" endCentisecond="3183" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3826" endCentisecond="3840" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22127" endCentisecond="22138" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22138" endCentisecond="22191" intensity="100"/>
+			<effect type="intensity" startCentisecond="22191" endCentisecond="22202" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22503" endCentisecond="22514" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22514" endCentisecond="22568" intensity="100"/>
+			<effect type="intensity" startCentisecond="22568" endCentisecond="22578" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22611" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22803" intensity="100"/>
+			<effect type="intensity" startCentisecond="22803" endCentisecond="22814" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23285" endCentisecond="23296" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23296" endCentisecond="23349" intensity="100"/>
+			<effect type="intensity" startCentisecond="23349" endCentisecond="23359" startIntensity="100" endIntensity="9"/>
+			<effect type="intensity" startCentisecond="23401" endCentisecond="23412" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23412" endCentisecond="23466" intensity="100"/>
+			<effect type="intensity" startCentisecond="23466" endCentisecond="23476" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2393,10 +2582,9 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 4 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="172">
-			<effect type="intensity" startCentisecond="1172" endCentisecond="1186" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2201" endCentisecond="2215" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2884" endCentisecond="2898" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3840" endCentisecond="3854" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22611" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22738" intensity="100"/>
+			<effect type="intensity" startCentisecond="22738" endCentisecond="22749" startIntensity="93" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2405,6 +2593,9 @@
 			<effect type="intensity" startCentisecond="2201" endCentisecond="2215" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2884" endCentisecond="2898" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3840" endCentisecond="3854" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22611" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22738" intensity="100"/>
+			<effect type="intensity" startCentisecond="22738" endCentisecond="22749" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2413,6 +2604,9 @@
 			<effect type="intensity" startCentisecond="2201" endCentisecond="2215" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2884" endCentisecond="2898" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3840" endCentisecond="3854" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22611" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22738" intensity="100"/>
+			<effect type="intensity" startCentisecond="22738" endCentisecond="22749" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2577,13 +2771,6 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Zone 5 - Tree (R)" color="255" centiseconds="24537" deviceType="DMX Universe" circuit="6" network="1" savedIndex="202">
-			<effect type="intensity" startCentisecond="859" endCentisecond="945" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2140" endCentisecond="2155" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2555" endCentisecond="2569" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2871" endCentisecond="2884" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3213" endCentisecond="3242" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3826" endCentisecond="3854" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3899" endCentisecond="3928" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9218" endCentisecond="9260" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="9260" endCentisecond="9432" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9518" endCentisecond="9560" startIntensity="0" endIntensity="50"/>
@@ -2627,6 +2814,7 @@
 			<effect type="intensity" startCentisecond="21519" endCentisecond="21562" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="21562" endCentisecond="21776" intensity="50"/>
 			<effect type="intensity" startCentisecond="21776" endCentisecond="21946" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="5" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 5 - Tree (G)" color="65280" centiseconds="24537" deviceType="DMX Universe" circuit="7" network="1" savedIndex="203">
 			<effect type="intensity" startCentisecond="859" endCentisecond="945" startIntensity="100" endIntensity="0"/>
@@ -2648,15 +2836,9 @@
 			<effect type="intensity" startCentisecond="15325" endCentisecond="15346" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15368" endCentisecond="15389" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15411" endCentisecond="15432" startIntensity="42" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 5 - Tree (B)" color="16711680" centiseconds="24537" deviceType="DMX Universe" circuit="8" network="1" savedIndex="204">
-			<effect type="intensity" startCentisecond="859" endCentisecond="945" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2140" endCentisecond="2155" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2555" endCentisecond="2569" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2871" endCentisecond="2884" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3213" endCentisecond="3242" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3826" endCentisecond="3854" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3899" endCentisecond="3928" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9218" endCentisecond="9260" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="9260" endCentisecond="9432" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9518" endCentisecond="9560" startIntensity="0" endIntensity="100"/>
@@ -2710,16 +2892,18 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 5 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="206">
-			<effect type="intensity" startCentisecond="1129" endCentisecond="1143" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1158" endCentisecond="1172" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1729" endCentisecond="1743" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2158" endCentisecond="2172" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2187" endCentisecond="2201" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2841" endCentisecond="2855" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2870" endCentisecond="2884" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3601" endCentisecond="3615" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3629" endCentisecond="3643" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3769" endCentisecond="3783" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22203" endCentisecond="22214" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22214" endCentisecond="22267" intensity="100"/>
+			<effect type="intensity" startCentisecond="22267" endCentisecond="22277" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22472" endCentisecond="22482" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22482" endCentisecond="22535" intensity="100"/>
+			<effect type="intensity" startCentisecond="22535" endCentisecond="22546" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22685" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22921" intensity="100"/>
+			<effect type="intensity" startCentisecond="22921" endCentisecond="22932" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23370" endCentisecond="23380" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23380" endCentisecond="23433" intensity="100"/>
+			<effect type="intensity" startCentisecond="23433" endCentisecond="23444" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2734,6 +2918,18 @@
 			<effect type="intensity" startCentisecond="3601" endCentisecond="3615" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3629" endCentisecond="3643" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3769" endCentisecond="3783" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22203" endCentisecond="22214" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22214" endCentisecond="22267" intensity="100"/>
+			<effect type="intensity" startCentisecond="22267" endCentisecond="22277" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22472" endCentisecond="22482" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22482" endCentisecond="22535" intensity="100"/>
+			<effect type="intensity" startCentisecond="22535" endCentisecond="22546" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22685" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22921" intensity="100"/>
+			<effect type="intensity" startCentisecond="22921" endCentisecond="22932" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23370" endCentisecond="23380" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23380" endCentisecond="23433" intensity="100"/>
+			<effect type="intensity" startCentisecond="23433" endCentisecond="23444" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2748,6 +2944,18 @@
 			<effect type="intensity" startCentisecond="3601" endCentisecond="3615" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3629" endCentisecond="3643" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3769" endCentisecond="3783" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22203" endCentisecond="22214" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22214" endCentisecond="22267" intensity="100"/>
+			<effect type="intensity" startCentisecond="22267" endCentisecond="22277" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22472" endCentisecond="22482" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22482" endCentisecond="22535" intensity="100"/>
+			<effect type="intensity" startCentisecond="22535" endCentisecond="22546" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22685" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22921" intensity="100"/>
+			<effect type="intensity" startCentisecond="22921" endCentisecond="22932" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23370" endCentisecond="23380" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23380" endCentisecond="23433" intensity="100"/>
+			<effect type="intensity" startCentisecond="23433" endCentisecond="23444" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2759,9 +2967,20 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 5 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="210">
-			<effect type="intensity" startCentisecond="1743" endCentisecond="1758" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3615" endCentisecond="3629" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3783" endCentisecond="3797" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22224" endCentisecond="22235" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22235" endCentisecond="22288" intensity="100"/>
+			<effect type="intensity" startCentisecond="22288" endCentisecond="22299" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22493" endCentisecond="22503" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22503" endCentisecond="22557" intensity="100"/>
+			<effect type="intensity" startCentisecond="22557" endCentisecond="22568" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22685" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22857" intensity="100"/>
+			<effect type="intensity" startCentisecond="22857" endCentisecond="22868" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23391" endCentisecond="23401" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23401" endCentisecond="23455" intensity="100"/>
+			<effect type="intensity" startCentisecond="23455" endCentisecond="23466" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23542" endCentisecond="23552" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23552" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2769,6 +2988,20 @@
 			<effect type="intensity" startCentisecond="1743" endCentisecond="1758" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3615" endCentisecond="3629" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3783" endCentisecond="3797" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22224" endCentisecond="22235" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22235" endCentisecond="22288" intensity="100"/>
+			<effect type="intensity" startCentisecond="22288" endCentisecond="22299" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22493" endCentisecond="22503" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22503" endCentisecond="22557" intensity="100"/>
+			<effect type="intensity" startCentisecond="22557" endCentisecond="22568" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22685" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22857" intensity="100"/>
+			<effect type="intensity" startCentisecond="22857" endCentisecond="22868" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23391" endCentisecond="23401" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23401" endCentisecond="23455" intensity="100"/>
+			<effect type="intensity" startCentisecond="23455" endCentisecond="23466" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23542" endCentisecond="23552" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23552" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2776,6 +3009,20 @@
 			<effect type="intensity" startCentisecond="1743" endCentisecond="1758" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3615" endCentisecond="3629" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3783" endCentisecond="3797" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22224" endCentisecond="22235" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22235" endCentisecond="22288" intensity="100"/>
+			<effect type="intensity" startCentisecond="22288" endCentisecond="22299" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22493" endCentisecond="22503" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22503" endCentisecond="22557" intensity="100"/>
+			<effect type="intensity" startCentisecond="22557" endCentisecond="22568" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22674" endCentisecond="22685" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22685" endCentisecond="22857" intensity="100"/>
+			<effect type="intensity" startCentisecond="22857" endCentisecond="22868" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23391" endCentisecond="23401" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23401" endCentisecond="23455" intensity="100"/>
+			<effect type="intensity" startCentisecond="23455" endCentisecond="23466" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23542" endCentisecond="23552" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23552" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2787,17 +3034,18 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 5 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="214">
-			<effect type="intensity" startCentisecond="500" endCentisecond="514" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="843" endCentisecond="857" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1186" endCentisecond="1200" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1528" endCentisecond="1542" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1814" endCentisecond="1829" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2215" endCentisecond="2229" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2557" endCentisecond="2569" startIntensity="100" endIntensity="14"/>
-			<effect type="intensity" startCentisecond="2898" endCentisecond="2912" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3240" endCentisecond="3254" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3597" endCentisecond="3599" startIntensity="14" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3797" endCentisecond="3811" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22245" endCentisecond="22256" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22256" endCentisecond="22310" intensity="100"/>
+			<effect type="intensity" startCentisecond="22310" endCentisecond="22320" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22514" endCentisecond="22525" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22525" endCentisecond="22578" intensity="100"/>
+			<effect type="intensity" startCentisecond="22578" endCentisecond="22589" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22622" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22792" intensity="100"/>
+			<effect type="intensity" startCentisecond="22792" endCentisecond="22803" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23412" endCentisecond="23423" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23423" endCentisecond="23476" intensity="100"/>
+			<effect type="intensity" startCentisecond="23476" endCentisecond="23487" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2813,6 +3061,18 @@
 			<effect type="intensity" startCentisecond="3240" endCentisecond="3254" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3597" endCentisecond="3599" startIntensity="14" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3797" endCentisecond="3811" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22245" endCentisecond="22256" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22256" endCentisecond="22310" intensity="100"/>
+			<effect type="intensity" startCentisecond="22310" endCentisecond="22320" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22514" endCentisecond="22525" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22525" endCentisecond="22578" intensity="100"/>
+			<effect type="intensity" startCentisecond="22578" endCentisecond="22589" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22622" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22792" intensity="100"/>
+			<effect type="intensity" startCentisecond="22792" endCentisecond="22803" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23412" endCentisecond="23423" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23423" endCentisecond="23476" intensity="100"/>
+			<effect type="intensity" startCentisecond="23476" endCentisecond="23487" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2828,6 +3088,18 @@
 			<effect type="intensity" startCentisecond="3240" endCentisecond="3254" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3597" endCentisecond="3599" startIntensity="14" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3797" endCentisecond="3811" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22245" endCentisecond="22256" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22256" endCentisecond="22310" intensity="100"/>
+			<effect type="intensity" startCentisecond="22310" endCentisecond="22320" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22514" endCentisecond="22525" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22525" endCentisecond="22578" intensity="100"/>
+			<effect type="intensity" startCentisecond="22578" endCentisecond="22589" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22622" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22792" intensity="100"/>
+			<effect type="intensity" startCentisecond="22792" endCentisecond="22803" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23412" endCentisecond="23423" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23423" endCentisecond="23476" intensity="100"/>
+			<effect type="intensity" startCentisecond="23476" endCentisecond="23487" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -2839,14 +3111,23 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 5 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="218">
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22622" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22727" intensity="100"/>
+			<effect type="intensity" startCentisecond="22727" endCentisecond="22738" startIntensity="93" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 5 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="219">
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22622" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22727" intensity="100"/>
+			<effect type="intensity" startCentisecond="22727" endCentisecond="22738" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 5 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="220">
+			<effect type="intensity" startCentisecond="22611" endCentisecond="22622" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22622" endCentisecond="22727" intensity="100"/>
+			<effect type="intensity" startCentisecond="22727" endCentisecond="22738" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -3025,12 +3306,6 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel name="Zone 6 - Tree (R)" color="255" centiseconds="24537" savedIndex="248">
-			<effect type="intensity" startCentisecond="1203" endCentisecond="1286" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2184" endCentisecond="2198" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2512" endCentisecond="2526" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2829" endCentisecond="2843" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3242" endCentisecond="3270" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3928" endCentisecond="3956" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9475" endCentisecond="9518" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="9518" endCentisecond="9560" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9560" endCentisecond="9603" startIntensity="0" endIntensity="50"/>
@@ -3066,6 +3341,7 @@
 			<effect type="intensity" startCentisecond="21476" endCentisecond="21519" startIntensity="0" endIntensity="50"/>
 			<effect type="intensity" startCentisecond="21519" endCentisecond="21776" intensity="50"/>
 			<effect type="intensity" startCentisecond="21776" endCentisecond="21946" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="5" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 6 - Tree (G)" color="65280" centiseconds="24537" savedIndex="249">
 			<effect type="intensity" startCentisecond="1203" endCentisecond="1286" startIntensity="100" endIntensity="0"/>
@@ -3090,14 +3366,9 @@
 			<effect type="intensity" startCentisecond="15303" endCentisecond="15325" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15346" endCentisecond="15368" startIntensity="42" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="15389" endCentisecond="15411" startIntensity="42" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23659" endCentisecond="23997" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 6 - Tree (B)" color="16711680" centiseconds="24537" savedIndex="250">
-			<effect type="intensity" startCentisecond="1203" endCentisecond="1286" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2184" endCentisecond="2198" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2512" endCentisecond="2526" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2829" endCentisecond="2843" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3242" endCentisecond="3270" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3928" endCentisecond="3956" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9475" endCentisecond="9518" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="9518" endCentisecond="9560" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="9560" endCentisecond="9603" startIntensity="0" endIntensity="100"/>
@@ -3143,20 +3414,42 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 6 - Ground 1 (R)" color="255" centiseconds="24537" savedIndex="252">
-			<effect type="intensity" startCentisecond="3683" endCentisecond="3697" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3711" endCentisecond="3725" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22214" endCentisecond="22224" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22224" endCentisecond="22277" intensity="100"/>
+			<effect type="intensity" startCentisecond="22277" endCentisecond="22288" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22664" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22911" intensity="100"/>
+			<effect type="intensity" startCentisecond="22911" endCentisecond="22921" startIntensity="93" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23510" endCentisecond="23520" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23520" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 6 - Ground 1 (G)" color="65280" centiseconds="24537" savedIndex="253">
 			<effect type="intensity" startCentisecond="3683" endCentisecond="3697" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3711" endCentisecond="3725" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22214" endCentisecond="22224" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22224" endCentisecond="22277" intensity="100"/>
+			<effect type="intensity" startCentisecond="22277" endCentisecond="22288" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22664" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22911" intensity="100"/>
+			<effect type="intensity" startCentisecond="22911" endCentisecond="22921" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23510" endCentisecond="23520" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23520" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 6 - Ground 1 (B)" color="16711680" centiseconds="24537" savedIndex="254">
 			<effect type="intensity" startCentisecond="3683" endCentisecond="3697" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3711" endCentisecond="3725" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22214" endCentisecond="22224" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22224" endCentisecond="22277" intensity="100"/>
+			<effect type="intensity" startCentisecond="22277" endCentisecond="22288" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22664" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22911" intensity="100"/>
+			<effect type="intensity" startCentisecond="22911" endCentisecond="22921" startIntensity="7" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="23510" endCentisecond="23520" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="23520" endCentisecond="23564" intensity="100"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -3168,17 +3461,34 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 6 - Ground 2 (R)" color="255" centiseconds="24537" savedIndex="256">
-			<effect type="intensity" startCentisecond="3697" endCentisecond="3711" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22235" endCentisecond="22245" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22245" endCentisecond="22299" intensity="100"/>
+			<effect type="intensity" startCentisecond="22299" endCentisecond="22310" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22664" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22846" intensity="100"/>
+			<effect type="intensity" startCentisecond="22846" endCentisecond="22857" startIntensity="93" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 6 - Ground 2 (G)" color="65280" centiseconds="24537" savedIndex="257">
 			<effect type="intensity" startCentisecond="3697" endCentisecond="3711" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22235" endCentisecond="22245" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22245" endCentisecond="22299" intensity="100"/>
+			<effect type="intensity" startCentisecond="22299" endCentisecond="22310" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22664" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22846" intensity="100"/>
+			<effect type="intensity" startCentisecond="22846" endCentisecond="22857" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 6 - Ground 2 (B)" color="16711680" centiseconds="24537" savedIndex="258">
 			<effect type="intensity" startCentisecond="3697" endCentisecond="3711" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22235" endCentisecond="22245" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22245" endCentisecond="22299" intensity="100"/>
+			<effect type="intensity" startCentisecond="22299" endCentisecond="22310" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22653" endCentisecond="22664" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22664" endCentisecond="22846" intensity="100"/>
+			<effect type="intensity" startCentisecond="22846" endCentisecond="22857" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -3190,13 +3500,12 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 6 - Ground 3 (R)" color="255" centiseconds="24537" savedIndex="260">
-			<effect type="intensity" startCentisecond="457" endCentisecond="472" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="800" endCentisecond="815" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1485" endCentisecond="1500" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="1829" endCentisecond="1843" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="2514" endCentisecond="2529" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3197" endCentisecond="3212" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3854" endCentisecond="3869" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22256" endCentisecond="22267" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22267" endCentisecond="22320" intensity="100"/>
+			<effect type="intensity" startCentisecond="22320" endCentisecond="22331" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22590" endCentisecond="22601" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22782" intensity="100"/>
+			<effect type="intensity" startCentisecond="22782" endCentisecond="22792" startIntensity="93" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -3208,6 +3517,12 @@
 			<effect type="intensity" startCentisecond="2514" endCentisecond="2529" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3197" endCentisecond="3212" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3854" endCentisecond="3869" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22256" endCentisecond="22267" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22267" endCentisecond="22320" intensity="100"/>
+			<effect type="intensity" startCentisecond="22320" endCentisecond="22331" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22590" endCentisecond="22601" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22782" intensity="100"/>
+			<effect type="intensity" startCentisecond="22782" endCentisecond="22792" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -3219,6 +3534,12 @@
 			<effect type="intensity" startCentisecond="2514" endCentisecond="2529" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3197" endCentisecond="3212" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3854" endCentisecond="3869" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22256" endCentisecond="22267" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22267" endCentisecond="22320" intensity="100"/>
+			<effect type="intensity" startCentisecond="22320" endCentisecond="22331" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22590" endCentisecond="22601" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22782" intensity="100"/>
+			<effect type="intensity" startCentisecond="22782" endCentisecond="22792" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -3230,17 +3551,25 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 6 - Ground 4 (R)" color="255" centiseconds="24537" savedIndex="264">
-			<effect type="intensity" startCentisecond="3869" endCentisecond="3884" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22590" endCentisecond="22601" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22716" intensity="100"/>
+			<effect type="intensity" startCentisecond="22716" endCentisecond="22727" startIntensity="93" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 6 - Ground 4 (G)" color="65280" centiseconds="24537" savedIndex="265">
 			<effect type="intensity" startCentisecond="3869" endCentisecond="3884" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22590" endCentisecond="22601" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22716" intensity="100"/>
+			<effect type="intensity" startCentisecond="22716" endCentisecond="22727" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 6 - Ground 4 (B)" color="16711680" centiseconds="24537" savedIndex="266">
 			<effect type="intensity" startCentisecond="3869" endCentisecond="3884" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="22590" endCentisecond="22601" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="22601" endCentisecond="22716" intensity="100"/>
+			<effect type="intensity" startCentisecond="22716" endCentisecond="22727" startIntensity="7" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -3252,7 +3581,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 6 - Ground 5 (R)" color="255" centiseconds="24537" savedIndex="268">
-			<effect type="intensity" startCentisecond="3884" endCentisecond="3899" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23564" endCentisecond="23599" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
@@ -4959,8 +5287,17 @@
 			<timing centisecond="21860"/>
 			<timing centisecond="21903"/>
 			<timing centisecond="21946"/>
+			<timing centisecond="21957"/>
+			<timing centisecond="21967"/>
+			<timing centisecond="21978"/>
 			<timing centisecond="21988"/>
+			<timing centisecond="21999"/>
+			<timing centisecond="22010"/>
+			<timing centisecond="22020"/>
 			<timing centisecond="22031"/>
+			<timing centisecond="22042"/>
+			<timing centisecond="22053"/>
+			<timing centisecond="22063"/>
 			<timing centisecond="22074"/>
 			<timing centisecond="22117"/>
 			<timing centisecond="22160"/>
@@ -4974,14 +5311,41 @@
 			<timing centisecond="22504"/>
 			<timing centisecond="22547"/>
 			<timing centisecond="22590"/>
+			<timing centisecond="22601"/>
+			<timing centisecond="22611"/>
+			<timing centisecond="22622"/>
 			<timing centisecond="22632"/>
+			<timing centisecond="22643"/>
+			<timing centisecond="22653"/>
+			<timing centisecond="22664"/>
 			<timing centisecond="22674"/>
+			<timing centisecond="22685"/>
+			<timing centisecond="22695"/>
+			<timing centisecond="22706"/>
 			<timing centisecond="22716"/>
+			<timing centisecond="22727"/>
+			<timing centisecond="22738"/>
+			<timing centisecond="22749"/>
 			<timing centisecond="22760"/>
+			<timing centisecond="22771"/>
+			<timing centisecond="22782"/>
+			<timing centisecond="22792"/>
 			<timing centisecond="22803"/>
+			<timing centisecond="22814"/>
+			<timing centisecond="22825"/>
+			<timing centisecond="22835"/>
 			<timing centisecond="22846"/>
+			<timing centisecond="22857"/>
+			<timing centisecond="22868"/>
+			<timing centisecond="22878"/>
 			<timing centisecond="22889"/>
+			<timing centisecond="22900"/>
+			<timing centisecond="22911"/>
+			<timing centisecond="22921"/>
 			<timing centisecond="22932"/>
+			<timing centisecond="22943"/>
+			<timing centisecond="22954"/>
+			<timing centisecond="22964"/>
 			<timing centisecond="22975"/>
 			<timing centisecond="23017"/>
 			<timing centisecond="23060"/>
@@ -4995,10 +5359,17 @@
 			<timing centisecond="23402"/>
 			<timing centisecond="23445"/>
 			<timing centisecond="23488"/>
+			<timing centisecond="23499"/>
+			<timing centisecond="23510"/>
+			<timing centisecond="23520"/>
 			<timing centisecond="23531"/>
+			<timing centisecond="23542"/>
+			<timing centisecond="23552"/>
+			<timing centisecond="23563"/>
 			<timing centisecond="23573"/>
 			<timing centisecond="23612"/>
 			<timing centisecond="23640"/>
+			<timing centisecond="23659"/>
 			<timing centisecond="23668"/>
 			<timing centisecond="23696"/>
 			<timing centisecond="23724"/>
