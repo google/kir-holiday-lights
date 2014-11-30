@@ -3518,7 +3518,6 @@
 			</channels>
 		</rgbChannel>
 		<channel name="Zone 2 - Ground 8 (R)" color="255" centiseconds="24537" savedIndex="94">
-			<effect type="intensity" startCentisecond="5962" endCentisecond="5972" startIntensity="6" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="7714" endCentisecond="7716" startIntensity="5" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8057" endCentisecond="8058" startIntensity="4" endIntensity="2"/>
 			<effect type="intensity" startCentisecond="8101" endCentisecond="8102" startIntensity="3" endIntensity="0"/>
@@ -3548,7 +3547,6 @@
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 2 - Ground 8 (G)" color="65280" centiseconds="24537" savedIndex="95">
-			<effect type="intensity" startCentisecond="5962" endCentisecond="5972" startIntensity="13" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="7714" endCentisecond="7716" startIntensity="5" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8057" endCentisecond="8058" startIntensity="4" endIntensity="2"/>
 			<effect type="intensity" startCentisecond="8101" endCentisecond="8102" startIntensity="3" endIntensity="0"/>
@@ -3578,7 +3576,6 @@
 			<effect type="intensity" startCentisecond="23599" endCentisecond="23658" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Zone 2 - Ground 8 (B)" color="16711680" centiseconds="24537" savedIndex="96">
-			<effect type="intensity" startCentisecond="5962" endCentisecond="5972" startIntensity="13" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="7373" endCentisecond="7414" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="7414" endCentisecond="7457" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="7457" endCentisecond="7500" startIntensity="100" endIntensity="0"/>
