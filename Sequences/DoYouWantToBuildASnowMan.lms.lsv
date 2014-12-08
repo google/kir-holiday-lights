@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<sequenceEditorView version="1" animationCellSideLengthHidden="7" animationCellSideLengthShown="5" heightPerRow="16" hideAnimationControls="false" rowButtonWidth="1.7875" viewRowButtons="true" waveformZoom="10" widthPerCentisecond="1.5"/>
+<sequenceEditorView version="1" animationCellSideLengthHidden="7" animationCellSideLengthShown="5" heightPerRow="16" hideAnimationControls="false" rowButtonWidth="1.7875" viewRowButtons="true" waveformZoom="5" widthPerCentisecond="1.25"/>
