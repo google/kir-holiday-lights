@@ -10169,7 +10169,7 @@
 			<loopLevels/>
 		</track>
 	</tracks>
-	<animation rows="100" columns="200" image="Google Lights SV.jpg">
+	<animation rows="100" columns="200" image="Z:\git\kir-holiday-lights\Sequences\Google Lights SV.jpg">
 		<row index="33">
 			<column index="16" channel="305"/>
 			<column index="17" channel="305"/>
