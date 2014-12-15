@@ -487,7 +487,7 @@
 		<channel name="Zone 6 - Tree Sparkle" color="12615744" savedIndex="174"/>
 		<channel name="Zone 6 - Ground Sparkle" color="12615744" savedIndex="175"/>
 		<channel name="Zone 6 - Tree Effect" color="12615744" savedIndex="176"/>
-		<channel name="Zone 6 - Gound Effect" color="12615744" savedIndex="177"/>
+		<channel name="Zone 6 - Ground Effect" color="12615744" savedIndex="177"/>
 		<channelGroupList name="Zone 6" savedIndex="178">
 			<channelGroups>
 				<channelGroup savedIndex="144"/>
