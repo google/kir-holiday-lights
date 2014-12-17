@@ -14,9 +14,9 @@
   limitations under the License.
   --><channelConfig channelConfigFileVersion="14">
 	<channels>
-		<channel circuit="50" color="255" deviceType="DMX Universe" name="Zone 2 - Tree 1 (R)" savedIndex="0"/>
-		<channel circuit="51" color="65280" deviceType="DMX Universe" name="Zone 2 - Tree 1 (G)" savedIndex="1"/>
-		<channel circuit="52" color="16711680" deviceType="DMX Universe" name="Zone 2 - Tree 1 (B)" savedIndex="2"/>
+		<channel circuit="50" color="255" deviceType="DMX Universe" name="Zone 2 - Tree 1 (R)" network="1" savedIndex="0"/>
+		<channel circuit="51" color="65280" deviceType="DMX Universe" name="Zone 2 - Tree 1 (G)" network="1" savedIndex="1"/>
+		<channel circuit="52" color="16711680" deviceType="DMX Universe" name="Zone 2 - Tree 1 (B)" network="1" savedIndex="2"/>
 		<rgbChannel name="Zone 2 - Tree 1" savedIndex="3">
 			<channels>
 				<channel savedIndex="0"/>
@@ -24,9 +24,9 @@
 				<channel savedIndex="2"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="53" color="255" deviceType="DMX Universe" name="Zone 2 - Tree 2 (R)" savedIndex="4"/>
-		<channel circuit="54" color="65280" deviceType="DMX Universe" name="Zone 2 - Tree 2 (G)" savedIndex="5"/>
-		<channel circuit="55" color="16711680" deviceType="DMX Universe" name="Zone 2 - Tree 2 (B)" savedIndex="6"/>
+		<channel circuit="53" color="255" deviceType="DMX Universe" name="Zone 2 - Tree 2 (R)" network="1" savedIndex="4"/>
+		<channel circuit="54" color="65280" deviceType="DMX Universe" name="Zone 2 - Tree 2 (G)" network="1" savedIndex="5"/>
+		<channel circuit="55" color="16711680" deviceType="DMX Universe" name="Zone 2 - Tree 2 (B)" network="1" savedIndex="6"/>
 		<rgbChannel name="Zone 2 - Tree 2" savedIndex="7">
 			<channels>
 				<channel savedIndex="4"/>
@@ -34,9 +34,9 @@
 				<channel savedIndex="6"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="56" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 1 (R)" savedIndex="8"/>
-		<channel circuit="57" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 1 (G)" savedIndex="9"/>
-		<channel circuit="58" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 1 (B)" savedIndex="10"/>
+		<channel circuit="56" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 1 (R)" network="1" savedIndex="8"/>
+		<channel circuit="57" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 1 (G)" network="1" savedIndex="9"/>
+		<channel circuit="58" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 1 (B)" network="1" savedIndex="10"/>
 		<rgbChannel name="Zone 2 - Ground 1" savedIndex="11">
 			<channels>
 				<channel savedIndex="8"/>
@@ -44,9 +44,9 @@
 				<channel savedIndex="10"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="59" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 2 (R)" savedIndex="12"/>
-		<channel circuit="60" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 2 (G)" savedIndex="13"/>
-		<channel circuit="61" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 2 (B)" savedIndex="14"/>
+		<channel circuit="59" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 2 (R)" network="1" savedIndex="12"/>
+		<channel circuit="60" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 2 (G)" network="1" savedIndex="13"/>
+		<channel circuit="61" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 2 (B)" network="1" savedIndex="14"/>
 		<rgbChannel name="Zone 2 - Ground 2" savedIndex="15">
 			<channels>
 				<channel savedIndex="12"/>
@@ -54,9 +54,9 @@
 				<channel savedIndex="14"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="62" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 3 (R)" savedIndex="16"/>
-		<channel circuit="63" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 3 (G)" savedIndex="17"/>
-		<channel circuit="64" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 3 (B)" savedIndex="18"/>
+		<channel circuit="62" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 3 (R)" network="1" savedIndex="16"/>
+		<channel circuit="63" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 3 (G)" network="1" savedIndex="17"/>
+		<channel circuit="64" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 3 (B)" network="1" savedIndex="18"/>
 		<rgbChannel name="Zone 2 - Ground 3" savedIndex="19">
 			<channels>
 				<channel savedIndex="16"/>
@@ -64,9 +64,9 @@
 				<channel savedIndex="18"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="65" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 4 (R)" savedIndex="20"/>
-		<channel circuit="66" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 4 (G)" savedIndex="21"/>
-		<channel circuit="67" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 4 (B)" savedIndex="22"/>
+		<channel circuit="65" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 4 (R)" network="1" savedIndex="20"/>
+		<channel circuit="66" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 4 (G)" network="1" savedIndex="21"/>
+		<channel circuit="67" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 4 (B)" network="1" savedIndex="22"/>
 		<rgbChannel name="Zone 2 - Ground 4" savedIndex="23">
 			<channels>
 				<channel savedIndex="20"/>
@@ -74,9 +74,9 @@
 				<channel savedIndex="22"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="68" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 5 (R)" savedIndex="24"/>
-		<channel circuit="69" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 5 (G)" savedIndex="25"/>
-		<channel circuit="70" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 5 (B)" savedIndex="26"/>
+		<channel circuit="68" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 5 (R)" network="1" savedIndex="24"/>
+		<channel circuit="69" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 5 (G)" network="1" savedIndex="25"/>
+		<channel circuit="70" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 5 (B)" network="1" savedIndex="26"/>
 		<rgbChannel name="Zone 2 - Ground 5" savedIndex="27">
 			<channels>
 				<channel savedIndex="24"/>
@@ -84,9 +84,9 @@
 				<channel savedIndex="26"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="71" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 6 (R)" savedIndex="28"/>
-		<channel circuit="72" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 6 (G)" savedIndex="29"/>
-		<channel circuit="73" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 6 (B)" savedIndex="30"/>
+		<channel circuit="71" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 6 (R)" network="1" savedIndex="28"/>
+		<channel circuit="72" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 6 (G)" network="1" savedIndex="29"/>
+		<channel circuit="73" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 6 (B)" network="1" savedIndex="30"/>
 		<rgbChannel name="Zone 2 - Ground 6" savedIndex="31">
 			<channels>
 				<channel savedIndex="28"/>
@@ -94,9 +94,9 @@
 				<channel savedIndex="30"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="74" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 7 (R)" savedIndex="32"/>
-		<channel circuit="75" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 7 (G)" savedIndex="33"/>
-		<channel circuit="76" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 7 (B)" savedIndex="34"/>
+		<channel circuit="74" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 7 (R)" network="1" savedIndex="32"/>
+		<channel circuit="75" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 7 (G)" network="1" savedIndex="33"/>
+		<channel circuit="76" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 7 (B)" network="1" savedIndex="34"/>
 		<rgbChannel name="Zone 2 - Ground 7" savedIndex="35">
 			<channels>
 				<channel savedIndex="32"/>
@@ -104,9 +104,9 @@
 				<channel savedIndex="34"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="77" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 8 (R)" savedIndex="36"/>
-		<channel circuit="78" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 8 (G)" savedIndex="37"/>
-		<channel circuit="79" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 8 (B)" savedIndex="38"/>
+		<channel circuit="77" color="255" deviceType="DMX Universe" name="Zone 2 - Ground 8 (R)" network="1" savedIndex="36"/>
+		<channel circuit="78" color="65280" deviceType="DMX Universe" name="Zone 2 - Ground 8 (G)" network="1" savedIndex="37"/>
+		<channel circuit="79" color="16711680" deviceType="DMX Universe" name="Zone 2 - Ground 8 (B)" network="1" savedIndex="38"/>
 		<rgbChannel name="Zone 2 - Ground 8" savedIndex="39">
 			<channels>
 				<channel savedIndex="36"/>
@@ -114,9 +114,9 @@
 				<channel savedIndex="38"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="80" color="255" deviceType="DMX Universe" name="Zone 2 - Sparkle Color (R)" savedIndex="40"/>
-		<channel circuit="81" color="65280" deviceType="DMX Universe" name="Zone 2 - Sparkle Color (G)" savedIndex="41"/>
-		<channel circuit="82" color="16711680" deviceType="DMX Universe" name="Zone 2 - Sparkle Color (B)" savedIndex="42"/>
+		<channel circuit="80" color="255" deviceType="DMX Universe" name="Zone 2 - Sparkle Color (R)" network="1" savedIndex="40"/>
+		<channel circuit="81" color="65280" deviceType="DMX Universe" name="Zone 2 - Sparkle Color (G)" network="1" savedIndex="41"/>
+		<channel circuit="82" color="16711680" deviceType="DMX Universe" name="Zone 2 - Sparkle Color (B)" network="1" savedIndex="42"/>
 		<rgbChannel name="Zone 2 - Sparkle Color" savedIndex="43">
 			<channels>
 				<channel savedIndex="40"/>
@@ -124,13 +124,13 @@
 				<channel savedIndex="42"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="83" color="12615744" deviceType="DMX Universe" name="Zone 2 - Sparkle Brightness" savedIndex="44"/>
-		<channel circuit="84" color="12615744" deviceType="DMX Universe" name="Zone 2 - Tree 1 Sparkle" savedIndex="45"/>
-		<channel circuit="85" color="12615744" deviceType="DMX Universe" name="Zone 2 - Tree 2 Sparkle" savedIndex="46"/>
-		<channel circuit="86" color="12615744" deviceType="DMX Universe" name="Zone 2 - Ground Sparkle" savedIndex="47"/>
-		<channel circuit="87" color="12615744" deviceType="DMX Universe" name="Zone 2 - Tree 1 Effect" savedIndex="48"/>
-		<channel circuit="88" color="12615744" deviceType="DMX Universe" name="Zone 2 - Tree 2 Effect" savedIndex="49"/>
-		<channel circuit="89" color="12615744" deviceType="DMX Universe" name="Zone 2 - Ground Effect" savedIndex="50"/>
+		<channel circuit="83" color="12615744" deviceType="DMX Universe" name="Zone 2 - Sparkle Brightness" network="1" savedIndex="44"/>
+		<channel circuit="84" color="12615744" deviceType="DMX Universe" name="Zone 2 - Tree 1 Sparkle" network="1" savedIndex="45"/>
+		<channel circuit="85" color="12615744" deviceType="DMX Universe" name="Zone 2 - Tree 2 Sparkle" network="1" savedIndex="46"/>
+		<channel circuit="86" color="12615744" deviceType="DMX Universe" name="Zone 2 - Ground Sparkle" network="1" savedIndex="47"/>
+		<channel circuit="87" color="12615744" deviceType="DMX Universe" name="Zone 2 - Tree 1 Effect" network="1" savedIndex="48"/>
+		<channel circuit="88" color="12615744" deviceType="DMX Universe" name="Zone 2 - Tree 2 Effect" network="1" savedIndex="49"/>
+		<channel circuit="89" color="12615744" deviceType="DMX Universe" name="Zone 2 - Ground Effect" network="1" savedIndex="50"/>
 		<channelGroupList name="Zone 2" savedIndex="51">
 			<channelGroups>
 				<channelGroup savedIndex="3"/>
@@ -153,9 +153,9 @@
 				<channelGroup savedIndex="50"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel circuit="90" color="255" deviceType="DMX Universe" name="Zone 3 - Tree (R)" savedIndex="52"/>
-		<channel circuit="91" color="65280" deviceType="DMX Universe" name="Zone 3 - Tree (G)" savedIndex="53"/>
-		<channel circuit="92" color="16711680" deviceType="DMX Universe" name="Zone 3 - Tree (B)" savedIndex="54"/>
+		<channel circuit="90" color="255" deviceType="DMX Universe" name="Zone 3 - Tree (R)" network="1" savedIndex="52"/>
+		<channel circuit="91" color="65280" deviceType="DMX Universe" name="Zone 3 - Tree (G)" network="1" savedIndex="53"/>
+		<channel circuit="92" color="16711680" deviceType="DMX Universe" name="Zone 3 - Tree (B)" network="1" savedIndex="54"/>
 		<rgbChannel name="Zone 3 - Tree" savedIndex="55">
 			<channels>
 				<channel savedIndex="52"/>
@@ -163,9 +163,9 @@
 				<channel savedIndex="54"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="93" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 1 (R)" savedIndex="56"/>
-		<channel circuit="94" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 1 (G)" savedIndex="57"/>
-		<channel circuit="95" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 1 (B)" savedIndex="58"/>
+		<channel circuit="93" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 1 (R)" network="1" savedIndex="56"/>
+		<channel circuit="94" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 1 (G)" network="1" savedIndex="57"/>
+		<channel circuit="95" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 1 (B)" network="1" savedIndex="58"/>
 		<rgbChannel name="Zone 3 - Ground 1" savedIndex="59">
 			<channels>
 				<channel savedIndex="56"/>
@@ -173,9 +173,9 @@
 				<channel savedIndex="58"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="96" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 2 (R)" savedIndex="60"/>
-		<channel circuit="97" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 2 (G)" savedIndex="61"/>
-		<channel circuit="98" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 2 (B)" savedIndex="62"/>
+		<channel circuit="96" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 2 (R)" network="1" savedIndex="60"/>
+		<channel circuit="97" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 2 (G)" network="1" savedIndex="61"/>
+		<channel circuit="98" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 2 (B)" network="1" savedIndex="62"/>
 		<rgbChannel name="Zone 3 - Ground 2" savedIndex="63">
 			<channels>
 				<channel savedIndex="60"/>
@@ -183,9 +183,9 @@
 				<channel savedIndex="62"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="99" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 3 (R)" savedIndex="64"/>
-		<channel circuit="100" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 3 (G)" savedIndex="65"/>
-		<channel circuit="101" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 3 (B)" savedIndex="66"/>
+		<channel circuit="99" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 3 (R)" network="1" savedIndex="64"/>
+		<channel circuit="100" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 3 (G)" network="1" savedIndex="65"/>
+		<channel circuit="101" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 3 (B)" network="1" savedIndex="66"/>
 		<rgbChannel name="Zone 3 - Ground 3" savedIndex="67">
 			<channels>
 				<channel savedIndex="64"/>
@@ -193,9 +193,9 @@
 				<channel savedIndex="66"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="102" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 4 (R)" savedIndex="68"/>
-		<channel circuit="103" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 4 (G)" savedIndex="69"/>
-		<channel circuit="104" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 4 (B)" savedIndex="70"/>
+		<channel circuit="102" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 4 (R)" network="1" savedIndex="68"/>
+		<channel circuit="103" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 4 (G)" network="1" savedIndex="69"/>
+		<channel circuit="104" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 4 (B)" network="1" savedIndex="70"/>
 		<rgbChannel name="Zone 3 - Ground 4" savedIndex="71">
 			<channels>
 				<channel savedIndex="68"/>
@@ -203,9 +203,9 @@
 				<channel savedIndex="70"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="105" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 5 (R)" savedIndex="72"/>
-		<channel circuit="106" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 5 (G)" savedIndex="73"/>
-		<channel circuit="107" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 5 (B)" savedIndex="74"/>
+		<channel circuit="105" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 5 (R)" network="1" savedIndex="72"/>
+		<channel circuit="106" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 5 (G)" network="1" savedIndex="73"/>
+		<channel circuit="107" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 5 (B)" network="1" savedIndex="74"/>
 		<rgbChannel name="Zone 3 - Ground 5" savedIndex="75">
 			<channels>
 				<channel savedIndex="72"/>
@@ -213,9 +213,9 @@
 				<channel savedIndex="74"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="108" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 6 (R)" savedIndex="76"/>
-		<channel circuit="109" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 6 (G)" savedIndex="77"/>
-		<channel circuit="110" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 6 (B)" savedIndex="78"/>
+		<channel circuit="108" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 6 (R)" network="1" savedIndex="76"/>
+		<channel circuit="109" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 6 (G)" network="1" savedIndex="77"/>
+		<channel circuit="110" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 6 (B)" network="1" savedIndex="78"/>
 		<rgbChannel name="Zone 3 - Ground 6" savedIndex="79">
 			<channels>
 				<channel savedIndex="76"/>
@@ -223,9 +223,9 @@
 				<channel savedIndex="78"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="111" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 7 (R)" savedIndex="80"/>
-		<channel circuit="112" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 7 (G)" savedIndex="81"/>
-		<channel circuit="113" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 7 (B)" savedIndex="82"/>
+		<channel circuit="111" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 7 (R)" network="1" savedIndex="80"/>
+		<channel circuit="112" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 7 (G)" network="1" savedIndex="81"/>
+		<channel circuit="113" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 7 (B)" network="1" savedIndex="82"/>
 		<rgbChannel name="Zone 3 - Ground 7" savedIndex="83">
 			<channels>
 				<channel savedIndex="80"/>
@@ -233,9 +233,9 @@
 				<channel savedIndex="82"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="114" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 8 (R)" savedIndex="84"/>
-		<channel circuit="115" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 8 (G)" savedIndex="85"/>
-		<channel circuit="116" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 8 (B)" savedIndex="86"/>
+		<channel circuit="114" color="255" deviceType="DMX Universe" name="Zone 3 - Ground 8 (R)" network="1" savedIndex="84"/>
+		<channel circuit="115" color="65280" deviceType="DMX Universe" name="Zone 3 - Ground 8 (G)" network="1" savedIndex="85"/>
+		<channel circuit="116" color="16711680" deviceType="DMX Universe" name="Zone 3 - Ground 8 (B)" network="1" savedIndex="86"/>
 		<rgbChannel name="Zone 3 - Ground 8" savedIndex="87">
 			<channels>
 				<channel savedIndex="84"/>
@@ -243,9 +243,9 @@
 				<channel savedIndex="86"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="117" color="255" deviceType="DMX Universe" name="Zone 3 - Sparkle Color (R)" savedIndex="88"/>
-		<channel circuit="118" color="65280" deviceType="DMX Universe" name="Zone 3 - Sparkle Color (G)" savedIndex="89"/>
-		<channel circuit="119" color="16711680" deviceType="DMX Universe" name="Zone 3 - Sparkle Color (B)" savedIndex="90"/>
+		<channel circuit="117" color="255" deviceType="DMX Universe" name="Zone 3 - Sparkle Color (R)" network="1" savedIndex="88"/>
+		<channel circuit="118" color="65280" deviceType="DMX Universe" name="Zone 3 - Sparkle Color (G)" network="1" savedIndex="89"/>
+		<channel circuit="119" color="16711680" deviceType="DMX Universe" name="Zone 3 - Sparkle Color (B)" network="1" savedIndex="90"/>
 		<rgbChannel name="Zone 3 - Sparkle Color" savedIndex="91">
 			<channels>
 				<channel savedIndex="88"/>
@@ -253,11 +253,11 @@
 				<channel savedIndex="90"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="120" color="12615744" deviceType="DMX Universe" name="Zone 3 - Sparkle Brightness" savedIndex="92"/>
-		<channel circuit="121" color="12615744" deviceType="DMX Universe" name="Zone 3 - Tree Sparkle" savedIndex="93"/>
-		<channel circuit="122" color="12615744" deviceType="DMX Universe" name="Zone 3 - Ground Sparkle" savedIndex="94"/>
-		<channel circuit="123" color="12615744" deviceType="DMX Universe" name="Zone 3 - Tree Effect" savedIndex="95"/>
-		<channel circuit="124" color="12615744" deviceType="DMX Universe" name="Zone 3 - Ground Effect" savedIndex="96"/>
+		<channel circuit="120" color="12615744" deviceType="DMX Universe" name="Zone 3 - Sparkle Brightness" network="1" savedIndex="92"/>
+		<channel circuit="121" color="12615744" deviceType="DMX Universe" name="Zone 3 - Tree Sparkle" network="1" savedIndex="93"/>
+		<channel circuit="122" color="12615744" deviceType="DMX Universe" name="Zone 3 - Ground Sparkle" network="1" savedIndex="94"/>
+		<channel circuit="123" color="12615744" deviceType="DMX Universe" name="Zone 3 - Tree Effect" network="1" savedIndex="95"/>
+		<channel circuit="124" color="12615744" deviceType="DMX Universe" name="Zone 3 - Ground Effect" network="1" savedIndex="96"/>
 		<channelGroupList name="Zone 3" savedIndex="97">
 			<channelGroups>
 				<channelGroup savedIndex="55"/>
@@ -278,8 +278,8 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel circuit="5" color="255" deviceType="DMX Universe" name="Zone 1 - Tree 1 (R)" network="1" savedIndex="98"/>
-		<channel circuit="6" color="65280" deviceType="DMX Universe" name="Zone 1 - Tree 1 (G)" savedIndex="99"/>
-		<channel circuit="7" color="16711680" deviceType="DMX Universe" name="Zone 1 - Tree 1 (B)" savedIndex="100"/>
+		<channel circuit="6" color="65280" deviceType="DMX Universe" name="Zone 1 - Tree 1 (G)" network="1" savedIndex="99"/>
+		<channel circuit="7" color="16711680" deviceType="DMX Universe" name="Zone 1 - Tree 1 (B)" network="1" savedIndex="100"/>
 		<rgbChannel name="Zone 1 - Tree 1" savedIndex="101">
 			<channels>
 				<channel savedIndex="98"/>
@@ -287,9 +287,9 @@
 				<channel savedIndex="100"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="8" color="255" deviceType="DMX Universe" name="Zone 1 - Tree 2 (R)" savedIndex="102"/>
-		<channel circuit="9" color="65280" deviceType="DMX Universe" name="Zone 1 - Tree 2 (G)" savedIndex="103"/>
-		<channel circuit="10" color="16711680" deviceType="DMX Universe" name="Zone 1 - Tree 2 (B)" savedIndex="104"/>
+		<channel circuit="8" color="255" deviceType="DMX Universe" name="Zone 1 - Tree 2 (R)" network="1" savedIndex="102"/>
+		<channel circuit="9" color="65280" deviceType="DMX Universe" name="Zone 1 - Tree 2 (G)" network="1" savedIndex="103"/>
+		<channel circuit="10" color="16711680" deviceType="DMX Universe" name="Zone 1 - Tree 2 (B)" network="1" savedIndex="104"/>
 		<rgbChannel name="Zone 1 - Tree 2" savedIndex="105">
 			<channels>
 				<channel savedIndex="102"/>
@@ -297,9 +297,9 @@
 				<channel savedIndex="104"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="11" color="255" deviceType="DMX Universe" name="Zone 1 - Tree 3 (R)" savedIndex="106"/>
-		<channel circuit="12" color="65280" deviceType="DMX Universe" name="Zone 1 - Tree 3 (G)" savedIndex="107"/>
-		<channel circuit="13" color="16711680" deviceType="DMX Universe" name="Zone 1 - Tree 3 (B)" savedIndex="108"/>
+		<channel circuit="11" color="255" deviceType="DMX Universe" name="Zone 1 - Tree 3 (R)" network="1" savedIndex="106"/>
+		<channel circuit="12" color="65280" deviceType="DMX Universe" name="Zone 1 - Tree 3 (G)" network="1" savedIndex="107"/>
+		<channel circuit="13" color="16711680" deviceType="DMX Universe" name="Zone 1 - Tree 3 (B)" network="1" savedIndex="108"/>
 		<rgbChannel name="Zone 1 - Tree 3" savedIndex="109">
 			<channels>
 				<channel savedIndex="106"/>
@@ -307,9 +307,9 @@
 				<channel savedIndex="108"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="14" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 1 (R)" savedIndex="110"/>
-		<channel circuit="15" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 1 (G)" savedIndex="111"/>
-		<channel circuit="16" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 1 (B)" savedIndex="112"/>
+		<channel circuit="14" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 1 (R)" network="1" savedIndex="110"/>
+		<channel circuit="15" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 1 (G)" network="1" savedIndex="111"/>
+		<channel circuit="16" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 1 (B)" network="1" savedIndex="112"/>
 		<rgbChannel name="Zone 1 - Ground 1" savedIndex="113">
 			<channels>
 				<channel savedIndex="110"/>
@@ -317,9 +317,9 @@
 				<channel savedIndex="112"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="17" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 2 (R)" savedIndex="114"/>
-		<channel circuit="18" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 2 (G)" savedIndex="115"/>
-		<channel circuit="19" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 2 (B)" savedIndex="116"/>
+		<channel circuit="17" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 2 (R)" network="1" savedIndex="114"/>
+		<channel circuit="18" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 2 (G)" network="1" savedIndex="115"/>
+		<channel circuit="19" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 2 (B)" network="1" savedIndex="116"/>
 		<rgbChannel name="Zone 1 - Ground 2" savedIndex="117">
 			<channels>
 				<channel savedIndex="114"/>
@@ -327,9 +327,9 @@
 				<channel savedIndex="116"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="20" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 3 (R)" savedIndex="118"/>
-		<channel circuit="21" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 3 (G)" savedIndex="119"/>
-		<channel circuit="22" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 3 (B)" savedIndex="120"/>
+		<channel circuit="20" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 3 (R)" network="1" savedIndex="118"/>
+		<channel circuit="21" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 3 (G)" network="1" savedIndex="119"/>
+		<channel circuit="22" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 3 (B)" network="1" savedIndex="120"/>
 		<rgbChannel name="Zone 1 - Ground 3" savedIndex="121">
 			<channels>
 				<channel savedIndex="118"/>
@@ -337,9 +337,9 @@
 				<channel savedIndex="120"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="23" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 4 (R)" savedIndex="122"/>
-		<channel circuit="24" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 4 (G)" savedIndex="123"/>
-		<channel circuit="25" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 4 (B)" savedIndex="124"/>
+		<channel circuit="23" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 4 (R)" network="1" savedIndex="122"/>
+		<channel circuit="24" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 4 (G)" network="1" savedIndex="123"/>
+		<channel circuit="25" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 4 (B)" network="1" savedIndex="124"/>
 		<rgbChannel name="Zone 1 - Ground 4" savedIndex="125">
 			<channels>
 				<channel savedIndex="122"/>
@@ -347,9 +347,9 @@
 				<channel savedIndex="124"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="26" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 5 (R)" savedIndex="126"/>
-		<channel circuit="27" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 5 (G)" savedIndex="127"/>
-		<channel circuit="28" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 5 (B)" savedIndex="128"/>
+		<channel circuit="26" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 5 (R)" network="1" savedIndex="126"/>
+		<channel circuit="27" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 5 (G)" network="1" savedIndex="127"/>
+		<channel circuit="28" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 5 (B)" network="1" savedIndex="128"/>
 		<rgbChannel name="Zone 1 - Ground 5" savedIndex="129">
 			<channels>
 				<channel savedIndex="126"/>
@@ -357,9 +357,9 @@
 				<channel savedIndex="128"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="29" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 6 (R)" savedIndex="130"/>
-		<channel circuit="30" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 6 (G)" savedIndex="131"/>
-		<channel circuit="31" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 6 (B)" savedIndex="132"/>
+		<channel circuit="29" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 6 (R)" network="1" savedIndex="130"/>
+		<channel circuit="30" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 6 (G)" network="1" savedIndex="131"/>
+		<channel circuit="31" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 6 (B)" network="1" savedIndex="132"/>
 		<rgbChannel name="Zone 1 - Ground 6" savedIndex="133">
 			<channels>
 				<channel savedIndex="130"/>
@@ -367,9 +367,9 @@
 				<channel savedIndex="132"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="32" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 7 (R)" savedIndex="134"/>
-		<channel circuit="33" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 7 (G)" savedIndex="135"/>
-		<channel circuit="34" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 7 (B)" savedIndex="136"/>
+		<channel circuit="32" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 7 (R)" network="1" savedIndex="134"/>
+		<channel circuit="33" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 7 (G)" network="1" savedIndex="135"/>
+		<channel circuit="34" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 7 (B)" network="1" savedIndex="136"/>
 		<rgbChannel name="Zone 1 - Ground 7" savedIndex="137">
 			<channels>
 				<channel savedIndex="134"/>
@@ -377,9 +377,9 @@
 				<channel savedIndex="136"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="35" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 8 (R)" savedIndex="138"/>
-		<channel circuit="36" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 8 (G)" savedIndex="139"/>
-		<channel circuit="37" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 8 (B)" savedIndex="140"/>
+		<channel circuit="35" color="255" deviceType="DMX Universe" name="Zone 1 - Ground 8 (R)" network="1" savedIndex="138"/>
+		<channel circuit="36" color="65280" deviceType="DMX Universe" name="Zone 1 - Ground 8 (G)" network="1" savedIndex="139"/>
+		<channel circuit="37" color="16711680" deviceType="DMX Universe" name="Zone 1 - Ground 8 (B)" network="1" savedIndex="140"/>
 		<rgbChannel name="Zone 1 - Ground 8" savedIndex="141">
 			<channels>
 				<channel savedIndex="138"/>
@@ -387,9 +387,9 @@
 				<channel savedIndex="140"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="38" color="255" deviceType="DMX Universe" name="Zone 1 - Sparkle Color (R)" savedIndex="142"/>
-		<channel circuit="39" color="65280" deviceType="DMX Universe" name="Zone 1 - Sparkle Color (G)" savedIndex="143"/>
-		<channel circuit="40" color="16711680" deviceType="DMX Universe" name="Zone 1 - Sparkle Color (B)" savedIndex="144"/>
+		<channel circuit="38" color="255" deviceType="DMX Universe" name="Zone 1 - Sparkle Color (R)" network="1" savedIndex="142"/>
+		<channel circuit="39" color="65280" deviceType="DMX Universe" name="Zone 1 - Sparkle Color (G)" network="1" savedIndex="143"/>
+		<channel circuit="40" color="16711680" deviceType="DMX Universe" name="Zone 1 - Sparkle Color (B)" network="1" savedIndex="144"/>
 		<rgbChannel name="Zone 1 - Sparkle Color" savedIndex="145">
 			<channels>
 				<channel savedIndex="142"/>
@@ -397,15 +397,15 @@
 				<channel savedIndex="144"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="41" color="12615744" deviceType="DMX Universe" name="Zone 1 - Sparkle Brightness" savedIndex="146"/>
-		<channel circuit="42" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 1 Sparkle" savedIndex="147"/>
-		<channel circuit="43" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 2 Sparkle" savedIndex="148"/>
-		<channel circuit="44" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 3 Sparkle" savedIndex="149"/>
-		<channel circuit="45" color="12615744" deviceType="DMX Universe" name="Zone 1 - Ground Sparkle" savedIndex="150"/>
-		<channel circuit="46" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 1 Effect" savedIndex="151"/>
-		<channel circuit="47" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 2 Effect" savedIndex="152"/>
-		<channel circuit="48" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 3 Effect" savedIndex="153"/>
-		<channel circuit="49" color="12615744" deviceType="DMX Universe" name="Zone 1 - Ground Effect" savedIndex="154"/>
+		<channel circuit="41" color="12615744" deviceType="DMX Universe" name="Zone 1 - Sparkle Brightness" network="1" savedIndex="146"/>
+		<channel circuit="42" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 1 Sparkle" network="1" savedIndex="147"/>
+		<channel circuit="43" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 2 Sparkle" network="1" savedIndex="148"/>
+		<channel circuit="44" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 3 Sparkle" network="1" savedIndex="149"/>
+		<channel circuit="45" color="12615744" deviceType="DMX Universe" name="Zone 1 - Ground Sparkle" network="1" savedIndex="150"/>
+		<channel circuit="46" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 1 Effect" network="1" savedIndex="151"/>
+		<channel circuit="47" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 2 Effect" network="1" savedIndex="152"/>
+		<channel circuit="48" color="12615744" deviceType="DMX Universe" name="Zone 1 - Tree 3 Effect" network="1" savedIndex="153"/>
+		<channel circuit="49" color="12615744" deviceType="DMX Universe" name="Zone 1 - Ground Effect" network="1" savedIndex="154"/>
 		<channelGroupList name="Zone 1" savedIndex="155">
 			<channelGroups>
 				<channelGroup savedIndex="101"/>
@@ -431,7 +431,7 @@
 				<channelGroup savedIndex="154"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel circuit="4" color="12615744" deviceType="DMX Universe" name="Reserved" savedIndex="156"/>
+		<channel circuit="4" color="12615744" deviceType="DMX Universe" name="Reserved" network="1" savedIndex="156"/>
 		<channel color="12615744" name="Reserved" savedIndex="157"/>
 		<channel color="12615744" name="Reserved" savedIndex="158"/>
 		<channel color="12615744" name="Reserved" savedIndex="159"/>
@@ -443,9 +443,9 @@
 				<channelGroup savedIndex="159"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel circuit="125" color="255" deviceType="DMX Universe" name="Zone 4 - Tree (R)" savedIndex="161"/>
-		<channel circuit="126" color="65280" deviceType="DMX Universe" name="Zone 4 - Tree (G)" savedIndex="162"/>
-		<channel circuit="127" color="16711680" deviceType="DMX Universe" name="Zone 4 - Tree (B)" savedIndex="163"/>
+		<channel circuit="125" color="255" deviceType="DMX Universe" name="Zone 4 - Tree (R)" network="1" savedIndex="161"/>
+		<channel circuit="126" color="65280" deviceType="DMX Universe" name="Zone 4 - Tree (G)" network="1" savedIndex="162"/>
+		<channel circuit="127" color="16711680" deviceType="DMX Universe" name="Zone 4 - Tree (B)" network="1" savedIndex="163"/>
 		<rgbChannel name="Zone 4 - Tree" savedIndex="164">
 			<channels>
 				<channel savedIndex="161"/>
@@ -453,9 +453,9 @@
 				<channel savedIndex="163"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="128" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 1 (R)" savedIndex="165"/>
-		<channel circuit="129" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 1 (G)" savedIndex="166"/>
-		<channel circuit="130" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 1 (B)" savedIndex="167"/>
+		<channel circuit="128" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 1 (R)" network="1" savedIndex="165"/>
+		<channel circuit="129" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 1 (G)" network="1" savedIndex="166"/>
+		<channel circuit="130" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 1 (B)" network="1" savedIndex="167"/>
 		<rgbChannel name="Zone 4 - Ground 1" savedIndex="168">
 			<channels>
 				<channel savedIndex="165"/>
@@ -463,9 +463,9 @@
 				<channel savedIndex="167"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="131" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 2 (R)" savedIndex="169"/>
-		<channel circuit="132" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 2 (G)" savedIndex="170"/>
-		<channel circuit="133" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 2 (B)" savedIndex="171"/>
+		<channel circuit="131" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 2 (R)" network="1" savedIndex="169"/>
+		<channel circuit="132" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 2 (G)" network="1" savedIndex="170"/>
+		<channel circuit="133" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 2 (B)" network="1" savedIndex="171"/>
 		<rgbChannel name="Zone 4 - Ground 2" savedIndex="172">
 			<channels>
 				<channel savedIndex="169"/>
@@ -473,9 +473,9 @@
 				<channel savedIndex="171"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="134" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 3 (R)" savedIndex="173"/>
-		<channel circuit="135" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 3 (G)" savedIndex="174"/>
-		<channel circuit="136" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 3 (B)" savedIndex="175"/>
+		<channel circuit="134" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 3 (R)" network="1" savedIndex="173"/>
+		<channel circuit="135" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 3 (G)" network="1" savedIndex="174"/>
+		<channel circuit="136" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 3 (B)" network="1" savedIndex="175"/>
 		<rgbChannel name="Zone 4 - Ground 3" savedIndex="176">
 			<channels>
 				<channel savedIndex="173"/>
@@ -483,9 +483,9 @@
 				<channel savedIndex="175"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="137" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 4 (R)" savedIndex="177"/>
-		<channel circuit="138" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 4 (G)" savedIndex="178"/>
-		<channel circuit="139" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 4 (B)" savedIndex="179"/>
+		<channel circuit="137" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 4 (R)" network="1" savedIndex="177"/>
+		<channel circuit="138" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 4 (G)" network="1" savedIndex="178"/>
+		<channel circuit="139" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 4 (B)" network="1" savedIndex="179"/>
 		<rgbChannel name="Zone 4 - Ground 4" savedIndex="180">
 			<channels>
 				<channel savedIndex="177"/>
@@ -493,9 +493,9 @@
 				<channel savedIndex="179"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="140" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 5 (R)" savedIndex="181"/>
-		<channel circuit="141" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 5 (G)" savedIndex="182"/>
-		<channel circuit="142" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 5 (B)" savedIndex="183"/>
+		<channel circuit="140" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 5 (R)" network="1" savedIndex="181"/>
+		<channel circuit="141" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 5 (G)" network="1" savedIndex="182"/>
+		<channel circuit="142" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 5 (B)" network="1" savedIndex="183"/>
 		<rgbChannel name="Zone 4 - Ground 5" savedIndex="184">
 			<channels>
 				<channel savedIndex="181"/>
@@ -503,9 +503,9 @@
 				<channel savedIndex="183"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="143" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 6 (R)" savedIndex="185"/>
-		<channel circuit="144" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 6 (G)" savedIndex="186"/>
-		<channel circuit="145" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 6 (B)" savedIndex="187"/>
+		<channel circuit="143" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 6 (R)" network="1" savedIndex="185"/>
+		<channel circuit="144" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 6 (G)" network="1" savedIndex="186"/>
+		<channel circuit="145" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 6 (B)" network="1" savedIndex="187"/>
 		<rgbChannel name="Zone 4 - Ground 6" savedIndex="188">
 			<channels>
 				<channel savedIndex="185"/>
@@ -513,9 +513,9 @@
 				<channel savedIndex="187"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="146" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 7 (R)" savedIndex="189"/>
-		<channel circuit="147" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 7 (G)" savedIndex="190"/>
-		<channel circuit="148" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 7 (B)" savedIndex="191"/>
+		<channel circuit="146" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 7 (R)" network="1" savedIndex="189"/>
+		<channel circuit="147" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 7 (G)" network="1" savedIndex="190"/>
+		<channel circuit="148" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 7 (B)" network="1" savedIndex="191"/>
 		<rgbChannel name="Zone 4 - Ground 7" savedIndex="192">
 			<channels>
 				<channel savedIndex="189"/>
@@ -523,9 +523,9 @@
 				<channel savedIndex="191"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="149" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 8 (R)" savedIndex="193"/>
-		<channel circuit="150" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 8 (G)" savedIndex="194"/>
-		<channel circuit="151" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 8 (B)" savedIndex="195"/>
+		<channel circuit="149" color="255" deviceType="DMX Universe" name="Zone 4 - Ground 8 (R)" network="1" savedIndex="193"/>
+		<channel circuit="150" color="65280" deviceType="DMX Universe" name="Zone 4 - Ground 8 (G)" network="1" savedIndex="194"/>
+		<channel circuit="151" color="16711680" deviceType="DMX Universe" name="Zone 4 - Ground 8 (B)" network="1" savedIndex="195"/>
 		<rgbChannel name="Zone 4 - Ground 8" savedIndex="196">
 			<channels>
 				<channel savedIndex="193"/>
@@ -533,9 +533,9 @@
 				<channel savedIndex="195"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="152" color="255" deviceType="DMX Universe" name="Zone 4 - Sparkle Color (R)" savedIndex="197"/>
-		<channel circuit="153" color="65280" deviceType="DMX Universe" name="Zone 4 - Sparkle Color (G)" savedIndex="198"/>
-		<channel circuit="154" color="16711680" deviceType="DMX Universe" name="Zone 4 - Sparkle Color (B)" savedIndex="199"/>
+		<channel circuit="152" color="255" deviceType="DMX Universe" name="Zone 4 - Sparkle Color (R)" network="1" savedIndex="197"/>
+		<channel circuit="153" color="65280" deviceType="DMX Universe" name="Zone 4 - Sparkle Color (G)" network="1" savedIndex="198"/>
+		<channel circuit="154" color="16711680" deviceType="DMX Universe" name="Zone 4 - Sparkle Color (B)" network="1" savedIndex="199"/>
 		<rgbChannel name="Zone 4 - Sparkle Color" savedIndex="200">
 			<channels>
 				<channel savedIndex="197"/>
@@ -543,11 +543,11 @@
 				<channel savedIndex="199"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="155" color="12615744" deviceType="DMX Universe" name="Zone 4 - Sparkle Brightness" savedIndex="201"/>
-		<channel circuit="156" color="12615744" deviceType="DMX Universe" name="Zone 4 - Tree Sparkle" savedIndex="202"/>
-		<channel circuit="157" color="12615744" deviceType="DMX Universe" name="Zone 4 - Ground Sparkle" savedIndex="203"/>
-		<channel circuit="158" color="12615744" deviceType="DMX Universe" name="Zone 4 - Tree Effect" savedIndex="204"/>
-		<channel circuit="159" color="12615744" deviceType="DMX Universe" name="Zone 4 - Ground Effect" savedIndex="205"/>
+		<channel circuit="155" color="12615744" deviceType="DMX Universe" name="Zone 4 - Sparkle Brightness" network="1" savedIndex="201"/>
+		<channel circuit="156" color="12615744" deviceType="DMX Universe" name="Zone 4 - Tree Sparkle" network="1" savedIndex="202"/>
+		<channel circuit="157" color="12615744" deviceType="DMX Universe" name="Zone 4 - Ground Sparkle" network="1" savedIndex="203"/>
+		<channel circuit="158" color="12615744" deviceType="DMX Universe" name="Zone 4 - Tree Effect" network="1" savedIndex="204"/>
+		<channel circuit="159" color="12615744" deviceType="DMX Universe" name="Zone 4 - Ground Effect" network="1" savedIndex="205"/>
 		<channelGroupList name="Zone 4" savedIndex="206">
 			<channelGroups>
 				<channelGroup savedIndex="164"/>
@@ -568,9 +568,9 @@
 			</channelGroups>
 		</channelGroupList>
 		<channel circuit="8" color="12615744" deviceType="LOR" name="Reserved" savedIndex="207" unit="1"/>
-		<channel circuit="230" color="255" deviceType="DMX Universe" name="Zone 7 - Tree 1 (R)" savedIndex="208"/>
-		<channel circuit="231" color="65280" deviceType="DMX Universe" name="Zone 7 - Tree 1 (G)" savedIndex="209"/>
-		<channel circuit="232" color="16711680" deviceType="DMX Universe" name="Zone 7 - Tree 1 (B)" savedIndex="210"/>
+		<channel circuit="230" color="255" deviceType="DMX Universe" name="Zone 7 - Tree 1 (R)" network="1" savedIndex="208"/>
+		<channel circuit="231" color="65280" deviceType="DMX Universe" name="Zone 7 - Tree 1 (G)" network="1" savedIndex="209"/>
+		<channel circuit="232" color="16711680" deviceType="DMX Universe" name="Zone 7 - Tree 1 (B)" network="1" savedIndex="210"/>
 		<rgbChannel name="Zone 7 - Tree 1" savedIndex="211">
 			<channels>
 				<channel savedIndex="208"/>
@@ -578,9 +578,9 @@
 				<channel savedIndex="210"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="233" color="255" deviceType="DMX Universe" name="Zone 7 - Tree 2 (R)" savedIndex="212"/>
-		<channel circuit="234" color="65280" deviceType="DMX Universe" name="Zone 7 - Tree 2 (G)" savedIndex="213"/>
-		<channel circuit="235" color="16711680" deviceType="DMX Universe" name="Zone 7 - Tree 2 (B)" savedIndex="214"/>
+		<channel circuit="233" color="255" deviceType="DMX Universe" name="Zone 7 - Tree 2 (R)" network="1" savedIndex="212"/>
+		<channel circuit="234" color="65280" deviceType="DMX Universe" name="Zone 7 - Tree 2 (G)" network="1" savedIndex="213"/>
+		<channel circuit="235" color="16711680" deviceType="DMX Universe" name="Zone 7 - Tree 2 (B)" network="1" savedIndex="214"/>
 		<rgbChannel name="Zone 7 - Tree 2" savedIndex="215">
 			<channels>
 				<channel savedIndex="212"/>
@@ -588,9 +588,9 @@
 				<channel savedIndex="214"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="236" color="255" deviceType="DMX Universe" name="Zone 7 - Tree 3 (R)" savedIndex="216"/>
-		<channel circuit="237" color="65280" deviceType="DMX Universe" name="Zone 7 - Tree 3 (G)" savedIndex="217"/>
-		<channel circuit="238" color="16711680" deviceType="DMX Universe" name="Zone 7 - Tree 3 (B)" savedIndex="218"/>
+		<channel circuit="236" color="255" deviceType="DMX Universe" name="Zone 7 - Tree 3 (R)" network="1" savedIndex="216"/>
+		<channel circuit="237" color="65280" deviceType="DMX Universe" name="Zone 7 - Tree 3 (G)" network="1" savedIndex="217"/>
+		<channel circuit="238" color="16711680" deviceType="DMX Universe" name="Zone 7 - Tree 3 (B)" network="1" savedIndex="218"/>
 		<rgbChannel name="Zone 7 - Tree 3" savedIndex="219">
 			<channels>
 				<channel savedIndex="216"/>
@@ -598,9 +598,9 @@
 				<channel savedIndex="218"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="239" color="255" deviceType="DMX Universe" name="Zone 7 - Tree 4 (R)" savedIndex="220"/>
-		<channel circuit="240" color="65280" deviceType="DMX Universe" name="Zone 7 - Tree 4 (G)" savedIndex="221"/>
-		<channel circuit="241" color="16711680" deviceType="DMX Universe" name="Zone 7 - Tree 4 (B)" savedIndex="222"/>
+		<channel circuit="239" color="255" deviceType="DMX Universe" name="Zone 7 - Tree 4 (R)" network="1" savedIndex="220"/>
+		<channel circuit="240" color="65280" deviceType="DMX Universe" name="Zone 7 - Tree 4 (G)" network="1" savedIndex="221"/>
+		<channel circuit="241" color="16711680" deviceType="DMX Universe" name="Zone 7 - Tree 4 (B)" network="1" savedIndex="222"/>
 		<rgbChannel name="Zone 7 - Tree 4" savedIndex="223">
 			<channels>
 				<channel savedIndex="220"/>
@@ -608,9 +608,9 @@
 				<channel savedIndex="222"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="242" color="255" deviceType="DMX Universe" name="Zone 7 - Ground 1 (R)" savedIndex="224"/>
-		<channel circuit="243" color="65280" deviceType="DMX Universe" name="Zone 7 - Ground 1 (G)" savedIndex="225"/>
-		<channel circuit="244" color="16711680" deviceType="DMX Universe" name="Zone 7 - Ground 1 (B)" savedIndex="226"/>
+		<channel circuit="242" color="255" deviceType="DMX Universe" name="Zone 7 - Ground 1 (R)" network="1" savedIndex="224"/>
+		<channel circuit="243" color="65280" deviceType="DMX Universe" name="Zone 7 - Ground 1 (G)" network="1" savedIndex="225"/>
+		<channel circuit="244" color="16711680" deviceType="DMX Universe" name="Zone 7 - Ground 1 (B)" network="1" savedIndex="226"/>
 		<rgbChannel name="Zone 7 - Ground 1" savedIndex="227">
 			<channels>
 				<channel savedIndex="224"/>
@@ -618,9 +618,9 @@
 				<channel savedIndex="226"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="245" color="255" deviceType="DMX Universe" name="Zone 7 - Ground 2 (R)" savedIndex="228"/>
-		<channel circuit="246" color="65280" deviceType="DMX Universe" name="Zone 7 - Ground 2 (G)" savedIndex="229"/>
-		<channel circuit="247" color="16711680" deviceType="DMX Universe" name="Zone 7 - Ground 2 (B)" savedIndex="230"/>
+		<channel circuit="245" color="255" deviceType="DMX Universe" name="Zone 7 - Ground 2 (R)" network="1" savedIndex="228"/>
+		<channel circuit="246" color="65280" deviceType="DMX Universe" name="Zone 7 - Ground 2 (G)" network="1" savedIndex="229"/>
+		<channel circuit="247" color="16711680" deviceType="DMX Universe" name="Zone 7 - Ground 2 (B)" network="1" savedIndex="230"/>
 		<rgbChannel name="Zone 7 - Ground 2" savedIndex="231">
 			<channels>
 				<channel savedIndex="228"/>
@@ -628,9 +628,9 @@
 				<channel savedIndex="230"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="248" color="255" deviceType="DMX Universe" name="Zone 7 - Ground 3 (R)" savedIndex="232"/>
-		<channel circuit="249" color="65280" deviceType="DMX Universe" name="Zone 7 - Ground 3 (G)" savedIndex="233"/>
-		<channel circuit="250" color="16711680" deviceType="DMX Universe" name="Zone 7 - Ground 3 (B)" savedIndex="234"/>
+		<channel circuit="248" color="255" deviceType="DMX Universe" name="Zone 7 - Ground 3 (R)" network="1" savedIndex="232"/>
+		<channel circuit="249" color="65280" deviceType="DMX Universe" name="Zone 7 - Ground 3 (G)" network="1" savedIndex="233"/>
+		<channel circuit="250" color="16711680" deviceType="DMX Universe" name="Zone 7 - Ground 3 (B)" network="1" savedIndex="234"/>
 		<rgbChannel name="Zone 7 - Ground 3" savedIndex="235">
 			<channels>
 				<channel savedIndex="232"/>
@@ -638,9 +638,9 @@
 				<channel savedIndex="234"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="251" color="255" deviceType="DMX Universe" name="Zone 7 - Ground 4 (R)" savedIndex="236"/>
-		<channel circuit="252" color="65280" deviceType="DMX Universe" name="Zone 7 - Ground 4 (G)" savedIndex="237"/>
-		<channel circuit="253" color="16711680" deviceType="DMX Universe" name="Zone 7 - Ground 4 (B)" savedIndex="238"/>
+		<channel circuit="251" color="255" deviceType="DMX Universe" name="Zone 7 - Ground 4 (R)" network="1" savedIndex="236"/>
+		<channel circuit="252" color="65280" deviceType="DMX Universe" name="Zone 7 - Ground 4 (G)" network="1" savedIndex="237"/>
+		<channel circuit="253" color="16711680" deviceType="DMX Universe" name="Zone 7 - Ground 4 (B)" network="1" savedIndex="238"/>
 		<rgbChannel name="Zone 7 - Ground 4" savedIndex="239">
 			<channels>
 				<channel savedIndex="236"/>
@@ -648,9 +648,9 @@
 				<channel savedIndex="238"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="257" color="255" deviceType="DMX Universe" name="Zone 7 - Sparkle Color (R)" savedIndex="240"/>
-		<channel circuit="258" color="65280" deviceType="DMX Universe" name="Zone 7 - Sparkle Color (G)" savedIndex="241"/>
-		<channel circuit="259" color="16711680" deviceType="DMX Universe" name="Zone 7 - Sparkle Color (B)" savedIndex="242"/>
+		<channel circuit="257" color="255" deviceType="DMX Universe" name="Zone 7 - Sparkle Color (R)" network="1" savedIndex="240"/>
+		<channel circuit="258" color="65280" deviceType="DMX Universe" name="Zone 7 - Sparkle Color (G)" network="1" savedIndex="241"/>
+		<channel circuit="259" color="16711680" deviceType="DMX Universe" name="Zone 7 - Sparkle Color (B)" network="1" savedIndex="242"/>
 		<rgbChannel name="Zone 7 - Sparkle Color" savedIndex="243">
 			<channels>
 				<channel savedIndex="240"/>
@@ -658,17 +658,17 @@
 				<channel savedIndex="242"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="260" color="12615744" deviceType="DMX Universe" name="Zone 7 - Sparkle Brightness" savedIndex="244"/>
-		<channel circuit="261" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 1 Sparkle" savedIndex="245"/>
-		<channel circuit="262" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 2 Sparkle" savedIndex="246"/>
-		<channel circuit="263" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 3 Sparkle" savedIndex="247"/>
-		<channel circuit="264" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 4 Sparkle" savedIndex="248"/>
-		<channel circuit="265" color="12615744" deviceType="DMX Universe" name="Zone 7 - Ground Sparkle" savedIndex="249"/>
-		<channel circuit="266" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 1 Effect" savedIndex="250"/>
-		<channel circuit="267" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 2 Effect" savedIndex="251"/>
-		<channel circuit="268" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 3 Effect" savedIndex="252"/>
-		<channel circuit="269" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 4 Effect" savedIndex="253"/>
-		<channel circuit="270" color="12615744" deviceType="DMX Universe" name="Zone 7 - Ground Effect" savedIndex="254"/>
+		<channel circuit="260" color="12615744" deviceType="DMX Universe" name="Zone 7 - Sparkle Brightness" network="1" savedIndex="244"/>
+		<channel circuit="261" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 1 Sparkle" network="1" savedIndex="245"/>
+		<channel circuit="262" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 2 Sparkle" network="1" savedIndex="246"/>
+		<channel circuit="263" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 3 Sparkle" network="1" savedIndex="247"/>
+		<channel circuit="264" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 4 Sparkle" network="1" savedIndex="248"/>
+		<channel circuit="265" color="12615744" deviceType="DMX Universe" name="Zone 7 - Ground Sparkle" network="1" savedIndex="249"/>
+		<channel circuit="266" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 1 Effect" network="1" savedIndex="250"/>
+		<channel circuit="267" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 2 Effect" network="1" savedIndex="251"/>
+		<channel circuit="268" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 3 Effect" network="1" savedIndex="252"/>
+		<channel circuit="269" color="12615744" deviceType="DMX Universe" name="Zone 7 - Tree 4 Effect" network="1" savedIndex="253"/>
+		<channel circuit="270" color="12615744" deviceType="DMX Universe" name="Zone 7 - Ground Effect" network="1" savedIndex="254"/>
 		<channelGroupList name="Zone 7" savedIndex="255">
 			<channelGroups>
 				<channelGroup savedIndex="211"/>
@@ -693,9 +693,9 @@
 				<channelGroup savedIndex="254"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel circuit="195" color="255" deviceType="DMX Universe" name="Zone 6 - Tree (R)" savedIndex="256"/>
-		<channel circuit="196" color="65280" deviceType="DMX Universe" name="Zone 6 - Tree (G)" savedIndex="257"/>
-		<channel circuit="197" color="16711680" deviceType="DMX Universe" name="Zone 6 - Tree (B)" savedIndex="258"/>
+		<channel circuit="195" color="255" deviceType="DMX Universe" name="Zone 6 - Tree (R)" network="1" savedIndex="256"/>
+		<channel circuit="196" color="65280" deviceType="DMX Universe" name="Zone 6 - Tree (G)" network="1" savedIndex="257"/>
+		<channel circuit="197" color="16711680" deviceType="DMX Universe" name="Zone 6 - Tree (B)" network="1" savedIndex="258"/>
 		<rgbChannel name="Zone 6 - Tree" savedIndex="259">
 			<channels>
 				<channel savedIndex="256"/>
@@ -703,9 +703,9 @@
 				<channel savedIndex="258"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="198" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 1 (R)" savedIndex="260"/>
-		<channel circuit="199" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 1 (G)" savedIndex="261"/>
-		<channel circuit="200" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 1 (B)" savedIndex="262"/>
+		<channel circuit="198" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 1 (R)" network="1" savedIndex="260"/>
+		<channel circuit="199" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 1 (G)" network="1" savedIndex="261"/>
+		<channel circuit="200" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 1 (B)" network="1" savedIndex="262"/>
 		<rgbChannel name="Zone 6 - Ground 1" savedIndex="263">
 			<channels>
 				<channel savedIndex="260"/>
@@ -713,9 +713,9 @@
 				<channel savedIndex="262"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="201" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 2 (R)" savedIndex="264"/>
-		<channel circuit="202" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 2 (G)" savedIndex="265"/>
-		<channel circuit="203" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 2 (B)" savedIndex="266"/>
+		<channel circuit="201" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 2 (R)" network="1" savedIndex="264"/>
+		<channel circuit="202" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 2 (G)" network="1" savedIndex="265"/>
+		<channel circuit="203" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 2 (B)" network="1" savedIndex="266"/>
 		<rgbChannel name="Zone 6 - Ground 2" savedIndex="267">
 			<channels>
 				<channel savedIndex="264"/>
@@ -723,9 +723,9 @@
 				<channel savedIndex="266"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="204" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 3 (R)" savedIndex="268"/>
-		<channel circuit="205" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 3 (G)" savedIndex="269"/>
-		<channel circuit="206" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 3 (B)" savedIndex="270"/>
+		<channel circuit="204" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 3 (R)" network="1" savedIndex="268"/>
+		<channel circuit="205" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 3 (G)" network="1" savedIndex="269"/>
+		<channel circuit="206" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 3 (B)" network="1" savedIndex="270"/>
 		<rgbChannel name="Zone 6 - Ground 3" savedIndex="271">
 			<channels>
 				<channel savedIndex="268"/>
@@ -733,9 +733,9 @@
 				<channel savedIndex="270"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="207" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 4 (R)" savedIndex="272"/>
-		<channel circuit="208" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 4 (G)" savedIndex="273"/>
-		<channel circuit="209" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 4 (B)" savedIndex="274"/>
+		<channel circuit="207" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 4 (R)" network="1" savedIndex="272"/>
+		<channel circuit="208" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 4 (G)" network="1" savedIndex="273"/>
+		<channel circuit="209" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 4 (B)" network="1" savedIndex="274"/>
 		<rgbChannel name="Zone 6 - Ground 4" savedIndex="275">
 			<channels>
 				<channel savedIndex="272"/>
@@ -743,9 +743,9 @@
 				<channel savedIndex="274"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="210" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 5 (R)" savedIndex="276"/>
-		<channel circuit="211" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 5 (G)" savedIndex="277"/>
-		<channel circuit="212" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 5 (B)" savedIndex="278"/>
+		<channel circuit="210" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 5 (R)" network="1" savedIndex="276"/>
+		<channel circuit="211" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 5 (G)" network="1" savedIndex="277"/>
+		<channel circuit="212" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 5 (B)" network="1" savedIndex="278"/>
 		<rgbChannel name="Zone 6 - Ground 5" savedIndex="279">
 			<channels>
 				<channel savedIndex="276"/>
@@ -753,9 +753,9 @@
 				<channel savedIndex="278"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="213" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 6 (R)" savedIndex="280"/>
-		<channel circuit="214" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 6 (G)" savedIndex="281"/>
-		<channel circuit="215" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 6 (B)" savedIndex="282"/>
+		<channel circuit="213" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 6 (R)" network="1" savedIndex="280"/>
+		<channel circuit="214" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 6 (G)" network="1" savedIndex="281"/>
+		<channel circuit="215" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 6 (B)" network="1" savedIndex="282"/>
 		<rgbChannel name="Zone 6 - Ground 6" savedIndex="283">
 			<channels>
 				<channel savedIndex="280"/>
@@ -763,9 +763,9 @@
 				<channel savedIndex="282"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="216" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 7 (R)" savedIndex="284"/>
-		<channel circuit="217" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 7 (G)" savedIndex="285"/>
-		<channel circuit="218" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 7 (B)" savedIndex="286"/>
+		<channel circuit="216" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 7 (R)" network="1" savedIndex="284"/>
+		<channel circuit="217" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 7 (G)" network="1" savedIndex="285"/>
+		<channel circuit="218" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 7 (B)" network="1" savedIndex="286"/>
 		<rgbChannel name="Zone 6 - Ground 7" savedIndex="287">
 			<channels>
 				<channel savedIndex="284"/>
@@ -773,9 +773,9 @@
 				<channel savedIndex="286"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="219" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 8 (R)" savedIndex="288"/>
-		<channel circuit="220" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 8 (G)" savedIndex="289"/>
-		<channel circuit="221" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 8 (B)" savedIndex="290"/>
+		<channel circuit="219" color="255" deviceType="DMX Universe" name="Zone 6 - Ground 8 (R)" network="1" savedIndex="288"/>
+		<channel circuit="220" color="65280" deviceType="DMX Universe" name="Zone 6 - Ground 8 (G)" network="1" savedIndex="289"/>
+		<channel circuit="221" color="16711680" deviceType="DMX Universe" name="Zone 6 - Ground 8 (B)" network="1" savedIndex="290"/>
 		<rgbChannel name="Zone 6 - Ground 8" savedIndex="291">
 			<channels>
 				<channel savedIndex="288"/>
@@ -783,9 +783,9 @@
 				<channel savedIndex="290"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="222" color="255" deviceType="DMX Universe" name="Zone 6 - Sparkle Color (R)" savedIndex="292"/>
-		<channel circuit="223" color="65280" deviceType="DMX Universe" name="Zone 6 - Sparkle Color (G)" savedIndex="293"/>
-		<channel circuit="224" color="16711680" deviceType="DMX Universe" name="Zone 6 - Sparkle Color (B)" savedIndex="294"/>
+		<channel circuit="222" color="255" deviceType="DMX Universe" name="Zone 6 - Sparkle Color (R)" network="1" savedIndex="292"/>
+		<channel circuit="223" color="65280" deviceType="DMX Universe" name="Zone 6 - Sparkle Color (G)" network="1" savedIndex="293"/>
+		<channel circuit="224" color="16711680" deviceType="DMX Universe" name="Zone 6 - Sparkle Color (B)" network="1" savedIndex="294"/>
 		<rgbChannel name="Zone 6 - Sparkle Color" savedIndex="295">
 			<channels>
 				<channel savedIndex="292"/>
@@ -793,11 +793,11 @@
 				<channel savedIndex="294"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="225" color="12615744" deviceType="DMX Universe" name="Zone 6 - Sparkle Brightness" savedIndex="296"/>
-		<channel circuit="226" color="12615744" deviceType="DMX Universe" name="Zone 6 - Tree Sparkle" savedIndex="297"/>
-		<channel circuit="227" color="12615744" deviceType="DMX Universe" name="Zone 6 - Ground Sparkle" savedIndex="298"/>
-		<channel circuit="228" color="12615744" deviceType="DMX Universe" name="Zone 6 - Tree Effect" savedIndex="299"/>
-		<channel circuit="229" color="12615744" deviceType="DMX Universe" name="Zone 6 - Ground Effect" savedIndex="300"/>
+		<channel circuit="225" color="12615744" deviceType="DMX Universe" name="Zone 6 - Sparkle Brightness" network="1" savedIndex="296"/>
+		<channel circuit="226" color="12615744" deviceType="DMX Universe" name="Zone 6 - Tree Sparkle" network="1" savedIndex="297"/>
+		<channel circuit="227" color="12615744" deviceType="DMX Universe" name="Zone 6 - Ground Sparkle" network="1" savedIndex="298"/>
+		<channel circuit="228" color="12615744" deviceType="DMX Universe" name="Zone 6 - Tree Effect" network="1" savedIndex="299"/>
+		<channel circuit="229" color="12615744" deviceType="DMX Universe" name="Zone 6 - Ground Effect" network="1" savedIndex="300"/>
 		<channelGroupList name="Zone 6" savedIndex="301">
 			<channelGroups>
 				<channelGroup savedIndex="259"/>
@@ -827,9 +827,9 @@
 				<channel savedIndex="304"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="163" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 1 (R)" savedIndex="306"/>
-		<channel circuit="164" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 1 (G)" savedIndex="307"/>
-		<channel circuit="165" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 1 (B)" savedIndex="308"/>
+		<channel circuit="163" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 1 (R)" network="1" savedIndex="306"/>
+		<channel circuit="164" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 1 (G)" network="1" savedIndex="307"/>
+		<channel circuit="165" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 1 (B)" network="1" savedIndex="308"/>
 		<rgbChannel name="Zone 5 - Ground 1" savedIndex="309">
 			<channels>
 				<channel savedIndex="306"/>
@@ -837,9 +837,9 @@
 				<channel savedIndex="308"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="166" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 2 (R)" savedIndex="310"/>
-		<channel circuit="167" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 2 (G)" savedIndex="311"/>
-		<channel circuit="168" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 2 (B)" savedIndex="312"/>
+		<channel circuit="166" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 2 (R)" network="1" savedIndex="310"/>
+		<channel circuit="167" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 2 (G)" network="1" savedIndex="311"/>
+		<channel circuit="168" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 2 (B)" network="1" savedIndex="312"/>
 		<rgbChannel name="Zone 5 - Ground 2" savedIndex="313">
 			<channels>
 				<channel savedIndex="310"/>
@@ -847,9 +847,9 @@
 				<channel savedIndex="312"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="169" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 3 (R)" savedIndex="314"/>
-		<channel circuit="170" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 3 (G)" savedIndex="315"/>
-		<channel circuit="171" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 3 (B)" savedIndex="316"/>
+		<channel circuit="169" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 3 (R)" network="1" savedIndex="314"/>
+		<channel circuit="170" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 3 (G)" network="1" savedIndex="315"/>
+		<channel circuit="171" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 3 (B)" network="1" savedIndex="316"/>
 		<rgbChannel name="Zone 5 - Ground 3" savedIndex="317">
 			<channels>
 				<channel savedIndex="314"/>
@@ -857,9 +857,9 @@
 				<channel savedIndex="316"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="172" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 4 (R)" savedIndex="318"/>
-		<channel circuit="173" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 4 (G)" savedIndex="319"/>
-		<channel circuit="174" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 4 (B)" savedIndex="320"/>
+		<channel circuit="172" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 4 (R)" network="1" savedIndex="318"/>
+		<channel circuit="173" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 4 (G)" network="1" savedIndex="319"/>
+		<channel circuit="174" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 4 (B)" network="1" savedIndex="320"/>
 		<rgbChannel name="Zone 5 - Ground 4" savedIndex="321">
 			<channels>
 				<channel savedIndex="318"/>
@@ -867,9 +867,9 @@
 				<channel savedIndex="320"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="175" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 5 (R)" savedIndex="322"/>
-		<channel circuit="176" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 5 (G)" savedIndex="323"/>
-		<channel circuit="177" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 5 (B)" savedIndex="324"/>
+		<channel circuit="175" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 5 (R)" network="1" savedIndex="322"/>
+		<channel circuit="176" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 5 (G)" network="1" savedIndex="323"/>
+		<channel circuit="177" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 5 (B)" network="1" savedIndex="324"/>
 		<rgbChannel name="Zone 5 - Ground 5" savedIndex="325">
 			<channels>
 				<channel savedIndex="322"/>
@@ -877,9 +877,9 @@
 				<channel savedIndex="324"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="178" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 6 (R)" savedIndex="326"/>
-		<channel circuit="179" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 6 (G)" savedIndex="327"/>
-		<channel circuit="180" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 6 (B)" savedIndex="328"/>
+		<channel circuit="178" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 6 (R)" network="1" savedIndex="326"/>
+		<channel circuit="179" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 6 (G)" network="1" savedIndex="327"/>
+		<channel circuit="180" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 6 (B)" network="1" savedIndex="328"/>
 		<rgbChannel name="Zone 5 - Ground 6" savedIndex="329">
 			<channels>
 				<channel savedIndex="326"/>
@@ -887,9 +887,9 @@
 				<channel savedIndex="328"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="181" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 7 (R)" savedIndex="330"/>
-		<channel circuit="182" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 7 (G)" savedIndex="331"/>
-		<channel circuit="183" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 7 (B)" savedIndex="332"/>
+		<channel circuit="181" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 7 (R)" network="1" savedIndex="330"/>
+		<channel circuit="182" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 7 (G)" network="1" savedIndex="331"/>
+		<channel circuit="183" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 7 (B)" network="1" savedIndex="332"/>
 		<rgbChannel name="Zone 5 - Ground 7" savedIndex="333">
 			<channels>
 				<channel savedIndex="330"/>
@@ -897,9 +897,9 @@
 				<channel savedIndex="332"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="184" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 8 (R)" savedIndex="334"/>
-		<channel circuit="185" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 8 (G)" savedIndex="335"/>
-		<channel circuit="186" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 8 (B)" savedIndex="336"/>
+		<channel circuit="184" color="255" deviceType="DMX Universe" name="Zone 5 - Ground 8 (R)" network="1" savedIndex="334"/>
+		<channel circuit="185" color="65280" deviceType="DMX Universe" name="Zone 5 - Ground 8 (G)" network="1" savedIndex="335"/>
+		<channel circuit="186" color="16711680" deviceType="DMX Universe" name="Zone 5 - Ground 8 (B)" network="1" savedIndex="336"/>
 		<rgbChannel name="Zone 5 - Ground 8" savedIndex="337">
 			<channels>
 				<channel savedIndex="334"/>
@@ -907,9 +907,9 @@
 				<channel savedIndex="336"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="187" color="255" deviceType="DMX Universe" name="Zone 5 - Sparkle Color (R)" savedIndex="338"/>
-		<channel circuit="188" color="65280" deviceType="DMX Universe" name="Zone 5 - Sparkle Color (G)" savedIndex="339"/>
-		<channel circuit="189" color="16711680" deviceType="DMX Universe" name="Zone 5 - Sparkle Color (B)" savedIndex="340"/>
+		<channel circuit="187" color="255" deviceType="DMX Universe" name="Zone 5 - Sparkle Color (R)" network="1" savedIndex="338"/>
+		<channel circuit="188" color="65280" deviceType="DMX Universe" name="Zone 5 - Sparkle Color (G)" network="1" savedIndex="339"/>
+		<channel circuit="189" color="16711680" deviceType="DMX Universe" name="Zone 5 - Sparkle Color (B)" network="1" savedIndex="340"/>
 		<rgbChannel name="Zone 5 - Sparkle Color" savedIndex="341">
 			<channels>
 				<channel savedIndex="338"/>
@@ -917,11 +917,11 @@
 				<channel savedIndex="340"/>
 			</channels>
 		</rgbChannel>
-		<channel circuit="190" color="12615744" deviceType="DMX Universe" name="Zone 5 - Sparkle Brightness" savedIndex="342"/>
-		<channel circuit="191" color="12615744" deviceType="DMX Universe" name="Zone 5 - Tree Sparkle" savedIndex="343"/>
-		<channel circuit="192" color="12615744" deviceType="DMX Universe" name="Zone 5 - Ground Sparkle" savedIndex="344"/>
-		<channel circuit="193" color="12615744" deviceType="DMX Universe" name="Zone 5 - Tree Effect" savedIndex="345"/>
-		<channel circuit="194" color="12615744" deviceType="DMX Universe" name="Zone 5 - Ground Effect" savedIndex="346"/>
+		<channel circuit="190" color="12615744" deviceType="DMX Universe" name="Zone 5 - Sparkle Brightness" network="1" savedIndex="342"/>
+		<channel circuit="191" color="12615744" deviceType="DMX Universe" name="Zone 5 - Tree Sparkle" network="1" savedIndex="343"/>
+		<channel circuit="192" color="12615744" deviceType="DMX Universe" name="Zone 5 - Ground Sparkle" network="1" savedIndex="344"/>
+		<channel circuit="193" color="12615744" deviceType="DMX Universe" name="Zone 5 - Tree Effect" network="1" savedIndex="345"/>
+		<channel circuit="194" color="12615744" deviceType="DMX Universe" name="Zone 5 - Ground Effect" network="1" savedIndex="346"/>
 		<channelGroupList name="Zone 5" savedIndex="347">
 			<channelGroups>
 				<channelGroup savedIndex="305"/>

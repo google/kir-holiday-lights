@@ -20,14 +20,15 @@ import csv
 from xml.dom.minidom import parse
 from collections import namedtuple
 
-GroundRing = namedtuple("GroundRing", ["zone", "ring"])
+DmxState = namedtuple("DmxState", ["id", "universe"])
 
 def LoadDmxMappings(file_name):
 	dmxDict = {}
 	with open(file_name, 'rb') as csvfile:
 		dmxCsv = csv.DictReader(csvfile)
 		for row in dmxCsv:
-			dmxDict[row['Description']] = row['DMX Channel']
+			state = DmxState(id=row['DMX Channel'], universe=row['DMX Universe'])
+			dmxDict[row['Description']] = state
 	return dmxDict
 
 # <channel name="Zone 1 - Sparkle Color (B)" color="16711680" deviceType="DMX Universe" circuit="40" network="1" savedIndex="144"/>
@@ -40,12 +41,13 @@ def ProcessFile(dmxDict, file_name):
 	for channel in channels.getElementsByTagName('channel'):
 		channel_name = channel.getAttribute('name')
 		if channel_name:
-			dmxId = dmxDict.pop(channel_name, None)
-			if dmxId == None:
+			state = dmxDict.pop(channel_name, None)
+			if state == None:
 				print "No DMX mapping for: %s" % (channel_name)
 			else:
 				channel.setAttribute('deviceType', 'DMX Universe')
-				channel.setAttribute('circuit', dmxId)
+				channel.setAttribute('circuit', state.id)
+				channel.setAttribute('network', state.universe)
 				if channel.hasAttribute('unit'):
 					channel.removeAttribute('unit')
 	dom.writexml(open(file_name, 'w'))
