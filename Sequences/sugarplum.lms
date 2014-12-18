@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<sequence saveFileVersion="14" createdAt="11/28/2014 3:48:24 PM" musicFilename="Dance of the Sugar Plum Fairy (Electrohouse Remix).mp3" videoUsage="2">
+<?xml version="1.0" ?><sequence createdAt="11/28/2014 3:48:24 PM" musicFilename="Dance of the Sugar Plum Fairy (Electrohouse Remix).mp3" saveFileVersion="14" videoUsage="2">
 	<channels>
 		<channel name="Reserved" color="12615744" centiseconds="26551" deviceType="LOR" unit="1" circuit="8" savedIndex="0"/>
 		<channel name="Zone 5 - Tree (R)" color="255" centiseconds="26551" deviceType="DMX Universe" circuit="6" network="1" savedIndex="1">
@@ -493,7 +492,7 @@
 			<effect type="intensity" startCentisecond="22528" endCentisecond="22539" intensity="100"/>
 			<effect type="intensity" startCentisecond="22575" endCentisecond="22620" intensity="100"/>
 		</channel>
-		<rgbChannel totalCentiseconds="26551" name="Zone 5 - Tree" savedIndex="4">
+		<rgbChannel name="Zone 5 - Tree" savedIndex="4" totalCentiseconds="26551">
 			<channels>
 				<channel savedIndex="1"/>
 				<channel savedIndex="2"/>
@@ -1209,7 +1208,7 @@
 			<effect type="twinkle" startCentisecond="22250" endCentisecond="22297" intensity="100"/>
 			<effect type="intensity" startCentisecond="22620" endCentisecond="22632" intensity="100"/>
 		</channel>
-		<rgbChannel totalCentiseconds="26551" name="Zone 5 - Ground 1" savedIndex="8">
+		<rgbChannel name="Zone 5 - Ground 1" savedIndex="8" totalCentiseconds="26551">
 			<channels>
 				<channel savedIndex="5"/>
 				<channel savedIndex="6"/>
@@ -1987,7 +1986,7 @@
 			<effect type="intensity" startCentisecond="25653" endCentisecond="25666" intensity="100"/>
 			<effect type="intensity" startCentisecond="25680" endCentisecond="25692" intensity="100"/>
 		</channel>
-		<rgbChannel totalCentiseconds="26551" name="Zone 5 - Ground 2" savedIndex="12">
+		<rgbChannel name="Zone 5 - Ground 2" savedIndex="12" totalCentiseconds="26551">
 			<channels>
 				<channel savedIndex="9"/>
 				<channel savedIndex="10"/>
@@ -2715,7 +2714,7 @@
 			<effect type="intensity" startCentisecond="22597" endCentisecond="22608" intensity="100"/>
 			<effect type="intensity" startCentisecond="22644" endCentisecond="22656" intensity="100"/>
 		</channel>
-		<rgbChannel totalCentiseconds="26551" name="Zone 5 - Ground 3" savedIndex="16">
+		<rgbChannel name="Zone 5 - Ground 3" savedIndex="16" totalCentiseconds="26551">
 			<channels>
 				<channel savedIndex="13"/>
 				<channel savedIndex="14"/>
@@ -3427,7 +3426,7 @@
 			<effect type="intensity" startCentisecond="25653" endCentisecond="25666" intensity="100"/>
 			<effect type="intensity" startCentisecond="25680" endCentisecond="25692" intensity="100"/>
 		</channel>
-		<rgbChannel totalCentiseconds="26551" name="Zone 5 - Ground 4" savedIndex="20">
+		<rgbChannel name="Zone 5 - Ground 4" savedIndex="20" totalCentiseconds="26551">
 			<channels>
 				<channel savedIndex="17"/>
 				<channel savedIndex="18"/>
@@ -4137,7 +4136,7 @@
 			<effect type="twinkle" startCentisecond="22250" endCentisecond="22297" intensity="100"/>
 			<effect type="intensity" startCentisecond="22620" endCentisecond="22632" intensity="100"/>
 		</channel>
-		<rgbChannel totalCentiseconds="26551" name="Zone 5 - Ground 5" savedIndex="24">
+		<rgbChannel name="Zone 5 - Ground 5" savedIndex="24" totalCentiseconds="26551">
 			<channels>
 				<channel savedIndex="21"/>
 				<channel savedIndex="22"/>
@@ -4852,7 +4851,7 @@
 			<effect type="intensity" startCentisecond="25653" endCentisecond="25666" intensity="100"/>
 			<effect type="intensity" startCentisecond="25680" endCentisecond="25692" intensity="100"/>
 		</channel>
-		<rgbChannel totalCentiseconds="26551" name="Zone 5 - Ground 6" savedIndex="28">
+		<rgbChannel name="Zone 5 - Ground 6" savedIndex="28" totalCentiseconds="26551">
 			<channels>
 				<channel savedIndex="25"/>
 				<channel savedIndex="26"/>
@@ -5605,7 +5604,7 @@
 			<effect type="intensity" startCentisecond="22597" endCentisecond="22608" intensity="100"/>
 			<effect type="intensity" startCentisecond="22644" endCentisecond="22656" intensity="100"/>
 		</channel>
-		<rgbChannel totalCentiseconds="26551" name="Zone 5 - Ground 7" savedIndex="32">
+		<rgbChannel name="Zone 5 - Ground 7" savedIndex="32" totalCentiseconds="26551">
 			<channels>
 				<channel savedIndex="29"/>
 				<channel savedIndex="30"/>
@@ -6392,18 +6391,18 @@
 			<effect type="intensity" startCentisecond="25653" endCentisecond="25666" intensity="100"/>
 			<effect type="intensity" startCentisecond="25680" endCentisecond="25692" intensity="100"/>
 		</channel>
-		<rgbChannel totalCentiseconds="26551" name="Zone 5 - Ground 8" savedIndex="36">
+		<rgbChannel name="Zone 5 - Ground 8" savedIndex="36" totalCentiseconds="26551">
 			<channels>
 				<channel savedIndex="33"/>
 				<channel savedIndex="34"/>
 				<channel savedIndex="35"/>
 			</channels>
 		</rgbChannel>
-		<channel name="Zone 5 - Tree Twinkle" color="12615744" centiseconds="26551" savedIndex="37"/>
-		<channel name="Zone 5 - Ground Twinkle" color="12615744" centiseconds="26551" savedIndex="38"/>
-		<channel name="Zone 5 - Tree Effect" color="12615744" centiseconds="26551" savedIndex="39"/>
-		<channel name="Zone 5 - Ground Effect" color="12615744" centiseconds="26551" savedIndex="40"/>
-		<channelGroupList totalCentiseconds="26551" name="Zone 5" savedIndex="41">
+		<channel centiseconds="26551" color="12615744" name="Zone 5 - Tree Twinkle" savedIndex="37"/>
+		<channel centiseconds="26551" color="12615744" name="Zone 5 - Ground Twinkle" savedIndex="38"/>
+		<channel centiseconds="26551" circuit="193" color="12615744" deviceType="DMX Universe" name="Zone 5 - Tree Effect" network="1" savedIndex="39"/>
+		<channel centiseconds="26551" circuit="194" color="12615744" deviceType="DMX Universe" name="Zone 5 - Ground Effect" network="1" savedIndex="40"/>
+		<channelGroupList name="Zone 5" savedIndex="41" totalCentiseconds="26551">
 			<channelGroups>
 				<channelGroup savedIndex="4"/>
 				<channelGroup savedIndex="8"/>
@@ -6420,13 +6419,13 @@
 				<channelGroup savedIndex="40"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Reserved" color="12615744" centiseconds="26551" savedIndex="42"/>
-		<channel name="Reserved" color="12615744" centiseconds="26551" savedIndex="43"/>
-		<channel name="Reserved" color="12615744" centiseconds="26551" savedIndex="44">
-			<effect type="intensity" startCentisecond="1659" endCentisecond="2507" intensity="100"/>
+		<channel centiseconds="26551" color="12615744" name="Reserved" savedIndex="42"/>
+		<channel centiseconds="26551" color="12615744" name="Reserved" savedIndex="43"/>
+		<channel centiseconds="26551" color="12615744" name="Reserved" savedIndex="44">
+			<effect endCentisecond="2507" intensity="100" startCentisecond="1659" type="intensity"/>
 		</channel>
-		<channel name="Reserved" color="12615744" centiseconds="26551" savedIndex="45"/>
-		<channelGroupList totalCentiseconds="26551" name="Reserved" savedIndex="46">
+		<channel centiseconds="26551" color="12615744" name="Reserved" savedIndex="45"/>
+		<channelGroupList name="Reserved" savedIndex="46" totalCentiseconds="26551">
 			<channelGroups>
 				<channelGroup savedIndex="42"/>
 				<channelGroup savedIndex="43"/>
@@ -38937,7 +38936,7 @@
 			<timing centisecond="26456"/>
 			<timing centisecond="26502"/>
 		</timingGrid>
-		<timingGrid saveID="1" name="faster" type="freeform">
+		<timingGrid name="faster" saveID="1" type="freeform">
 			<timing centisecond="0"/>
 			<timing centisecond="172"/>
 			<timing centisecond="183"/>
@@ -41369,10 +41368,10 @@
 			<timing centisecond="26537"/>
 			<timing centisecond="26548"/>
 		</timingGrid>
-		<timingGrid saveID="2" name="Fixed Grid: 0.10" type="fixed" spacing="10"/>
+		<timingGrid name="Fixed Grid: 0.10" saveID="2" spacing="10" type="fixed"/>
 	</timingGrids>
 	<tracks>
-		<track totalCentiseconds="26551" timingGrid="1">
+		<track timingGrid="1" totalCentiseconds="26551">
 			<channels>
 				<channel savedIndex="46"/>
 				<channel savedIndex="99"/>
@@ -41386,5 +41385,5 @@
 			<loopLevels/>
 		</track>
 	</tracks>
-	<animation rows="40" columns="60" image=""/>
+	<animation columns="60" image="" rows="40"/>
 </sequence>
