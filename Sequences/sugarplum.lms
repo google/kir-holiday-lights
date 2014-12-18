@@ -13,9 +13,6 @@
 			<effect type="intensity" startCentisecond="2752" endCentisecond="2797" intensity="100"/>
 			<effect type="intensity" startCentisecond="3222" endCentisecond="3246" intensity="100"/>
 			<effect type="intensity" startCentisecond="3271" endCentisecond="3315" intensity="100"/>
-			<effect type="intensity" startCentisecond="3456" endCentisecond="3467" intensity="100"/>
-			<effect type="intensity" startCentisecond="3479" endCentisecond="3490" intensity="100"/>
-			<effect type="intensity" startCentisecond="3502" endCentisecond="3548" intensity="100"/>
 			<effect type="intensity" startCentisecond="3735" endCentisecond="3746" intensity="100"/>
 			<effect type="intensity" startCentisecond="3782" endCentisecond="3794" intensity="100"/>
 			<effect type="intensity" startCentisecond="3830" endCentisecond="3878" intensity="100"/>
@@ -190,9 +187,6 @@
 			<effect type="intensity" startCentisecond="3456" endCentisecond="3467" intensity="100"/>
 			<effect type="intensity" startCentisecond="3479" endCentisecond="3490" intensity="100"/>
 			<effect type="intensity" startCentisecond="3502" endCentisecond="3548" intensity="100"/>
-			<effect type="intensity" startCentisecond="3735" endCentisecond="3746" intensity="100"/>
-			<effect type="intensity" startCentisecond="3782" endCentisecond="3794" intensity="100"/>
-			<effect type="intensity" startCentisecond="3830" endCentisecond="3878" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4065" endCentisecond="4112" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4254" endCentisecond="4298" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4441" endCentisecond="4487" intensity="100"/>
@@ -354,14 +348,9 @@
 			<effect type="intensity" startCentisecond="2257" endCentisecond="2281" intensity="100"/>
 			<effect type="intensity" startCentisecond="2471" endCentisecond="2495" intensity="100"/>
 			<effect type="intensity" startCentisecond="2519" endCentisecond="2564" intensity="100"/>
-			<effect type="intensity" startCentisecond="3222" endCentisecond="3246" intensity="100"/>
-			<effect type="intensity" startCentisecond="3271" endCentisecond="3315" intensity="100"/>
 			<effect type="intensity" startCentisecond="3456" endCentisecond="3467" intensity="100"/>
 			<effect type="intensity" startCentisecond="3479" endCentisecond="3490" intensity="100"/>
 			<effect type="intensity" startCentisecond="3502" endCentisecond="3548" intensity="100"/>
-			<effect type="intensity" startCentisecond="3735" endCentisecond="3746" intensity="100"/>
-			<effect type="intensity" startCentisecond="3782" endCentisecond="3794" intensity="100"/>
-			<effect type="intensity" startCentisecond="3830" endCentisecond="3878" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4065" endCentisecond="4112" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4254" endCentisecond="4298" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4441" endCentisecond="4487" intensity="100"/>
@@ -5919,7 +5908,6 @@
 			<effect type="intensity" startCentisecond="2094" endCentisecond="2117" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2304" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2375" endCentisecond="2398" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="3935" endCentisecond="4065" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
@@ -6079,6 +6067,24 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16781" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16793" endCentisecond="16805" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16817" endCentisecond="16828" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16840" endCentisecond="16852" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="16972" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16984" endCentisecond="16996" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17008" endCentisecond="17019" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17031" endCentisecond="17043" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17154" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17165" endCentisecond="17176" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17188" endCentisecond="17199" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17211" endCentisecond="17222" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 1 (G)" color="65280" centiseconds="26551" savedIndex="60">
 			<effect type="intensity" startCentisecond="313" endCentisecond="337" startIntensity="100" endIntensity="0"/>
@@ -6093,7 +6099,6 @@
 			<effect type="intensity" startCentisecond="1906" endCentisecond="1929" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2188" endCentisecond="2211" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2304" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="3935" endCentisecond="4065" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4949" endCentisecond="4961" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -6229,6 +6234,27 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16781" endCentisecond="16793" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16805" endCentisecond="16817" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16828" endCentisecond="16840" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16852" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16972" endCentisecond="16984" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16996" endCentisecond="17008" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17019" endCentisecond="17031" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17043" endCentisecond="17055" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17154" endCentisecond="17165" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17176" endCentisecond="17188" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17199" endCentisecond="17211" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17222" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17523" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17535" endCentisecond="17547" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17559" endCentisecond="17570" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17582" endCentisecond="17594" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 1 (B)" color="16711680" centiseconds="26551" savedIndex="61">
 			<effect type="intensity" startCentisecond="219" endCentisecond="243" startIntensity="100" endIntensity="0"/>
@@ -6243,7 +6269,6 @@
 			<effect type="intensity" startCentisecond="1815" endCentisecond="1837" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2094" endCentisecond="2117" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2188" endCentisecond="2211" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="3935" endCentisecond="4065" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
 			<effect type="twinkle" startCentisecond="5371" endCentisecond="5418" intensity="100"/>
 			<effect type="twinkle" startCentisecond="5753" endCentisecond="5800" intensity="100"/>
@@ -6355,6 +6380,18 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="17055" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17523" endCentisecond="17535" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17547" endCentisecond="17559" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17570" endCentisecond="17582" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17594" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<rgbChannel totalCentiseconds="26551" name="Zone 1 - Ground 1" savedIndex="62">
 			<channels>
@@ -6400,7 +6437,6 @@
 			<effect type="intensity" startCentisecond="2316" endCentisecond="2328" startIntensity="25" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2375" endCentisecond="2410" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2410" endCentisecond="2422" startIntensity="25" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="3935" endCentisecond="4065" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -6530,6 +6566,24 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16781" endCentisecond="16793" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16805" endCentisecond="16817" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16828" endCentisecond="16840" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16852" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16972" endCentisecond="16984" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16996" endCentisecond="17008" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17019" endCentisecond="17031" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17043" endCentisecond="17055" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17154" endCentisecond="17165" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17176" endCentisecond="17188" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17199" endCentisecond="17211" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17222" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 2 (G)" color="65280" centiseconds="26551" savedIndex="64">
 			<effect type="intensity" startCentisecond="313" endCentisecond="349" startIntensity="100" endIntensity="0"/>
@@ -6556,7 +6610,6 @@
 			<effect type="intensity" startCentisecond="2222" endCentisecond="2234" startIntensity="25" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2316" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2316" endCentisecond="2328" startIntensity="25" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="3935" endCentisecond="4065" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4949" endCentisecond="4961" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -6688,6 +6741,27 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16781" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16793" endCentisecond="16805" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16817" endCentisecond="16828" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16840" endCentisecond="16852" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="16972" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16984" endCentisecond="16996" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17008" endCentisecond="17019" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17031" endCentisecond="17043" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17154" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17165" endCentisecond="17176" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17188" endCentisecond="17199" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17211" endCentisecond="17222" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17523" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17535" endCentisecond="17547" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17559" endCentisecond="17570" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17582" endCentisecond="17594" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 2 (B)" color="16711680" centiseconds="26551" savedIndex="65">
 			<effect type="intensity" startCentisecond="219" endCentisecond="255" startIntensity="100" endIntensity="0"/>
@@ -6714,7 +6788,6 @@
 			<effect type="intensity" startCentisecond="2128" endCentisecond="2140" startIntensity="25" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2188" endCentisecond="2222" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2222" endCentisecond="2234" startIntensity="25" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="3935" endCentisecond="4065" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -6844,6 +6917,18 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="17055" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17523" endCentisecond="17535" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17547" endCentisecond="17559" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17570" endCentisecond="17582" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17594" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<rgbChannel totalCentiseconds="26551" name="Zone 1 - Ground 2" savedIndex="66">
 			<channels>
@@ -6871,8 +6956,6 @@
 			<effect type="intensity" startCentisecond="2094" endCentisecond="2140" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2328" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2375" endCentisecond="2422" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4065" endCentisecond="4112" intensity="100"/>
-			<effect type="twinkle" startCentisecond="4254" endCentisecond="4298" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
@@ -7034,6 +7117,24 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16781" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16793" endCentisecond="16805" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16817" endCentisecond="16828" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16840" endCentisecond="16852" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="16972" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16984" endCentisecond="16996" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17008" endCentisecond="17019" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17031" endCentisecond="17043" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17154" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17165" endCentisecond="17176" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17188" endCentisecond="17199" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17211" endCentisecond="17222" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 3 (G)" color="65280" centiseconds="26551" savedIndex="68">
 			<effect type="intensity" startCentisecond="313" endCentisecond="362" startIntensity="100" endIntensity="0"/>
@@ -7048,8 +7149,6 @@
 			<effect type="intensity" startCentisecond="1906" endCentisecond="1953" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2188" endCentisecond="2234" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2328" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4065" endCentisecond="4112" intensity="100"/>
-			<effect type="twinkle" startCentisecond="4254" endCentisecond="4298" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4949" endCentisecond="4961" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -7187,6 +7286,27 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16781" endCentisecond="16793" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16805" endCentisecond="16817" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16828" endCentisecond="16840" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16852" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16972" endCentisecond="16984" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16996" endCentisecond="17008" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17019" endCentisecond="17031" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17043" endCentisecond="17055" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17154" endCentisecond="17165" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17176" endCentisecond="17188" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17199" endCentisecond="17211" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17222" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17523" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17535" endCentisecond="17547" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17559" endCentisecond="17570" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17582" endCentisecond="17594" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 3 (B)" color="16711680" centiseconds="26551" savedIndex="69">
 			<effect type="intensity" startCentisecond="219" endCentisecond="267" startIntensity="100" endIntensity="0"/>
@@ -7201,8 +7321,6 @@
 			<effect type="intensity" startCentisecond="1815" endCentisecond="1859" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2094" endCentisecond="2140" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2188" endCentisecond="2234" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4065" endCentisecond="4112" intensity="100"/>
-			<effect type="twinkle" startCentisecond="4254" endCentisecond="4298" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
 			<effect type="twinkle" startCentisecond="5371" endCentisecond="5418" intensity="100"/>
 			<effect type="twinkle" startCentisecond="5753" endCentisecond="5800" intensity="100"/>
@@ -7316,6 +7434,18 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="17055" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17523" endCentisecond="17535" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17547" endCentisecond="17559" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17570" endCentisecond="17582" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17594" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<rgbChannel totalCentiseconds="26551" name="Zone 1 - Ground 3" savedIndex="70">
 			<channels>
@@ -7343,8 +7473,6 @@
 			<effect type="intensity" startCentisecond="2094" endCentisecond="2128" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2316" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2375" endCentisecond="2410" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4065" endCentisecond="4112" intensity="100"/>
-			<effect type="twinkle" startCentisecond="4254" endCentisecond="4298" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -7477,6 +7605,24 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16781" endCentisecond="16793" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16805" endCentisecond="16817" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16828" endCentisecond="16840" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16852" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16972" endCentisecond="16984" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16996" endCentisecond="17008" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17019" endCentisecond="17031" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17043" endCentisecond="17055" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17154" endCentisecond="17165" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17176" endCentisecond="17188" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17199" endCentisecond="17211" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17222" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 4 (G)" color="65280" centiseconds="26551" savedIndex="72">
 			<effect type="intensity" startCentisecond="313" endCentisecond="349" startIntensity="100" endIntensity="0"/>
@@ -7491,8 +7637,6 @@
 			<effect type="intensity" startCentisecond="1906" endCentisecond="1941" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2188" endCentisecond="2222" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2316" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4065" endCentisecond="4112" intensity="100"/>
-			<effect type="twinkle" startCentisecond="4254" endCentisecond="4298" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4949" endCentisecond="4961" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -7622,6 +7766,27 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16781" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16793" endCentisecond="16805" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16817" endCentisecond="16828" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16840" endCentisecond="16852" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="16972" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16984" endCentisecond="16996" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17008" endCentisecond="17019" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17031" endCentisecond="17043" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17154" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17165" endCentisecond="17176" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17188" endCentisecond="17199" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17211" endCentisecond="17222" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17523" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17535" endCentisecond="17547" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17559" endCentisecond="17570" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17582" endCentisecond="17594" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 4 (B)" color="16711680" centiseconds="26551" savedIndex="73">
 			<effect type="intensity" startCentisecond="219" endCentisecond="255" startIntensity="100" endIntensity="0"/>
@@ -7636,8 +7801,6 @@
 			<effect type="intensity" startCentisecond="1815" endCentisecond="1848" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2094" endCentisecond="2128" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2188" endCentisecond="2222" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4065" endCentisecond="4112" intensity="100"/>
-			<effect type="twinkle" startCentisecond="4254" endCentisecond="4298" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -7770,6 +7933,18 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16864" endCentisecond="16876" intensity="100"/>
+			<effect type="intensity" startCentisecond="16936" endCentisecond="16948" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="17055" intensity="100"/>
+			<effect type="intensity" startCentisecond="17055" endCentisecond="17066" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17234" endCentisecond="17245" intensity="100"/>
+			<effect type="intensity" startCentisecond="17326" endCentisecond="17337" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17523" endCentisecond="17535" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17547" endCentisecond="17559" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17570" endCentisecond="17582" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17594" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<rgbChannel totalCentiseconds="26551" name="Zone 1 - Ground 4" savedIndex="74">
 			<channels>
@@ -7797,7 +7972,6 @@
 			<effect type="intensity" startCentisecond="2094" endCentisecond="2117" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2304" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2375" endCentisecond="2398" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4112" endCentisecond="4254" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
@@ -7955,6 +8129,21 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16781" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16793" endCentisecond="16805" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16817" endCentisecond="16828" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16840" endCentisecond="16852" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="16972" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16984" endCentisecond="16996" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17008" endCentisecond="17019" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17031" endCentisecond="17043" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17154" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17165" endCentisecond="17176" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17188" endCentisecond="17199" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17211" endCentisecond="17222" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 5 (G)" color="65280" centiseconds="26551" savedIndex="76">
 			<effect type="intensity" startCentisecond="313" endCentisecond="337" startIntensity="100" endIntensity="0"/>
@@ -7969,7 +8158,6 @@
 			<effect type="intensity" startCentisecond="1906" endCentisecond="1929" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2188" endCentisecond="2211" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2304" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4112" endCentisecond="4254" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4949" endCentisecond="4961" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -8103,6 +8291,24 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16781" endCentisecond="16793" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16805" endCentisecond="16817" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16828" endCentisecond="16840" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16852" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16972" endCentisecond="16984" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16996" endCentisecond="17008" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17019" endCentisecond="17031" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17043" endCentisecond="17055" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17154" endCentisecond="17165" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17176" endCentisecond="17188" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17199" endCentisecond="17211" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17222" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17523" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17535" endCentisecond="17547" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17559" endCentisecond="17570" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17582" endCentisecond="17594" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 5 (B)" color="16711680" centiseconds="26551" savedIndex="77">
 			<effect type="intensity" startCentisecond="219" endCentisecond="243" startIntensity="100" endIntensity="0"/>
@@ -8117,7 +8323,6 @@
 			<effect type="intensity" startCentisecond="1815" endCentisecond="1837" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2094" endCentisecond="2117" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="2188" endCentisecond="2211" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4112" endCentisecond="4254" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
 			<effect type="twinkle" startCentisecond="5371" endCentisecond="5418" intensity="100"/>
 			<effect type="twinkle" startCentisecond="5753" endCentisecond="5800" intensity="100"/>
@@ -8227,6 +8432,15 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="17055" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17523" endCentisecond="17535" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17547" endCentisecond="17559" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17570" endCentisecond="17582" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17594" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<rgbChannel totalCentiseconds="26551" name="Zone 1 - Ground 5" savedIndex="78">
 			<channels>
@@ -8250,7 +8464,6 @@
 			<effect type="intensity" startCentisecond="3443" endCentisecond="3536" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3713" endCentisecond="3724" startIntensity="100" endIntensity="88"/>
 			<effect type="intensity" startCentisecond="3758" endCentisecond="3794" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4112" endCentisecond="4254" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -8379,6 +8592,21 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16781" endCentisecond="16793" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16805" endCentisecond="16817" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16828" endCentisecond="16840" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16852" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16972" endCentisecond="16984" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16996" endCentisecond="17008" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17019" endCentisecond="17031" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17043" endCentisecond="17055" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17154" endCentisecond="17165" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17176" endCentisecond="17188" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17199" endCentisecond="17211" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17222" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 6 (G)" color="65280" centiseconds="26551" savedIndex="80">
 			<effect type="intensity" startCentisecond="172" endCentisecond="267" startIntensity="100" endIntensity="0"/>
@@ -8405,7 +8633,6 @@
 			<effect type="intensity" startCentisecond="3536" endCentisecond="3631" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3713" endCentisecond="3724" startIntensity="100" endIntensity="88"/>
 			<effect type="intensity" startCentisecond="3758" endCentisecond="3794" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4112" endCentisecond="4254" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4949" endCentisecond="4961" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -8536,6 +8763,24 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16781" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16793" endCentisecond="16805" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16817" endCentisecond="16828" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16840" endCentisecond="16852" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="16972" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16984" endCentisecond="16996" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17008" endCentisecond="17019" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17031" endCentisecond="17043" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17154" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17165" endCentisecond="17176" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17188" endCentisecond="17199" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17211" endCentisecond="17222" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17523" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17535" endCentisecond="17547" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17559" endCentisecond="17570" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17582" endCentisecond="17594" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 6 (B)" color="16711680" centiseconds="26551" savedIndex="81">
 			<effect type="intensity" startCentisecond="267" endCentisecond="362" startIntensity="100" endIntensity="0"/>
@@ -8584,7 +8829,6 @@
 			<effect type="intensity" startCentisecond="3758" endCentisecond="3794" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3794" endCentisecond="3818" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3818" endCentisecond="3900" startIntensity="100" endIntensity="13"/>
-			<effect type="twinkle" startCentisecond="4112" endCentisecond="4254" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -8713,6 +8957,15 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="17055" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17523" endCentisecond="17535" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17547" endCentisecond="17559" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17570" endCentisecond="17582" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17594" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<rgbChannel totalCentiseconds="26551" name="Zone 1 - Ground 6" savedIndex="82">
 			<channels>
@@ -8746,7 +8999,6 @@
 			<effect type="intensity" startCentisecond="3536" endCentisecond="3631" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3724" endCentisecond="3758" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3794" endCentisecond="3818" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4298" endCentisecond="4441" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
@@ -8907,6 +9159,21 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16781" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16793" endCentisecond="16805" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16817" endCentisecond="16828" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16840" endCentisecond="16852" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="16972" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16984" endCentisecond="16996" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17008" endCentisecond="17019" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17031" endCentisecond="17043" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17154" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17165" endCentisecond="17176" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17188" endCentisecond="17199" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17211" endCentisecond="17222" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 7 (G)" color="65280" centiseconds="26551" savedIndex="84">
 			<effect type="intensity" startCentisecond="267" endCentisecond="362" startIntensity="100" endIntensity="0"/>
@@ -8957,7 +9224,6 @@
 			<effect type="intensity" startCentisecond="3758" endCentisecond="3794" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3794" endCentisecond="3818" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3818" endCentisecond="3900" startIntensity="100" endIntensity="13"/>
-			<effect type="twinkle" startCentisecond="4298" endCentisecond="4441" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4949" endCentisecond="4961" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -9094,6 +9360,24 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16781" endCentisecond="16793" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16805" endCentisecond="16817" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16828" endCentisecond="16840" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16852" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16972" endCentisecond="16984" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16996" endCentisecond="17008" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17019" endCentisecond="17031" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17043" endCentisecond="17055" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17154" endCentisecond="17165" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17176" endCentisecond="17188" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17199" endCentisecond="17211" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17222" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17523" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17535" endCentisecond="17547" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17559" endCentisecond="17570" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17582" endCentisecond="17594" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 7 (B)" color="16711680" centiseconds="26551" savedIndex="85">
 			<effect type="intensity" startCentisecond="172" endCentisecond="267" startIntensity="100" endIntensity="0"/>
@@ -9124,7 +9408,6 @@
 			<effect type="intensity" startCentisecond="3536" endCentisecond="3631" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3724" endCentisecond="3758" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3794" endCentisecond="3818" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="4298" endCentisecond="4441" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
 			<effect type="twinkle" startCentisecond="5371" endCentisecond="5418" intensity="100"/>
 			<effect type="twinkle" startCentisecond="5753" endCentisecond="5800" intensity="100"/>
@@ -9237,6 +9520,15 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="17055" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17523" endCentisecond="17535" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17547" endCentisecond="17559" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17570" endCentisecond="17582" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17594" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<rgbChannel totalCentiseconds="26551" name="Zone 1 - Ground 7" savedIndex="86">
 			<channels>
@@ -9286,7 +9578,6 @@
 			<effect type="intensity" startCentisecond="3758" endCentisecond="3794" startIntensity="100" endIntensity="0"/>
 			<effect type="twinkle" startCentisecond="3818" endCentisecond="3854" intensity="100"/>
 			<effect type="intensity" startCentisecond="3854" endCentisecond="3900" startIntensity="63" endIntensity="13"/>
-			<effect type="twinkle" startCentisecond="4298" endCentisecond="4441" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -9417,6 +9708,21 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16781" endCentisecond="16793" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16805" endCentisecond="16817" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16828" endCentisecond="16840" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16852" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16972" endCentisecond="16984" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16996" endCentisecond="17008" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17019" endCentisecond="17031" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17043" endCentisecond="17055" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17154" endCentisecond="17165" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17176" endCentisecond="17188" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17199" endCentisecond="17211" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17222" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 8 (G)" color="65280" centiseconds="26551" savedIndex="88">
 			<effect type="intensity" startCentisecond="362" endCentisecond="455" startIntensity="100" endIntensity="0"/>
@@ -9477,7 +9783,6 @@
 			<effect type="intensity" startCentisecond="3794" endCentisecond="3818" startIntensity="100" endIntensity="0"/>
 			<effect type="twinkle" startCentisecond="3818" endCentisecond="3854" intensity="100"/>
 			<effect type="intensity" startCentisecond="3854" endCentisecond="3900" startIntensity="63" endIntensity="13"/>
-			<effect type="twinkle" startCentisecond="4298" endCentisecond="4441" intensity="100"/>
 			<effect type="intensity" startCentisecond="4763" endCentisecond="4773" intensity="100"/>
 			<effect type="intensity" startCentisecond="4949" endCentisecond="4961" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -9605,6 +9910,24 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16781" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16793" endCentisecond="16805" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16817" endCentisecond="16828" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16840" endCentisecond="16852" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="16972" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16984" endCentisecond="16996" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17008" endCentisecond="17019" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17031" endCentisecond="17043" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17154" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17165" endCentisecond="17176" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17188" endCentisecond="17199" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17211" endCentisecond="17222" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17512" endCentisecond="17523" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17535" endCentisecond="17547" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17559" endCentisecond="17570" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17582" endCentisecond="17594" intensity="100"/>
 		</channel>
 		<channel name="Zone 1 - Ground 8 (B)" color="16711680" centiseconds="26551" savedIndex="89">
 			<effect type="intensity" startCentisecond="172" endCentisecond="267" startIntensity="100" endIntensity="0"/>
@@ -9663,7 +9986,6 @@
 			<effect type="intensity" startCentisecond="3758" endCentisecond="3794" startIntensity="100" endIntensity="0"/>
 			<effect type="twinkle" startCentisecond="3818" endCentisecond="3854" intensity="100"/>
 			<effect type="intensity" startCentisecond="3854" endCentisecond="3900" startIntensity="63" endIntensity="13"/>
-			<effect type="twinkle" startCentisecond="4298" endCentisecond="4441" intensity="100"/>
 			<effect type="intensity" startCentisecond="4668" endCentisecond="4681" intensity="100"/>
 			<effect type="intensity" startCentisecond="4856" endCentisecond="4868" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4996" endCentisecond="5043" intensity="100"/>
@@ -9794,6 +10116,15 @@
 			<effect type="intensity" startCentisecond="16594" endCentisecond="16598" intensity="100"/>
 			<effect type="intensity" startCentisecond="16610" endCentisecond="16614" intensity="100"/>
 			<effect type="intensity" startCentisecond="16626" endCentisecond="16630" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16770" endCentisecond="16864" intensity="100"/>
+			<effect type="intensity" startCentisecond="16894" endCentisecond="16906" intensity="100"/>
+			<effect type="shimmer" startCentisecond="16960" endCentisecond="17055" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17143" endCentisecond="17234" intensity="100"/>
+			<effect type="intensity" startCentisecond="17280" endCentisecond="17291" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17523" endCentisecond="17535" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17547" endCentisecond="17559" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17570" endCentisecond="17582" intensity="100"/>
+			<effect type="shimmer" startCentisecond="17594" endCentisecond="17606" intensity="100"/>
 		</channel>
 		<rgbChannel totalCentiseconds="26551" name="Zone 1 - Ground 8" savedIndex="90">
 			<channels>
@@ -9847,14 +10178,9 @@
 			<effect type="intensity" startCentisecond="2845" endCentisecond="2894" intensity="100"/>
 			<effect type="intensity" startCentisecond="3008" endCentisecond="3032" intensity="100"/>
 			<effect type="intensity" startCentisecond="3055" endCentisecond="3079" intensity="100"/>
-			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
-			<effect type="intensity" startCentisecond="3360" endCentisecond="3371" intensity="100"/>
-			<effect type="intensity" startCentisecond="3383" endCentisecond="3395" intensity="100"/>
 			<effect type="intensity" startCentisecond="3548" endCentisecond="3559" intensity="100"/>
 			<effect type="intensity" startCentisecond="3571" endCentisecond="3583" intensity="100"/>
 			<effect type="intensity" startCentisecond="3595" endCentisecond="3644" intensity="100"/>
-			<effect type="intensity" startCentisecond="3758" endCentisecond="3770" intensity="100"/>
-			<effect type="intensity" startCentisecond="3806" endCentisecond="3818" intensity="100"/>
 			<effect type="twinkle" startCentisecond="3923" endCentisecond="4065" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4298" endCentisecond="4441" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4547" endCentisecond="4559" intensity="100"/>
@@ -9945,8 +10271,7 @@
 			<effect type="intensity" startCentisecond="3008" endCentisecond="3032" intensity="100"/>
 			<effect type="intensity" startCentisecond="3055" endCentisecond="3079" intensity="100"/>
 			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
-			<effect type="intensity" startCentisecond="3360" endCentisecond="3371" intensity="100"/>
-			<effect type="intensity" startCentisecond="3383" endCentisecond="3395" intensity="100"/>
+			<effect type="intensity" startCentisecond="3360" endCentisecond="3407" intensity="100"/>
 			<effect type="intensity" startCentisecond="3548" endCentisecond="3559" intensity="100"/>
 			<effect type="intensity" startCentisecond="3571" endCentisecond="3583" intensity="100"/>
 			<effect type="intensity" startCentisecond="3595" endCentisecond="3644" intensity="100"/>
@@ -10051,12 +10376,6 @@
 			<effect type="intensity" startCentisecond="2797" endCentisecond="2809" intensity="100"/>
 			<effect type="intensity" startCentisecond="2821" endCentisecond="2833" intensity="100"/>
 			<effect type="intensity" startCentisecond="2845" endCentisecond="2894" intensity="100"/>
-			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
-			<effect type="intensity" startCentisecond="3360" endCentisecond="3371" intensity="100"/>
-			<effect type="intensity" startCentisecond="3383" endCentisecond="3395" intensity="100"/>
-			<effect type="intensity" startCentisecond="3548" endCentisecond="3559" intensity="100"/>
-			<effect type="intensity" startCentisecond="3571" endCentisecond="3583" intensity="100"/>
-			<effect type="intensity" startCentisecond="3595" endCentisecond="3644" intensity="100"/>
 			<effect type="intensity" startCentisecond="3758" endCentisecond="3770" intensity="100"/>
 			<effect type="intensity" startCentisecond="3806" endCentisecond="3818" intensity="100"/>
 			<effect type="twinkle" startCentisecond="3923" endCentisecond="4065" intensity="100"/>
@@ -14042,7 +14361,6 @@
 			<effect type="intensity" startCentisecond="2658" endCentisecond="2703" intensity="100"/>
 			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
 			<effect type="intensity" startCentisecond="3315" endCentisecond="3360" intensity="100"/>
-			<effect type="intensity" startCentisecond="3407" endCentisecond="3456" intensity="100"/>
 			<effect type="intensity" startCentisecond="3644" endCentisecond="3655" intensity="100"/>
 			<effect type="intensity" startCentisecond="3667" endCentisecond="3679" intensity="100"/>
 			<effect type="intensity" startCentisecond="3691" endCentisecond="3735" intensity="100"/>
@@ -14163,9 +14481,6 @@
 			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
 			<effect type="intensity" startCentisecond="3315" endCentisecond="3360" intensity="100"/>
 			<effect type="intensity" startCentisecond="3407" endCentisecond="3456" intensity="100"/>
-			<effect type="intensity" startCentisecond="3644" endCentisecond="3655" intensity="100"/>
-			<effect type="intensity" startCentisecond="3667" endCentisecond="3679" intensity="100"/>
-			<effect type="intensity" startCentisecond="3691" endCentisecond="3735" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4112" endCentisecond="4254" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4487" endCentisecond="4535" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4559" endCentisecond="4571" intensity="100"/>
@@ -14257,8 +14572,6 @@
 			<effect type="intensity" startCentisecond="1765" endCentisecond="1815" intensity="100"/>
 			<effect type="intensity" startCentisecond="2234" endCentisecond="2257" intensity="100"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2304" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
-			<effect type="intensity" startCentisecond="3315" endCentisecond="3360" intensity="100"/>
 			<effect type="intensity" startCentisecond="3407" endCentisecond="3456" intensity="100"/>
 			<effect type="intensity" startCentisecond="3644" endCentisecond="3655" intensity="100"/>
 			<effect type="intensity" startCentisecond="3667" endCentisecond="3679" intensity="100"/>
@@ -18258,7 +18571,6 @@
 			<effect type="intensity" startCentisecond="2658" endCentisecond="2703" intensity="100"/>
 			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
 			<effect type="intensity" startCentisecond="3315" endCentisecond="3360" intensity="100"/>
-			<effect type="intensity" startCentisecond="3407" endCentisecond="3456" intensity="100"/>
 			<effect type="intensity" startCentisecond="3644" endCentisecond="3655" intensity="100"/>
 			<effect type="intensity" startCentisecond="3667" endCentisecond="3679" intensity="100"/>
 			<effect type="intensity" startCentisecond="3691" endCentisecond="3735" intensity="100"/>
@@ -18379,9 +18691,6 @@
 			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
 			<effect type="intensity" startCentisecond="3315" endCentisecond="3360" intensity="100"/>
 			<effect type="intensity" startCentisecond="3407" endCentisecond="3456" intensity="100"/>
-			<effect type="intensity" startCentisecond="3644" endCentisecond="3655" intensity="100"/>
-			<effect type="intensity" startCentisecond="3667" endCentisecond="3679" intensity="100"/>
-			<effect type="intensity" startCentisecond="3691" endCentisecond="3735" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4112" endCentisecond="4254" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4487" endCentisecond="4535" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4559" endCentisecond="4571" intensity="100"/>
@@ -18473,8 +18782,6 @@
 			<effect type="intensity" startCentisecond="1765" endCentisecond="1815" intensity="100"/>
 			<effect type="intensity" startCentisecond="2234" endCentisecond="2257" intensity="100"/>
 			<effect type="intensity" startCentisecond="2281" endCentisecond="2304" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
-			<effect type="intensity" startCentisecond="3315" endCentisecond="3360" intensity="100"/>
 			<effect type="intensity" startCentisecond="3407" endCentisecond="3456" intensity="100"/>
 			<effect type="intensity" startCentisecond="3644" endCentisecond="3655" intensity="100"/>
 			<effect type="intensity" startCentisecond="3667" endCentisecond="3679" intensity="100"/>
@@ -22479,14 +22786,9 @@
 			<effect type="intensity" startCentisecond="2845" endCentisecond="2894" intensity="100"/>
 			<effect type="intensity" startCentisecond="3008" endCentisecond="3032" intensity="100"/>
 			<effect type="intensity" startCentisecond="3055" endCentisecond="3079" intensity="100"/>
-			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
-			<effect type="intensity" startCentisecond="3360" endCentisecond="3371" intensity="100"/>
-			<effect type="intensity" startCentisecond="3383" endCentisecond="3395" intensity="100"/>
 			<effect type="intensity" startCentisecond="3548" endCentisecond="3559" intensity="100"/>
 			<effect type="intensity" startCentisecond="3571" endCentisecond="3583" intensity="100"/>
 			<effect type="intensity" startCentisecond="3595" endCentisecond="3644" intensity="100"/>
-			<effect type="intensity" startCentisecond="3758" endCentisecond="3770" intensity="100"/>
-			<effect type="intensity" startCentisecond="3806" endCentisecond="3818" intensity="100"/>
 			<effect type="twinkle" startCentisecond="3923" endCentisecond="4065" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4298" endCentisecond="4441" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4547" endCentisecond="4559" intensity="100"/>
@@ -22641,8 +22943,7 @@
 			<effect type="intensity" startCentisecond="3008" endCentisecond="3032" intensity="100"/>
 			<effect type="intensity" startCentisecond="3055" endCentisecond="3079" intensity="100"/>
 			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
-			<effect type="intensity" startCentisecond="3360" endCentisecond="3371" intensity="100"/>
-			<effect type="intensity" startCentisecond="3383" endCentisecond="3395" intensity="100"/>
+			<effect type="intensity" startCentisecond="3360" endCentisecond="3407" intensity="100"/>
 			<effect type="intensity" startCentisecond="3548" endCentisecond="3559" intensity="100"/>
 			<effect type="intensity" startCentisecond="3571" endCentisecond="3583" intensity="100"/>
 			<effect type="intensity" startCentisecond="3595" endCentisecond="3644" intensity="100"/>
@@ -22811,12 +23112,6 @@
 			<effect type="intensity" startCentisecond="2797" endCentisecond="2809" intensity="100"/>
 			<effect type="intensity" startCentisecond="2821" endCentisecond="2833" intensity="100"/>
 			<effect type="intensity" startCentisecond="2845" endCentisecond="2894" intensity="100"/>
-			<effect type="intensity" startCentisecond="3246" endCentisecond="3271" intensity="100"/>
-			<effect type="intensity" startCentisecond="3360" endCentisecond="3371" intensity="100"/>
-			<effect type="intensity" startCentisecond="3383" endCentisecond="3395" intensity="100"/>
-			<effect type="intensity" startCentisecond="3548" endCentisecond="3559" intensity="100"/>
-			<effect type="intensity" startCentisecond="3571" endCentisecond="3583" intensity="100"/>
-			<effect type="intensity" startCentisecond="3595" endCentisecond="3644" intensity="100"/>
 			<effect type="intensity" startCentisecond="3758" endCentisecond="3770" intensity="100"/>
 			<effect type="intensity" startCentisecond="3806" endCentisecond="3818" intensity="100"/>
 			<effect type="twinkle" startCentisecond="3923" endCentisecond="4065" intensity="100"/>
@@ -22976,9 +23271,6 @@
 			<effect type="intensity" startCentisecond="2752" endCentisecond="2797" intensity="100"/>
 			<effect type="intensity" startCentisecond="3222" endCentisecond="3246" intensity="100"/>
 			<effect type="intensity" startCentisecond="3271" endCentisecond="3315" intensity="100"/>
-			<effect type="intensity" startCentisecond="3456" endCentisecond="3467" intensity="100"/>
-			<effect type="intensity" startCentisecond="3479" endCentisecond="3490" intensity="100"/>
-			<effect type="intensity" startCentisecond="3502" endCentisecond="3548" intensity="100"/>
 			<effect type="intensity" startCentisecond="3735" endCentisecond="3746" intensity="100"/>
 			<effect type="intensity" startCentisecond="3782" endCentisecond="3794" intensity="100"/>
 			<effect type="intensity" startCentisecond="3830" endCentisecond="3878" intensity="100"/>
@@ -23153,9 +23445,6 @@
 			<effect type="intensity" startCentisecond="3456" endCentisecond="3467" intensity="100"/>
 			<effect type="intensity" startCentisecond="3479" endCentisecond="3490" intensity="100"/>
 			<effect type="intensity" startCentisecond="3502" endCentisecond="3548" intensity="100"/>
-			<effect type="intensity" startCentisecond="3735" endCentisecond="3746" intensity="100"/>
-			<effect type="intensity" startCentisecond="3782" endCentisecond="3794" intensity="100"/>
-			<effect type="intensity" startCentisecond="3830" endCentisecond="3878" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4065" endCentisecond="4112" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4254" endCentisecond="4298" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4441" endCentisecond="4487" intensity="100"/>
@@ -23317,14 +23606,9 @@
 			<effect type="intensity" startCentisecond="2257" endCentisecond="2281" intensity="100"/>
 			<effect type="intensity" startCentisecond="2471" endCentisecond="2495" intensity="100"/>
 			<effect type="intensity" startCentisecond="2519" endCentisecond="2564" intensity="100"/>
-			<effect type="intensity" startCentisecond="3222" endCentisecond="3246" intensity="100"/>
-			<effect type="intensity" startCentisecond="3271" endCentisecond="3315" intensity="100"/>
 			<effect type="intensity" startCentisecond="3456" endCentisecond="3467" intensity="100"/>
 			<effect type="intensity" startCentisecond="3479" endCentisecond="3490" intensity="100"/>
 			<effect type="intensity" startCentisecond="3502" endCentisecond="3548" intensity="100"/>
-			<effect type="intensity" startCentisecond="3735" endCentisecond="3746" intensity="100"/>
-			<effect type="intensity" startCentisecond="3782" endCentisecond="3794" intensity="100"/>
-			<effect type="intensity" startCentisecond="3830" endCentisecond="3878" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4065" endCentisecond="4112" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4254" endCentisecond="4298" intensity="100"/>
 			<effect type="twinkle" startCentisecond="4441" endCentisecond="4487" intensity="100"/>
@@ -29540,7 +29824,9 @@
 			<timing centisecond="16864"/>
 			<timing centisecond="16876"/>
 			<timing centisecond="16888"/>
+			<timing centisecond="16894"/>
 			<timing centisecond="16900"/>
+			<timing centisecond="16906"/>
 			<timing centisecond="16912"/>
 			<timing centisecond="16924"/>
 			<timing centisecond="16936"/>
