@@ -2,3 +2,6 @@
 *.lms.bak
 *.lms.lcs
 *~
+*.xbkp
+xlights/xlights_keybindings.xml
+xlights/Backup/

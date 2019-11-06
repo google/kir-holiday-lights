@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DESKTOP-4CU327H">
+  <network ComPort="MULTICAST" BaudRate="2" NetworkType="E131" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="MULTICAST" BaudRate="1" NetworkType="E131" MaxChannels="510" AutoStartChannels="false"/>
+  <testpreset name="everything">
+    <channelr start="1" end="48120"/>
+  </testpreset>
+  <testpreset name="tree">
+    <channelr start="1" end="9600"/>
+  </testpreset>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="StringTest">
+    <channelr start="1200" end="1249"/>
+  </testpreset>
+</Networks>
