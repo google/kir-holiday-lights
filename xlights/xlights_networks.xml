@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Networks computer="DESKTOP-4CU327H">
-  <network ComPort="MULTICAST" BaudRate="2" NetworkType="E131" MaxChannels="510" AutoStartChannels="false"/>
-  <network ComPort="MULTICAST" BaudRate="1" NetworkType="E131" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.1" BaudRate="1" NetworkType="E131" Description="Tree A" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.2" BaudRate="10" NetworkType="E131" Description="Tree B" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.3" BaudRate="30" NetworkType="E131" Description="Tree C" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.4" BaudRate="40" NetworkType="E131" Description="Tree D" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.5" BaudRate="50" NetworkType="E131" Description="Tree E" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.6" BaudRate="60" NetworkType="E131" Description="Tree F" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.7" BaudRate="70" NetworkType="E131" Description="Tree G" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.8" BaudRate="100" NetworkType="E131" Description="Ground A" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.9" BaudRate="110" NetworkType="E131" Description="Ground C" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.10" BaudRate="120" NetworkType="E131" Description="Ground D" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.11" BaudRate="130" NetworkType="E131" Description="Ground E" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.12" BaudRate="140" NetworkType="E131" Description="Ground F" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.13" BaudRate="150" NetworkType="E131" Description="Ground G" MaxChannels="510" NumUniverses="10" AutoStartChannels="false"/>
   <testpreset name="everything">
     <channelr start="1" end="48120"/>
   </testpreset>
