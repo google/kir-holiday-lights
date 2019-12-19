@@ -1,29 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Networks computer="DESKTOP-4CU327H">
-  <network ComPort="192.168.1.64" BaudRate="1" NetworkType="E131" Description="Tree A-2" Controller="E6804 Firmware 4" MaxChannels="510" NumUniverses="4" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.65" BaudRate="1" NetworkType="E131" Description="Tree A-3" Controller="E6804 Firmware 4" MaxChannels="510" NumUniverses="4" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.66" BaudRate="1" NetworkType="E131" Description="Tree B-1" Controller="E6804 Firmware 4" MaxChannels="510" NumUniverses="4" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.67" BaudRate="1" NetworkType="E131" Description="Tree A-4" Controller="E6804 Firmware 4" MaxChannels="510" NumUniverses="4" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.68" BaudRate="1" NetworkType="E131" Description="Tree B-4" Controller="E6804 Firmware 4" MaxChannels="510" NumUniverses="4" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.69" BaudRate="1" NetworkType="E131" Description="Tree A-1" Controller="E6804 Firmware 4" MaxChannels="510" NumUniverses="4" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.70" BaudRate="1" NetworkType="E131" Description="Tree B-3" Controller="E6804 Firmware 4" MaxChannels="510" NumUniverses="4" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.71" BaudRate="1" NetworkType="E131" Description="Tree B-4" Controller="E6804 Firmware 4" MaxChannels="510" NumUniverses="4" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.42" BaudRate="1" NetworkType="E131" Description="Tree G-2 G-3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.41" BaudRate="1" NetworkType="E131" Description="Tree G-1 F-3 F-2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.44" BaudRate="1" NetworkType="E131" Description="Tree F-1 E3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.0.0" BaudRate="1" NetworkType="E131" Description="Big Tree" MaxChannels="510" NumUniverses="20" AutoStartChannels="false"/>
+<Networks computer="DEVBOX">
+  <network ComPort="192.168.1.42" BaudRate="120" NetworkType="E131" Description="Tree G-2 G-3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.41" BaudRate="110" NetworkType="E131" Description="Tree G-1 F-3 F-2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.44" BaudRate="140" NetworkType="E131" Description="Tree F-1 E3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.43" BaudRate="130" NetworkType="E131" Description="Tree E-1 E-2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.38" BaudRate="80" NetworkType="E131" Description="Tree D-1 D-2 D-3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.45" BaudRate="150" NetworkType="E131" Description="Ground C" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.37" BaudRate="70" NetworkType="E131" Description="Ground A" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.32" BaudRate="20" NetworkType="E131" Description="Ground G 1/2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.33" BaudRate="30" NetworkType="E131" Description="Ground G3 F1/2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.34" BaudRate="40" NetworkType="E131" Description="Ground F3 E1" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.35" BaudRate="50" NetworkType="E131" Description="Ground E2/3 D1" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.36" BaudRate="60" NetworkType="E131" Description="Ground D2/3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.40" BaudRate="100" NetworkType="E131" Description="Tree C1 C2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.39" BaudRate="90" NetworkType="E131" Description="Tree C3 C4" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
   <network ComPort="192.168.0.1" BaudRate="1" NetworkType="E131" Description="Snow  Machines" MaxChannels="510" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.43" BaudRate="1" NetworkType="E131" Description="Tree E-1 E-2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.38" BaudRate="1" NetworkType="E131" Description="Tree D-1 D-2 D-3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.45" BaudRate="1" NetworkType="E131" Description="Ground C" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.37" BaudRate="1" NetworkType="E131" Description="Ground A" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.32" BaudRate="1" NetworkType="E131" Description="Ground G 1/2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.33" BaudRate="1" NetworkType="E131" Description="Ground G3 F1/2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.34" BaudRate="1" NetworkType="E131" Description="Ground F3 E1" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.35" BaudRate="1" NetworkType="E131" Description="Ground E2/3 D1" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.36" BaudRate="1" NetworkType="E131" Description="Ground D2/3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.40" BaudRate="1" NetworkType="E131" Description="Tree C1 C2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.39" BaudRate="1" NetworkType="E131" Description="Tree C3 C4" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="16" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.0" BaudRate="1" NetworkType="E131" Description="Big Tree" MaxChannels="510" NumUniverses="20" AutoStartChannels="false"/>
+  <network ComPort="192.168.1.201" BaudRate="1" NetworkType="E131" Description="Generic" MaxChannels="510" AutoStartChannels="false"/>
   <testpreset name="everything">
     <channelr start="1" end="48120"/>
   </testpreset>
