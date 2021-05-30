@@ -1,22 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Networks computer="DEVBOX">
-  <network ComPort="192.168.1.42" BaudRate="120" NetworkType="E131" Description="Tree G-2 G-3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.41" BaudRate="110" NetworkType="E131" Description="Tree G-1 F-3 F-2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.44" BaudRate="140" NetworkType="E131" Description="Tree F-1 E3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.43" BaudRate="130" NetworkType="E131" Description="Tree E-1 E-2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.38" BaudRate="80" NetworkType="E131" Description="Tree D-1 D-2 D-3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.45" BaudRate="150" NetworkType="E131" Description="Ground C" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.37" BaudRate="70" NetworkType="E131" Description="Ground A" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.32" BaudRate="20" NetworkType="E131" Description="Ground G 1/2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.33" BaudRate="30" NetworkType="E131" Description="Ground G3 F1/2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.34" BaudRate="40" NetworkType="E131" Description="Ground F3 E1" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.35" BaudRate="50" NetworkType="E131" Description="Ground E2/3 D1" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.36" BaudRate="60" NetworkType="E131" Description="Ground D2/3" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.40" BaudRate="100" NetworkType="E131" Description="Tree C1 C2" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.39" BaudRate="90" NetworkType="E131" Description="Tree C3 C4" Controller="E682 Firmware 4" MaxChannels="510" NumUniverses="5" AutoStartChannels="false"/>
-  <network ComPort="192.168.0.1" BaudRate="1" NetworkType="E131" Description="Snow  Machines" MaxChannels="510" AutoStartChannels="false"/>
-  <network ComPort="192.168.0.0" BaudRate="1" NetworkType="E131" Description="Big Tree" MaxChannels="510" NumUniverses="20" AutoStartChannels="false"/>
-  <network ComPort="192.168.1.201" BaudRate="1" NetworkType="E131" Description="Generic" MaxChannels="510" AutoStartChannels="false"/>
+<Networks computer="DEVBOX" GlobalFPPProxy="">
+  <Controller Id="120" Name="Tree G-2 G-3" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.42" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.42" BaudRate="120" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.42" BaudRate="121" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.42" BaudRate="122" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.42" BaudRate="123" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.42" BaudRate="124" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="110" Name="Tree G-1 F-3 F-2" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.41" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.41" BaudRate="110" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.41" BaudRate="111" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.41" BaudRate="112" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.41" BaudRate="113" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.41" BaudRate="114" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="140" Name="Tree F-1 E3" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.44" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.44" BaudRate="140" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.44" BaudRate="141" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.44" BaudRate="142" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.44" BaudRate="143" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.44" BaudRate="144" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="130" Name="Tree E-1 E-2" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.43" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.43" BaudRate="130" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.43" BaudRate="131" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.43" BaudRate="132" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.43" BaudRate="133" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.43" BaudRate="134" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="80" Name="Tree D-1 D-2 D-3" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.38" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.38" BaudRate="80" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.38" BaudRate="81" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.38" BaudRate="82" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.38" BaudRate="83" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.38" BaudRate="84" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="150" Name="Ground C" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.45" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.45" BaudRate="150" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.45" BaudRate="151" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.45" BaudRate="152" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.45" BaudRate="153" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.45" BaudRate="154" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="70" Name="Ground A" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.37" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.37" BaudRate="70" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.37" BaudRate="71" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.37" BaudRate="72" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.37" BaudRate="73" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.37" BaudRate="74" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="20" Name="Ground G 1/2" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.32" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.32" BaudRate="20" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.32" BaudRate="21" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.32" BaudRate="22" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.32" BaudRate="23" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.32" BaudRate="24" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="30" Name="Ground G3 F1/2" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.33" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.33" BaudRate="30" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.33" BaudRate="31" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.33" BaudRate="32" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.33" BaudRate="33" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.33" BaudRate="34" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="40" Name="Ground F3 E1" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.34" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.34" BaudRate="40" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.34" BaudRate="41" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.34" BaudRate="42" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.34" BaudRate="43" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.34" BaudRate="44" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="50" Name="Ground E2/3 D1" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.35" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.35" BaudRate="50" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.35" BaudRate="51" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.35" BaudRate="52" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.35" BaudRate="53" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.35" BaudRate="54" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="60" Name="Ground D2/3" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.36" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.36" BaudRate="60" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.36" BaudRate="61" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.36" BaudRate="62" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.36" BaudRate="63" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.36" BaudRate="64" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="100" Name="Tree C1 C2" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.40" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.40" BaudRate="100" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.40" BaudRate="101" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.40" BaudRate="102" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.40" BaudRate="103" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.40" BaudRate="104" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="90" Name="Tree C3 C4" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.39" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.39" BaudRate="90" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.39" BaudRate="91" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.39" BaudRate="92" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.39" BaudRate="93" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.39" BaudRate="94" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="1" Name="Snow  Machines" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.0.1" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.0.1" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="1" Name="Big Tree" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.0.0" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.0.0" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="3" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="4" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="5" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="6" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="7" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="8" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="9" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="10" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="11" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="12" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="13" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="14" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="15" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="16" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="17" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="18" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="19" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.0.0" BaudRate="20" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="1" Name="Generic" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.201" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.201" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
   <testpreset name="everything">
     <channelr start="1" end="48120"/>
   </testpreset>

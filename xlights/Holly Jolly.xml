@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2019.64</version>
+    <version>2021.08</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -12,7 +12,7 @@
     <comment></comment>
     <sequenceTiming>50 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>V:\xlights\music\06 Holly Jolly Christmas.mp3</mediaFile>
+    <mediaFile>G:\xlights\music\06 Holly Jolly Christmas.mp3</mediaFile>
     <sequenceDuration>121.579</sequenceDuration>
     <imageDir/>
   </head>
@@ -142,7 +142,7 @@
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=close then open,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=2.0</Effect>
-    <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_CHECKBOX_Twinkle_Strobe=1,E_SLIDER_Twinkle_Count=30,E_SLIDER_Twinkle_Steps=44,T_CHECKBOX_Canvas=1</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_CHECKBOX_Twinkle_Strobe=1,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=30,E_SLIDER_Twinkle_Steps=44,T_CHECKBOX_Canvas=1</Effect>
     <Effect>T_TEXTCTRL_Fadeout=1.0</Effect>
     <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1,T_TEXTCTRL_Fadeout=0.50</Effect>
     <Effect>E_VALUECURVE_On_Transparency=Active=TRUE|Id=ID_VALUECURVE_On_Transparency|Type=Exponential Up|Min=0.00|Max=100.00|P1=100.00|P2=21.00|RV=TRUE|</Effect>
@@ -291,7 +291,7 @@
     <Element collapsed="0" type="model" name="Tree G2" visible="1"/>
     <Element collapsed="0" type="model" name="Tree G3" visible="1"/>
     <Element collapsed="0" type="model" name="Snow Machine" visible="1"/>
-    <Element collapsed="0" type="model" name="Ground D4 " visible="0"/>
+    <Element collapsed="0" type="model" name="Ground D4" visible="0"/>
     <Element collapsed="0" type="model" name="Music" visible="1"/>
   </DisplayElements>
   <ElementEffects>
@@ -4547,7 +4547,7 @@
     <Element type="model" name="Snow Machine">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Ground D4 ">
+    <Element type="model" name="Ground D4">
       <EffectLayer>
         <Effect ref="2" name="On" startTime="56550" endTime="56900" palette="17"/>
         <Effect ref="3" name="On" id="1" startTime="58450" endTime="58800" palette="5"/>
@@ -4571,7 +4571,7 @@
     </Element>
     <Element type="model" name="Music">
       <EffectLayer>
-        <Effect ref="42" name="On" selected="1" startTime="100" endTime="550" palette="103"/>
+        <Effect ref="42" name="On" startTime="100" endTime="550" palette="103"/>
       </EffectLayer>
     </Element>
   </ElementEffects>

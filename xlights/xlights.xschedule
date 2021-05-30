@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xSchedule>
+  <Options AudioDevice="" WWWRoot="xScheduleWeb" CrashBehaviour="Prompt user" MIDITimecodeDevice="" MIDITimecodeFormat="0" MIDITimecodeOffset="0" Password="" City="Sydney" RemoteLatency="0" RemoteAcceptableJitter="20" HardwareAcceleratedVideo="TRUE" SuppressAudioOnRemotes="TRUE" WebServerPort="80" PasswordTimeout="30" ARTNetTimeCodeFormat="1">
+    <Button Label="Play Selected" Command="Play selected playlist" Parameters="" Hotkey="~" Color="green"/>
+    <Button Label="Stop All" Command="Stop all now" Parameters="" Hotkey="~" Color="red"/>
+    <Button Label="Reset All Schedules" Command="Restart all schedules" Parameters="" Hotkey="~" Color="default"/>
+    <Button Label="Next Step" Command="Next step in current playlist" Parameters="" Hotkey="~" Color="default"/>
+    <Button Label="End Gracefully" Command="Jump to play once at end at end of current step and then stop" Parameters="" Hotkey="~" Color="red"/>
+    <Button Label="Add 10 Mins To Schedule" Command="Add to the current schedule n minutes" Parameters="10" Hotkey="~" Color="default"/>
+    <Events/>
+    <OSC MasterPath="/Timecode/%STEPNAME%" RemotePath="/Timecode/%STEPNAME%" IP="255.255.255.255" Time="Seconds (float)" Frame="Default (int)" ServerPort="9000" ClientPort="9000" TimeBased="True"/>
+    <Test Mode="Alternate" Level1="255" Level2="0" Interval="500"/>
+  </Options>
+  <PlayList Name="&lt;unnamed&gt;">
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="V:\kir-holiday-lights\xlights\Holly Jolly.fseq" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+  </PlayList>
+  <PlayList Name="&lt;unnamed&gt;"/>
+</xSchedule>
