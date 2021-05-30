@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DEVBOX" GlobalFPPProxy="">
+  <Controller Id="1" Name="F4V3 v2.55A" Description="F4V3" Type="Ethernet" Vendor="Falcon" Model="F4V3" Variant="One Expansion Board" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.26" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ComPort="192.168.1.26" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.26" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <testpreset name="everything">
+    <channelr start="1" end="48120"/>
+  </testpreset>
+  <testpreset name="tree">
+    <channelr start="1" end="9600"/>
+  </testpreset>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="StringTest">
+    <channelr start="1200" end="1249"/>
+  </testpreset>
+</Networks>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" Advanced="1" parm1="1" parm2="3" name="Ground E5" PixelSize="2" WorldPosX="811.9617" WorldPosY="131.2184" WorldPosZ="0.0000" X2="-205.753235" Y2="-5.506790" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground D5:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" Advanced="1" parm1="1" parm2="3" name="Ground D8" PixelSize="2" WorldPosX="603.2047" WorldPosY="95.6746" WorldPosZ="0.0000" X2="-195.740967" Y2="3.504333" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground E8:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" Advanced="1" parm1="1" parm2="3" name="Ground D7" PixelSize="2" WorldPosX="605.2072" WorldPosY="105.6869" WorldPosZ="0.0000" X2="-198.744629" Y2="3.003677" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground D8:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" Advanced="1" parm1="1" parm2="3" name="Ground D6" PixelSize="2" WorldPosX="601.7028" WorldPosY="116.1999" WorldPosZ="0.0000" X2="-195.740906" Y2="2.503067" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground E6:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" Advanced="1" parm1="1" parm2="3" name="Ground D5" PixelSize="2" WorldPosX="601.2023" WorldPosY="126.2122" WorldPosZ="0.0000" X2="-196.742188" Y2="5.006180" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground D6:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" Advanced="1" parm1="1" parm2="3" PixelSize="2" name="Ground D4" WorldPosX="599.7004" WorldPosY="136.2245" WorldPosZ="0.0000" X2="-195.740936" Y2="5.506790" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground E4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" Advanced="1" parm1="1" parm2="3" name="Ground D3" PixelSize="2" WorldPosX="600.2010" WorldPosY="147.2381" WorldPosZ="0.0000" X2="-196.742188" Y2="4.004929" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground D4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" Advanced="1" parm1="1" parm2="3" name="Ground D2" PixelSize="2" WorldPosX="598.6992" WorldPosY="156.7498" WorldPosZ="0.0000" X2="-195.240356" Y2="5.006134" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground E2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground G8" Advanced="1" parm1="1" parm2="3" PixelSize="2" String1="1" WorldPosX="1241.7439" WorldPosY="123.4643" WorldPosZ="0.0000" X2="-213.791382" Y2="-12.370712" Z2="0.000000" versionNumber="5" StartChannel="1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" Transparency="0" parm3="1" name="Ground G7" Advanced="1" parm1="1" parm2="3" PixelSize="2" String1="&gt;Ground F7:1" Dir="R" LayoutGroup="Default" WorldPosX="1241.7439" WorldPosY="130.4008" WorldPosZ="0.0000" X2="-213.791382" Y2="-10.496384" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground F7:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground G6" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1240.4840" WorldPosY="139.4480" WorldPosZ="0.0000" X2="-213.888794" Y2="-10.661118" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground G7:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground G5" Advanced="1" parm1="1" parm2="3" PixelSize="2" SWorldPosX="1241.1504" WorldPosX="0.0000" WorldPosY="146.7775" WorldPosZ="0.0000" X2="-215.221436" Y2="-8.662170" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground F5:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground G4" Advanced="1" parm1="1" parm2="3" PixelSize="2" String1="151" WorldPosX="1238.2537" WorldPosY="155.4397" WorldPosZ="0.0000" X2="-212.556030" Y2="-7.995865" Z2="0.000000" versionNumber="5" StartChannel="151">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground G3" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1238.6887" WorldPosY="164.7681" WorldPosZ="0.0000" X2="-214.555176" Y2="-7.329514" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground F3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground G2" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1236.6898" WorldPosY="176.0956" WorldPosZ="0.0000" X2="-211.889893" Y2="-8.662170" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground G3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground F7" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1023.7136" WorldPosY="119.4509" WorldPosZ="0.0000" X2="-207.221313" Y2="-7.806648" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground E7:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground F8" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1023.0452" WorldPosY="110.8648" WorldPosZ="0.0000" X2="-205.451538" Y2="-8.582085" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground G8:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground F6" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1021.8951" WorldPosY="129.8166" WorldPosZ="0.0000" X2="-205.953491" Y2="-8.260193" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground G6:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground F5" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1020.9291" WorldPosY="138.0179" WorldPosZ="0.0000" X2="-204.987549" Y2="-7.099945" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground E5:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground F4" Advanced="1" parm1="1" parm2="3" PixelSize="2" String1="&gt;Ground G4:1" WorldPosX="1021.4102" WorldPosY="146.3099" WorldPosZ="0.0000" X2="-206.570007" Y2="-5.479767" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground G4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground F3" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1019.1417" WorldPosY="157.3505" WorldPosZ="0.0000" X2="-204.301453" Y2="-4.956100" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground E3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground F2" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1020.0775" WorldPosY="167.0532" WorldPosZ="0.0000" X2="-205.787964" Y2="-4.746628" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground G2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground E8" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="812.7188" WorldPosY="100.8312" WorldPosZ="0.0000" X2="-205.008545" Y2="-4.155319" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground F8:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground E7" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="812.0677" WorldPosY="111.6761" WorldPosZ="0.0000" X2="-202.855652" Y2="-5.989182" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground D7:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground E6" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="811.2862" WorldPosY="121.7939" WorldPosZ="0.0000" X2="-204.577148" Y2="-5.093407" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground F6:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" Advanced="1" parm1="1" parm2="3" name="Ground D1" PixelSize="2" String1="&gt;Ground D2:1" WorldPosX="598.5668" WorldPosY="166.3958" WorldPosZ="0.0000" X2="-196.109985" Y2="3.702881" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground D2:1">
+      <ControllerConnection Protocol="ws2811" brightness="50"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground E4" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="810.9604" WorldPosY="141.2307" WorldPosZ="0.0000" X2="-206.253906" Y2="-4.505554" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground F4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground E3" Advanced="1" parm1="1" parm2="3" PixelSize="2" SWorldPosX="811.4611" WorldPosX="0.0000" WorldPosY="152.7448" WorldPosZ="0.0000" X2="-206.253906" Y2="-5.506760" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground D3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground E2" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="810.5157" WorldPosY="161.8535" WorldPosZ="0.0000" X2="-206.309814" Y2="-4.102432" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground F2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="3" parm3="1" LayoutGroup="Default" name="Ground C7" Advanced="1" PixelSize="2" String1="&gt;Ground C6:1" String2="&gt;Ground C6:10" parm1="1" WorldPosX="888.5081" WorldPosY="408.0340" WorldPosZ="0.0000" X2="-54.264282" Y2="-180.881119" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground C6:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="3" parm3="1" LayoutGroup="Default" name="Ground C8" Advanced="1" PixelSize="2" String1="&gt;Ground C7:1" String2="&gt;Ground C7:10" parm1="1" WorldPosX="897.3640" WorldPosY="407.2484" WorldPosZ="0.0000" X2="-54.264282" Y2="-180.881119" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground C7:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="3" parm3="1" LayoutGroup="Default" name="Ground C6" Advanced="1" PixelSize="2" String1="&gt;Ground C5:1" String2="&gt;Ground C5:10" parm1="1" WorldPosX="879.6523" WorldPosY="406.8556" WorldPosZ="0.0000" X2="-54.264282" Y2="-180.881119" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground C5:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="3" parm3="1" LayoutGroup="Default" name="Ground C5" Advanced="1" PixelSize="2" String1="&gt;Ground C4:1" String2="&gt;Ground C4:10" parm1="1" WorldPosX="870.7964" WorldPosY="406.4628" WorldPosZ="0.0000" X2="-54.264282" Y2="-180.881119" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground C4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="3" parm3="1" LayoutGroup="Default" name="Ground C4" Advanced="1" PixelSize="2" String1="&gt;Ground C3:1" String2="&gt;Ground C3:10" parm1="1" WorldPosX="861.9406" WorldPosY="407.6412" WorldPosZ="0.0000" X2="-54.264282" Y2="-180.881119" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground C3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="3" parm3="1" LayoutGroup="Default" name="Ground C3" Advanced="1" PixelSize="2" String1="&gt;Ground C2:1" String2="&gt;Ground C2:10" parm1="1" WorldPosX="853.0848" WorldPosY="406.0699" WorldPosZ="0.0000" X2="-54.264282" Y2="-180.881119" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground C2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="3" parm3="1" LayoutGroup="Default" name="Ground C2" Advanced="1" PixelSize="2" String1="&gt;Ground C1:1" String2="&gt;Ground C1:10" parm1="1" WorldPosX="844.2289" WorldPosY="405.6771" WorldPosZ="0.0000" X2="-54.264282" Y2="-180.881119" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground C1:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree D1" PixelSize="4" Active="0" parm1="1" TreeRotation="0.000000" TreeSpiralRotations="0.000000" TreeBottomTopRatio="1.000000" DisplayAs="Tree Flat" WorldPosX="281.1147" WorldPosY="136.0042" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree D2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree C4" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" WorldPosX="896.1108" WorldPosY="255.1729" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree C3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree C3" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" WorldPosX="845.0385" WorldPosY="284.9649" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree C2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree C2" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" WorldPosX="851.4225" WorldPosY="345.6131" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree C1:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree C1" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" WorldPosX="874.8301" WorldPosY="394.5573" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Ground C8:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree B1" PixelSize="4" TreeRotation="0.000000" TreeSpiralRotations="0.000000" TreeBottomTopRatio="1.000000" parm1="1" DisplayAs="Tree Flat" Active="0" WorldPosX="703.5259" WorldPosY="414.7735" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree B2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree B2" PixelSize="4" DisplayAs="Tree Flat" TreeRotation="0.000000" TreeSpiralRotations="0.000000" TreeBottomTopRatio="1.000000" parm1="1" Active="0" WorldPosX="669.4774" WorldPosY="362.6375" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree B3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree B3" PixelSize="4" DisplayAs="Tree Flat" TreeRotation="0.000000" TreeSpiralRotations="0.000000" TreeBottomTopRatio="1.000000" parm1="1" Active="0" WorldPosX="627.9813" WorldPosY="338.1651" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree B4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree B4" PixelSize="4" DisplayAs="Tree Flat" TreeSpiralRotations="0.000000" TreeRotation="0.000000" parm1="1" TreeBottomTopRatio="1.000000" Active="0" WorldPosX="597.1253" WorldPosY="290.2850" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree A1:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree A4" PixelSize="4" parm1="1" TreeSpiralRotations="3.000000" Active="0" DisplayAs="Tree Flat" WorldPosX="393.8997" WorldPosY="276.4531" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Ground A8:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree A3" PixelSize="4" parm1="1" TreeSpiralRotations="3.000000" Active="0" DisplayAs="Tree Flat" WorldPosX="322.6119" WorldPosY="303.0533" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree A4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree A2" parm1="1" TreeSpiralRotations="3.000000" Active="0" DisplayAs="Tree Flat" WorldPosX="298.1394" WorldPosY="377.5335" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree A3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" PixelSize="2" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree A1" Antialias="1" parm1="1" TreePerspective="0.200000" TreeSpiralRotations="3.000000" Active="0" DisplayAs="Tree Flat" WorldPosX="280.0514" WorldPosY="424.3494" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree A2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Tree G3" PixelSize="4" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" parm2="3" WorldPosX="1095.0790" WorldPosY="172.1804" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.0855" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree C4:1">
+      <ControllerConnection Protocol="ws2811" nullNodes="2"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree G2" PixelSize="4" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" WorldPosX="1050.3910" WorldPosY="166.8604" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree G3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Tree G1" PixelSize="4" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" parm2="1" WorldPosX="970.5904" WorldPosY="157.2843" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4275" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree G2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree F3" PixelSize="4" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" WorldPosX="929.0944" WorldPosY="160.4764" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree G1:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree F2" PixelSize="4" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" WorldPosX="881.2147" WorldPosY="154.0923" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree F3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree F1" PixelSize="4" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" WorldPosX="783.3254" WorldPosY="149.8363" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree F2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree E3" PixelSize="4" TreeSpiralRotations="3.000000" DisplayAs="Tree Flat" parm1="2" WorldPosX="737.5742" WorldPosY="149.8363" WorldPosZ="0.0000" ScaleX="0.6210" ScaleY="0.4276" ScaleZ="0.6210" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree F1:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree E2" PixelSize="4" TreeSpiralRotations="3.000000" parm1="1" DisplayAs="Tree Flat" WorldPosX="627.9813" WorldPosY="155.1564" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree E3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree E1" PixelSize="4" TreeSpiralRotations="3.000000" DisplayAs="Tree Flat" parm1="2" WorldPosX="556.6929" WorldPosY="148.7722" WorldPosZ="0.0000" ScaleX="0.6210" ScaleY="0.4276" ScaleZ="0.6210" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree E2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree D3" PixelSize="4" parm1="1" TreeRotation="0.000000" TreeSpiralRotations="0.000000" TreeBottomTopRatio="1.000000" DisplayAs="Tree Flat" WorldPosX="439.6839" WorldPosY="143.7241" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree E1:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="1" parm3="1" LayoutGroup="Default" name="Tree D2" PixelSize="4" parm1="1" TreeRotation="0.000000" TreeSpiralRotations="0.000000" DisplayAs="Tree Flat" TreeBottomTopRatio="1.000000" WorldPosX="372.0280" WorldPosY="172.8205" WorldPosZ="0.0000" ScaleX="1.1178" ScaleY="0.4276" ScaleZ="1.1178" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree D3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Ground A8" PixelSize="2" parm2="3" WorldPosX="165.5446" WorldPosY="446.0091" WorldPosZ="0.0000" X2="62.213135" Y2="-130.165375" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground A7:1">
+      <ControllerConnection Protocol="ws2811" brightness="10"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Ground A3" PixelSize="2" parm2="3" WorldPosX="220.4662" WorldPosY="429.7067" WorldPosZ="0.0000" X2="61.614410" Y2="-135.402893" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground A2:1">
+      <ControllerConnection Protocol="ws2811" brightness="10"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Ground A4" PixelSize="2" parm2="3" WorldPosX="209.3047" WorldPosY="435.8904" WorldPosZ="0.0000" X2="62.088684" Y2="-136.142395" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground A3:1">
+      <ControllerConnection Protocol="ws2811" brightness="10"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Ground A1" PixelSize="2" parm2="3" WorldPosX="241.2734" WorldPosY="424.3135" WorldPosZ="0.0000" X2="64.947205" Y2="-139.365631" Z2="0.000000" versionNumber="5" StartChannel="451">
+      <ControllerConnection Protocol="ws2811" brightness="10"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Ground A2" PixelSize="2" parm2="3" WorldPosX="229.7243" WorldPosY="427.6558" WorldPosZ="0.0000" X2="64.947174" Y2="-136.659637" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground A1:1">
+      <ControllerConnection Protocol="ws2811" brightness="10"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Ground A5" PixelSize="2" parm2="3" WorldPosX="198.6000" WorldPosY="439.2633" WorldPosZ="0.0000" X2="61.649078" Y2="-135.183929" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground A4:1">
+      <ControllerConnection Protocol="ws2811" brightness="10"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Ground A6" PixelSize="2" parm2="3" WorldPosX="188.2474" WorldPosY="440.9497" WorldPosZ="0.0000" X2="60.505371" Y2="-130.426025" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground A5:1">
+      <ControllerConnection Protocol="ws2811" brightness="10"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Ground A7" PixelSize="2" parm2="3" WorldPosX="176.2687" WorldPosY="442.6362" WorldPosZ="0.0000" X2="62.613907" Y2="-130.867462" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground A6:1">
+      <ControllerConnection Protocol="ws2811" brightness="10"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="3" parm3="1" LayoutGroup="Default" name="Ground C1" Advanced="1" PixelSize="2" String2="&gt;Ground D1:10" parm1="1" String1="301" WorldPosX="835.3731" WorldPosY="405.2843" WorldPosZ="0.0000" X2="-54.264282" Y2="-180.881119" Z2="0.000000" versionNumber="5" StartChannel="301">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground E1" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="811.5775" WorldPosY="172.0977" WorldPosZ="0.0000" X2="-207.891846" Y2="-5.996902" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground D1:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground F1" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1019.9002" WorldPosY="177.8383" WorldPosZ="0.0000" X2="-206.989868" Y2="-5.740601" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground E1:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="R" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="Ground G1" Advanced="1" parm1="1" parm2="3" PixelSize="2" WorldPosX="1233.9082" WorldPosY="184.7578" WorldPosZ="0.0000" X2="-209.891174" Y2="-7.329544" Z2="0.000000" versionNumber="5" StartChannel="&gt;Ground F1:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridWidth="2000.0" GridHeight="1000.0" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="90.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+  </view_objects>
+  <effects version="0006"/>
+  <views/>
+  <palettes/>
+  <modelGroups>
+    <modelGroup selected="0" name="Zone A" LayoutGroup="Default" GridSize="400" layout="minimalGrid" models="Tree A1,Tree A2,Tree A3,Tree A4,Ground A1,Ground A2,Ground A3,Ground A4,Ground A5,Ground A6,Ground A7,Ground A8">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Zone B" LayoutGroup="Default" models="Tree B1,Tree B2,Tree B3,Tree B4" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Zone C" LayoutGroup="Default" GridSize="400" layout="minimalGrid" models="Tree C1,Tree C2,Tree C3,Tree C4,Ground C1,Ground C2,Ground C3,Ground C4,Ground C5,Ground C6,Ground C8,Ground C7">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Zone D" LayoutGroup="Default" models="Tree D1,Tree D2,Tree D3,D Ground" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Zone E" LayoutGroup="Default" models="Tree E1,Tree E2,Tree E3,Ground E1,Ground E2,Ground E3,Ground E4,Ground E5,Ground E6,Ground E7,Ground E8" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Zone F" LayoutGroup="Default" GridSize="400" layout="minimalGrid" models="Tree F1,Tree F2,Tree F3,Ground F1,Ground F2,Ground F3,Ground F4,Ground F5,Ground F6,Ground F7,Ground F8">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Zone G" LayoutGroup="Default" GridSize="400" layout="minimalGrid" models="Tree G1,Tree G2,Tree G3,Ground G1,Ground G2,Ground G3,Ground G4,Ground G5,Ground G6,Ground G7,Ground G8">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="A Trees" LayoutGroup="Default" models="Tree A1,Tree A2,Tree A3,Tree A4" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="B Trees" LayoutGroup="Default" models="Tree B1,Tree B2,Tree B3,Tree B4" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="C Trees" LayoutGroup="Default" models="Tree C1,Tree C2,Tree C3,Tree C4" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="D Trees" LayoutGroup="Default" models="Tree D1,Tree D2,Tree D3" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="E Trees" LayoutGroup="Default" models="Tree E1,Tree E2,Tree E3" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="F Trees" LayoutGroup="Default" models="Tree F1,Tree F2,Tree F3" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="G Trees" LayoutGroup="Default" models="Tree G1,Tree G2,Tree G3" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="A Ground" LayoutGroup="Default" models="Ground A1,Ground A2,Ground A3,Ground A4,Ground A5,Ground A6,Ground A7,Ground A8" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Default" name="C Ground" models="Ground C1,Ground C2,Ground C3,Ground C4,Ground C5,Ground C6,Ground C7,Ground C8" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="D Ground" LayoutGroup="Default" models="Ground D1,Ground D2,Ground D3,Ground D4 ,Ground D5,Ground D6,Ground D7,Ground D8" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="E Ground" LayoutGroup="Default" models="Ground E1,Ground E2,Ground E3,Ground E4,Ground E5,Ground E6,Ground E7,Ground E8" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="F Ground" LayoutGroup="Default" models="Ground F1,Ground F2,Ground F3,Ground F4,Ground F5,Ground F6,Ground F7,Ground F8" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="G Ground" LayoutGroup="Default" models="Ground G1,Ground G2,Ground G3,Ground G4,Ground G5,Ground G6,Ground G7,Ground G8" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Row 1" LayoutGroup="Default" models="Ground D1,Ground E1,Ground F1,Ground G1" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Row 2" LayoutGroup="Default" models="Ground D2,Ground E2,Ground F2,Ground G2" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Default" name="Row 3" models="Ground D3,Ground E3,Ground F3,Ground G3" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Row 4" LayoutGroup="Default" models="Ground D4 ,Ground E4,Ground F4,Ground G4" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Row 5" LayoutGroup="Default" models="Ground D5,Ground E5,Ground F5,Ground G5" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Row 6" LayoutGroup="Default" models="Ground D6,Ground E6,Ground F6,Ground G6" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Row 7" LayoutGroup="Default" models="Ground D7,Ground E7,Ground F7,Ground G7" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Row 8" LayoutGroup="Default" models="Ground D8,Ground E8,Ground F8,Ground G8" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Rows" LayoutGroup="Default" models="Row 1,Row 2,Row 3,Row 4,Row 5,Row 6,Row 7,Row 8" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="All Ground" LayoutGroup="Default" models="A Ground,C Ground,D Ground,E Ground,F Ground,G Ground" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="Everything" LayoutGroup="Default" GridSize="400" layout="minimalGrid" models="All Ground,All Trees,B Trees">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Default" models="A Trees,B Trees,C Trees,D Trees,E Trees,F Trees,G Trees" GridSize="400" layout="minimalGrid" name="All Trees">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="All Row 1" LayoutGroup="Default" models="Ground A1,Ground C1,Row 1" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="All Row 2" LayoutGroup="Default" models="Ground A2,Ground C2,Row 2" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="All Row 3" LayoutGroup="Default" models="Ground A3,Ground C3,Row 3" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="All Row 4" LayoutGroup="Default" models="Ground A4,Ground C4,Row 4" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="All Row 5" LayoutGroup="Default" models="Ground A5,Ground C5,Row 5" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="All Row 6" LayoutGroup="Default" models="Ground A6,Ground C6,Row 6" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="All Row 7" LayoutGroup="Default" models="Ground A7,Row 7,Ground C7" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+    <modelGroup selected="0" name="All Row 8" LayoutGroup="Default" models="Ground A8,Row 8,Ground C8" GridSize="400" layout="minimalGrid">
+      <ControllerConnection Protocol="ws2811"/>
+    </modelGroup>
+  </modelGroups>
+  <layoutGroups/>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293500;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293500;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099196;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=600;besth=400;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=600;floath=408|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=232;besth=180;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=540;besth=957;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=490;besth=340;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1116;besth=744;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=368;besth=413;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=331;besth=310;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=373;besth=519;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=281;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=76;floaty=76;floatw=422;floath=337|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=127;besth=70;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=350|dock_size(1,0,0)=119|dock_size(5,0,0)=129|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <scaleImage value="0"/>
+    <Display2DBoundingBox value="0"/>
+    <backgroundImage value="G:\lor\CKC map zones posts image.jpg"/>
+    <previewWidth value="1280"/>
+    <previewHeight value="720"/>
+  </settings>
+  <colors>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="0" Blue="0"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="0"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints/>
+</xrgb>
