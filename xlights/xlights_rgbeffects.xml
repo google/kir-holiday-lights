@@ -404,6 +404,10 @@
     </modelGroup>
     <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Default" name="All Models Group" models="Gift Box 1"/>
     <modelGroup selected="0" name="All Gift Boxes" LayoutGroup="Default" models="Gift Box 1,Gift Box 10,Gift Box 11,Gift Box 12,Gift Box 13,Gift Box 14,Gift Box 15,Gift Box 16,Gift Box 2,Gift Box 3,Gift Box 4,Gift Box 5,Gift Box 6,Gift Box 7,Gift Box 8,Gift Box 9" GridSize="400" XCentreOffset="0" YCentreOffset="0" layout="minimalGrid"/>
+    <modelGroup selected="0" name="Gift Box Group 1" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Gift Box 1,Gift Box 5,Gift Box 9,Gift Box 13"/>
+    <modelGroup selected="0" name="Gift Box Group 2" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Gift Box 2,Gift Box 6,Gift Box 10,Gift Box 14"/>
+    <modelGroup selected="0" name="Gift Box Group 3" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Gift Box 3,Gift Box 7,Gift Box 11,Gift Box 15"/>
+    <modelGroup selected="0" name="Gift Box Group 4" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Gift Box 4,Gift Box 8,Gift Box 12,Gift Box 16"/>
   </modelGroups>
   <layoutGroups/>
   <perspectives current="Default Perspective">
