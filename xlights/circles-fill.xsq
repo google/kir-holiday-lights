@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.34</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>600</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Circles_Bounce=1,E_CHECKBOX_Circles_Bubbles=0,E_CHECKBOX_Circles_Collide=0,E_CHECKBOX_Circles_Linear_Fade=0,E_CHECKBOX_Circles_Plasma=0,E_CHECKBOX_Circles_Radial=0,E_CHECKBOX_Circles_Radial_3D=0,E_CHECKBOX_Circles_Random_m=0,E_SLIDER_Circles_Count=10,E_SLIDER_Circles_Size=10,E_SLIDER_Circles_Speed=12</Effect>
+    <Effect></Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="1163157317" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Zone A" visible="0"/>
+    <Element collapsed="0" type="model" name="Zone B" visible="0"/>
+    <Element collapsed="0" type="model" name="Zone C" visible="0"/>
+    <Element collapsed="0" type="model" name="Zone D" visible="0"/>
+    <Element collapsed="0" type="model" name="Zone E" visible="0"/>
+    <Element collapsed="0" type="model" name="Zone F" visible="0"/>
+    <Element collapsed="0" type="model" name="Zone G" visible="0"/>
+    <Element collapsed="0" type="model" name="A Trees" visible="0"/>
+    <Element collapsed="0" type="model" name="B Trees" visible="0"/>
+    <Element collapsed="0" type="model" name="C Trees" visible="0"/>
+    <Element collapsed="0" type="model" name="D Trees" visible="0"/>
+    <Element collapsed="0" type="model" name="E Trees" visible="0"/>
+    <Element collapsed="0" type="model" name="F Trees" visible="0"/>
+    <Element collapsed="0" type="model" name="G Trees" visible="0"/>
+    <Element collapsed="0" type="model" name="A Ground" visible="0"/>
+    <Element collapsed="0" type="model" name="C Ground" visible="0"/>
+    <Element collapsed="0" type="model" name="D Ground" visible="0"/>
+    <Element collapsed="0" type="model" name="E Ground" visible="0"/>
+    <Element collapsed="0" type="model" name="F Ground" visible="0"/>
+    <Element collapsed="0" type="model" name="G Ground" visible="0"/>
+    <Element collapsed="0" type="model" name="Row 1" visible="0"/>
+    <Element collapsed="0" type="model" name="Row 2" visible="0"/>
+    <Element collapsed="0" type="model" name="Row 3" visible="0"/>
+    <Element collapsed="0" type="model" name="Row 4" visible="0"/>
+    <Element collapsed="0" type="model" name="Row 5" visible="0"/>
+    <Element collapsed="0" type="model" name="Row 6" visible="0"/>
+    <Element collapsed="0" type="model" name="Row 7" visible="0"/>
+    <Element collapsed="0" type="model" name="Row 8" visible="0"/>
+    <Element collapsed="0" type="model" name="Rows" visible="1"/>
+    <Element collapsed="0" type="model" name="All Ground" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="All Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="All Row 1" visible="0"/>
+    <Element collapsed="0" type="model" name="All Row 2" visible="0"/>
+    <Element collapsed="0" type="model" name="All Row 3" visible="0"/>
+    <Element collapsed="0" type="model" name="All Row 4" visible="0"/>
+    <Element collapsed="0" type="model" name="All Row 5" visible="0"/>
+    <Element collapsed="0" type="model" name="All Row 6" visible="0"/>
+    <Element collapsed="0" type="model" name="All Row 7" visible="0"/>
+    <Element collapsed="0" type="model" name="All Row 8" visible="0"/>
+    <Element collapsed="0" type="model" name="All Models Group" visible="1"/>
+    <Element collapsed="0" type="model" name="All Gift Boxes" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box Group 1" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box Group 2" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box Group 3" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box Group 4" visible="0"/>
+    <Element collapsed="0" type="model" name="Spot 1" visible="0"/>
+    <Element collapsed="0" type="model" name="Spot 6" visible="0"/>
+    <Element collapsed="0" type="model" name="Spot 5" visible="0"/>
+    <Element collapsed="0" type="model" name="Spot 4" visible="0"/>
+    <Element collapsed="0" type="model" name="Spot 3" visible="0"/>
+    <Element collapsed="0" type="model" name="Spot 2" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 15" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 14" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 13" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 12" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 16" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 11" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 10" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 9" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 8" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 7" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 6" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 5" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 4" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 3" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 2" visible="0"/>
+    <Element collapsed="0" type="model" name="Gift Box 1" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground A1" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground A2" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground A4" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground A5" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground A6" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground A7" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground A8" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground A3" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground E5" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground D8" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground D7" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground D6" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground D5" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground D4" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground D3" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground D2" visible="0"/>
+    <Element collapsed="0" type="model" name="Big Tree" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground G8" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground G7" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground G6" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground G5" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground G4" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground G3" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground G2" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground F7" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground F8" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground F6" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground F5" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground F4" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground F3" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground F2" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground E8" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground E7" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground E6" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground D1" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground E4" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground E3" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground E2" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground C7" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground C8" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground C6" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground C5" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground C4" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground C3" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground C2" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree D1" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree C4" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree C3" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree C2" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree C1" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree B1" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree B2" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree B3" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree B4" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree A4" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree A3" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree A2" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree A1" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree G3" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree G2" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree G1" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree F3" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree F2" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree F1" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree E3" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree E2" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree E1" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree D3" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree D2" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground C1" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground E1" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground F1" visible="0"/>
+    <Element collapsed="0" type="model" name="Ground G1" visible="0"/>
+    <Element collapsed="0" type="model" name="Snow Machine" visible="0"/>
+    <Element collapsed="0" type="model" name="Music" visible="0"/>
+    <Element collapsed="0" type="model" name="All Spots" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Zone A">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Zone B">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Zone C">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Zone D">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Zone E">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Zone F">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Zone G">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="A Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="B Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="C Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="D Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="E Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="F Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="G Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="A Ground">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="C Ground">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="D Ground">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="E Ground">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="F Ground">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="G Ground">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Row 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Row 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Row 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Row 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Row 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Row 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Row 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Row 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Ground">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer>
+        <Effect ref="0" name="Circles" selected="1" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Row 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Row 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Row 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Row 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Row 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Row 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Row 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Row 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Models Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Gift Boxes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box Group 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box Group 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box Group 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box Group 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spot 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spot 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spot 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spot 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spot 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spot 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 15">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 14">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 13">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 12">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gift Box 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground A1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground A2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground A4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground A5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground A6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground A7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground A8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground A3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground E5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground D8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground D7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground D6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground D5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground D4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground D3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground D2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Big Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground G8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground G7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground G6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground G5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground G4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground G3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground G2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground F7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground F8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground F6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground F5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground F4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground F3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground F2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground E8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground E7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground E6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground D1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground E4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground E3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground E2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground C7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground C8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground C6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground C5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground C4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground C3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground C2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree D1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree C4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree C3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree C2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree C1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree B1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree B2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree B3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree B4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree A4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree A3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree A2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree A1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree G3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree G2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree G1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree F3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree F2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree F1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree E3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree E2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree E1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree D3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree D2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground C1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground E1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground F1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ground G1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snow Machine">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Music">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Spots">
+      <EffectLayer>
+        <Effect ref="1" name="Color Wash" startTime="0" endTime="600000" palette="1"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
