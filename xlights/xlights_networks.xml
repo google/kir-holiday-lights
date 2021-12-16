@@ -142,4 +142,10 @@
   <testpreset name="StringTest">
     <channelr start="1200" end="1249"/>
   </testpreset>
+  <testpreset name="LOR AND RGB DUMB">
+    <channelr start="1" end="528"/>
+  </testpreset>
+  <testpreset name="fdg">
+    <channelr start="1" end="20784"/>
+  </testpreset>
 </Networks>
