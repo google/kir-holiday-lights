@@ -1,130 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Networks computer="DEVBOX" GlobalFPPProxy="">
-  <Controller Id="120" Name="Tree G-2 G-3" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.42" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.42" BaudRate="120" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.42" BaudRate="121" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.42" BaudRate="122" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.42" BaudRate="123" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.42" BaudRate="124" NetworkType="E131" MaxChannels="510"/>
+<Networks computer="FROSTY" GlobalFPPProxy="" GlobalForceLocalIP="" AutoUpdateFromBase="0" BaseShowDir="">
+  <suppressframes frames="10"/>
+  <Controller Id="1" Name="Fence-40" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="1" SuppressDuplicates="0" Monitor="1" IP="192.168.1.40" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.40" BaudRate="1" NetworkType="DDP" MaxChannels="1800"/>
   </Controller>
-  <Controller Id="110" Name="Tree G-1 F-3 F-2" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.41" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.41" BaudRate="110" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.41" BaudRate="111" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.41" BaudRate="112" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.41" BaudRate="113" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.41" BaudRate="114" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="3" Name="Fence 41" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.41" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.41" BaudRate="3" NetworkType="DDP" MaxChannels="2400"/>
   </Controller>
-  <Controller Id="140" Name="Tree F-1 E3" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.44" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.44" BaudRate="140" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.44" BaudRate="141" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.44" BaudRate="142" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.44" BaudRate="143" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.44" BaudRate="144" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="5" Name="Fence 43" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.43" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.43" BaudRate="5" NetworkType="DDP" MaxChannels="1800"/>
   </Controller>
-  <Controller Id="130" Name="Tree E-1 E-2" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.43" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.43" BaudRate="130" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.43" BaudRate="131" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.43" BaudRate="132" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.43" BaudRate="133" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.43" BaudRate="134" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="4" Name="Fence 42" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.42" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.42" BaudRate="4" NetworkType="DDP" MaxChannels="2400"/>
   </Controller>
-  <Controller Id="80" Name="Tree D-1 D-2 D-3" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.38" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.38" BaudRate="80" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.38" BaudRate="81" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.38" BaudRate="82" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.38" BaudRate="83" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.38" BaudRate="84" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="6" Name="Fence 44" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.44" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.44" BaudRate="6" NetworkType="DDP" MaxChannels="1800"/>
   </Controller>
-  <Controller Id="150" Name="Ground C" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.45" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.45" BaudRate="150" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.45" BaudRate="151" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.45" BaudRate="152" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.45" BaudRate="153" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.45" BaudRate="154" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="7" Name="Fence 45" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.45" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.45" BaudRate="7" NetworkType="DDP" MaxChannels="2400"/>
   </Controller>
-  <Controller Id="70" Name="Ground A" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.37" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.37" BaudRate="70" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.37" BaudRate="71" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.37" BaudRate="72" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.37" BaudRate="73" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.37" BaudRate="74" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="8" Name="Fence 46" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.46" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.46" BaudRate="8" NetworkType="DDP" MaxChannels="2400"/>
   </Controller>
-  <Controller Id="20" Name="Ground G 1/2" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.32" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.32" BaudRate="20" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.32" BaudRate="21" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.32" BaudRate="22" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.32" BaudRate="23" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.32" BaudRate="24" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="9" Name="Mid Trellis" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.150" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.150" BaudRate="9" NetworkType="DDP" MaxChannels="2400"/>
   </Controller>
-  <Controller Id="30" Name="Ground G3 F1/2" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.33" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.33" BaudRate="30" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.33" BaudRate="31" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.33" BaudRate="32" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.33" BaudRate="33" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.33" BaudRate="34" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="10" Name="Fence 47" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.47" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.47" BaudRate="10" NetworkType="DDP" MaxChannels="2400"/>
   </Controller>
-  <Controller Id="40" Name="Ground F3 E1" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.34" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.34" BaudRate="40" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.34" BaudRate="41" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.34" BaudRate="42" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.34" BaudRate="43" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.34" BaudRate="44" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="11" Name="Fence 48" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.48" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.48" BaudRate="11" NetworkType="DDP" MaxChannels="1800"/>
   </Controller>
-  <Controller Id="50" Name="Ground E2/3 D1" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.35" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.35" BaudRate="50" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.35" BaudRate="51" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.35" BaudRate="52" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.35" BaudRate="53" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.35" BaudRate="54" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="12" Name="South Trellis - 51 north" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="10" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.151" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.151" BaudRate="12" NetworkType="DDP" MaxChannels="2400"/>
   </Controller>
-  <Controller Id="60" Name="Ground D2/3" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.36" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.36" BaudRate="60" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.36" BaudRate="61" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.36" BaudRate="62" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.36" BaudRate="63" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.36" BaudRate="64" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="16" Name="South Trellis - 52 mid" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="10" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.152" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.152" BaudRate="16" NetworkType="DDP" MaxChannels="2400"/>
   </Controller>
-  <Controller Id="100" Name="Tree C1 C2" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.40" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.40" BaudRate="100" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.40" BaudRate="101" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.40" BaudRate="102" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.40" BaudRate="103" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.40" BaudRate="104" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="17" Name="South Trellis - 53 south" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="10" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="0" IP="" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" BaudRate="17" NetworkType="DDP" MaxChannels="2400"/>
   </Controller>
-  <Controller Id="90" Name="Tree C3 C4" Description="" Type="Ethernet" Vendor="SanDevices" Model="E682" Variant="4.x Firmware" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.39" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.39" BaudRate="90" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.39" BaudRate="91" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.39" BaudRate="92" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.39" BaudRate="93" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.1.39" BaudRate="94" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="13" Name="Tunnel North" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.32" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.32" BaudRate="13" NetworkType="DDP" MaxChannels="4800"/>
   </Controller>
-  <Controller Id="1" Name="Snow  Machines" Description="" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.0.1" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.0.1" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="14" Name="Tunnel South" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.33" Protocol="DDP" FPPProxy="" Priority="80" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.33" BaudRate="14" NetworkType="DDP" MaxChannels="4800"/>
   </Controller>
-  <Controller Id="1" Name="Big Tree" Description="" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.0.0" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.0.0" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="3" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="4" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="5" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="6" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="7" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="8" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="9" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="10" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="11" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="12" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="13" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="14" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="15" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="16" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="17" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="18" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="19" NetworkType="E131" MaxChannels="510"/>
-    <network ComPort="192.168.0.0" BaudRate="20" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="2" Name="Floods" Description="Flood lights against Bldg B pixel 1 is on the south end" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.61" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ComPort="192.168.1.61" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
   </Controller>
-  <Controller Id="1" Name="Generic" Description="" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="0" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.201" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
-    <network ComPort="192.168.1.201" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+  <Controller Id="18" Name="GiftBox1" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.70" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.70" BaudRate="18" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="19" Name="GiftBox2" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.71" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.71" BaudRate="19" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="15" Name="GiftBox3" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.72" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.72" BaudRate="15" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="20" Name="GiftBox4" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.73" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.73" BaudRate="20" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="21" Name="GiftBox5" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.74" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.74" BaudRate="21" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="22" Name="GiftBox6" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.75" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.75" BaudRate="22" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="23" Name="GiftBox7" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.76" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.76" BaudRate="23" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="24" Name="GiftBox8" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.77" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.77" BaudRate="24" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="25" Name="GiftBox9" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.78" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.78" BaudRate="25" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="26" Name="GiftBox10" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.79" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.79" BaudRate="26" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="27" Name="GiftBox11" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.80" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.80" BaudRate="27" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="28" Name="GiftBox12" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.81" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.81" BaudRate="28" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="29" Name="GiftBox13" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.82" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.82" BaudRate="29" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="30" Name="GiftBox14" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.83" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.83" BaudRate="30" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="31" Name="GiftBox15" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.84" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.84" BaudRate="31" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="32" Name="GiftBox16" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.85" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.85" BaudRate="32" NetworkType="DDP" MaxChannels="960"/>
+  </Controller>
+  <Controller Id="33" Name="GigaTree" Description="GigaTree" Type="Ethernet" Vendor="KulpLights" Model="K64D-B" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="75" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.155" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.155" BaudRate="33" NetworkType="DDP" MaxChannels="10950"/>
+  </Controller>
+  <Controller Id="-1" Name="Pixicles" Description="" Type="Ethernet" Vendor="Falcon" Model="F4V3" Variant="No Expansion Board" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="30" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.154" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ComPort="192.168.1.154" BaudRate="34" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.154" BaudRate="35" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="36" Name="North Trees A" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.62" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.62" BaudRate="36" NetworkType="DDP" MaxChannels="2400"/>
+  </Controller>
+  <Controller Id="37" Name="North Trees B" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.63" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.63" BaudRate="37" NetworkType="DDP" MaxChannels="2400"/>
+  </Controller>
+  <Controller Id="38" Name="North Trees C" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16A-B" Variant="No Expansion" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.64" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.64" BaudRate="38" NetworkType="DDP" MaxChannels="2400"/>
   </Controller>
   <testpreset name="everything">
     <channelr start="1" end="48120"/>
@@ -147,5 +134,172 @@
   </testpreset>
   <testpreset name="fdg">
     <channelr start="1" end="20784"/>
+  </testpreset>
+  <testpreset name="Column-left">
+    <channelr start="8394" end="8896"/>
+  </testpreset>
+  <testpreset name="Column-right">
+    <channelr start="8394" end="8896"/>
+    <channelr start="10730" end="11224"/>
+  </testpreset>
+  <testpreset name="Bethlehem star">
+    <channelr start="10367" end="10720"/>
+  </testpreset>
+  <testpreset name="LEFT WINDOW Matrix full on test 1">
+    <channelr start="5029" end="6864"/>
+  </testpreset>
+  <testpreset name="LEFT WINDOWN (6) STRING TWIN 50">
+    <channelr start="5029" end="7068"/>
+  </testpreset>
+  <testpreset name="LEFT WINDOW MATRIX FULL WHITE (6) TEST">
+    <channelr start="5029" end="7068"/>
+  </testpreset>
+  <testpreset name="WHITE TEST ON CENTER WINDOW MATRIX">
+    <channelr start="4429" end="9108"/>
+  </testpreset>
+  <testpreset name="All Channels On!!!! July 2016">
+    <channelr start="1" end="14208"/>
+  </testpreset>
+  <testpreset name="2 pink">
+    <channelr start="1" end="14208"/>
+  </testpreset>
+  <testpreset name="CENTER/LEFT WINDOW MATRIX EVEN TEST">
+    <channelr start="4081" end="4590"/>
+    <channelr start="5101" end="5610"/>
+    <channelr start="6121" end="6630"/>
+    <channelr start="7141" end="7650"/>
+    <channelr start="8161" end="8670"/>
+    <channelr start="9181" end="9690"/>
+    <channelr start="12241" end="12750"/>
+    <channelr start="13261" end="13770"/>
+  </testpreset>
+  <testpreset name="CENTER/LEFT WINDOW MATRIX ODD TEST">
+    <channelr start="3571" end="4080"/>
+    <channelr start="4591" end="5100"/>
+    <channelr start="5611" end="6120"/>
+    <channelr start="6631" end="7140"/>
+    <channelr start="7651" end="8160"/>
+    <channelr start="8671" end="9180"/>
+    <channelr start="11731" end="12240"/>
+    <channelr start="12751" end="13260"/>
+  </testpreset>
+  <testpreset name="L-Ring all">
+    <channelr start="31663" end="31677"/>
+  </testpreset>
+  <testpreset name="props">
+    <channelr start="349" end="510"/>
+    <channelr start="6001" end="6576"/>
+    <channelr start="11731" end="12030"/>
+    <channelr start="12243" end="12542"/>
+  </testpreset>
+  <testpreset name="Test RGB Columns-Arches">
+    <channelr start="49" end="1038"/>
+  </testpreset>
+  <testpreset name="Christmas2015"/>
+  <testpreset name="2015 house"/>
+  <testpreset name="Tree 1">
+    <channelr start="0" end="5399"/>
+  </testpreset>
+  <testpreset name="lor tree">
+    <channelr start="10800" end="14399"/>
+  </testpreset>
+  <testpreset name="tutorial">
+    <channelr start="1" end="1530"/>
+  </testpreset>
+  <testpreset name="5444">
+    <channelr start="5129" end="5132"/>
+    <channel id="5134"/>
+    <channelr start="5136" end="5140"/>
+    <channelr start="5142" end="5143"/>
+    <channelr start="5145" end="5151"/>
+    <channelr start="5153" end="5158"/>
+    <channelr start="5160" end="5164"/>
+    <channelr start="5166" end="5173"/>
+    <channelr start="5175" end="5186"/>
+    <channelr start="5188" end="5240"/>
+    <channelr start="5242" end="5258"/>
+    <channelr start="5260" end="5285"/>
+    <channelr start="5287" end="5297"/>
+    <channelr start="5299" end="5321"/>
+    <channelr start="5323" end="5330"/>
+    <channelr start="5332" end="5342"/>
+    <channelr start="5344" end="5353"/>
+    <channelr start="5356" end="5372"/>
+    <channelr start="5376" end="5378"/>
+    <channelr start="5382" end="5390"/>
+    <channel id="5394"/>
+    <channelr start="5397" end="5429"/>
+    <channel id="5432"/>
+    <channelr start="5435" end="5622"/>
+  </testpreset>
+  <testpreset name="mytest">
+    <channelr start="1023" end="3572"/>
+    <channelr start="4093" end="8176"/>
+  </testpreset>
+  <testpreset name="pixeltest">
+    <channel id="2021"/>
+    <channel id="2246"/>
+    <channel id="2468"/>
+    <channelr start="2471" end="2472"/>
+  </testpreset>
+  <testpreset name="multi-test">
+    <channelr start="1" end="510"/>
+    <channelr start="3061" end="5610"/>
+    <channelr start="6121" end="7650"/>
+    <channelr start="9181" end="9690"/>
+    <channelr start="12241" end="12750"/>
+  </testpreset>
+  <testpreset name="x">
+    <channelr start="1" end="1020"/>
+  </testpreset>
+  <testpreset name="elimination">
+    <channelr start="1" end="2550"/>
+    <channelr start="4591" end="9180"/>
+  </testpreset>
+  <testpreset name="mega tree">
+    <channelr start="1" end="510"/>
+  </testpreset>
+  <testpreset name="Test Tree1">
+    <channelr start="2550" end="2849"/>
+  </testpreset>
+  <testpreset name="Testall">
+    <channelr start="0" end="14279"/>
+  </testpreset>
+  <testpreset name="TestTree1">
+    <channelr start="2838" end="3737"/>
+  </testpreset>
+  <testpreset name="Tree1&amp;amp;2">
+    <channelr start="2838" end="3737"/>
+    <channelr start="3750" end="4937"/>
+  </testpreset>
+  <testpreset name="SingTree123">
+    <channelr start="2838" end="3737"/>
+    <channelr start="3750" end="4937"/>
+    <channelr start="4950" end="6137"/>
+  </testpreset>
+  <testpreset name="SingTree1Test">
+    <channelr start="2550" end="3737"/>
+  </testpreset>
+  <testpreset name="Tree8Test">
+    <channelr start="10950" end="12137"/>
+  </testpreset>
+  <testpreset name="Tree7">
+    <channelr start="9750" end="10937"/>
+  </testpreset>
+  <testpreset name="Tree6">
+    <channelr start="8550" end="9737"/>
+  </testpreset>
+  <testpreset name="Tree5">
+    <channelr start="7350" end="8537"/>
+  </testpreset>
+  <testpreset name="Tree4">
+    <channelr start="6150" end="7337"/>
+  </testpreset>
+  <testpreset name="Tree9">
+    <channelr start="12150" end="13337"/>
+  </testpreset>
+  <testpreset name="test97113">
+    <channelr start="48739" end="48741"/>
+    <channelr start="48787" end="48789"/>
   </testpreset>
 </Networks>

@@ -5,3 +5,5 @@
 *.xbkp
 xlights/xlights_keybindings.xml
 xlights/Backup/
+xlights/*.fseq
+Media/*
