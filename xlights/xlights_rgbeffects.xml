@@ -71,100 +71,100 @@
       <ControllerConnection Protocol="ws2811" Port="33"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-16" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="186.9222" WorldPosY="457.7630" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:2251">
-      <ControllerConnection Port="16" Protocol="ws2811"/>
+      <ControllerConnection Port="16" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-15" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="185.2812" WorldPosY="458.2915" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:2101">
-      <ControllerConnection Protocol="ws2811" Port="15"/>
+      <ControllerConnection Protocol="ws2811" Port="15" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-14" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="183.6403" WorldPosY="458.7628" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:1951">
-      <ControllerConnection Port="14" Protocol="ws2811"/>
+      <ControllerConnection Port="14" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-13" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="181.9993" WorldPosY="459.1469" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:1801">
-      <ControllerConnection Port="13" Protocol="ws2811"/>
+      <ControllerConnection Port="13" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-12" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="180.3584" WorldPosY="459.7003" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:1651">
-      <ControllerConnection Port="12" Protocol="ws2811"/>
+      <ControllerConnection Port="12" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-11" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="178.7174" WorldPosY="460.2256" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:1501">
-      <ControllerConnection Port="11" Protocol="ws2811"/>
+      <ControllerConnection Port="11" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-10" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="177.0764" WorldPosY="460.7190" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:1351">
-      <ControllerConnection Port="10" Protocol="ws2811"/>
+      <ControllerConnection Port="10" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-9" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="175.4355" WorldPosY="461.2828" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:1201">
-      <ControllerConnection Port="9" Protocol="ws2811"/>
+      <ControllerConnection Port="9" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-8" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="173.7945" WorldPosY="462.0128" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:1051">
-      <ControllerConnection Port="8" Protocol="ws2811"/>
+      <ControllerConnection Port="8" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-7" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="172.1535" WorldPosY="462.4676" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:901">
-      <ControllerConnection Port="7" Protocol="ws2811"/>
+      <ControllerConnection Port="7" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-6" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="170.5126" WorldPosY="463.1679" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:751">
-      <ControllerConnection Port="6" Protocol="ws2811"/>
+      <ControllerConnection Port="6" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-5" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="168.8716" WorldPosY="463.5438" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:601">
-      <ControllerConnection Port="5" Protocol="ws2811"/>
+      <ControllerConnection Port="5" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-4" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="167.2307" WorldPosY="463.9827" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:451">
-      <ControllerConnection Port="4" Protocol="ws2811"/>
+      <ControllerConnection Port="4" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-3" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="165.5897" WorldPosY="464.6284" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:301">
-      <ControllerConnection Port="3" Protocol="ws2811"/>
+      <ControllerConnection Port="3" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-2" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="163.9487" WorldPosY="465.2437" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:151">
-      <ControllerConnection Port="2" Protocol="ws2811"/>
+      <ControllerConnection Port="2" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3-1" Controller="South Trellis - 53 south" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="162.3078" WorldPosY="465.8882" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 53 south:1">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-16" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="213.1776" WorldPosY="449.9665" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:2251">
-      <ControllerConnection Port="16" Protocol="ws2811"/>
+      <ControllerConnection Port="16" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-15" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="211.5366" WorldPosY="450.6775" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:2101">
-      <ControllerConnection Port="15" Protocol="ws2811"/>
+      <ControllerConnection Port="15" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-14" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="209.8956" WorldPosY="451.0726" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:1951">
-      <ControllerConnection Port="14" Protocol="ws2811"/>
+      <ControllerConnection Port="14" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-13" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="208.2547" WorldPosY="451.3887" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:1801">
-      <ControllerConnection Port="13" Protocol="ws2811"/>
+      <ControllerConnection Port="13" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-12" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="206.6137" WorldPosY="451.7837" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:1651">
-      <ControllerConnection Port="12" Protocol="ws2811"/>
+      <ControllerConnection Port="12" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-11" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="204.9728" WorldPosY="452.0206" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:1501">
-      <ControllerConnection Port="11" Protocol="ws2811"/>
+      <ControllerConnection Port="11" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-10" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="203.3318" WorldPosY="452.6526" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:1351">
-      <ControllerConnection Port="10" Protocol="ws2811"/>
+      <ControllerConnection Port="10" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-9" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="201.6908" WorldPosY="453.2845" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:1201">
-      <ControllerConnection Port="9" Protocol="ws2811"/>
+      <ControllerConnection Port="9" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-8" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="200.0499" WorldPosY="453.5215" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:1051">
-      <ControllerConnection Port="8" Protocol="ws2811"/>
+      <ControllerConnection Port="8" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-7" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="198.4089" WorldPosY="454.0748" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:901">
-      <ControllerConnection Port="7" Protocol="ws2811"/>
+      <ControllerConnection Port="7" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-6" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="196.7680" WorldPosY="454.4696" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:751">
-      <ControllerConnection Port="6" Protocol="ws2811"/>
+      <ControllerConnection Port="6" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-5" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="195.1270" WorldPosY="455.3388" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:601">
-      <ControllerConnection Port="5" Protocol="ws2811"/>
+      <ControllerConnection Port="5" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-4" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="193.4860" WorldPosY="455.7338" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:451">
-      <ControllerConnection Port="4" Protocol="ws2811"/>
+      <ControllerConnection Port="4" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-3" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="191.8451" WorldPosY="456.2868" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:301">
-      <ControllerConnection Port="3" Protocol="ws2811"/>
+      <ControllerConnection Port="3" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-2" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="190.2041" WorldPosY="456.7612" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:151">
-      <ControllerConnection Port="2" Protocol="ws2811"/>
+      <ControllerConnection Port="2" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2-1" Controller="South Trellis - 52 mid" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="188.5632" WorldPosY="457.2944" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 52 mid:1">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="J2-1" Controller="Fence 48" parm2="100" ShadowModelFor="GigaTree" WorldPosX="121.6548" WorldPosY="523.7836" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="4" PointData="0.000000,0.000000,0.000000,43.400581,-35.397736,0.000000,144.514801,-64.639282,0.000000,150.517029,-36.782867,0.000000" cPointData="" Locked="1" versionNumber="7" StartChannel="!Fence 48:601">
       <ControllerConnection Protocol="ws2811" Port="9"/>
@@ -344,97 +344,97 @@
       <ControllerConnection Port="2" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H16" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="588.5206" WorldPosY="379.9407" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:2251">
-      <ControllerConnection Port="16" Protocol="ws2811"/>
+      <ControllerConnection Port="16" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K1" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="214.8185" WorldPosY="449.6051" WorldPosZ="0.0000" X2="19.423737" Y2="75.915741" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:1">
-      <ControllerConnection Protocol="ws2811" Port="1"/>
+      <ControllerConnection Protocol="ws2811" Port="1" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K16" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="239.6333" WorldPosY="443.6499" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:2251">
-      <ControllerConnection Port="16" Protocol="ws2811"/>
+      <ControllerConnection Port="16" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K15" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="237.9924" WorldPosY="443.9505" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:2101">
-      <ControllerConnection Port="15" Protocol="ws2811"/>
+      <ControllerConnection Port="15" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K14" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="236.3514" WorldPosY="444.2742" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:1951">
-      <ControllerConnection Port="14" Protocol="ws2811"/>
+      <ControllerConnection Port="14" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K13" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="234.7105" WorldPosY="444.5717" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:1801">
-      <ControllerConnection Port="13" Protocol="ws2811"/>
+      <ControllerConnection Port="13" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K12" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="233.0695" WorldPosY="444.9493" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:1651">
-      <ControllerConnection Port="12" Protocol="ws2811"/>
+      <ControllerConnection Port="12" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K11" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="231.4286" WorldPosY="445.8406" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:1501">
-      <ControllerConnection Port="11" Protocol="ws2811"/>
+      <ControllerConnection Port="11" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K10" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="229.7876" WorldPosY="446.1302" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:1351">
-      <ControllerConnection Port="10" Protocol="ws2811"/>
+      <ControllerConnection Port="10" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K9" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="228.1466" WorldPosY="446.3587" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:1201">
-      <ControllerConnection Port="9" Protocol="ws2811"/>
+      <ControllerConnection Port="9" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K8" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="226.5057" WorldPosY="446.8164" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:1051">
-      <ControllerConnection Port="8" Protocol="ws2811"/>
+      <ControllerConnection Port="8" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K7" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="224.8647" WorldPosY="447.1795" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:901">
-      <ControllerConnection Port="7" Protocol="ws2811"/>
+      <ControllerConnection Port="7" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K6" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="223.2238" WorldPosY="447.5389" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:751">
-      <ControllerConnection Port="6" Protocol="ws2811"/>
+      <ControllerConnection Port="6" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K5" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="221.5828" WorldPosY="447.9977" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:601">
-      <ControllerConnection Port="5" Protocol="ws2811"/>
+      <ControllerConnection Port="5" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K4" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="219.9418" WorldPosY="448.4139" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:451">
-      <ControllerConnection Port="4" Protocol="ws2811"/>
+      <ControllerConnection Port="4" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K3" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="218.3009" WorldPosY="448.6678" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:301">
-      <ControllerConnection Port="3" Protocol="ws2811"/>
+      <ControllerConnection Port="3" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="K2" Controller="South Trellis - 51 north" PixelSize="2" ShadowModelFor="GigaTree" WorldPosX="216.6599" WorldPosY="449.0087" WorldPosZ="0.0000" X2="19.022888" Y2="76.091522" Z2="0.000000" versionNumber="7" StartChannel="!South Trellis - 51 north:151">
-      <ControllerConnection Port="2" Protocol="ws2811"/>
+      <ControllerConnection Port="2" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H15" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="584.7182" WorldPosY="380.5871" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:2101">
-      <ControllerConnection Port="15" Protocol="ws2811"/>
+      <ControllerConnection Port="15" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H14" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="580.7964" WorldPosY="381.4715" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:1951">
-      <ControllerConnection Port="14" Protocol="ws2811"/>
+      <ControllerConnection Port="14" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H13" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="576.1533" WorldPosY="382.1465" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:1801">
-      <ControllerConnection Port="13" Protocol="ws2811"/>
+      <ControllerConnection Port="13" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H12" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="572.1500" WorldPosY="382.6954" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:1651">
-      <ControllerConnection Port="12" Protocol="ws2811"/>
+      <ControllerConnection Port="12" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H11" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="568.0449" WorldPosY="383.8013" WorldPosZ="0.0000" X2="12.729065" Y2="84.729248" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:1501">
-      <ControllerConnection Port="11" Protocol="ws2811"/>
+      <ControllerConnection Port="11" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H10" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="563.9498" WorldPosY="384.7681" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:1351">
-      <ControllerConnection Port="10" Protocol="ws2811"/>
+      <ControllerConnection Port="10" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H9" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="559.6417" WorldPosY="385.4088" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:1201">
-      <ControllerConnection Port="9" Protocol="ws2811"/>
+      <ControllerConnection Port="9" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H8" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="556.0095" WorldPosY="386.2697" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:1051">
-      <ControllerConnection Port="8" Protocol="ws2811"/>
+      <ControllerConnection Port="8" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H7" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="551.8644" WorldPosY="387.4454" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:901">
-      <ControllerConnection Port="7" Protocol="ws2811"/>
+      <ControllerConnection Port="7" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H6" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="547.1653" WorldPosY="388.3143" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:751">
-      <ControllerConnection Port="6" Protocol="ws2811"/>
+      <ControllerConnection Port="6" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H5" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="542.7191" WorldPosY="389.2819" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:601">
-      <ControllerConnection Port="5" Protocol="ws2811"/>
+      <ControllerConnection Port="5" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H4" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="539.2285" WorldPosY="390.2915" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:451">
-      <ControllerConnection Port="4" Protocol="ws2811"/>
+      <ControllerConnection Port="4" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H3" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="535.1628" WorldPosY="391.1667" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:301">
-      <ControllerConnection Port="3" Protocol="ws2811"/>
+      <ControllerConnection Port="3" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H2" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="531.1399" WorldPosY="391.8449" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:151">
-      <ControllerConnection Port="2" Protocol="ws2811"/>
+      <ControllerConnection Port="2" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="G2-4" PolyStrings="1" parm2="100" Controller="Fence 46" ShadowModelFor="GigaTree" WorldPosX="685.5164" WorldPosY="325.5240" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="3" PointData="0.000000,0.000000,0.000000,116.111206,-36.453552,0.000000,130.625122,9.957184,0.000000" cPointData="" Locked="1" versionNumber="7" StartChannel="!Fence 46:2101">
       <ControllerConnection Protocol="ws2811" Port="16"/>
@@ -482,13 +482,13 @@
       <ControllerConnection Protocol="ws2811" Port="10"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="E-Trellis-4" Controller="Fence 44" ShadowModelFor="GigaTree" WorldPosX="1148.7526" WorldPosY="317.6527" WorldPosZ="0.0000" X2="-7.621460" Y2="55.846588" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Fence 44:451">
-      <ControllerConnection Port="4" Protocol="ws2811"/>
+      <ControllerConnection Port="4" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="E-Trellis-3" Controller="Fence 44" ShadowModelFor="GigaTree" WorldPosX="1151.4454" WorldPosY="317.5215" WorldPosZ="0.0000" X2="-7.621460" Y2="55.846588" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Fence 44:301">
-      <ControllerConnection Port="3" Protocol="ws2811"/>
+      <ControllerConnection Port="3" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="E-Trellis-2" Controller="Fence 44" ShadowModelFor="GigaTree" WorldPosX="1153.3505" WorldPosY="317.5212" WorldPosZ="0.0000" X2="-7.621460" Y2="55.846588" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Fence 44:151">
-      <ControllerConnection Port="2" Protocol="ws2811"/>
+      <ControllerConnection Port="2" Protocol="ws2811" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="D2-4" Controller="Fence 43" ShadowModelFor="GigaTree" WorldPosX="1083.1177" WorldPosY="405.3088" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="3" PointData="0.000000,0.000000,0.000000,70.546631,-20.888458,0.000000,73.247192,-43.595673,0.000000" cPointData="" Locked="1" versionNumber="7" StartChannel="!Fence 43:1051">
       <ControllerConnection Port="8" Protocol="ws2811"/>
@@ -635,7 +635,7 @@
       <ControllerConnection Protocol="ws2811" Port="5"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="E-Trellis-1" Controller="Fence 44" ShadowModelFor="GigaTree" WorldPosX="1154.8193" WorldPosY="319.5633" WorldPosZ="0.0000" X2="-7.621460" Y2="55.846588" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Fence 44:1">
-      <ControllerConnection Protocol="ws2811" Port="1"/>
+      <ControllerConnection Protocol="ws2811" Port="1" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="E2-1" PolyStrings="1" Controller="Fence 44" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1162.2435" WorldPosY="316.6724" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="3" PointData="0.000000,0.000000,0.000000,11.497803,-72.403458,0.000000,-20.039062,-77.856720,0.000000" cPointData="" Locked="1" versionNumber="7" StartChannel="!Fence 44:601">
       <ControllerConnection Protocol="ws2811" Port="9"/>
@@ -653,7 +653,7 @@
       <ControllerConnection Protocol="ws2811" Port="13"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H1" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="528.1215" WorldPosY="392.7291" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:1">
-      <ControllerConnection Protocol="ws2811" Port="1"/>
+      <ControllerConnection Protocol="ws2811" Port="1" colorOrder="BGR"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 1" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1572.2777" WorldPosY="227.8796" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:1">
       <ControllerConnection Protocol="ws2811" Port="1"/>
