@@ -2,31 +2,31 @@
 <xrgb>
   <models>
     <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="16" parm1="1" Depth="2" CustomModel="1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16|32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17" CustomBkgLightness="0" CustomBkgImage="" name="Pixicle 1" Controller="Pixicles" ModelChain="&gt;Pixicle 2" WorldPosX="460.7853" WorldPosY="454.9665" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-17.00000000" versionNumber="7" StartChannel="!Pixicles:865">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="GRB"/>
     </model>
     <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="16" parm1="1" Depth="2" CustomModel="1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16|32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17" CustomBkgLightness="0" CustomBkgImage="" name="Pixicle 9" Controller="Pixicles" ModelChain="&gt;Pixicle 10" WorldPosX="509.1474" WorldPosY="442.5399" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-17.00000000" versionNumber="7" StartChannel="!Pixicles:97">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="GRB"/>
     </model>
     <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="16" parm1="1" Depth="2" CustomModel="1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16|32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17" CustomBkgLightness="0" CustomBkgImage="" name="Pixicle 8" Controller="Pixicles" ModelChain="&gt;Pixicle 9" WorldPosX="503.1021" WorldPosY="444.6644" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-17.00000000" versionNumber="7" StartChannel="!Pixicles:193">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="GRB"/>
     </model>
     <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="16" parm1="1" Depth="2" CustomModel="1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16|32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17" CustomBkgLightness="0" CustomBkgImage="" name="Pixicle 7" Controller="Pixicles" ModelChain="&gt;Pixicle 8" WorldPosX="497.0569" WorldPosY="445.4079" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-17.00000000" versionNumber="7" StartChannel="!Pixicles:289">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="GRB"/>
     </model>
     <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="16" parm1="1" Depth="2" CustomModel="1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16|32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17" CustomBkgLightness="0" CustomBkgImage="" name="Pixicle 6" Controller="Pixicles" ModelChain="&gt;Pixicle 7" WorldPosX="491.0116" WorldPosY="447.4255" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-17.00000000" versionNumber="7" StartChannel="!Pixicles:385">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="GRB"/>
     </model>
     <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="16" parm1="1" Depth="2" CustomModel="1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16|32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17" CustomBkgLightness="0" CustomBkgImage="" name="Pixicle 5" Controller="Pixicles" ModelChain="&gt;Pixicle 6" WorldPosX="484.9664" WorldPosY="449.3372" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-17.00000000" versionNumber="7" StartChannel="!Pixicles:481">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="GRB"/>
     </model>
     <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="16" parm1="1" Depth="2" CustomModel="1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16|32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17" CustomBkgLightness="0" CustomBkgImage="" name="Pixicle 4" Controller="Pixicles" ModelChain="&gt;Pixicle 5" WorldPosX="478.9211" WorldPosY="450.6119" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-17.00000000" versionNumber="7" StartChannel="!Pixicles:577">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="GRB"/>
     </model>
     <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="16" parm1="1" Depth="2" CustomModel="1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16|32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17" CustomBkgLightness="0" CustomBkgImage="" name="Pixicle 3" Controller="Pixicles" ModelChain="&gt;Pixicle 4" WorldPosX="472.8759" WorldPosY="452.1509" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-17.00000000" versionNumber="7" StartChannel="!Pixicles:673">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="GRB"/>
     </model>
     <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="16" parm1="1" Depth="2" CustomModel="1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16|32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17" CustomBkgLightness="0" CustomBkgImage="" name="Pixicle 2" Controller="Pixicles" ModelChain="&gt;Pixicle 3" WorldPosX="466.9368" WorldPosY="454.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-17.00000000" versionNumber="7" StartChannel="!Pixicles:769">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" colorOrder="GRB"/>
     </model>
     <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="16" parm1="1" Depth="2" CustomModel="1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16|32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17" CustomBkgLightness="0" CustomBkgImage="" Controller="Pixicles" name="Pixicle 10" WorldPosX="515.1926" WorldPosY="439.6396" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-17.00000000" versionNumber="7" StartChannel="!Pixicles:1">
       <ControllerConnection Protocol="ws2811" Port="1" colorOrder="GRB"/>
@@ -482,13 +482,13 @@
       <ControllerConnection Protocol="ws2811" Port="10"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="E-Trellis-4" Controller="Fence 44" ShadowModelFor="GigaTree" WorldPosX="1148.7526" WorldPosY="317.6527" WorldPosZ="0.0000" X2="-7.621460" Y2="55.846588" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Fence 44:451">
-      <ControllerConnection Port="4" Protocol="ws2811" colorOrder="BGR"/>
+      <ControllerConnection Port="4" Protocol="ws2811" colorOrder="BGR" brightness="100"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="E-Trellis-3" Controller="Fence 44" ShadowModelFor="GigaTree" WorldPosX="1151.4454" WorldPosY="317.5215" WorldPosZ="0.0000" X2="-7.621460" Y2="55.846588" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Fence 44:301">
-      <ControllerConnection Port="3" Protocol="ws2811" colorOrder="BGR"/>
+      <ControllerConnection Port="3" Protocol="ws2811" colorOrder="BGR" brightness="100"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="E-Trellis-2" Controller="Fence 44" ShadowModelFor="GigaTree" WorldPosX="1153.3505" WorldPosY="317.5212" WorldPosZ="0.0000" X2="-7.621460" Y2="55.846588" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Fence 44:151">
-      <ControllerConnection Port="2" Protocol="ws2811" colorOrder="BGR"/>
+      <ControllerConnection Port="2" Protocol="ws2811" colorOrder="BGR" brightness="100"/>
     </model>
     <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="D2-4" Controller="Fence 43" ShadowModelFor="GigaTree" WorldPosX="1083.1177" WorldPosY="405.3088" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="3" PointData="0.000000,0.000000,0.000000,70.546631,-20.888458,0.000000,73.247192,-43.595673,0.000000" cPointData="" Locked="1" versionNumber="7" StartChannel="!Fence 43:1051">
       <ControllerConnection Port="8" Protocol="ws2811"/>
@@ -635,7 +635,7 @@
       <ControllerConnection Protocol="ws2811" Port="5"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="E-Trellis-1" Controller="Fence 44" ShadowModelFor="GigaTree" WorldPosX="1154.8193" WorldPosY="319.5633" WorldPosZ="0.0000" X2="-7.621460" Y2="55.846588" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Fence 44:1">
-      <ControllerConnection Protocol="ws2811" Port="1" colorOrder="BGR"/>
+      <ControllerConnection Protocol="ws2811" Port="1" colorOrder="BGR" brightness="100"/>
     </model>
     <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="E2-1" PolyStrings="1" Controller="Fence 44" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1162.2435" WorldPosY="316.6724" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="3" PointData="0.000000,0.000000,0.000000,11.497803,-72.403458,0.000000,-20.039062,-77.856720,0.000000" cPointData="" Locked="1" versionNumber="7" StartChannel="!Fence 44:601">
       <ControllerConnection Protocol="ws2811" Port="9"/>
