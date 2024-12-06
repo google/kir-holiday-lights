@@ -307,97 +307,97 @@
       <ControllerConnection Protocol="ws2811" Port="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 32" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1420.6364" WorldPosY="227.9079" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:1">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 31" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1425.4834" WorldPosY="227.9079" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:301">
-      <ControllerConnection Port="2" Protocol="ws2811"/>
+      <ControllerConnection Port="2" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 30" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1430.4093" WorldPosY="227.9078" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:601">
-      <ControllerConnection Port="3" Protocol="ws2811"/>
+      <ControllerConnection Port="3" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 29" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1435.3342" WorldPosY="227.9861" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:901">
-      <ControllerConnection Port="4" Protocol="ws2811"/>
+      <ControllerConnection Port="4" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 28" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1440.1033" WorldPosY="228.1424" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:1201">
-      <ControllerConnection Port="5" Protocol="ws2811"/>
+      <ControllerConnection Port="5" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 27" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1444.8721" WorldPosY="228.2988" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:1501">
-      <ControllerConnection Port="6" Protocol="ws2811"/>
+      <ControllerConnection Port="6" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 26" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1449.4069" WorldPosY="228.2988" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:1801">
-      <ControllerConnection Port="7" Protocol="ws2811"/>
+      <ControllerConnection Port="7" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 25" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1454.3323" WorldPosY="228.2988" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:2101">
-      <ControllerConnection Port="8" Protocol="ws2811"/>
+      <ControllerConnection Port="8" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 24" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1459.2574" WorldPosY="228.2988" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:2401">
-      <ControllerConnection Port="9" Protocol="ws2811"/>
+      <ControllerConnection Port="9" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 23" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1464.1826" WorldPosY="228.2206" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:2701">
-      <ControllerConnection Port="10" Protocol="ws2811"/>
+      <ControllerConnection Port="10" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 22" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1469.0292" WorldPosY="228.2988" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:3001">
-      <ControllerConnection Port="11" Protocol="ws2811"/>
+      <ControllerConnection Port="11" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 21" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1473.8767" WorldPosY="228.2206" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:3301">
-      <ControllerConnection Port="12" Protocol="ws2811"/>
+      <ControllerConnection Port="12" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 20" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1478.6459" WorldPosY="228.2206" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:3601">
-      <ControllerConnection Port="13" Protocol="ws2811"/>
+      <ControllerConnection Port="13" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 19" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1483.5709" WorldPosY="228.2206" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:3901">
-      <ControllerConnection Port="14" Protocol="ws2811"/>
+      <ControllerConnection Port="14" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 18" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1488.4182" WorldPosY="228.1424" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:4201">
-      <ControllerConnection Port="15" Protocol="ws2811"/>
+      <ControllerConnection Port="15" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 17" Controller="Tunnel South" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1493.5002" WorldPosY="227.9860" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel South:4501">
-      <ControllerConnection Port="16" Protocol="ws2811"/>
+      <ControllerConnection Port="16" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 16" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1498.4250" WorldPosY="227.9860" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:1">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="1" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 15" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1503.2723" WorldPosY="228.1424" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:301">
-      <ControllerConnection Port="2" Protocol="ws2811"/>
+      <ControllerConnection Port="2" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 14" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1508.1193" WorldPosY="228.2988" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:601">
-      <ControllerConnection Port="3" Protocol="ws2811"/>
+      <ControllerConnection Port="3" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 13" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1512.8881" WorldPosY="228.1424" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:901">
-      <ControllerConnection Port="4" Protocol="ws2811"/>
+      <ControllerConnection Port="4" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 12" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1517.8137" WorldPosY="228.2206" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:1201">
-      <ControllerConnection Port="5" Protocol="ws2811"/>
+      <ControllerConnection Port="5" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 11" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1522.8171" WorldPosY="228.2988" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:1501">
-      <ControllerConnection Port="6" Protocol="ws2811"/>
+      <ControllerConnection Port="6" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 10" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1527.8208" WorldPosY="228.2988" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:1801">
-      <ControllerConnection Port="7" Protocol="ws2811"/>
+      <ControllerConnection Port="7" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 9" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1532.5896" WorldPosY="228.2988" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:2101">
-      <ControllerConnection Port="8" Protocol="ws2811"/>
+      <ControllerConnection Port="8" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 8" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1537.5933" WorldPosY="228.5333" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:2401">
-      <ControllerConnection Port="9" Protocol="ws2811"/>
+      <ControllerConnection Port="9" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 7" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1542.5347" WorldPosY="228.3848" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:2701">
-      <ControllerConnection Port="10" Protocol="ws2811"/>
+      <ControllerConnection Port="10" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 6" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1547.4362" WorldPosY="228.2989" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:3001">
-      <ControllerConnection Port="11" Protocol="ws2811"/>
+      <ControllerConnection Port="11" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 5" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1552.2518" WorldPosY="228.2129" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:3301">
-      <ControllerConnection Port="12" Protocol="ws2811"/>
+      <ControllerConnection Port="12" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 4" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1557.1819" WorldPosY="228.2265" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:3601">
-      <ControllerConnection Port="13" Protocol="ws2811"/>
+      <ControllerConnection Port="13" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 3" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1562.1766" WorldPosY="228.2265" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:3901">
-      <ControllerConnection Port="14" Protocol="ws2811"/>
+      <ControllerConnection Port="14" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 2" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1567.2242" WorldPosY="227.9441" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:4201">
-      <ControllerConnection Port="15" Protocol="ws2811"/>
+      <ControllerConnection Port="15" Protocol="ws2811" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Default" name="H16" PixelSize="2" Controller="Mid Trellis" ShadowModelFor="GigaTree" WorldPosX="588.5206" WorldPosY="379.9407" WorldPosZ="0.0000" X2="12.657471" Y2="84.383148" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Mid Trellis:1">
       <ControllerConnection Protocol="ws2811" colorOrder="BGR" Port="1"/>
@@ -712,7 +712,7 @@
       <ControllerConnection Protocol="ws2811" colorOrder="BGR" Port="16"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Tunnel 1" Controller="Tunnel North" parm2="100" ShadowModelFor="GigaTree" WorldPosX="1572.2777" WorldPosY="227.8796" WorldPosZ="0.0000" X2="-7.005005" Y2="104.891296" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Tunnel North:4501">
-      <ControllerConnection Protocol="ws2811" Port="16"/>
+      <ControllerConnection Protocol="ws2811" Port="16" reverse="1"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Spot 1" BlackTransparency="50" parm2="1" Antialias="3" PixelSize="200" ShadowModelFor="GigaTree" WorldPosX="1116.8491" WorldPosY="25.9636" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="7" StartChannel="!Floods:1">
       <ControllerConnection Protocol="ws2811"/>
