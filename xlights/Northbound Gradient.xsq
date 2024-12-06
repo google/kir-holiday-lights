@@ -29,7 +29,7 @@
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
-    <Element collapsed="0" type="model" name="Everything Tunnel" visible="1"/>
+    <Element collapsed="0" type="model" name="All Models" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
