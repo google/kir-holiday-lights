@@ -90,7 +90,7 @@ for addr in "${!DESCRIPTIONS[@]}"; do
   echo ''
 
   ### Configure Ethernet
-  eth_gateway="192.168.1.192"
+  eth_gateway="192.168.1.1"
   [ "x${wifi}" != "x" ] && eth_gateway=""
   echo -n '   ... Configure ethernet (eth0): '
   curl -X POST -H 'Content-Type: application/json' -d "{\"INTERFACE\":\"eth0\",\"PROTO\":\"static\",\"ADDRESS\":\"${addr}\",\"NETMASK\":\"255.255.255.0\",\"GATEWAY\":\"${eth_gateway}\",\"ROUTEMETRIC\":\"0\",\"DHCPSERVER\":false,\"DHCPOFFSET\":\"100\",\"DHCPPOOLSIZE\":\"50\",\"IPFORWARDING\":\"0\",\"Leases\":{}}" "http://${addr}/api/network/interface/eth0"
@@ -98,7 +98,7 @@ for addr in "${!DESCRIPTIONS[@]}"; do
 
   if [ "x${wifi}" != "x" ]; then
     echo -n '   ... Configure WiFi (wlan0): '
-    curl -X POST -H 'Content-Type: application/json' -d "{\"INTERFACE\":\"wlan0\",\"PROTO\":\"static\",\"ADDRESS\":\"${wifi}\",\"NETMASK\":\"255.255.255.0\",\"GATEWAY\":\"192.168.1.192\",\"ROUTEMETRIC\":\"0\",\"DHCPSERVER\":false,\"DHCPOFFSET\":\"100\",\"DHCPPOOLSIZE\":\"50\",\"IPFORWARDING\":\"0\",\"SSID\":\"KIR Lights\",\"PSK\":\"${PSK}\",\"HIDDEN\":false,\"WPA3\":false,\"BACKUPSSID\":\"\",\"BACKUPPSK\":\"\",\"BACKUPHIDDEN\":false,\"BACKUPWPA3\":false,\"Leases\":{}}" "http://${addr}/api/network/interface/wlan0"
+    curl -X POST -H 'Content-Type: application/json' -d "{\"INTERFACE\":\"wlan0\",\"PROTO\":\"static\",\"ADDRESS\":\"${wifi}\",\"NETMASK\":\"255.255.255.0\",\"GATEWAY\":\"192.168.1.1\",\"ROUTEMETRIC\":\"0\",\"DHCPSERVER\":false,\"DHCPOFFSET\":\"100\",\"DHCPPOOLSIZE\":\"50\",\"IPFORWARDING\":\"0\",\"SSID\":\"KIR Lights\",\"PSK\":\"${PSK}\",\"HIDDEN\":false,\"WPA3\":false,\"BACKUPSSID\":\"\",\"BACKUPPSK\":\"\",\"BACKUPHIDDEN\":false,\"BACKUPWPA3\":false,\"Leases\":{}}" "http://${addr}/api/network/interface/wlan0"
     echo ''
   fi
 
