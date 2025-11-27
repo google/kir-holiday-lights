@@ -7,3 +7,10 @@ xlights/xlights_keybindings.xml
 xlights/Backup/
 xlights/*.fseq
 Media/*
+
+# macOS metadata / resource forks
+._*
+.DS_Store
+
+# Vim swap files
+*.swp
