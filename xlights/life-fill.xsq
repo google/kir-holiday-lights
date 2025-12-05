@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.19</version>
+    <version>2025.12</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -114,7 +114,7 @@
     </Element>
     <Element type="model" name="Everything">
       <EffectLayer>
-        <Effect ref="0" name="Life" selected="1" startTime="25" endTime="600025" palette="0"/>
+        <Effect ref="0" name="Life" startTime="25" endTime="600025" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="All Row 1">
