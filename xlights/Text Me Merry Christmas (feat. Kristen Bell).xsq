@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.19</version>
+    <version>2025.12</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -12,7 +12,7 @@
     <comment></comment>
     <sequenceTiming>50 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>G:\xlights\music\18 - Text Me Merry Christmas (feat. Kristen Bell).mp3</mediaFile>
+    <mediaFile>/Users/olson/kir-holiday-lights/Media/Text Me Merry Christmas (feat. Kristen Bell).mp3</mediaFile>
     <sequenceDuration>160.863</sequenceDuration>
     <imageDir/>
   </head>
@@ -152,7 +152,7 @@
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=1.0,T_TEXTCTRL_Fadeout=0.0 </Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=0.0,T_TEXTCTRL_Fadeout=0.55</Effect>
-    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=0,E_NOTEBOOK_Shockwave=Options,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=86,E_SLIDER_Shockwave_End_Width=255,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=51</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=0,E_CHECKBOX_Shockwave_Scale=0,E_NOTEBOOK_Shockwave=Options,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=86,E_SLIDER_Shockwave_End_Width=255,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=51</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=3.0,T_TEXTCTRL_Fadeout=0.30</Effect>
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=3,E_TEXTCTRL_Bars_Cycles=0.0,T_CHOICE_In_Transition_Type=From Middle,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=0.50</Effect>
@@ -164,15 +164,15 @@
     <Effect>T_CHECKBOX_LayerMorph=1,T_CHOICE_In_Transition_Type=From Middle,T_CHOICE_LayerMethod=1 reveals 2,T_SLIDER_EffectLayerMix=84,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=0.40</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=100,E_SLIDER_Twinkle_Steps=6,T_CHECKBOX_LayerMorph=1,T_CHOICE_LayerMethod=1 reveals 2,T_SLIDER_EffectLayerMix=84</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=100,E_SLIDER_Twinkle_Steps=5,T_CHECKBOX_LayerMorph=1,T_CHOICE_LayerMethod=1 reveals 2,T_SLIDER_EffectLayerMix=84</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadeout=0.50</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadeout=0.50</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadeout=0.50</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadeout=0.50</Effect>
-    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Options,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=167,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=5,E_SLIDER_Fan_Num_Blades=1,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=293,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=328,T_CHECKBOX_Canvas=1,T_CHOICE_In_Transition_Type=Square Explode,T_TEXTCTRL_Fadein=0.20</Effect>
-    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=0,E_SLIDER_Fan_Num_Blades=4,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=972,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=204</Effect>
-    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=0,E_SLIDER_Fan_Num_Blades=4,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=1007,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=204</Effect>
+    <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadeout=0.50</Effect>
+    <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadeout=0.50</Effect>
+    <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadeout=0.50</Effect>
+    <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadeout=0.50</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_CHECKBOX_Fan_Scale=0,E_NOTEBOOK_Fan=Options,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=167,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=5,E_SLIDER_Fan_Num_Blades=1,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=293,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=328,T_CHECKBOX_Canvas=1,T_CHOICE_In_Transition_Type=Square Explode,T_TEXTCTRL_Fadein=0.20</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_CHECKBOX_Fan_Scale=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=0,E_SLIDER_Fan_Num_Blades=4,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=972,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=204</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_CHECKBOX_Fan_Scale=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=0,E_SLIDER_Fan_Num_Blades=4,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=1007,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=204</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=right,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0,T_CHECKBOX_Canvas=1</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=80,E_TEXTCTRL_Eff_On_Start=80,T_CHECKBOX_LayerMorph=1,T_CHOICE_In_Transition_Type=Wipe,T_CHOICE_LayerMethod=Effect 1,T_SLIDER_EffectLayerMix=98,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=0.45</Effect>
     <Effect>T_TEXTCTRL_Fadeout=0.75</Effect>
@@ -233,7 +233,7 @@
     <Effect>E_CHECKBOX_Shape_FadeAway=0,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=1,E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Emoji,E_FONTPICKER_Shape_Font='segoe ui emoji' 24 windows-1252,E_SLIDER_Shape_Growth=12,E_SLIDER_Shape_Lifetime=100,E_SLIDER_Shape_StartSize=24,E_SLIDER_Shapes_Direction=0,E_SLIDER_Shapes_Velocity=0,E_SPINCTRL_Shape_Char=128578,E_TEXTCTRL_Shape_Count=48,E_TEXTCTRL_Shapes_Direction=0,E_TEXTCTRL_Shapes_Velocity=0,T_TEXTCTRL_Fadeout=0.40</Effect>
     <Effect>E_CHECKBOX_BottomBarrier=1,E_CHECKBOX_Enabled2=1,E_CHECKBOX_Enabled3=1,E_CHECKBOX_Enabled4=0,E_CHECKBOX_FlowMusic1=1,E_CHECKBOX_FlowMusic2=0,E_CHECKBOX_FlowMusic3=0,E_CHECKBOX_HoldColor=1,E_CHECKBOX_LeftBarrier=0,E_CHECKBOX_MixColors=1,E_CHECKBOX_RightBarrier=0,E_CHECKBOX_TopBarrier=0,E_CHOICE_ParticleType=Elastic,E_NOTEBOOK1=1,E_TEXTCTRL_Despeckle=0,E_TEXTCTRL_Direction1=270,E_TEXTCTRL_Direction2=0,E_TEXTCTRL_Direction3=90,E_TEXTCTRL_Flow1=100,E_TEXTCTRL_Flow2=100,E_TEXTCTRL_Flow3=100,E_TEXTCTRL_LifeTime=1000,E_TEXTCTRL_Liquid_Gravity=10.0,E_TEXTCTRL_Liquid_GravityAngle=0,E_TEXTCTRL_Liquid_SourceSize1=0,E_TEXTCTRL_Liquid_SourceSize2=0,E_TEXTCTRL_Liquid_SourceSize3=0,E_TEXTCTRL_Size=500,E_TEXTCTRL_Velocity1=100,E_TEXTCTRL_Velocity2=100,E_TEXTCTRL_Velocity3=100,E_TEXTCTRL_WarmUpFrames=0,E_TEXTCTRL_X1=50,E_TEXTCTRL_X2=0,E_TEXTCTRL_X3=50,E_TEXTCTRL_Y1=100,E_TEXTCTRL_Y2=50,E_TEXTCTRL_Y3=0,T_TEXTCTRL_Fadeout=0.30</Effect>
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=3,E_TEXTCTRL_Bars_Cycles=0.0,T_CHOICE_In_Transition_Type=From Middle,T_TEXTCTRL_Fadein=0.</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=3,E_TEXTCTRL_Bars_Cycles=0.0,T_CHOICE_In_Transition_Type=From Middle,T_CHOICE_LayerMethod=1 reveals 2,T_TEXTCTRL_Fadein=0.</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=close then open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.5</Effect>
@@ -241,10 +241,10 @@
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=3 .0</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=bottom,E_CHOICE_Curtain_Effect=close then open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=close then open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.5 </Effect>
-    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=39,E_SLIDER_Shockwave_End_Width=44,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=18</Effect>
-    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=71,E_SLIDER_Shockwave_End_Width=194,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=74</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=0,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=39,E_SLIDER_Shockwave_End_Width=44,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=18</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=0,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=71,E_SLIDER_Shockwave_End_Width=194,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=74</Effect>
     <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Reverse,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=5,E_SLIDER_Butterfly_Style=1</Effect>
-    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=10,E_SLIDER_Shockwave_CenterY=70,E_SLIDER_Shockwave_End_Radius=39,E_SLIDER_Shockwave_End_Width=44,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=18</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=0,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=10,E_SLIDER_Shockwave_CenterY=70,E_SLIDER_Shockwave_End_Radius=39,E_SLIDER_Shockwave_End_Width=44,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=18</Effect>
     <Effect>E_CHOICE_Garlands_Direction=Up,E_SLIDER_Garlands_Spacing=10,E_SLIDER_Garlands_Type=1,E_TEXTCTRL_Garlands_Cycles=1.0,T_CHOICE_LayerMethod=Additive</Effect>
     <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Position=100,E_SLIDER_Fill_Skip_Size=0</Effect>
     <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Rainbow,E_SLIDER_Meteors_Count=6,E_SLIDER_Meteors_Length=10,E_SLIDER_Meteors_Speed=10,E_SLIDER_Meteors_Swirl_Intensity=0,E_SLIDER_Meteors_WamupFrames=10</Effect>
@@ -258,20 +258,20 @@
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=3,E_TEXTCTRL_Bars_Cycles=0.0</Effect>
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.0,T_CHOICE_In_Transition_Type=From Middle,T_TEXTCTRL_Fadein=0.</Effect>
     <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Position=100,E_SLIDER_Fill_Skip_Size=0,T_CHECKBOX_LayerMorph=1,T_CHOICE_In_Transition_Type=From Middle,T_CHOICE_LayerMethod=1 reveals 2,T_SLIDER_EffectLayerMix=84,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=0.40</Effect>
-    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=167,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=67,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=5,E_SLIDER_Fan_Num_Blades=1,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=293,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=328,T_CHECKBOX_Canvas=1,T_CHOICE_In_Transition_Type=Square Explode,T_TEXTCTRL_Fadein=0.20</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_CHECKBOX_Fan_Scale=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=167,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=67,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=5,E_SLIDER_Fan_Num_Blades=1,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=293,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=328,T_CHECKBOX_Canvas=1,T_CHOICE_In_Transition_Type=Square Explode,T_TEXTCTRL_Fadein=0.20</Effect>
     <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect>
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=6.0</Effect>
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=4</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=80,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=-1.0</Effect>
     <Effect>E_CHECKBOX_Tree_ShowLights=0,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=10</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>E_CHECKBOX_Fire_GrowWithMusic=1,E_CHOICE_Fire_Location=Bottom,E_SLIDER_Fire_HueShift=0</Effect>
     <Effect>E_CHECKBOX_Fire_GrowWithMusic=1,E_CHOICE_Fire_Location=Bottom,E_SLIDER_Fire_HueShift=81</Effect>
     <Effect>E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Lightning_WIDTH=1,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=5</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=80,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=1.0</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=1,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=35,E_SLIDER_Twinkle_Steps=30</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=40,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=1.0</Effect>
-    <Effect>B_CHOICE_BufferTransform=Rotate CW 90,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=5,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1</Effect>
+    <Effect>B_CHOICE_BufferTransform=Rotate CW 90,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=5,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_CHECKBOX_Twinkle_Strobe=1,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=48,E_SLIDER_Twinkle_Steps=20</Effect>
     <Effect>E_CHECKBOX_FIRETIMING=0,E_CHECKBOX_Fireworks_Gravity=1,E_CHECKBOX_Fireworks_HoldColour=1,E_CHECKBOX_Fireworks_UseMusic=0,E_SLIDER_Fireworks_Count=50,E_SLIDER_Fireworks_Explosions=16,E_SLIDER_Fireworks_Fade=50,E_SLIDER_Fireworks_Velocity=2,E_SLIDER_Fireworks_XLocation=-1,E_SLIDER_Fireworks_XVelocity=0,E_SLIDER_Fireworks_YLocation=-1,E_SLIDER_Fireworks_YVelocity=0,E_TEXTCTRL_Fireworks_XLocation=-1,E_TEXTCTRL_Fireworks_XVelocity=0,E_TEXTCTRL_Fireworks_YLocation=-1,E_TEXTCTRL_Fireworks_YVelocity=0</Effect>
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
@@ -488,22 +488,22 @@
     <Element collapsed="0" type="model" name="H7" visible="0"/>
     <Element collapsed="0" type="model" name="H8" visible="0"/>
     <Element collapsed="0" type="model" name="H9" visible="0"/>
-    <Element collapsed="0" type="model" name="K1" visible="1"/>
-    <Element collapsed="0" type="model" name="K10" visible="1"/>
-    <Element collapsed="0" type="model" name="K11" visible="1"/>
-    <Element collapsed="0" type="model" name="K12" visible="1"/>
-    <Element collapsed="0" type="model" name="K13" visible="1"/>
-    <Element collapsed="0" type="model" name="K14" visible="1"/>
-    <Element collapsed="0" type="model" name="K15" visible="1"/>
-    <Element collapsed="0" type="model" name="K16" visible="1"/>
-    <Element collapsed="0" type="model" name="K2" visible="1"/>
-    <Element collapsed="0" type="model" name="K3" visible="1"/>
-    <Element collapsed="0" type="model" name="K4" visible="1"/>
-    <Element collapsed="0" type="model" name="K5" visible="1"/>
-    <Element collapsed="0" type="model" name="K6" visible="1"/>
-    <Element collapsed="0" type="model" name="K7" visible="1"/>
-    <Element collapsed="0" type="model" name="K8" visible="1"/>
-    <Element collapsed="0" type="model" name="K9" visible="0"/>
+    <Element collapsed="0" type="model" name="K1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-10" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-11" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-12" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-13" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-14" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-15" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-16" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-3" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-5" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-6" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-7" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-8" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-9" visible="0"/>
     <Element collapsed="0" type="model" name="Tunnel 1" visible="0"/>
     <Element collapsed="0" type="model" name="Tunnel 2" visible="0"/>
     <Element collapsed="0" type="model" name="Tunnel 3" visible="0"/>
@@ -4960,7 +4960,7 @@
     <Element type="model" name="Everything Tunnel">
       <EffectLayer>
         <Effect ref="45" name="Bars" startTime="105000" endTime="105900" palette="25"/>
-        <Effect ref="48" name="VU Meter" id="9" startTime="124400" endTime="125650" palette="64"/>
+        <Effect ref="48" name="VU Meter" id="1" startTime="124400" endTime="125650" palette="64"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Trellis 1">
@@ -6567,7 +6567,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K1">
+    <Element type="model" name="K1-1">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -6604,7 +6604,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K10">
+    <Element type="model" name="K1-10">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -6641,7 +6641,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K11">
+    <Element type="model" name="K1-11">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -6678,7 +6678,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K12">
+    <Element type="model" name="K1-12">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -6715,7 +6715,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K13">
+    <Element type="model" name="K1-13">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -6764,7 +6764,7 @@
         <Effect ref="66" name="Curtain" id="44" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K14">
+    <Element type="model" name="K1-14">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -6813,7 +6813,7 @@
         <Effect ref="66" name="Curtain" id="44" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K15">
+    <Element type="model" name="K1-15">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -6862,7 +6862,7 @@
         <Effect ref="66" name="Curtain" id="44" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K16">
+    <Element type="model" name="K1-16">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -6917,7 +6917,7 @@
         <Effect ref="66" name="Curtain" id="50" startTime="164750" endTime="165100" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K2">
+    <Element type="model" name="K1-2">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -6954,7 +6954,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K3">
+    <Element type="model" name="K1-3">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -6991,7 +6991,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K4">
+    <Element type="model" name="K1-4">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -7028,7 +7028,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K5">
+    <Element type="model" name="K1-5">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -7065,7 +7065,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K6">
+    <Element type="model" name="K1-6">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -7102,7 +7102,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K7">
+    <Element type="model" name="K1-7">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -7139,7 +7139,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K8">
+    <Element type="model" name="K1-8">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -7176,7 +7176,7 @@
         <Effect ref="66" name="Curtain" id="32" startTime="151700" endTime="152250" palette="46"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="K9">
+    <Element type="model" name="K1-9">
       <EffectLayer>
         <Effect ref="66" name="Curtain" startTime="19850" endTime="20200" palette="46"/>
         <Effect ref="66" name="Curtain" id="1" startTime="20600" endTime="21250" palette="46"/>
@@ -7922,7 +7922,7 @@
         <Effect ref="38" name="Twinkle" id="50" startTime="137600" endTime="138250" palette="50"/>
         <Effect ref="30" name="SingleStrand" id="51" startTime="141800" endTime="142250" palette="43"/>
         <Effect ref="31" name="Curtain" id="52" startTime="142250" endTime="142650" palette="37"/>
-        <Effect ref="108" name="Liquid" selected="1" id="53" startTime="148200" endTime="153000" palette="39"/>
+        <Effect ref="108" name="Liquid" id="53" startTime="148200" endTime="153000" palette="39"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="32" name="On" startTime="80350" endTime="81000" palette="45"/>

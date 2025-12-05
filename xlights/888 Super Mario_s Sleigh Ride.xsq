@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.19</version>
+    <version>2025.12</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -295,7 +295,7 @@
     <Effect>T_TEXTCTRL_Fadein=.00,T_TEXTCTRL_Fadeout=1.00</Effect>
     <Effect>E_CHOICE_VUMeter_Type=On,E_SLIDER_VUMeter_Gain=0,E_TEXTCTRL_VUMeter_Gain=0</Effect>
     <Effect>E_CHECKBOX_Bars_3D=1,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=1,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=11.0,T_TEXTCTRL_Fadein=0.50</Effect>
-    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Options,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=67,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=0,E_SLIDER_Fan_Num_Blades=6,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=720,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=105</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_CHECKBOX_Fan_Scale=0,E_NOTEBOOK_Fan=Options,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=67,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=0,E_SLIDER_Fan_Num_Blades=6,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=720,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=105</Effect>
     <Effect>E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=10,E_SLIDER_Plasma_Style=1,T_CHOICE_LayerMethod=Additive</Effect>
     <Effect>E_CHOICE_VUMeter_Type=Intensity Wave,E_SLIDER_VUMeter_Bars=6,E_SLIDER_VUMeter_Gain=0,E_TEXTCTRL_VUMeter_Gain=0</Effect>
     <Effect>E_CHECKBOX_Music_Fade=0,E_CHECKBOX_Music_LogarithmicX=0,E_CHECKBOX_Music_Scale=0,E_CHOICE_Music_Colour=Distinct,E_CHOICE_Music_Scaling=Individual Notes,E_CHOICE_Music_Type=Separate,E_SLIDER_Music_Bars=51,E_SLIDER_Music_EndNote=127,E_SLIDER_Music_Offset=0,E_SLIDER_Music_Sensitivity=40,E_SLIDER_Music_StartNote=0</Effect>
@@ -465,22 +465,6 @@
     <Element collapsed="0" type="model" name="J2-2" visible="1"/>
     <Element collapsed="0" type="model" name="J2-3" visible="1"/>
     <Element collapsed="0" type="model" name="J2-4" visible="1"/>
-    <Element collapsed="0" type="model" name="K1" visible="1"/>
-    <Element collapsed="0" type="model" name="K2" visible="1"/>
-    <Element collapsed="0" type="model" name="K3" visible="1"/>
-    <Element collapsed="0" type="model" name="K4" visible="1"/>
-    <Element collapsed="0" type="model" name="K5" visible="1"/>
-    <Element collapsed="0" type="model" name="K6" visible="1"/>
-    <Element collapsed="0" type="model" name="K7" visible="1"/>
-    <Element collapsed="0" type="model" name="K8" visible="1"/>
-    <Element collapsed="0" type="model" name="K9" visible="1"/>
-    <Element collapsed="0" type="model" name="K10" visible="1"/>
-    <Element collapsed="0" type="model" name="K11" visible="1"/>
-    <Element collapsed="0" type="model" name="K12" visible="1"/>
-    <Element collapsed="0" type="model" name="K13" visible="1"/>
-    <Element collapsed="0" type="model" name="K14" visible="1"/>
-    <Element collapsed="0" type="model" name="K15" visible="1"/>
-    <Element collapsed="0" type="model" name="K16" visible="1"/>
     <Element collapsed="0" type="model" name="Spot 1" visible="1"/>
     <Element collapsed="0" type="model" name="Spot 2" visible="1"/>
     <Element collapsed="0" type="model" name="Spot 3" visible="1"/>
@@ -11902,54 +11886,6 @@
         <Effect ref="1" name="On" id="86" startTime="186500" endTime="186900" palette="207"/>
         <Effect ref="1" name="On" id="87" startTime="191500" endTime="191650" palette="207"/>
       </EffectLayer>
-    </Element>
-    <Element type="model" name="K1">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K4">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K5">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K6">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K7">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K8">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K9">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K10">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K11">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K12">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K13">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K14">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K15">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="K16">
-      <EffectLayer/>
     </Element>
     <Element type="model" name="Spot 1">
       <EffectLayer/>

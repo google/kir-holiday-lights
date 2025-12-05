@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.17</version>
+    <version>2025.12</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -37,7 +37,7 @@
     </Element>
     <Element type="model" name="All Models">
       <EffectLayer>
-        <Effect ref="0" name="Bars" selected="1" startTime="0" endTime="300000" palette="0"/>
+        <Effect ref="0" name="Bars" startTime="0" endTime="300000" palette="0"/>
       </EffectLayer>
     </Element>
   </ElementEffects>

@@ -1,0 +1,4 @@
+Mid Trellis - 192.168.1.150
+*   H11 Pixel 4 is bad (flickering green), Clear at end of show.
+    Output Processor: Set Value, Bad green channel, 20595, 3, 0
+
