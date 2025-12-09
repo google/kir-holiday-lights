@@ -1,0 +1,1563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2025.12</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>60.0</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#FF8040,C_BUTTON_Palette3=#FFFF00,C_BUTTON_Palette4=#00FF00,C_BUTTON_Palette5=#00FFFF,C_BUTTON_Palette6=#0080FF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect></Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=200,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=300,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=700,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=1000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=1100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=1200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=1300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=1400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=1500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=1600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=1700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=1800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=1900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=2000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=2100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=2200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=2300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=2400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=2500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=2600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=2700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=2800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=2900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=3000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=3100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=3200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=3300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=3400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=3500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=3600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=3700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=3800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=3900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=4000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=4100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=4200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=4300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=4400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=4500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=4600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=4700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=4800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=4900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=5000,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=5100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=5200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=5300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=5400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=5500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=5600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=5700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=5800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=5900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=6000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=6100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=6200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=6300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=6400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=6500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=6600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=6700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=6800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=6900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=7000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=7100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=7200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=7300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=7400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=7500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=7600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=7700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=7800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=7900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=8000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=8100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=8200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=8300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=8400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=8500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=8600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=8700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=8800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=8900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=9000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=9100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=9200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=9300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=9400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=9500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=9600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=9700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=9800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=9900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=10000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=10100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=10200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=10300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=10400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=10500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=10600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=10700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=10800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=10900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=11000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=11100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=11200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=11300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=11400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=11500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=11600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=11700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=11800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=11900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=12000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=12100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=12200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=12300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=12400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=12500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=12600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=12700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=12800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=12900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=13000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=13100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=13200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=13300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=13400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=13500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=13600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=13700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=13800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=13900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=14000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=14100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=14200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=14300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=14400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=14500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=14600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=14700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=14800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=14900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=15000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=15100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=15200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=15300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=15400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=15500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=15600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=15700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=15800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=15900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=16000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=16100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=16200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=16300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=16400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=16500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=16600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=16700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=16800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=16900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=17000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=17100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=17200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=17300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=17400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=17500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=17600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=17700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=17800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=17900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=18000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=18100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=18200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=18300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=18400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=18500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=18600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=18700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=18800</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=18900</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=19000</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=19100</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=19200</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=19300</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=19400</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=19500</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=19600</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=19700</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=19800,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=19900,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=20000,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=20100,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=20200,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=20300,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=20400,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=20500,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=20600,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=20700,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=20800,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/olson/kir-holiday-lights/xlights/shaders/ColorStatic.fs,E_SLIDER_SHADERXYZZY_density=80000,E_SLIDER_SHADERXYZZY_seed=20900,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="model" name="All Pixicles" visible="1"/>
+    <Element collapsed="0" type="model" name="TreeTopper" visible="1"/>
+    <Element collapsed="0" type="model" name="GigaTree" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 7" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 8" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 9" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 10" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 11" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 12" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 13" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 14" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 15" visible="1"/>
+    <Element collapsed="0" type="model" name="Gift Box 16" visible="1"/>
+    <Element collapsed="0" type="model" name="A1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="A1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="A1-3" visible="1"/>
+    <Element collapsed="0" type="model" name="A1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="A2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="A2-2" visible="1"/>
+    <Element collapsed="0" type="model" name="A2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="A2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="A3-1" visible="1"/>
+    <Element collapsed="0" type="model" name="A3-2" visible="1"/>
+    <Element collapsed="0" type="model" name="A3-3" visible="1"/>
+    <Element collapsed="0" type="model" name="A3-4" visible="1"/>
+    <Element collapsed="0" type="model" name="B1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="B1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="B1-3" visible="1"/>
+    <Element collapsed="0" type="model" name="B1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="B2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="B2-2" visible="1"/>
+    <Element collapsed="0" type="model" name="B2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="B2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="C1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="C1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="C1-3" visible="1"/>
+    <Element collapsed="0" type="model" name="C1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="C2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="C2-2" visible="1"/>
+    <Element collapsed="0" type="model" name="C2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="C2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="D1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="D1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="D1-3" visible="1"/>
+    <Element collapsed="0" type="model" name="D1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="D2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="D2-2" visible="1"/>
+    <Element collapsed="0" type="model" name="D2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="D2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="D3-1" visible="1"/>
+    <Element collapsed="0" type="model" name="D3-2" visible="1"/>
+    <Element collapsed="0" type="model" name="D3-3" visible="1"/>
+    <Element collapsed="0" type="model" name="D3-4" visible="1"/>
+    <Element collapsed="0" type="model" name="D4-1" visible="1"/>
+    <Element collapsed="0" type="model" name="D4-2" visible="1"/>
+    <Element collapsed="0" type="model" name="D4-3" visible="1"/>
+    <Element collapsed="0" type="model" name="D4-4" visible="1"/>
+    <Element collapsed="0" type="model" name="E2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="E2-2" visible="1"/>
+    <Element collapsed="0" type="model" name="E2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="E2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="F1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="F1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="F1-3" visible="1"/>
+    <Element collapsed="0" type="model" name="F1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="F2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="F2-2" visible="1"/>
+    <Element collapsed="0" type="model" name="F2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="F2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="G1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="G1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="G1-3" visible="1"/>
+    <Element collapsed="0" type="model" name="G1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="G2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="G2-2" visible="1"/>
+    <Element collapsed="0" type="model" name="G2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="G2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="H1" visible="1"/>
+    <Element collapsed="0" type="model" name="H2" visible="1"/>
+    <Element collapsed="0" type="model" name="H3" visible="1"/>
+    <Element collapsed="0" type="model" name="H4" visible="1"/>
+    <Element collapsed="0" type="model" name="H5" visible="1"/>
+    <Element collapsed="0" type="model" name="H6" visible="1"/>
+    <Element collapsed="0" type="model" name="H7" visible="1"/>
+    <Element collapsed="0" type="model" name="H8" visible="1"/>
+    <Element collapsed="0" type="model" name="H9" visible="1"/>
+    <Element collapsed="0" type="model" name="H10" visible="1"/>
+    <Element collapsed="0" type="model" name="H11" visible="1"/>
+    <Element collapsed="0" type="model" name="H12" visible="1"/>
+    <Element collapsed="0" type="model" name="H13" visible="1"/>
+    <Element collapsed="0" type="model" name="H14" visible="1"/>
+    <Element collapsed="0" type="model" name="H15" visible="1"/>
+    <Element collapsed="0" type="model" name="H16" visible="1"/>
+    <Element collapsed="0" type="model" name="I1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="I1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="I1-3" visible="1"/>
+    <Element collapsed="0" type="model" name="I1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="I2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="I2-2" visible="1"/>
+    <Element collapsed="0" type="model" name="I2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="I2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="J1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="J1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="J1-3" visible="1"/>
+    <Element collapsed="0" type="model" name="J1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="J2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="J2-2" visible="1"/>
+    <Element collapsed="0" type="model" name="J2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="J2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-1" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-2" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-3" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-5" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-6" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-7" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-8" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-9" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-10" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-11" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-12" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-13" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-14" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-15" visible="1"/>
+    <Element collapsed="0" type="model" name="K1-16" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-2" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-3" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-4" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-5" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-6" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-7" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-8" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-9" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-10" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-11" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-12" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-13" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-14" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-15" visible="1"/>
+    <Element collapsed="0" type="model" name="K2-16" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-1" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-2" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-3" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-4" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-5" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-6" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-7" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-8" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-9" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-10" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-11" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-12" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-13" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-14" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-15" visible="1"/>
+    <Element collapsed="0" type="model" name="K3-16" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 7" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 8" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 9" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 10" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 11" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 12" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 13" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 14" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 15" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 16" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 17" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 18" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 19" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 20" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 21" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 22" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 23" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 24" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 25" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 26" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 27" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 28" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 29" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 30" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 31" visible="1"/>
+    <Element collapsed="0" type="model" name="Tunnel 32" visible="1"/>
+    <Element collapsed="0" type="model" name="E-Trellis-1" visible="1"/>
+    <Element collapsed="0" type="model" name="E-Trellis-2" visible="1"/>
+    <Element collapsed="0" type="model" name="E-Trellis-3" visible="1"/>
+    <Element collapsed="0" type="model" name="E-Trellis-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixicle 10" visible="0"/>
+    <Element collapsed="0" type="model" name="Pixicle 1" visible="0"/>
+    <Element collapsed="0" type="model" name="Pixicle 2" visible="0"/>
+    <Element collapsed="0" type="model" name="Pixicle 3" visible="0"/>
+    <Element collapsed="0" type="model" name="Pixicle 4" visible="0"/>
+    <Element collapsed="0" type="model" name="Pixicle 5" visible="0"/>
+    <Element collapsed="0" type="model" name="Pixicle 6" visible="0"/>
+    <Element collapsed="0" type="model" name="Pixicle 7" visible="0"/>
+    <Element collapsed="0" type="model" name="Pixicle 8" visible="0"/>
+    <Element collapsed="0" type="model" name="Pixicle 9" visible="0"/>
+    <Element collapsed="0" type="model" name="North Tree 1" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 2" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 3" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 4" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 5" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 6" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 7" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 8" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 9" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 10" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 11" visible="1"/>
+    <Element collapsed="0" type="model" name="North Tree 12" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="model" name="All Pixicles">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="60000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TreeTopper">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="60000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GigaTree">
+      <EffectLayer>
+        <Effect ref="1" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 1">
+      <EffectLayer>
+        <Effect ref="2" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 2">
+      <EffectLayer>
+        <Effect ref="3" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 3">
+      <EffectLayer>
+        <Effect ref="4" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 4">
+      <EffectLayer>
+        <Effect ref="5" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 5">
+      <EffectLayer>
+        <Effect ref="6" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 6">
+      <EffectLayer>
+        <Effect ref="7" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 7">
+      <EffectLayer>
+        <Effect ref="8" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 8">
+      <EffectLayer>
+        <Effect ref="9" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 9">
+      <EffectLayer>
+        <Effect ref="10" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 10">
+      <EffectLayer>
+        <Effect ref="11" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 11">
+      <EffectLayer>
+        <Effect ref="12" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 12">
+      <EffectLayer>
+        <Effect ref="13" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 13">
+      <EffectLayer>
+        <Effect ref="14" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 14">
+      <EffectLayer>
+        <Effect ref="15" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 15">
+      <EffectLayer>
+        <Effect ref="16" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Gift Box 16">
+      <EffectLayer>
+        <Effect ref="17" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A1-1">
+      <EffectLayer>
+        <Effect ref="18" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A1-2">
+      <EffectLayer>
+        <Effect ref="19" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A1-3">
+      <EffectLayer>
+        <Effect ref="20" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A1-4">
+      <EffectLayer>
+        <Effect ref="21" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A2-1">
+      <EffectLayer>
+        <Effect ref="22" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A2-2">
+      <EffectLayer>
+        <Effect ref="23" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A2-3">
+      <EffectLayer>
+        <Effect ref="24" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A2-4">
+      <EffectLayer>
+        <Effect ref="25" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A3-1">
+      <EffectLayer>
+        <Effect ref="26" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A3-2">
+      <EffectLayer>
+        <Effect ref="27" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A3-3">
+      <EffectLayer>
+        <Effect ref="28" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A3-4">
+      <EffectLayer>
+        <Effect ref="29" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="B1-1">
+      <EffectLayer>
+        <Effect ref="30" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="B1-2">
+      <EffectLayer>
+        <Effect ref="31" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="B1-3">
+      <EffectLayer>
+        <Effect ref="32" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="B1-4">
+      <EffectLayer>
+        <Effect ref="33" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="B2-1">
+      <EffectLayer>
+        <Effect ref="34" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="B2-2">
+      <EffectLayer>
+        <Effect ref="35" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="B2-3">
+      <EffectLayer>
+        <Effect ref="36" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="B2-4">
+      <EffectLayer>
+        <Effect ref="37" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="C1-1">
+      <EffectLayer>
+        <Effect ref="38" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="C1-2">
+      <EffectLayer>
+        <Effect ref="39" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="C1-3">
+      <EffectLayer>
+        <Effect ref="40" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="C1-4">
+      <EffectLayer>
+        <Effect ref="41" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="C2-1">
+      <EffectLayer>
+        <Effect ref="42" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="C2-2">
+      <EffectLayer>
+        <Effect ref="43" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="C2-3">
+      <EffectLayer>
+        <Effect ref="44" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="C2-4">
+      <EffectLayer>
+        <Effect ref="45" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D1-1">
+      <EffectLayer>
+        <Effect ref="46" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D1-2">
+      <EffectLayer>
+        <Effect ref="47" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D1-3">
+      <EffectLayer>
+        <Effect ref="48" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D1-4">
+      <EffectLayer>
+        <Effect ref="49" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D2-1">
+      <EffectLayer>
+        <Effect ref="50" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D2-2">
+      <EffectLayer>
+        <Effect ref="51" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D2-3">
+      <EffectLayer>
+        <Effect ref="52" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D2-4">
+      <EffectLayer>
+        <Effect ref="53" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D3-1">
+      <EffectLayer>
+        <Effect ref="54" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D3-2">
+      <EffectLayer>
+        <Effect ref="55" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D3-3">
+      <EffectLayer>
+        <Effect ref="56" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D3-4">
+      <EffectLayer>
+        <Effect ref="57" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D4-1">
+      <EffectLayer>
+        <Effect ref="58" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D4-2">
+      <EffectLayer>
+        <Effect ref="59" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D4-3">
+      <EffectLayer>
+        <Effect ref="60" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D4-4">
+      <EffectLayer>
+        <Effect ref="61" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="E2-1">
+      <EffectLayer>
+        <Effect ref="62" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="E2-2">
+      <EffectLayer>
+        <Effect ref="63" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="E2-3">
+      <EffectLayer>
+        <Effect ref="64" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="E2-4">
+      <EffectLayer>
+        <Effect ref="65" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="F1-1">
+      <EffectLayer>
+        <Effect ref="66" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="F1-2">
+      <EffectLayer>
+        <Effect ref="67" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="F1-3">
+      <EffectLayer>
+        <Effect ref="68" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="F1-4">
+      <EffectLayer>
+        <Effect ref="69" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="F2-1">
+      <EffectLayer>
+        <Effect ref="70" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="F2-2">
+      <EffectLayer>
+        <Effect ref="71" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="F2-3">
+      <EffectLayer>
+        <Effect ref="72" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="F2-4">
+      <EffectLayer>
+        <Effect ref="73" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="G1-1">
+      <EffectLayer>
+        <Effect ref="74" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="G1-2">
+      <EffectLayer>
+        <Effect ref="75" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="G1-3">
+      <EffectLayer>
+        <Effect ref="76" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="G1-4">
+      <EffectLayer>
+        <Effect ref="77" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="G2-1">
+      <EffectLayer>
+        <Effect ref="78" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="G2-2">
+      <EffectLayer>
+        <Effect ref="79" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="G2-3">
+      <EffectLayer>
+        <Effect ref="80" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="G2-4">
+      <EffectLayer>
+        <Effect ref="81" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H1">
+      <EffectLayer>
+        <Effect ref="82" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H2">
+      <EffectLayer>
+        <Effect ref="83" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H3">
+      <EffectLayer>
+        <Effect ref="84" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H4">
+      <EffectLayer>
+        <Effect ref="85" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H5">
+      <EffectLayer>
+        <Effect ref="86" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H6">
+      <EffectLayer>
+        <Effect ref="87" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H7">
+      <EffectLayer>
+        <Effect ref="88" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H8">
+      <EffectLayer>
+        <Effect ref="89" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H9">
+      <EffectLayer>
+        <Effect ref="90" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H10">
+      <EffectLayer>
+        <Effect ref="91" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H11">
+      <EffectLayer>
+        <Effect ref="92" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H12">
+      <EffectLayer>
+        <Effect ref="93" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H13">
+      <EffectLayer>
+        <Effect ref="94" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H14">
+      <EffectLayer>
+        <Effect ref="95" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H15">
+      <EffectLayer>
+        <Effect ref="96" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="H16">
+      <EffectLayer>
+        <Effect ref="97" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="I1-1">
+      <EffectLayer>
+        <Effect ref="98" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="I1-2">
+      <EffectLayer>
+        <Effect ref="99" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="I1-3">
+      <EffectLayer>
+        <Effect ref="100" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="I1-4">
+      <EffectLayer>
+        <Effect ref="101" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="I2-1">
+      <EffectLayer>
+        <Effect ref="102" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="I2-2">
+      <EffectLayer>
+        <Effect ref="103" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="I2-3">
+      <EffectLayer>
+        <Effect ref="104" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="I2-4">
+      <EffectLayer>
+        <Effect ref="105" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="J1-1">
+      <EffectLayer>
+        <Effect ref="106" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="J1-2">
+      <EffectLayer>
+        <Effect ref="107" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="J1-3">
+      <EffectLayer>
+        <Effect ref="108" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="J1-4">
+      <EffectLayer>
+        <Effect ref="109" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="J2-1">
+      <EffectLayer>
+        <Effect ref="110" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="J2-2">
+      <EffectLayer>
+        <Effect ref="111" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="J2-3">
+      <EffectLayer>
+        <Effect ref="112" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="J2-4">
+      <EffectLayer>
+        <Effect ref="113" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-1">
+      <EffectLayer>
+        <Effect ref="114" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-2">
+      <EffectLayer>
+        <Effect ref="115" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-3">
+      <EffectLayer>
+        <Effect ref="116" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-4">
+      <EffectLayer>
+        <Effect ref="117" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-5">
+      <EffectLayer>
+        <Effect ref="118" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-6">
+      <EffectLayer>
+        <Effect ref="119" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-7">
+      <EffectLayer>
+        <Effect ref="120" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-8">
+      <EffectLayer>
+        <Effect ref="121" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-9">
+      <EffectLayer>
+        <Effect ref="122" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-10">
+      <EffectLayer>
+        <Effect ref="123" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-11">
+      <EffectLayer>
+        <Effect ref="124" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-12">
+      <EffectLayer>
+        <Effect ref="125" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-13">
+      <EffectLayer>
+        <Effect ref="126" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-14">
+      <EffectLayer>
+        <Effect ref="127" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-15">
+      <EffectLayer>
+        <Effect ref="128" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K1-16">
+      <EffectLayer>
+        <Effect ref="129" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-1">
+      <EffectLayer>
+        <Effect ref="130" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-2">
+      <EffectLayer>
+        <Effect ref="131" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-3">
+      <EffectLayer>
+        <Effect ref="132" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-4">
+      <EffectLayer>
+        <Effect ref="133" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-5">
+      <EffectLayer>
+        <Effect ref="134" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-6">
+      <EffectLayer>
+        <Effect ref="135" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-7">
+      <EffectLayer>
+        <Effect ref="136" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-8">
+      <EffectLayer>
+        <Effect ref="137" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-9">
+      <EffectLayer>
+        <Effect ref="138" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-10">
+      <EffectLayer>
+        <Effect ref="139" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-11">
+      <EffectLayer>
+        <Effect ref="140" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-12">
+      <EffectLayer>
+        <Effect ref="141" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-13">
+      <EffectLayer>
+        <Effect ref="142" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-14">
+      <EffectLayer>
+        <Effect ref="143" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-15">
+      <EffectLayer>
+        <Effect ref="144" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K2-16">
+      <EffectLayer>
+        <Effect ref="145" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-1">
+      <EffectLayer>
+        <Effect ref="146" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-2">
+      <EffectLayer>
+        <Effect ref="147" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-3">
+      <EffectLayer>
+        <Effect ref="148" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-4">
+      <EffectLayer>
+        <Effect ref="149" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-5">
+      <EffectLayer>
+        <Effect ref="150" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-6">
+      <EffectLayer>
+        <Effect ref="151" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-7">
+      <EffectLayer>
+        <Effect ref="152" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-8">
+      <EffectLayer>
+        <Effect ref="153" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-9">
+      <EffectLayer>
+        <Effect ref="154" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-10">
+      <EffectLayer>
+        <Effect ref="155" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-11">
+      <EffectLayer>
+        <Effect ref="156" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-12">
+      <EffectLayer>
+        <Effect ref="157" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-13">
+      <EffectLayer>
+        <Effect ref="158" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-14">
+      <EffectLayer>
+        <Effect ref="159" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-15">
+      <EffectLayer>
+        <Effect ref="160" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="K3-16">
+      <EffectLayer>
+        <Effect ref="161" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 1">
+      <EffectLayer>
+        <Effect ref="162" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 2">
+      <EffectLayer>
+        <Effect ref="163" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 3">
+      <EffectLayer>
+        <Effect ref="164" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 4">
+      <EffectLayer>
+        <Effect ref="165" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 5">
+      <EffectLayer>
+        <Effect ref="166" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 6">
+      <EffectLayer>
+        <Effect ref="167" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 7">
+      <EffectLayer>
+        <Effect ref="168" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 8">
+      <EffectLayer>
+        <Effect ref="169" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 9">
+      <EffectLayer>
+        <Effect ref="170" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 10">
+      <EffectLayer>
+        <Effect ref="171" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 11">
+      <EffectLayer>
+        <Effect ref="172" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 12">
+      <EffectLayer>
+        <Effect ref="173" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 13">
+      <EffectLayer>
+        <Effect ref="174" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 14">
+      <EffectLayer>
+        <Effect ref="175" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 15">
+      <EffectLayer>
+        <Effect ref="176" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 16">
+      <EffectLayer>
+        <Effect ref="177" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 17">
+      <EffectLayer>
+        <Effect ref="178" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 18">
+      <EffectLayer>
+        <Effect ref="179" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 19">
+      <EffectLayer>
+        <Effect ref="180" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 20">
+      <EffectLayer>
+        <Effect ref="181" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 21">
+      <EffectLayer>
+        <Effect ref="182" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 22">
+      <EffectLayer>
+        <Effect ref="183" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 23">
+      <EffectLayer>
+        <Effect ref="184" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 24">
+      <EffectLayer>
+        <Effect ref="185" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 25">
+      <EffectLayer>
+        <Effect ref="186" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 26">
+      <EffectLayer>
+        <Effect ref="187" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 27">
+      <EffectLayer>
+        <Effect ref="188" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 28">
+      <EffectLayer>
+        <Effect ref="189" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 29">
+      <EffectLayer>
+        <Effect ref="190" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 30">
+      <EffectLayer>
+        <Effect ref="191" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 31">
+      <EffectLayer>
+        <Effect ref="192" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tunnel 32">
+      <EffectLayer>
+        <Effect ref="193" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="E-Trellis-1">
+      <EffectLayer>
+        <Effect ref="194" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="E-Trellis-2">
+      <EffectLayer>
+        <Effect ref="195" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="E-Trellis-3">
+      <EffectLayer>
+        <Effect ref="196" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="E-Trellis-4">
+      <EffectLayer>
+        <Effect ref="197" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Pixicle 10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixicle 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixicle 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixicle 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixicle 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixicle 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixicle 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixicle 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixicle 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixicle 9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="North Tree 1">
+      <EffectLayer>
+        <Effect ref="198" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 2">
+      <EffectLayer>
+        <Effect ref="199" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 3">
+      <EffectLayer>
+        <Effect ref="200" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 4">
+      <EffectLayer>
+        <Effect ref="201" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 5">
+      <EffectLayer>
+        <Effect ref="202" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 6">
+      <EffectLayer>
+        <Effect ref="203" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 7">
+      <EffectLayer>
+        <Effect ref="204" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 8">
+      <EffectLayer>
+        <Effect ref="205" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 9">
+      <EffectLayer>
+        <Effect ref="206" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 10">
+      <EffectLayer>
+        <Effect ref="207" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 11">
+      <EffectLayer>
+        <Effect ref="208" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Tree 12">
+      <EffectLayer>
+        <Effect ref="209" name="Shader" startTime="0" endTime="60000" palette="1"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
