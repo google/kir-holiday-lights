@@ -11,6 +11,7 @@ Media/*
 # macOS metadata / resource forks
 ._*
 .DS_Store
+.vscode
 
 # Vim swap files
 *.swp
