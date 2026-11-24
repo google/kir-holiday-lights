@@ -1,0 +1,1 @@
+{"name":"HostDescription","pii":true,"description":"Host description","tip":"Description of host","default":"FPP","type":"text","size":30,"maxlength":48,"value":"bench"}

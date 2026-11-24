@@ -1,0 +1,1 @@
+{"name":"initialSetup-01","description":"Initial Setup Step 1","tip":"This setting is used to track if the initial setup step 1 has been completed.  This is used to determine if the initial setup page should be displayed.","exposedAsJSToPages":["index","all"],"value":"1"}

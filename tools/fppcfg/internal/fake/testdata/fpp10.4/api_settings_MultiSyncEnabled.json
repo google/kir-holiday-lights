@@ -1,0 +1,1 @@
+{"name":"MultiSyncEnabled","description":"Send MultiSync Packets","tip":"When enabled, FPP will send packets to FPP remotes to keep them in sync.","gatherStats":true,"restart":2,"type":"checkbox","reloadUI":1,"fppModes":["player"],"exposedAsJSToPages":["multisync"]}
