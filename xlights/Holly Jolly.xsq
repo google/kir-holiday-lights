@@ -226,7 +226,10 @@
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=top,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
     <Effect>E_CHECKBOX_Tree_ShowLights=0,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=10,T_TEXTCTRL_Fadein=1.00</Effect>
     <Effect>E_CHECKBOX_Tree_ShowLights=0,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=50</Effect>
-    <Effect>E_CHECKBOX_FadeWithDistance=1,E_CHECKBOX_Meteors_UseMusic=1,E_CHOICE_Meteors_Effect=Implode,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=100,E_SLIDER_Meteors_Length=100,E_SLIDER_Meteors_Speed=47,E_SLIDER_Meteors_Swirl_Intensity=0,E_TEXTCTRL_Meteors_XOffset=0,E_TEXTCTRL_Meteors_YOffset=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line Model As A Pixel,E_CHECKBOX_Twinkle_ReRandom=1,E_CHECKBOX_Twinkle_Strobe=1,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=30,E_SLIDER_Twinkle_Steps=5,T_CHECKBOX_Canvas=1</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Walkway Pixicles,E_CHECKBOX_FadeWithDistance=1,E_CHECKBOX_Meteors_UseMusic=1,E_CHOICE_Meteors_Effect=Implode,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=100,E_SLIDER_Meteors_Length=100,E_SLIDER_Meteors_Speed=47,E_SLIDER_Meteors_Swirl_Intensity=0,E_TEXTCTRL_Meteors_XOffset=0,E_TEXTCTRL_Meteors_YOffset=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Walkway Pixicles,E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=28,E_SLIDER_Plasma_Style=2,T_CHOICE_In_Transition_Type=Blend,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=0.30</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Walkway Pixicles,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=0,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=53,E_SLIDER_Shockwave_CenterY=26,E_SLIDER_Shockwave_End_Radius=250,E_SLIDER_Shockwave_End_Width=255,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=255</Effect>
     <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
     <Effect>B_CHOICE_BufferTransform=Rotate CC 90,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=0.6,T_TEXTCTRL_Fadeout=0.25</Effect>
     <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=68,E_SLIDER_Snowflakes_Speed=10,E_SLIDER_Snowflakes_Type=1</Effect>
@@ -9059,116 +9062,116 @@
         <Effect ref="0" name="On" id="4" startTime="3750" endTime="4150" palette="11"/>
         <Effect ref="0" name="On" id="5" startTime="4550" endTime="5000" palette="10"/>
         <Effect ref="0" name="On" id="6" startTime="5400" endTime="5800" palette="0"/>
-        <Effect ref="11" name="Twinkle" id="7" startTime="7000" endTime="7250" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="8" startTime="7800" endTime="8050" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="9" startTime="8550" endTime="8800" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="10" startTime="9350" endTime="9600" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="11" startTime="10100" endTime="10350" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="12" startTime="10900" endTime="11150" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="13" startTime="11700" endTime="11950" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="14" startTime="12450" endTime="12700" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="15" startTime="13250" endTime="13500" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="16" startTime="14050" endTime="14300" palette="32"/>
-        <Effect ref="82" name="Meteors" id="17" startTime="14850" endTime="15600" palette="33"/>
-        <Effect ref="11" name="Twinkle" id="18" startTime="15650" endTime="15900" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="19" startTime="16400" endTime="16650" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="20" startTime="17200" endTime="17450" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="7" startTime="7000" endTime="7250" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="8" startTime="7800" endTime="8050" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="9" startTime="8550" endTime="8800" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="10" startTime="9350" endTime="9600" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="11" startTime="10100" endTime="10350" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="12" startTime="10900" endTime="11150" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="13" startTime="11700" endTime="11950" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="14" startTime="12450" endTime="12700" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="15" startTime="13250" endTime="13500" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="16" startTime="14050" endTime="14300" palette="32"/>
+        <Effect ref="83" name="Meteors" id="17" startTime="14850" endTime="15600" palette="33"/>
+        <Effect ref="82" name="Twinkle" id="18" startTime="15650" endTime="15900" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="19" startTime="16400" endTime="16650" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="20" startTime="17200" endTime="17450" palette="32"/>
         <Effect ref="40" name="On" id="21" startTime="17550" endTime="17850" palette="1"/>
-        <Effect ref="11" name="Twinkle" id="22" startTime="18000" endTime="18250" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="23" startTime="18800" endTime="19050" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="24" startTime="19600" endTime="19850" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="25" startTime="20400" endTime="20650" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="26" startTime="21200" endTime="21450" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="27" startTime="22000" endTime="22250" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="28" startTime="22800" endTime="23050" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="29" startTime="23550" endTime="23800" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="30" startTime="24350" endTime="24600" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="31" startTime="25150" endTime="25400" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="32" startTime="25950" endTime="26200" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="33" startTime="26750" endTime="27000" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="34" startTime="27550" endTime="27800" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="35" startTime="28350" endTime="28600" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="36" startTime="29150" endTime="29400" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="37" startTime="29950" endTime="30200" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="38" startTime="30750" endTime="31000" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="39" startTime="31550" endTime="31800" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="40" startTime="32350" endTime="32600" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="41" startTime="33100" endTime="33350" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="42" startTime="33900" endTime="34150" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="43" startTime="34700" endTime="34950" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="22" startTime="18000" endTime="18250" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="23" startTime="18800" endTime="19050" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="24" startTime="19600" endTime="19850" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="25" startTime="20400" endTime="20650" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="26" startTime="21200" endTime="21450" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="27" startTime="22000" endTime="22250" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="28" startTime="22800" endTime="23050" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="29" startTime="23550" endTime="23800" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="30" startTime="24350" endTime="24600" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="31" startTime="25150" endTime="25400" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="32" startTime="25950" endTime="26200" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="33" startTime="26750" endTime="27000" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="34" startTime="27550" endTime="27800" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="35" startTime="28350" endTime="28600" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="36" startTime="29150" endTime="29400" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="37" startTime="29950" endTime="30200" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="38" startTime="30750" endTime="31000" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="39" startTime="31550" endTime="31800" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="40" startTime="32350" endTime="32600" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="41" startTime="33100" endTime="33350" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="42" startTime="33900" endTime="34150" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="43" startTime="34700" endTime="34950" palette="32"/>
         <Effect ref="0" name="Color Wash" id="44" startTime="34950" endTime="35450" palette="13"/>
-        <Effect ref="11" name="Twinkle" id="45" startTime="35450" endTime="35700" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="46" startTime="36250" endTime="36500" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="45" startTime="35450" endTime="35700" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="46" startTime="36250" endTime="36500" palette="32"/>
         <Effect ref="0" name="On" id="47" startTime="36550" endTime="37050" palette="11"/>
-        <Effect ref="11" name="Twinkle" id="48" startTime="37050" endTime="37300" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="49" startTime="37850" endTime="38100" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="50" startTime="38650" endTime="38900" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="51" startTime="39450" endTime="39700" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="52" startTime="40250" endTime="40500" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="53" startTime="41050" endTime="41300" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="54" startTime="41850" endTime="42100" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="55" startTime="42650" endTime="42900" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="48" startTime="37050" endTime="37300" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="49" startTime="37850" endTime="38100" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="50" startTime="38650" endTime="38900" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="51" startTime="39450" endTime="39700" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="52" startTime="40250" endTime="40500" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="53" startTime="41050" endTime="41300" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="54" startTime="41850" endTime="42100" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="55" startTime="42650" endTime="42900" palette="32"/>
         <Effect ref="13" name="On" id="56" startTime="42900" endTime="43450" palette="14"/>
         <Effect ref="14" name="Shimmer" id="57" startTime="43450" endTime="44150" palette="4"/>
-        <Effect ref="11" name="Twinkle" id="58" startTime="44250" endTime="44500" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="59" startTime="45050" endTime="45300" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="60" startTime="45850" endTime="46100" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="61" startTime="46650" endTime="46900" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="62" startTime="47450" endTime="47700" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="63" startTime="48250" endTime="48500" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="64" startTime="49050" endTime="49300" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="65" startTime="49800" endTime="50050" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="66" startTime="50550" endTime="50800" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="58" startTime="44250" endTime="44500" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="59" startTime="45050" endTime="45300" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="60" startTime="45850" endTime="46100" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="61" startTime="46650" endTime="46900" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="62" startTime="47450" endTime="47700" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="63" startTime="48250" endTime="48500" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="64" startTime="49050" endTime="49300" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="65" startTime="49800" endTime="50050" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="66" startTime="50550" endTime="50800" palette="32"/>
         <Effect ref="0" name="On" id="67" startTime="50900" endTime="51250" palette="13"/>
-        <Effect ref="11" name="Twinkle" id="68" startTime="51400" endTime="51650" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="68" startTime="51400" endTime="51650" palette="32"/>
         <Effect ref="0" name="On" id="69" startTime="51800" endTime="52150" palette="11"/>
-        <Effect ref="11" name="Twinkle" id="70" startTime="52150" endTime="52400" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="71" startTime="52950" endTime="53200" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="72" startTime="53750" endTime="54000" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="73" startTime="54550" endTime="54800" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="74" startTime="55350" endTime="55600" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="70" startTime="52150" endTime="52400" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="71" startTime="52950" endTime="53200" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="72" startTime="53750" endTime="54000" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="73" startTime="54550" endTime="54800" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="74" startTime="55350" endTime="55600" palette="32"/>
         <Effect ref="0" name="On" id="75" startTime="55750" endTime="56150" palette="10"/>
-        <Effect ref="11" name="Twinkle" id="76" startTime="56150" endTime="56400" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="77" startTime="56950" endTime="57200" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="78" startTime="57700" endTime="57950" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="79" startTime="58500" endTime="58750" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="80" startTime="59300" endTime="59550" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="81" startTime="60100" endTime="60350" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="82" startTime="60900" endTime="61150" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="83" startTime="61700" endTime="61950" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="84" startTime="62500" endTime="62750" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="76" startTime="56150" endTime="56400" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="77" startTime="56950" endTime="57200" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="78" startTime="57700" endTime="57950" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="79" startTime="58500" endTime="58750" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="80" startTime="59300" endTime="59550" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="81" startTime="60100" endTime="60350" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="82" startTime="60900" endTime="61150" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="83" startTime="61700" endTime="61950" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="84" startTime="62500" endTime="62750" palette="32"/>
         <Effect ref="0" name="On" id="85" startTime="62750" endTime="62900" palette="22"/>
         <Effect ref="0" name="On" id="86" startTime="62900" endTime="63150" palette="34"/>
         <Effect ref="0" name="On" id="87" startTime="63150" endTime="63250" palette="35"/>
-        <Effect ref="11" name="Twinkle" id="88" startTime="63350" endTime="63600" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="89" startTime="64050" endTime="64300" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="90" startTime="64850" endTime="65100" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="88" startTime="63350" endTime="63600" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="89" startTime="64050" endTime="64300" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="90" startTime="64850" endTime="65100" palette="32"/>
         <Effect ref="0" name="On" id="91" startTime="65500" endTime="65650" palette="36"/>
-        <Effect ref="11" name="Twinkle" id="92" startTime="65650" endTime="65900" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="93" startTime="66450" endTime="66700" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="94" startTime="67250" endTime="67500" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="95" startTime="68000" endTime="68250" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="96" startTime="68800" endTime="69050" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="97" startTime="69600" endTime="69850" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="98" startTime="70400" endTime="70650" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="99" startTime="71200" endTime="71450" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="100" startTime="71950" endTime="72200" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="101" startTime="72750" endTime="73000" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="102" startTime="73550" endTime="73800" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="103" startTime="74300" endTime="74550" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="104" startTime="75100" endTime="75350" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="105" startTime="75900" endTime="76150" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="106" startTime="76650" endTime="76900" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="107" startTime="77450" endTime="77700" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="92" startTime="65650" endTime="65900" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="93" startTime="66450" endTime="66700" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="94" startTime="67250" endTime="67500" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="95" startTime="68000" endTime="68250" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="96" startTime="68800" endTime="69050" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="97" startTime="69600" endTime="69850" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="98" startTime="70400" endTime="70650" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="99" startTime="71200" endTime="71450" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="100" startTime="71950" endTime="72200" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="101" startTime="72750" endTime="73000" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="102" startTime="73550" endTime="73800" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="103" startTime="74300" endTime="74550" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="104" startTime="75100" endTime="75350" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="105" startTime="75900" endTime="76150" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="106" startTime="76650" endTime="76900" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="107" startTime="77450" endTime="77700" palette="32"/>
         <Effect ref="0" name="On" id="108" startTime="78250" endTime="78500" palette="16"/>
         <Effect ref="35" name="On" id="109" startTime="78500" endTime="78650" palette="10"/>
         <Effect ref="0" name="On" id="110" startTime="78650" endTime="78900" palette="17"/>
         <Effect ref="0" name="On" id="111" startTime="78900" endTime="79000" palette="9"/>
-        <Effect ref="11" name="Twinkle" id="112" startTime="79100" endTime="79350" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="113" startTime="79800" endTime="80050" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="114" startTime="80600" endTime="80850" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="112" startTime="79100" endTime="79350" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="113" startTime="79800" endTime="80050" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="114" startTime="80600" endTime="80850" palette="32"/>
         <Effect ref="0" name="On" id="115" startTime="80850" endTime="81000" palette="0"/>
-        <Effect ref="11" name="Twinkle" id="116" startTime="81400" endTime="81650" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="116" startTime="81400" endTime="81650" palette="32"/>
         <Effect ref="15" name="On" id="117" startTime="82650" endTime="83100" palette="36"/>
         <Effect ref="16" name="On" id="118" startTime="83100" endTime="83550" palette="36"/>
         <Effect ref="17" name="On" id="119" startTime="83550" endTime="83900" palette="0"/>
@@ -9184,31 +9187,31 @@
         <Effect ref="2" name="On" id="129" startTime="94450" endTime="94550" palette="22"/>
         <Effect ref="18" name="On" id="130" startTime="94550" endTime="94950" palette="22"/>
         <Effect ref="17" name="On" id="131" startTime="94950" endTime="95250" palette="31"/>
-        <Effect ref="11" name="Twinkle" id="132" startTime="95350" endTime="95600" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="133" startTime="96200" endTime="96450" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="134" startTime="96950" endTime="97200" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="135" startTime="97750" endTime="98000" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="136" startTime="98550" endTime="98800" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="137" startTime="99350" endTime="99600" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="138" startTime="100100" endTime="100350" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="139" startTime="100900" endTime="101150" palette="37"/>
-        <Effect ref="11" name="Twinkle" id="140" startTime="101700" endTime="101950" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="141" startTime="102500" endTime="102750" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="132" startTime="95350" endTime="95600" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="133" startTime="96200" endTime="96450" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="134" startTime="96950" endTime="97200" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="135" startTime="97750" endTime="98000" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="136" startTime="98550" endTime="98800" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="137" startTime="99350" endTime="99600" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="138" startTime="100100" endTime="100350" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="139" startTime="100900" endTime="101150" palette="37"/>
+        <Effect ref="82" name="Twinkle" id="140" startTime="101700" endTime="101950" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="141" startTime="102500" endTime="102750" palette="32"/>
         <Effect ref="0" name="On" id="142" startTime="102900" endTime="103050" palette="17"/>
         <Effect ref="0" name="On" id="143" startTime="103050" endTime="103300" palette="55"/>
-        <Effect ref="11" name="Twinkle" id="144" startTime="103300" endTime="103550" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="144" startTime="103300" endTime="103550" palette="32"/>
         <Effect ref="0" name="On" id="145" startTime="103550" endTime="103700" palette="29"/>
-        <Effect ref="11" name="Twinkle" id="146" startTime="104100" endTime="104350" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="146" startTime="104100" endTime="104350" palette="32"/>
         <Effect ref="0" name="On" id="147" startTime="104500" endTime="104900" palette="79"/>
-        <Effect ref="11" name="Twinkle" id="148" startTime="104900" endTime="105150" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="149" startTime="105700" endTime="105950" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="150" startTime="106500" endTime="106750" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="151" startTime="107300" endTime="107550" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="152" startTime="108150" endTime="108400" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="153" startTime="108900" endTime="109150" palette="32"/>
-        <Effect ref="11" name="Twinkle" id="154" startTime="109700" endTime="109950" palette="32"/>
-        <Effect ref="44" name="Plasma" id="155" startTime="110300" endTime="113150" palette="38"/>
-        <Effect ref="20" name="Shockwave" id="156" startTime="113150" endTime="113550" palette="39"/>
+        <Effect ref="82" name="Twinkle" id="148" startTime="104900" endTime="105150" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="149" startTime="105700" endTime="105950" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="150" startTime="106500" endTime="106750" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="151" startTime="107300" endTime="107550" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="152" startTime="108150" endTime="108400" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="153" startTime="108900" endTime="109150" palette="32"/>
+        <Effect ref="82" name="Twinkle" id="154" startTime="109700" endTime="109950" palette="32"/>
+        <Effect ref="84" name="Plasma" id="155" startTime="110300" endTime="113150" palette="38"/>
+        <Effect ref="85" name="Shockwave" id="156" startTime="113150" endTime="113550" palette="39"/>
         <Effect ref="0" name="On" id="157" startTime="114400" endTime="114500" palette="40"/>
         <Effect ref="0" name="On" id="158" startTime="115100" endTime="115250" palette="41"/>
         <Effect ref="21" name="Shimmer" id="159" startTime="116050" endTime="117000" palette="42"/>
@@ -9234,7 +9237,7 @@
     </Element>
     <Element type="model" name="Pixicle 7">
       <EffectLayer>
-        <Effect ref="83" name="Curtain" startTime="93350" endTime="93750" palette="11"/>
+        <Effect ref="86" name="Curtain" startTime="93350" endTime="93750" palette="11"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Pixicle 8">
@@ -9248,8 +9251,8 @@
     </Element>
     <Element type="model" name="North Trees">
       <EffectLayer>
-        <Effect ref="84" name="Bars" startTime="13550" endTime="14450" palette="27"/>
-        <Effect ref="85" name="Snowflakes" id="1" startTime="14850" endTime="15600" palette="33"/>
+        <Effect ref="87" name="Bars" startTime="13550" endTime="14450" palette="27"/>
+        <Effect ref="88" name="Snowflakes" id="1" startTime="14850" endTime="15600" palette="33"/>
         <Effect ref="11" name="Twinkle" id="2" startTime="15650" endTime="15900" palette="32"/>
         <Effect ref="40" name="On" id="3" startTime="17550" endTime="17850" palette="1"/>
         <Effect ref="7" name="On" id="4" startTime="18400" endTime="19050" palette="1"/>
@@ -9264,7 +9267,7 @@
         <Effect ref="30" name="Butterfly" id="13" startTime="25950" endTime="26950" palette="66"/>
         <Effect ref="31" name="On" id="14" startTime="32300" endTime="32700" palette="16"/>
         <Effect ref="32" name="On" id="15" startTime="32700" endTime="33350" palette="16"/>
-        <Effect ref="86" name="Bars" id="16" startTime="34200" endTime="34700" palette="27"/>
+        <Effect ref="89" name="Bars" id="16" startTime="34200" endTime="34700" palette="27"/>
         <Effect ref="0" name="On" id="17" startTime="34950" endTime="35450" palette="14"/>
         <Effect ref="0" name="On" id="18" startTime="35450" endTime="35850" palette="67"/>
         <Effect ref="0" name="On" id="19" startTime="35850" endTime="36250" palette="10"/>
@@ -9366,16 +9369,16 @@
         <Effect ref="0" name="On" id="44" startTime="95250" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="45" startTime="98050" endTime="98700" palette="11"/>
         <Effect ref="0" name="On" id="46" startTime="100900" endTime="101100" palette="24"/>
-        <Effect ref="87" name="Fill" id="47" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="48" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="49" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="50" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="51" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="52" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="53" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="54" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="55" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="56" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="47" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="48" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="49" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="50" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="51" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="52" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="53" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="54" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="55" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="56" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="57" startTime="106900" endTime="108250" palette="19"/>
         <Effect ref="1" name="On" id="58" startTime="108250" endTime="109050" palette="19"/>
         <Effect ref="0" name="On" id="59" startTime="113550" endTime="113700" palette="43"/>
@@ -9431,16 +9434,16 @@
         <Effect ref="0" name="On" id="43" startTime="95450" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="44" startTime="98050" endTime="98950" palette="11"/>
         <Effect ref="0" name="On" id="45" startTime="101100" endTime="101300" palette="24"/>
-        <Effect ref="87" name="Fill" id="46" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="47" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="48" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="49" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="50" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="51" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="52" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="53" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="54" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="55" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="46" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="47" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="48" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="49" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="50" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="51" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="52" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="53" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="54" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="55" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="56" startTime="107750" endTime="108850" palette="19"/>
         <Effect ref="1" name="On" id="57" startTime="108850" endTime="109550" palette="19"/>
         <Effect ref="0" name="On" id="58" startTime="113550" endTime="113700" palette="19"/>
@@ -9497,16 +9500,16 @@
         <Effect ref="0" name="On" id="42" startTime="95650" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="43" startTime="98050" endTime="99150" palette="11"/>
         <Effect ref="0" name="On" id="44" startTime="101300" endTime="101500" palette="24"/>
-        <Effect ref="87" name="Fill" id="45" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="46" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="47" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="48" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="49" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="50" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="51" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="52" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="53" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="54" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="45" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="46" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="47" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="48" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="49" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="50" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="51" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="52" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="53" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="54" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="55" startTime="106900" endTime="108250" palette="19"/>
         <Effect ref="1" name="On" id="56" startTime="108250" endTime="109050" palette="19"/>
         <Effect ref="0" name="On" id="57" startTime="113550" endTime="113700" palette="43"/>
@@ -9566,16 +9569,16 @@
         <Effect ref="0" name="On" id="46" startTime="95900" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="47" startTime="98050" endTime="99300" palette="11"/>
         <Effect ref="0" name="On" id="48" startTime="101500" endTime="101700" palette="24"/>
-        <Effect ref="87" name="Fill" id="49" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="50" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="51" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="52" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="53" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="54" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="55" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="56" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="57" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="58" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="49" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="50" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="51" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="52" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="53" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="54" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="55" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="56" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="57" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="58" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="59" startTime="107750" endTime="108850" palette="19"/>
         <Effect ref="1" name="On" id="60" startTime="108850" endTime="109550" palette="19"/>
         <Effect ref="0" name="On" id="61" startTime="113550" endTime="113700" palette="19"/>
@@ -9634,16 +9637,16 @@
         <Effect ref="0" name="On" id="45" startTime="96500" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="46" startTime="98050" endTime="99500" palette="11"/>
         <Effect ref="0" name="On" id="47" startTime="101700" endTime="101900" palette="24"/>
-        <Effect ref="87" name="Fill" id="48" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="49" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="50" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="51" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="52" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="53" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="54" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="55" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="56" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="57" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="48" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="49" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="50" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="51" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="52" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="53" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="54" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="55" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="56" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="57" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="58" startTime="106900" endTime="108250" palette="19"/>
         <Effect ref="1" name="On" id="59" startTime="108250" endTime="109050" palette="19"/>
         <Effect ref="0" name="On" id="60" startTime="113550" endTime="113700" palette="43"/>
@@ -9703,16 +9706,16 @@
         <Effect ref="0" name="On" id="45" startTime="96850" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="46" startTime="98050" endTime="99600" palette="11"/>
         <Effect ref="0" name="On" id="47" startTime="101900" endTime="102050" palette="24"/>
-        <Effect ref="87" name="Fill" id="48" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="49" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="50" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="51" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="52" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="53" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="54" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="55" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="56" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="57" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="48" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="49" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="50" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="51" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="52" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="53" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="54" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="55" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="56" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="57" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="58" startTime="107750" endTime="108850" palette="19"/>
         <Effect ref="1" name="On" id="59" startTime="108850" endTime="109550" palette="19"/>
         <Effect ref="0" name="On" id="60" startTime="113550" endTime="113700" palette="19"/>
@@ -9758,16 +9761,16 @@
         <Effect ref="0" name="On" id="33" startTime="97250" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="34" startTime="98050" endTime="100000" palette="11"/>
         <Effect ref="0" name="On" id="35" startTime="102050" endTime="102200" palette="24"/>
-        <Effect ref="87" name="Fill" id="36" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="37" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="38" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="39" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="40" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="41" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="42" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="43" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="44" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="45" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="36" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="37" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="38" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="39" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="40" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="41" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="42" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="43" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="44" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="45" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="46" startTime="106900" endTime="108250" palette="19"/>
         <Effect ref="1" name="On" id="47" startTime="108250" endTime="109050" palette="19"/>
         <Effect ref="0" name="On" id="48" startTime="113550" endTime="113700" palette="43"/>
@@ -9825,16 +9828,16 @@
         <Effect ref="0" name="On" id="43" startTime="97650" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="44" startTime="98050" endTime="100100" palette="11"/>
         <Effect ref="0" name="On" id="45" startTime="101900" endTime="102050" palette="24"/>
-        <Effect ref="87" name="Fill" id="46" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="47" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="48" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="49" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="50" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="51" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="52" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="53" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="54" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="55" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="46" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="47" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="48" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="49" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="50" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="51" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="52" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="53" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="54" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="55" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="56" startTime="107750" endTime="108850" palette="19"/>
         <Effect ref="1" name="On" id="57" startTime="108850" endTime="109550" palette="19"/>
         <Effect ref="0" name="On" id="58" startTime="113550" endTime="113700" palette="19"/>
@@ -9888,16 +9891,16 @@
         <Effect ref="0" name="On" id="38" startTime="95900" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="39" startTime="98050" endTime="99300" palette="11"/>
         <Effect ref="0" name="On" id="40" startTime="101700" endTime="101900" palette="24"/>
-        <Effect ref="87" name="Fill" id="41" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="42" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="43" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="44" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="45" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="46" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="47" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="48" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="49" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="50" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="41" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="42" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="43" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="44" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="45" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="46" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="47" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="48" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="49" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="50" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="51" startTime="106900" endTime="108250" palette="19"/>
         <Effect ref="1" name="On" id="52" startTime="108250" endTime="109050" palette="19"/>
         <Effect ref="0" name="On" id="53" startTime="113550" endTime="113700" palette="43"/>
@@ -9955,16 +9958,16 @@
         <Effect ref="0" name="On" id="45" startTime="95650" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="46" startTime="98050" endTime="99150" palette="11"/>
         <Effect ref="0" name="On" id="47" startTime="101500" endTime="101700" palette="24"/>
-        <Effect ref="87" name="Fill" id="48" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="49" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="50" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="51" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="52" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="53" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="54" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="55" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="56" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="57" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="48" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="49" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="50" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="51" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="52" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="53" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="54" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="55" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="56" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="57" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="58" startTime="107750" endTime="108850" palette="19"/>
         <Effect ref="1" name="On" id="59" startTime="108850" endTime="109550" palette="19"/>
         <Effect ref="0" name="On" id="60" startTime="113550" endTime="113700" palette="19"/>
@@ -10021,16 +10024,16 @@
         <Effect ref="0" name="On" id="42" startTime="95450" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="43" startTime="98050" endTime="98950" palette="11"/>
         <Effect ref="0" name="On" id="44" startTime="101300" endTime="101500" palette="24"/>
-        <Effect ref="87" name="Fill" id="45" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="46" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="47" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="48" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="49" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="50" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="51" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="52" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="53" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="54" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="45" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="46" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="47" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="48" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="49" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="50" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="51" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="52" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="53" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="54" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="55" startTime="106900" endTime="108250" palette="19"/>
         <Effect ref="1" name="On" id="56" startTime="108250" endTime="109050" palette="19"/>
         <Effect ref="0" name="On" id="57" startTime="113550" endTime="113700" palette="43"/>
@@ -10084,16 +10087,16 @@
         <Effect ref="0" name="On" id="40" startTime="95250" endTime="98050" palette="11"/>
         <Effect ref="1" name="On" id="41" startTime="98050" endTime="98700" palette="11"/>
         <Effect ref="0" name="On" id="42" startTime="101100" endTime="101300" palette="24"/>
-        <Effect ref="87" name="Fill" id="43" startTime="102500" endTime="102900" palette="118"/>
-        <Effect ref="87" name="Fill" id="44" startTime="102900" endTime="103050" palette="119"/>
-        <Effect ref="87" name="Fill" id="45" startTime="103050" endTime="103300" palette="120"/>
-        <Effect ref="87" name="Fill" id="46" startTime="103300" endTime="103550" palette="121"/>
-        <Effect ref="87" name="Fill" id="47" startTime="103550" endTime="103700" palette="122"/>
-        <Effect ref="87" name="Fill" id="48" startTime="103700" endTime="104500" palette="119"/>
-        <Effect ref="87" name="Fill" id="49" startTime="104500" endTime="104900" palette="120"/>
-        <Effect ref="87" name="Fill" id="50" startTime="104900" endTime="105300" palette="121"/>
-        <Effect ref="87" name="Fill" id="51" startTime="105300" endTime="106100" palette="102"/>
-        <Effect ref="88" name="Fill" id="52" startTime="106100" endTime="106900" palette="119"/>
+        <Effect ref="90" name="Fill" id="43" startTime="102500" endTime="102900" palette="118"/>
+        <Effect ref="90" name="Fill" id="44" startTime="102900" endTime="103050" palette="119"/>
+        <Effect ref="90" name="Fill" id="45" startTime="103050" endTime="103300" palette="120"/>
+        <Effect ref="90" name="Fill" id="46" startTime="103300" endTime="103550" palette="121"/>
+        <Effect ref="90" name="Fill" id="47" startTime="103550" endTime="103700" palette="122"/>
+        <Effect ref="90" name="Fill" id="48" startTime="103700" endTime="104500" palette="119"/>
+        <Effect ref="90" name="Fill" id="49" startTime="104500" endTime="104900" palette="120"/>
+        <Effect ref="90" name="Fill" id="50" startTime="104900" endTime="105300" palette="121"/>
+        <Effect ref="90" name="Fill" id="51" startTime="105300" endTime="106100" palette="102"/>
+        <Effect ref="91" name="Fill" id="52" startTime="106100" endTime="106900" palette="119"/>
         <Effect ref="0" name="On" id="53" startTime="107750" endTime="108850" palette="19"/>
         <Effect ref="1" name="On" id="54" startTime="108850" endTime="109550" palette="19"/>
         <Effect ref="0" name="On" id="55" startTime="113550" endTime="113700" palette="19"/>
