@@ -1,0 +1,1 @@
+{"name":"Latitude","pii":true,"description":"Latitude","tip":"Latitude of geographic location of FPP system.  The latitude\/longitude can be used by the FPP scheduler to calculate the sunrise\/sunset times.  The default values provided are for Falcon, Colorado.","restart":2,"default":"38.938524","type":"text","size":15,"maxlength":15,"value":"38.938524"}

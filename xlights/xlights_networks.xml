@@ -1,317 +1,317 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Networks computer="olaf" GlobalFPPProxy="" GlobalForceLocalIP="" AutoUpdateFromBase="0" BaseShowDir="">
-  <suppressframes frames="10"/>
-  <Controller Id="1" Name="FPP-ShowPlayer" Description="" Type="Ethernet" Vendor="FPP" Model="FPP Player Only" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.192" Protocol="Player Only" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP=""/>
-  <Controller Id="202" Name="Audio 202" Description="" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.202" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.202" BaudRate="202" NetworkType="DDP" MaxChannels="1" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="203" Name="Audio 203" Description="" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.203" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.203" BaudRate="203" NetworkType="DDP" MaxChannels="1" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="204" Name="Audio 204" Description="" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.204" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.204" BaudRate="204" NetworkType="DDP" MaxChannels="1" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="205" Name="Audio 205" Description="" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.205" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.205" BaudRate="205" NetworkType="DDP" MaxChannels="1" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="206" Name="Audio 206" Description="" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.206" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.206" BaudRate="206" NetworkType="DDP" MaxChannels="1" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="155" Name="GigaTree" Description="GigaTree" Type="Ethernet" Vendor="KulpLights" Model="K64D-B" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="75" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.155" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.155" BaudRate="155" NetworkType="DDP" MaxChannels="19830" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="150" Name="Mid Trellis" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.150" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.150" BaudRate="150" NetworkType="DDP" MaxChannels="2400" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="33" Name="Tunnel South" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.33" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="80" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.33" BaudRate="33" NetworkType="DDP" MaxChannels="2400" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="32" Name="Tunnel North" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.32" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.32" BaudRate="32" NetworkType="DDP" MaxChannels="2400" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="62" Name="North Trees A" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.62" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.62" BaudRate="62" NetworkType="DDP" MaxChannels="2400" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="63" Name="North Trees B" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.63" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.63" BaudRate="63" NetworkType="DDP" MaxChannels="2400" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="64" Name="North Trees C" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.64" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.64" BaudRate="64" NetworkType="DDP" MaxChannels="2400" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="154" Name="Pixicles" Description="" Type="Ethernet" Vendor="Falcon" Model="F4V3" Variant="No Expansion Board" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="30" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.154" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.154" BaudRate="154" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="70" Name="GiftBox1" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.70" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.70" BaudRate="70" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="71" Name="GiftBox2" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.71" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.71" BaudRate="71" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="72" Name="GiftBox3" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.72" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.72" BaudRate="72" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="73" Name="GiftBox4" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.73" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.73" BaudRate="73" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="74" Name="GiftBox5" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.74" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.74" BaudRate="74" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="75" Name="GiftBox6" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.75" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.75" BaudRate="75" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="76" Name="GiftBox7" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.76" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.76" BaudRate="76" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="77" Name="GiftBox8" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.77" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.77" BaudRate="77" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="78" Name="GiftBox9" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.78" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.78" BaudRate="78" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="79" Name="GiftBox10" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.79" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.79" BaudRate="79" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="80" Name="GiftBox11" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.80" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.80" BaudRate="80" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="81" Name="GiftBox12" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.81" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.81" BaudRate="81" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="82" Name="GiftBox13" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.82" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.82" BaudRate="82" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="83" Name="GiftBox14" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.83" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.83" BaudRate="83" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="84" Name="GiftBox15" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.84" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.84" BaudRate="84" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="85" Name="GiftBox16" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.85" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.85" BaudRate="85" NetworkType="DDP" MaxChannels="960" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="40" Name="Fence 40" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="1" SuppressDuplicates="0" Monitor="1" IP="192.168.1.40" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.40" BaudRate="40" NetworkType="DDP" MaxChannels="1440" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="41" Name="Fence 41" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.41" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.41" BaudRate="41" NetworkType="DDP" MaxChannels="2388" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="42" Name="Fence 42" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.42" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.42" BaudRate="42" NetworkType="DDP" MaxChannels="2268" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="43" Name="Fence 43" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.43" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.43" BaudRate="43" NetworkType="DDP" MaxChannels="1935" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="44" Name="Fence 44" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.44" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.44" BaudRate="44" NetworkType="DDP" MaxChannels="1800" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="45" Name="Fence 45" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.45" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.45" BaudRate="45" NetworkType="DDP" MaxChannels="2052" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="46" Name="Fence 46" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.46" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.46" BaudRate="46" NetworkType="DDP" MaxChannels="2355" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="47" Name="Fence 47" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.47" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.47" BaudRate="47" NetworkType="DDP" MaxChannels="1788" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="48" Name="Fence 48" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.48" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.48" BaudRate="48" NetworkType="DDP" MaxChannels="2400" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="49" Name="Fence 49" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.49" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.49" BaudRate="49" NetworkType="DDP" MaxChannels="2667" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="2" Name="Floods" Description="Flood lights against Bldg E pixel 1 is on the south end" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.61" Protocol="E131" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ComPort="192.168.1.61" BaudRate="61" NetworkType="E131" MaxChannels="510" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <Controller Id="59" Name="Model Holder" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.59" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.59" BaudRate="59" NetworkType="DDP" MaxChannels="3621" FPPProxy="proxy.kir-lights.org:8000"/>
-  </Controller>
-  <testpreset name="everything">
-    <channelr start="1" end="48120"/>
-  </testpreset>
-  <testpreset name="tree">
-    <channelr start="1" end="9600"/>
-  </testpreset>
-  <testpreset name="test all">
-    <channelr start="0" end="10090"/>
-  </testpreset>
-  <testpreset name="test">
-    <channelr start="0" end="10090"/>
-  </testpreset>
-  <testpreset name="test2"/>
-  <testpreset name="StringTest">
-    <channelr start="1200" end="1249"/>
-  </testpreset>
-  <testpreset name="LOR AND RGB DUMB">
-    <channelr start="1" end="528"/>
-  </testpreset>
-  <testpreset name="fdg">
-    <channelr start="1" end="20784"/>
-  </testpreset>
-  <testpreset name="Column-left">
-    <channelr start="8394" end="8896"/>
-  </testpreset>
-  <testpreset name="Column-right">
-    <channelr start="8394" end="8896"/>
-    <channelr start="10730" end="11224"/>
-  </testpreset>
-  <testpreset name="Bethlehem star">
-    <channelr start="10367" end="10720"/>
-  </testpreset>
-  <testpreset name="LEFT WINDOW Matrix full on test 1">
-    <channelr start="5029" end="6864"/>
-  </testpreset>
-  <testpreset name="LEFT WINDOWN (6) STRING TWIN 50">
-    <channelr start="5029" end="7068"/>
-  </testpreset>
-  <testpreset name="LEFT WINDOW MATRIX FULL WHITE (6) TEST">
-    <channelr start="5029" end="7068"/>
-  </testpreset>
-  <testpreset name="WHITE TEST ON CENTER WINDOW MATRIX">
-    <channelr start="4429" end="9108"/>
-  </testpreset>
-  <testpreset name="All Channels On!!!! July 2016">
-    <channelr start="1" end="14208"/>
-  </testpreset>
-  <testpreset name="2 pink">
-    <channelr start="1" end="14208"/>
-  </testpreset>
-  <testpreset name="CENTER/LEFT WINDOW MATRIX EVEN TEST">
-    <channelr start="4081" end="4590"/>
-    <channelr start="5101" end="5610"/>
-    <channelr start="6121" end="6630"/>
-    <channelr start="7141" end="7650"/>
-    <channelr start="8161" end="8670"/>
-    <channelr start="9181" end="9690"/>
-    <channelr start="12241" end="12750"/>
-    <channelr start="13261" end="13770"/>
-  </testpreset>
-  <testpreset name="CENTER/LEFT WINDOW MATRIX ODD TEST">
-    <channelr start="3571" end="4080"/>
-    <channelr start="4591" end="5100"/>
-    <channelr start="5611" end="6120"/>
-    <channelr start="6631" end="7140"/>
-    <channelr start="7651" end="8160"/>
-    <channelr start="8671" end="9180"/>
-    <channelr start="11731" end="12240"/>
-    <channelr start="12751" end="13260"/>
-  </testpreset>
-  <testpreset name="L-Ring all">
-    <channelr start="31663" end="31677"/>
-  </testpreset>
-  <testpreset name="props">
-    <channelr start="349" end="510"/>
-    <channelr start="6001" end="6576"/>
-    <channelr start="11731" end="12030"/>
-    <channelr start="12243" end="12542"/>
-  </testpreset>
-  <testpreset name="Test RGB Columns-Arches">
-    <channelr start="49" end="1038"/>
-  </testpreset>
-  <testpreset name="Christmas2015"/>
-  <testpreset name="2015 house"/>
-  <testpreset name="Tree 1">
-    <channelr start="0" end="5399"/>
-  </testpreset>
-  <testpreset name="lor tree">
-    <channelr start="10800" end="14399"/>
-  </testpreset>
-  <testpreset name="tutorial">
-    <channelr start="1" end="1530"/>
-  </testpreset>
-  <testpreset name="5444">
-    <channelr start="5129" end="5132"/>
-    <channel id="5134"/>
-    <channelr start="5136" end="5140"/>
-    <channelr start="5142" end="5143"/>
-    <channelr start="5145" end="5151"/>
-    <channelr start="5153" end="5158"/>
-    <channelr start="5160" end="5164"/>
-    <channelr start="5166" end="5173"/>
-    <channelr start="5175" end="5186"/>
-    <channelr start="5188" end="5240"/>
-    <channelr start="5242" end="5258"/>
-    <channelr start="5260" end="5285"/>
-    <channelr start="5287" end="5297"/>
-    <channelr start="5299" end="5321"/>
-    <channelr start="5323" end="5330"/>
-    <channelr start="5332" end="5342"/>
-    <channelr start="5344" end="5353"/>
-    <channelr start="5356" end="5372"/>
-    <channelr start="5376" end="5378"/>
-    <channelr start="5382" end="5390"/>
-    <channel id="5394"/>
-    <channelr start="5397" end="5429"/>
-    <channel id="5432"/>
-    <channelr start="5435" end="5622"/>
-  </testpreset>
-  <testpreset name="mytest">
-    <channelr start="1023" end="3572"/>
-    <channelr start="4093" end="8176"/>
-  </testpreset>
-  <testpreset name="pixeltest">
-    <channel id="2021"/>
-    <channel id="2246"/>
-    <channel id="2468"/>
-    <channelr start="2471" end="2472"/>
-  </testpreset>
-  <testpreset name="multi-test">
-    <channelr start="1" end="510"/>
-    <channelr start="3061" end="5610"/>
-    <channelr start="6121" end="7650"/>
-    <channelr start="9181" end="9690"/>
-    <channelr start="12241" end="12750"/>
-  </testpreset>
-  <testpreset name="x">
-    <channelr start="1" end="1020"/>
-  </testpreset>
-  <testpreset name="elimination">
-    <channelr start="1" end="2550"/>
-    <channelr start="4591" end="9180"/>
-  </testpreset>
-  <testpreset name="mega tree">
-    <channelr start="1" end="510"/>
-  </testpreset>
-  <testpreset name="Test Tree1">
-    <channelr start="2550" end="2849"/>
-  </testpreset>
-  <testpreset name="Testall">
-    <channelr start="0" end="14279"/>
-  </testpreset>
-  <testpreset name="TestTree1">
-    <channelr start="2838" end="3737"/>
-  </testpreset>
-  <testpreset name="Tree1&amp;amp;2">
-    <channelr start="2838" end="3737"/>
-    <channelr start="3750" end="4937"/>
-  </testpreset>
-  <testpreset name="SingTree123">
-    <channelr start="2838" end="3737"/>
-    <channelr start="3750" end="4937"/>
-    <channelr start="4950" end="6137"/>
-  </testpreset>
-  <testpreset name="SingTree1Test">
-    <channelr start="2550" end="3737"/>
-  </testpreset>
-  <testpreset name="Tree8Test">
-    <channelr start="10950" end="12137"/>
-  </testpreset>
-  <testpreset name="Tree7">
-    <channelr start="9750" end="10937"/>
-  </testpreset>
-  <testpreset name="Tree6">
-    <channelr start="8550" end="9737"/>
-  </testpreset>
-  <testpreset name="Tree5">
-    <channelr start="7350" end="8537"/>
-  </testpreset>
-  <testpreset name="Tree4">
-    <channelr start="6150" end="7337"/>
-  </testpreset>
-  <testpreset name="Tree9">
-    <channelr start="12150" end="13337"/>
-  </testpreset>
-  <testpreset name="test97113">
-    <channelr start="48739" end="48741"/>
-    <channelr start="48787" end="48789"/>
-  </testpreset>
+<Networks computer="olaf" GlobalFPPProxy="" GlobalForceLocalIP="" AutoUpdateFromBase="0" BaseShowDir="" BaseShowDirRelative="" BaseControllersSyncedTime="">
+	<suppressframes frames="10" />
+	<Controller Id="1" Name="FPP-ShowPlayer" Description="" Type="Ethernet" Vendor="FPP" Model="FPP Player Only" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.192" Protocol="Player Only" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="" />
+	<Controller Id="202" Name="Audio 202" Description="Obsolete, On Dante now" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.202" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.202" BaudRate="202" NetworkType="DDP" MaxChannels="1" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="203" Name="Audio 203" Description="Obsolete, On Dante now" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.203" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.203" BaudRate="203" NetworkType="DDP" MaxChannels="1" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="204" Name="Audio 204" Description="Obsolete, On Dante now" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.204" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.204" BaudRate="204" NetworkType="DDP" MaxChannels="1" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="205" Name="Audio 205" Description="Obsolete, On Dante now" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.205" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.205" BaudRate="205" NetworkType="DDP" MaxChannels="1" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="206" Name="Audio 206" Description="Obsolete, On Dante now" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.206" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.206" BaudRate="206" NetworkType="DDP" MaxChannels="1" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="155" Name="GigaTree" Description="GigaTree" Type="Ethernet" Vendor="KulpLights" Model="K64D-B" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="75" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.155" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.155" BaudRate="155" NetworkType="DDP" MaxChannels="19830" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="150" Name="Mid Trellis" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.150" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.150" BaudRate="150" NetworkType="DDP" MaxChannels="2400" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="33" Name="Tunnel South" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.33" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="80" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.33" BaudRate="33" NetworkType="DDP" MaxChannels="4800" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="32" Name="Tunnel North" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.32" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.32" BaudRate="32" NetworkType="DDP" MaxChannels="4800" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="62" Name="North Trees A" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.62" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.62" BaudRate="62" NetworkType="DDP" MaxChannels="2400" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="63" Name="North Trees B" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.63" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.63" BaudRate="63" NetworkType="DDP" MaxChannels="2400" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="64" Name="North Trees C" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="50" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.64" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.64" BaudRate="64" NetworkType="DDP" MaxChannels="2400" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="154" Name="Pixicles" Description="" Type="Ethernet" Vendor="Falcon" Model="F4V3" Variant="No Expansion Board" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="30" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.154" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.154" BaudRate="154" NetworkType="DDP" MaxChannels="900" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="70" Name="GiftBox1" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.70" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.70" BaudRate="70" NetworkType="DDP" MaxChannels="960" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="71" Name="GiftBox2" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.71" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.71" BaudRate="71" NetworkType="DDP" MaxChannels="960" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="72" Name="GiftBox3" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.72" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.72" BaudRate="72" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="73" Name="GiftBox4" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.73" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.73" BaudRate="73" NetworkType="DDP" MaxChannels="960" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="74" Name="GiftBox5" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.74" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.74" BaudRate="74" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="75" Name="GiftBox6" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.75" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.75" BaudRate="75" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="76" Name="GiftBox7" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.76" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.76" BaudRate="76" NetworkType="DDP" MaxChannels="960" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="77" Name="GiftBox8" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.77" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.77" BaudRate="77" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="78" Name="GiftBox9" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.78" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.78" BaudRate="78" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="79" Name="GiftBox10" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.79" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.79" BaudRate="79" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="80" Name="GiftBox11" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.80" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.80" BaudRate="80" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="81" Name="GiftBox12" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.81" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.81" BaudRate="81" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="82" Name="GiftBox13" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.82" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.82" BaudRate="82" NetworkType="DDP" MaxChannels="960" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="83" Name="GiftBox14" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.83" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.83" BaudRate="83" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="84" Name="GiftBox15" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.84" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.84" BaudRate="84" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="85" Name="GiftBox16" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="2 Output RPIWS281X" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="35" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.85" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.85" BaudRate="85" NetworkType="DDP" MaxChannels="960" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="40" Name="Fence 40" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="1" SuppressDuplicates="0" Monitor="1" IP="192.168.1.40" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.40" BaudRate="40" NetworkType="DDP" MaxChannels="1431" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="41" Name="Fence 41" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 2.x/3.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.41" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.41" BaudRate="41" NetworkType="DDP" MaxChannels="2388" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="42" Name="Fence 42" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.42" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.42" BaudRate="42" NetworkType="DDP" MaxChannels="2268" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="43" Name="Fence 43" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.43" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.43" BaudRate="43" NetworkType="DDP" MaxChannels="1935" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="44" Name="Fence 44" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.44" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.44" BaudRate="44" NetworkType="DDP" MaxChannels="1800" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="45" Name="Fence 45" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.45" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.45" BaudRate="45" NetworkType="DDP" MaxChannels="2052" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="46" Name="Fence 46" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.46" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.46" BaudRate="46" NetworkType="DDP" MaxChannels="2355" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="47" Name="Fence 47" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.47" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.47" BaudRate="47" NetworkType="DDP" MaxChannels="1788" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="48" Name="Fence 48" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.48" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.48" BaudRate="48" NetworkType="DDP" MaxChannels="2400" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="49" Name="Fence 49" Description="" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.49" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.49" BaudRate="49" NetworkType="DDP" MaxChannels="2667" Enabled="Yes" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="2" Name="Floods" Description="Never deployed: Flood lights against Bldg E pixel 1 is on the south end" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="0" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.61" Protocol="E131" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ComPort="192.168.1.61" BaudRate="61" NetworkType="E131" MaxChannels="510" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<Controller Id="59" Name="Model Holder" Description="Semi-retired elements" Type="Ethernet" Vendor="KulpLights" Model="K16" Variant="K16A-B 1.x" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.1.59" Protocol="DDP" FPPProxy="proxy.kir-lights.org:8000" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.59" BaudRate="59" NetworkType="DDP" MaxChannels="3618" Enabled="No" FPPProxy="proxy.kir-lights.org:8000" />
+	</Controller>
+	<testpreset name="everything">
+		<channelr start="1" end="48120" />
+	</testpreset>
+	<testpreset name="tree">
+		<channelr start="1" end="9600" />
+	</testpreset>
+	<testpreset name="test all">
+		<channelr start="0" end="10090" />
+	</testpreset>
+	<testpreset name="test">
+		<channelr start="0" end="10090" />
+	</testpreset>
+	<testpreset name="test2" />
+	<testpreset name="StringTest">
+		<channelr start="1200" end="1249" />
+	</testpreset>
+	<testpreset name="LOR AND RGB DUMB">
+		<channelr start="1" end="528" />
+	</testpreset>
+	<testpreset name="fdg">
+		<channelr start="1" end="20784" />
+	</testpreset>
+	<testpreset name="Column-left">
+		<channelr start="8394" end="8896" />
+	</testpreset>
+	<testpreset name="Column-right">
+		<channelr start="8394" end="8896" />
+		<channelr start="10730" end="11224" />
+	</testpreset>
+	<testpreset name="Bethlehem star">
+		<channelr start="10367" end="10720" />
+	</testpreset>
+	<testpreset name="LEFT WINDOW Matrix full on test 1">
+		<channelr start="5029" end="6864" />
+	</testpreset>
+	<testpreset name="LEFT WINDOWN (6) STRING TWIN 50">
+		<channelr start="5029" end="7068" />
+	</testpreset>
+	<testpreset name="LEFT WINDOW MATRIX FULL WHITE (6) TEST">
+		<channelr start="5029" end="7068" />
+	</testpreset>
+	<testpreset name="WHITE TEST ON CENTER WINDOW MATRIX">
+		<channelr start="4429" end="9108" />
+	</testpreset>
+	<testpreset name="All Channels On!!!! July 2016">
+		<channelr start="1" end="14208" />
+	</testpreset>
+	<testpreset name="2 pink">
+		<channelr start="1" end="14208" />
+	</testpreset>
+	<testpreset name="CENTER/LEFT WINDOW MATRIX EVEN TEST">
+		<channelr start="4081" end="4590" />
+		<channelr start="5101" end="5610" />
+		<channelr start="6121" end="6630" />
+		<channelr start="7141" end="7650" />
+		<channelr start="8161" end="8670" />
+		<channelr start="9181" end="9690" />
+		<channelr start="12241" end="12750" />
+		<channelr start="13261" end="13770" />
+	</testpreset>
+	<testpreset name="CENTER/LEFT WINDOW MATRIX ODD TEST">
+		<channelr start="3571" end="4080" />
+		<channelr start="4591" end="5100" />
+		<channelr start="5611" end="6120" />
+		<channelr start="6631" end="7140" />
+		<channelr start="7651" end="8160" />
+		<channelr start="8671" end="9180" />
+		<channelr start="11731" end="12240" />
+		<channelr start="12751" end="13260" />
+	</testpreset>
+	<testpreset name="L-Ring all">
+		<channelr start="31663" end="31677" />
+	</testpreset>
+	<testpreset name="props">
+		<channelr start="349" end="510" />
+		<channelr start="6001" end="6576" />
+		<channelr start="11731" end="12030" />
+		<channelr start="12243" end="12542" />
+	</testpreset>
+	<testpreset name="Test RGB Columns-Arches">
+		<channelr start="49" end="1038" />
+	</testpreset>
+	<testpreset name="Christmas2015" />
+	<testpreset name="2015 house" />
+	<testpreset name="Tree 1">
+		<channelr start="0" end="5399" />
+	</testpreset>
+	<testpreset name="lor tree">
+		<channelr start="10800" end="14399" />
+	</testpreset>
+	<testpreset name="tutorial">
+		<channelr start="1" end="1530" />
+	</testpreset>
+	<testpreset name="5444">
+		<channelr start="5129" end="5132" />
+		<channel id="5134" />
+		<channelr start="5136" end="5140" />
+		<channelr start="5142" end="5143" />
+		<channelr start="5145" end="5151" />
+		<channelr start="5153" end="5158" />
+		<channelr start="5160" end="5164" />
+		<channelr start="5166" end="5173" />
+		<channelr start="5175" end="5186" />
+		<channelr start="5188" end="5240" />
+		<channelr start="5242" end="5258" />
+		<channelr start="5260" end="5285" />
+		<channelr start="5287" end="5297" />
+		<channelr start="5299" end="5321" />
+		<channelr start="5323" end="5330" />
+		<channelr start="5332" end="5342" />
+		<channelr start="5344" end="5353" />
+		<channelr start="5356" end="5372" />
+		<channelr start="5376" end="5378" />
+		<channelr start="5382" end="5390" />
+		<channel id="5394" />
+		<channelr start="5397" end="5429" />
+		<channel id="5432" />
+		<channelr start="5435" end="5622" />
+	</testpreset>
+	<testpreset name="mytest">
+		<channelr start="1023" end="3572" />
+		<channelr start="4093" end="8176" />
+	</testpreset>
+	<testpreset name="pixeltest">
+		<channel id="2021" />
+		<channel id="2246" />
+		<channel id="2468" />
+		<channelr start="2471" end="2472" />
+	</testpreset>
+	<testpreset name="multi-test">
+		<channelr start="1" end="510" />
+		<channelr start="3061" end="5610" />
+		<channelr start="6121" end="7650" />
+		<channelr start="9181" end="9690" />
+		<channelr start="12241" end="12750" />
+	</testpreset>
+	<testpreset name="x">
+		<channelr start="1" end="1020" />
+	</testpreset>
+	<testpreset name="elimination">
+		<channelr start="1" end="2550" />
+		<channelr start="4591" end="9180" />
+	</testpreset>
+	<testpreset name="mega tree">
+		<channelr start="1" end="510" />
+	</testpreset>
+	<testpreset name="Test Tree1">
+		<channelr start="2550" end="2849" />
+	</testpreset>
+	<testpreset name="Testall">
+		<channelr start="0" end="14279" />
+	</testpreset>
+	<testpreset name="TestTree1">
+		<channelr start="2838" end="3737" />
+	</testpreset>
+	<testpreset name="Tree1&amp;amp;2">
+		<channelr start="2838" end="3737" />
+		<channelr start="3750" end="4937" />
+	</testpreset>
+	<testpreset name="SingTree123">
+		<channelr start="2838" end="3737" />
+		<channelr start="3750" end="4937" />
+		<channelr start="4950" end="6137" />
+	</testpreset>
+	<testpreset name="SingTree1Test">
+		<channelr start="2550" end="3737" />
+	</testpreset>
+	<testpreset name="Tree8Test">
+		<channelr start="10950" end="12137" />
+	</testpreset>
+	<testpreset name="Tree7">
+		<channelr start="9750" end="10937" />
+	</testpreset>
+	<testpreset name="Tree6">
+		<channelr start="8550" end="9737" />
+	</testpreset>
+	<testpreset name="Tree5">
+		<channelr start="7350" end="8537" />
+	</testpreset>
+	<testpreset name="Tree4">
+		<channelr start="6150" end="7337" />
+	</testpreset>
+	<testpreset name="Tree9">
+		<channelr start="12150" end="13337" />
+	</testpreset>
+	<testpreset name="test97113">
+		<channelr start="48739" end="48741" />
+		<channelr start="48787" end="48789" />
+	</testpreset>
 </Networks>

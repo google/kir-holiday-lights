@@ -25,6 +25,8 @@
   <EffectDB>
     <Effect>E_CHECKBOX_Lines_FadeTrails=0,E_SLIDER_Lines_Objects=4,E_SLIDER_Lines_Segments=4,E_SLIDER_Lines_Speed=1,E_SLIDER_Lines_Thickness=3,E_SLIDER_Lines_Trails=10</Effect>
     <Effect></Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=Walkway Pixicles,E_CHECKBOX_Lines_FadeTrails=0,E_SLIDER_Lines_Objects=4,E_SLIDER_Lines_Segments=4,E_SLIDER_Lines_Speed=1,E_SLIDER_Lines_Thickness=3,E_SLIDER_Lines_Trails=10</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Lines_FadeTrails=0,E_SLIDER_Lines_Objects=4,E_SLIDER_Lines_Segments=4,E_SLIDER_Lines_Speed=1,E_SLIDER_Lines_Thickness=3,E_SLIDER_Lines_Trails=10</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="1163157317" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -78,6 +80,22 @@
     <Element collapsed="0" type="model" name="Gift Box 1" visible="0"/>
     <Element collapsed="0" type="model" name="All Spots" visible="1"/>
     <Element collapsed="0" type="model" name="Tunnel" visible="1"/>
+    <Element collapsed="0" type="model" name="A Fence" visible="1"/>
+    <Element collapsed="0" type="model" name="C Fence" visible="1"/>
+    <Element collapsed="0" type="model" name="D Fence" visible="1"/>
+    <Element collapsed="0" type="model" name="E Fence" visible="1"/>
+    <Element collapsed="0" type="model" name="F Fence" visible="1"/>
+    <Element collapsed="0" type="model" name="G Fence" visible="1"/>
+    <Element collapsed="0" type="model" name="Trellis B" visible="1"/>
+    <Element collapsed="0" type="model" name="Trellis C" visible="1"/>
+    <Element collapsed="0" type="model" name="Trellis D" visible="1"/>
+    <Element collapsed="0" type="model" name="Trellis E" visible="1"/>
+    <Element collapsed="0" type="model" name="Trellis F" visible="1"/>
+    <Element collapsed="0" type="model" name="Trellis G" visible="1"/>
+    <Element collapsed="0" type="model" name="All Pixicles" visible="1"/>
+    <Element collapsed="0" type="model" name="North Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="GigaTree" visible="1"/>
+    <Element collapsed="0" type="model" name="TreeTopper" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
@@ -111,9 +129,7 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Everything">
-      <EffectLayer>
-        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="All Row 1">
       <EffectLayer/>
@@ -140,7 +156,9 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="All Gift Boxes">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Gift Box Group 1">
       <EffectLayer/>
@@ -228,6 +246,86 @@
     <Element type="model" name="Tunnel">
       <EffectLayer>
         <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="A Fence">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="C Fence">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="D Fence">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="E Fence">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="F Fence">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="G Fence">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Trellis B">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Trellis C">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Trellis D">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Trellis E">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Trellis F">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Trellis G">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Pixicles">
+      <EffectLayer>
+        <Effect ref="2" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="North Trees">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GigaTree">
+      <EffectLayer>
+        <Effect ref="0" name="Lines" startTime="25" endTime="600025" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="TreeTopper">
+      <EffectLayer>
+        <Effect ref="3" name="Lines" startTime="25" endTime="600025" palette="0"/>
       </EffectLayer>
     </Element>
   </ElementEffects>

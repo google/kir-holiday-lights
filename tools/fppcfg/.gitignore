@@ -1,0 +1,3 @@
+# Shared template holding plaintext secrets (SSH keys, WiFi PSK, passwords).
+secrets.cue
+/fppcfg

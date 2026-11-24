@@ -1,0 +1,1 @@
+{"name":"MultiSyncBroadcast","gatherStats":true,"description":"Send MultiSync to ALL remotes via Broadcast","tip":"Use a network broadcast to send MultiSync messages to all remotes.","type":"checkbox","fppModes":["player"],"settingValues":{"MultiSyncEnabled":1}}
