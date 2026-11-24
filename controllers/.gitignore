@@ -1,0 +1,2 @@
+# Plaintext secrets (SSH keys, WiFi PSK, passwords) for fppcfg.
+secrets.cue
