@@ -4,11 +4,17 @@
 *.lms.lcs
 *~
 *.xbkp
+*.jbkp
 xlights/xlights_keybindings.xml
 xlights/Backup/
 xlights/*.fseq
+xLights_dbgrpt-*.zip
 Media/*
 
 .vscode
 local
 *.swp
+__pycache__/
+xlights/*_pre*.xml
+xlights/presets/
+xlights/xScheduleData/
